@@ -1,0 +1,362 @@
+[
+ {
+  "id": "cinquieme-republique",
+  "categorie": "Société",
+  "titre": "Les institutions de la Cinquième République",
+  "intro": "Aujourd'hui, on parle des institutions de la Cinquième République, le cadre qui organise la vie politique française depuis 1958. Qui fait quoi, et pourquoi ça marche comme ça.",
+  "sections": [
+   {
+    "titre": "Une naissance en pleine crise",
+    "texte": "Pour comprendre la Cinquième République, il faut revenir en 1958. La France est alors dans une situation très tendue. La guerre d'Algérie divise le pays, et la Quatrième République souffre d'une grande instabilité : les gouvernements tombent les uns après les autres, parfois au bout de quelques mois seulement. En mai 1958, face au risque de crise grave, on rappelle le général de Gaulle. Il obtient le droit de préparer une nouvelle Constitution. Le texte est rédigé en quelques semaines, notamment par le juriste Michel Debré. Le 28 septembre 1958, les Français l'approuvent par référendum, à près de 80 pour cent des voix. La Constitution est promulguée le 4 octobre 1958. Son idée centrale est simple : donner au pays un pouvoir exécutif fort et stable, capable de décider sans être renversé à tout moment."
+   },
+   {
+    "titre": "Le président de la République",
+    "texte": "Le personnage central de ce système, c'est le président de la République. Au départ, il était élu par un collège d'environ 80 000 grands électeurs, surtout des élus locaux. Mais en 1962, un référendum change tout : désormais, le président est élu au suffrage universel direct, c'est-à-dire par tous les citoyens. Son mandat a d'abord duré sept ans, le fameux septennat. Depuis le référendum de 2000, appliqué à partir de 2002, il dure cinq ans. Et depuis une réforme de 2008, on ne peut pas faire plus de deux mandats consécutifs. Le président a des pouvoirs importants. Il nomme le Premier ministre, il peut dissoudre l'Assemblée nationale, il est le chef des armées, et il peut soumettre certains textes au référendum. En cas de crise extrême, la Constitution lui accorde même des pouvoirs exceptionnels temporaires."
+   },
+   {
+    "titre": "Le gouvernement et le Premier ministre",
+    "texte": "À côté du président, il y a le gouvernement, dirigé par le Premier ministre. C'est lui qui conduit au quotidien la politique du pays et qui coordonne les ministres. Une particularité importante : le gouvernement est responsable devant l'Assemblée nationale. Ça veut dire que les députés peuvent le renverser en votant une motion de censure. Du coup, le Premier ministre a besoin d'une majorité qui le soutient. Et parfois, cette majorité n'est pas du même bord que le président. On appelle ça la cohabitation. C'est arrivé trois fois : en 1986, en 1993 et en 1997. Dans ce cas, le président garde surtout la main sur la diplomatie et la défense, tandis que le Premier ministre pilote la politique intérieure. Et l'article 49 alinéa 3 permet de faire adopter un texte sans vote, sauf si une censure est votée."
+   },
+   {
+    "titre": "Le Parlement, deux chambres",
+    "texte": "Le Parlement vote les lois et contrôle le gouvernement. Il est composé de deux chambres. La première, c'est l'Assemblée nationale, qui siège au Palais Bourbon à Paris. Elle compte 577 députés, élus pour cinq ans au suffrage universel direct, avec un scrutin majoritaire à deux tours dans chaque circonscription. La seconde, c'est le Sénat, installé au Palais du Luxembourg. Il compte 348 sénateurs, élus pour six ans au suffrage indirect, par environ 160 000 grands électeurs, en grande majorité des conseillers municipaux. Le Sénat est renouvelé par moitié tous les trois ans. Quand une loi est discutée, le texte fait des allers-retours entre les deux chambres : c'est ce qu'on appelle la navette parlementaire. Et si les deux assemblées n'arrivent vraiment pas à se mettre d'accord, c'est l'Assemblée nationale qui peut avoir le dernier mot."
+   },
+   {
+    "titre": "Les gardiens de la Constitution",
+    "texte": "Dernier acteur clé : le Conseil constitutionnel. Il vérifie que les lois respectent la Constitution. Il compte neuf membres, nommés pour neuf ans. Trois sont choisis par le président de la République, trois par le président de l'Assemblée nationale et trois par le président du Sénat. Les anciens présidents de la République peuvent aussi en faire partie de droit. Depuis 2010, il existe un outil très intéressant pour les citoyens : la question prioritaire de constitutionnalité. Concrètement, si tu es partie à un procès, tu peux contester une loi qui te semble contraire à tes droits fondamentaux, et l'affaire peut remonter jusqu'au Conseil. Enfin, la Constitution n'est pas figée. Elle a été révisée plus de vingt fois depuis 1958. En 2024, par exemple, on y a inscrit la liberté de recourir à l'interruption volontaire de grossesse."
+   }
+  ],
+  "resume": "En résumé : la Cinquième République, née en 1958, repose sur un président fort élu au suffrage direct, un gouvernement responsable devant l'Assemblée, un Parlement à deux chambres et un Conseil constitutionnel qui veille au respect de la Constitution.",
+  "quiz": [
+   {"q": "En quelle année la Constitution de la Cinquième République a-t-elle été adoptée ?", "r": "En 1958, par référendum."},
+   {"q": "Depuis quand le président est-il élu au suffrage universel direct ?", "r": "Depuis le référendum de 1962."},
+   {"q": "Comment appelle-t-on la situation où président et majorité parlementaire sont de bords opposés ?", "r": "La cohabitation."},
+   {"q": "Combien y a-t-il de députés à l'Assemblée nationale ?", "r": "Il y a 577 députés."},
+   {"q": "Combien de membres compte le Conseil constitutionnel ?", "r": "Neuf membres, nommés pour neuf ans."}
+  ]
+ },
+ {
+  "id": "union-europeenne",
+  "categorie": "Société",
+  "titre": "Comment fonctionne l'Union européenne",
+  "intro": "Aujourd'hui, on parle de l'Union européenne : d'où elle vient, qui la dirige, et comment ses décisions arrivent jusque dans ta vie de tous les jours.",
+  "sections": [
+   {
+    "titre": "Une idée née après la guerre",
+    "texte": "L'histoire commence au lendemain de la Seconde Guerre mondiale. L'Europe est en ruines, et une question obsède les dirigeants : comment éviter une nouvelle guerre entre la France et l'Allemagne ? Le 9 mai 1950, le ministre français Robert Schuman fait une proposition audacieuse, inspirée par Jean Monnet : mettre en commun le charbon et l'acier, les matières premières de l'industrie de guerre. L'idée, c'est que si on partage ces ressources, on ne peut plus se battre. En 1951 naît ainsi la Communauté européenne du charbon et de l'acier, avec six pays : la France, l'Allemagne de l'Ouest, l'Italie, la Belgique, les Pays-Bas et le Luxembourg. En 1957, le traité de Rome va plus loin et crée la Communauté économique européenne, un grand marché commun. D'ailleurs, le 9 mai est devenu la journée de l'Europe."
+   },
+   {
+    "titre": "De six à vingt-sept pays",
+    "texte": "Au fil des décennies, le petit club des six s'est beaucoup agrandi. En 1973, le Royaume-Uni, l'Irlande et le Danemark rejoignent l'aventure. Puis viennent la Grèce, l'Espagne, le Portugal, et d'autres. Un tournant majeur arrive en 1992 avec le traité de Maastricht. C'est lui qui crée officiellement l'Union européenne, et qui instaure une citoyenneté européenne : concrètement, en tant que Français, tu es aussi citoyen européen, et tu peux par exemple voter aux élections municipales si tu habites dans un autre pays de l'Union. En 2004, c'est le plus grand élargissement de l'histoire, avec dix nouveaux pays d'un coup, surtout d'Europe centrale et orientale. Et pour la première fois, un pays est aussi parti : après un référendum en 2016, le Royaume-Uni a quitté l'Union le 31 janvier 2020. C'est le Brexit. L'Union compte aujourd'hui vingt-sept pays membres."
+   },
+   {
+    "titre": "Qui fait quoi à Bruxelles et Strasbourg",
+    "texte": "Les institutions européennes peuvent sembler compliquées, mais on peut les résumer simplement. D'abord, la Commission européenne, basée à Bruxelles. Elle compte un commissaire par pays et elle a un rôle clé : c'est elle qui propose les lois européennes et qui veille à ce que les traités soient respectés. Ensuite, le Parlement européen, dont les députés sont élus directement par les citoyens tous les cinq ans, depuis 1979. Il siège principalement à Strasbourg, et aussi à Bruxelles. Puis il y a le Conseil de l'Union européenne, où se réunissent les ministres des différents pays selon les sujets, l'agriculture, les transports, et ainsi de suite. Enfin, le Conseil européen rassemble les chefs d'État et de gouvernement pour fixer les grandes orientations. Petit piège : le Conseil de l'Europe, lui, est une autre organisation, plus large, qui n'appartient pas à l'Union."
+   },
+   {
+    "titre": "Comment naît une loi européenne",
+    "texte": "Dans la procédure la plus courante, la Commission propose un texte, puis le Parlement européen et le Conseil de l'Union, donc les représentants des citoyens et ceux des États, doivent tous les deux l'approuver. Il existe deux grands types de textes. Le règlement s'applique directement dans tous les pays, tel quel. La directive, elle, fixe un objectif, et chaque pays doit l'intégrer dans sa propre loi : on dit qu'il la transpose. Et pour trancher les litiges, il y a la Cour de justice de l'Union européenne, installée à Luxembourg. Tu profites de ces règles sans forcément le savoir. Depuis 2017, tu n'as plus de frais d'itinérance quand tu utilises ton téléphone dans un autre pays de l'Union. Et c'est une directive européenne qui a imposé le chargeur universel pour les téléphones."
+   },
+   {
+    "titre": "L'euro, Schengen et Erasmus",
+    "texte": "Trois réalisations de l'Union sont particulièrement concrètes. La première, c'est l'euro. Il est créé en 1999 pour les opérations bancaires, puis les pièces et les billets arrivent dans les porte-monnaie le premier janvier 2002. Aujourd'hui, une vingtaine de pays l'utilisent, et c'est la Banque centrale européenne, à Francfort, qui le gère. La deuxième, c'est l'espace Schengen, du nom d'un petit village du Luxembourg où l'accord a été signé en 1985. Il supprime les contrôles systématiques aux frontières entre les pays membres. Fait étonnant, il inclut des pays hors de l'Union, comme la Suisse ou la Norvège. La troisième, c'est Erasmus, le programme d'échanges lancé en 1987. Il a permis à des millions d'étudiants et d'apprentis de partir étudier ou se former dans un autre pays européen. Pour beaucoup, ça a été l'expérience d'une vie."
+   }
+  ],
+  "resume": "En résumé : née pour garantir la paix après la guerre, l'Union européenne réunit vingt-sept pays, fait ses lois à travers la Commission, le Parlement et le Conseil, et se traduit concrètement par l'euro, Schengen ou Erasmus.",
+  "quiz": [
+   {"q": "Qui a proposé, le 9 mai 1950, de mettre en commun le charbon et l'acier ?", "r": "Robert Schuman, ministre français."},
+   {"q": "Quel traité a officiellement créé l'Union européenne ?", "r": "Le traité de Maastricht, en 1992."},
+   {"q": "Quelle institution propose les lois européennes ?", "r": "La Commission européenne."},
+   {"q": "Quelle est la différence entre un règlement et une directive ?", "r": "Le règlement s'applique directement, la directive doit être transposée dans la loi de chaque pays."},
+   {"q": "Depuis quand les pièces et billets en euros circulent-ils ?", "r": "Depuis le premier janvier 2002."}
+  ]
+ },
+ {
+  "id": "politique-americaine",
+  "categorie": "Monde",
+  "titre": "Le système politique américain",
+  "intro": "Aujourd'hui, on parle du système politique des États-Unis : une Constitution très ancienne, un président puissant mais surveillé, et une élection pas tout à fait comme les autres.",
+  "sections": [
+   {
+    "titre": "Une Constitution de 1787",
+    "texte": "Tout commence à Philadelphie, en 1787. Quelques années après leur indépendance, les anciennes colonies britanniques se réunissent pour écrire une Constitution. Ce texte est encore en vigueur aujourd'hui, ce qui en fait la plus ancienne constitution nationale écrite toujours appliquée dans le monde. Ses auteurs, qu'on appelle les pères fondateurs, avaient une obsession : éviter qu'un seul homme ou un seul groupe concentre tout le pouvoir. Inspirés notamment par le penseur français Montesquieu, ils séparent nettement trois pouvoirs : l'exécutif, le législatif et le judiciaire. Et surtout, chaque pouvoir peut freiner les autres. Les Américains appellent ça les checks and balances, autrement dit les poids et contrepoids. En 1791, on ajoute les dix premiers amendements, la Déclaration des droits, qui protègent par exemple la liberté d'expression et la liberté de religion. Il y a aujourd'hui vingt-sept amendements au total."
+   },
+   {
+    "titre": "Le président et le collège électoral",
+    "texte": "Le président américain est à la fois chef de l'État et chef du gouvernement : il n'y a pas de Premier ministre. Il est élu pour quatre ans, et depuis 1951, il ne peut pas faire plus de deux mandats. Cette règle a suivi les quatre victoires de Franklin Roosevelt. L'élection a lieu le mardi qui suit le premier lundi de novembre. Mais attention, les citoyens ne votent pas directement pour le président. Ils désignent, État par État, des grands électeurs, qui forment le collège électoral. Il y en a 538, et il en faut 270 pour gagner. Dans presque tous les États, le candidat arrivé en tête remporte la totalité des grands électeurs. Du coup, on peut devenir président en ayant obtenu moins de voix que son adversaire au niveau national. C'est arrivé notamment en 2000 et en 2016."
+   },
+   {
+    "titre": "Le Congrès, cœur du pouvoir législatif",
+    "texte": "Les lois sont votées par le Congrès, qui siège au Capitole, à Washington. Il a deux chambres. La Chambre des représentants compte 435 membres, élus pour seulement deux ans. Chaque État en a selon sa population : la Californie en a des dizaines, les plus petits États un seul. Le Sénat, lui, compte 100 sénateurs, deux par État, quelle que soit sa taille. Ils sont élus pour six ans, et un tiers du Sénat est renouvelé tous les deux ans. D'où les élections de mi-mandat, au milieu du mandat présidentiel. Le président peut opposer son veto à une loi, mais le Congrès peut passer outre avec une majorité des deux tiers. Et en cas de faute grave, la Chambre peut mettre le président en accusation, puis le Sénat le juge : c'est la procédure de destitution."
+   },
+   {
+    "titre": "La Cour suprême",
+    "texte": "Le troisième pouvoir est incarné par la Cour suprême. Elle compte neuf juges, nommés à vie. C'est le président qui les choisit, mais le Sénat doit confirmer chaque nomination. Comme les juges restent en place parfois pendant des décennies, chaque nomination est un enjeu politique énorme. Son pouvoir le plus important, la Cour se l'est en quelque sorte donné elle-même. En 1803, dans une affaire célèbre appelée Marbury contre Madison, elle affirme qu'elle peut annuler une loi si elle est contraire à la Constitution. Depuis, ses décisions ont parfois transformé la société américaine. En 1954, par exemple, l'arrêt Brown contre le Bureau de l'éducation déclare inconstitutionnelle la ségrégation raciale dans les écoles publiques. Ce fut une étape majeure du mouvement pour les droits civiques. Les décisions de la Cour s'imposent à tous, y compris au président et au Congrès."
+   },
+   {
+    "titre": "Cinquante États et deux grands partis",
+    "texte": "Les États-Unis sont un pays fédéral. Chacun des cinquante États a sa propre constitution, son gouverneur, son parlement et ses tribunaux. Et ils ont beaucoup de pouvoir. C'est pour ça que les règles changent d'un État à l'autre : la peine de mort existe dans certains et a été abolie dans d'autres, et même l'âge pour obtenir le permis de conduire varie, souvent autour de seize ans. Côté vie politique, deux grands partis dominent depuis le dix-neuvième siècle : les démocrates et les républicains. Leurs symboles sont amusants : un âne pour les démocrates et un éléphant pour les républicains. Ils ont été popularisés par un dessinateur de presse, Thomas Nast, dans les années 1870. Avant l'élection présidentielle, chaque parti choisit son candidat lors de primaires, organisées État par État pendant plusieurs mois. C'est une très longue campagne."
+   }
+  ],
+  "resume": "En résumé : le système américain repose sur une Constitution de 1787 qui sépare et équilibre les pouvoirs entre un président élu via un collège électoral, un Congrès à deux chambres et une Cour suprême, dans un pays fédéral de cinquante États.",
+  "quiz": [
+   {"q": "En quelle année la Constitution américaine a-t-elle été rédigée ?", "r": "En 1787, à Philadelphie."},
+   {"q": "Combien de voix de grands électeurs faut-il pour être élu président ?", "r": "Il en faut 270 sur 538."},
+   {"q": "Combien y a-t-il de sénateurs par État ?", "r": "Deux par État, soit 100 au total."},
+   {"q": "Combien de juges siègent à la Cour suprême ?", "r": "Neuf juges, nommés à vie."},
+   {"q": "Quel animal symbolise le parti républicain ?", "r": "L'éléphant."}
+  ]
+ },
+ {
+  "id": "changement-climatique",
+  "categorie": "Planète",
+  "titre": "Le changement climatique",
+  "intro": "Aujourd'hui, on parle du changement climatique : comment fonctionne l'effet de serre, ce que montrent les mesures, et ce qu'on peut faire.",
+  "sections": [
+   {
+    "titre": "L'effet de serre, un phénomène naturel",
+    "texte": "Commençons par une bonne nouvelle : l'effet de serre, au départ, c'est ce qui nous permet de vivre. Le Soleil chauffe la Terre, et la Terre renvoie une partie de cette chaleur vers l'espace. Certains gaz de l'atmosphère, comme la vapeur d'eau, le dioxyde de carbone ou le méthane, retiennent une partie de cette chaleur, un peu comme une couverture. Sans eux, la température moyenne à la surface serait d'environ moins 18 degrés. Grâce à eux, elle tourne autour de 15 degrés. Ce mécanisme est connu depuis longtemps. Le savant français Joseph Fourier l'a décrit dans les années 1820. Et en 1896, le chimiste suédois Svante Arrhenius calcule déjà qu'en doublant la quantité de dioxyde de carbone dans l'air, on réchaufferait la planète de plusieurs degrés. Le problème, aujourd'hui, c'est que nous épaississons cette couverture."
+   },
+   {
+    "titre": "Ce que disent les mesures",
+    "texte": "En 1958, un scientifique américain, Charles Keeling, commence à mesurer le dioxyde de carbone dans l'air, au sommet d'un volcan à Hawaï, le Mauna Loa. Les mesures continuent encore aujourd'hui, et la courbe monte, année après année. Avant l'ère industrielle, l'air contenait environ 280 molécules de dioxyde de carbone pour un million. On a dépassé les 420. C'est un niveau jamais atteint depuis des centaines de milliers d'années, comme le montrent les bulles d'air piégées dans les glaces de l'Antarctique. Résultat : la planète s'est déjà réchauffée de plus d'un degré depuis la fin du dix-neuvième siècle. Pour faire le point sur toutes ces connaissances, l'Organisation des Nations unies a créé en 1988 le Groupe d'experts intergouvernemental sur l'évolution du climat, le GIEC. Ses rapports rassemblent le travail de milliers de chercheurs du monde entier."
+   },
+   {
+    "titre": "D'où viennent les gaz en trop",
+    "texte": "La principale cause du réchauffement actuel, c'est la combustion du charbon, du pétrole et du gaz. En brûlant ces énergies fossiles, pour l'électricité, le chauffage, l'industrie ou les transports, on libère du carbone qui était enfoui sous terre depuis des millions d'années. Il y a aussi la déforestation : quand on coupe ou brûle une forêt, le carbone stocké dans les arbres part dans l'atmosphère. L'agriculture joue un rôle également, notamment avec le méthane. Ce gaz est produit par la digestion des vaches et des moutons, et par les rizières inondées. Le méthane reste moins longtemps dans l'air que le dioxyde de carbone, mais il retient beaucoup plus la chaleur. Une partie de nos émissions est absorbée par la nature : les océans en captent environ un quart, ce qui les rend d'ailleurs plus acides."
+   },
+   {
+    "titre": "Des conséquences déjà visibles",
+    "texte": "Un degré de plus, ça peut paraître peu. Mais à l'échelle de la planète, c'est énorme. Les vagues de chaleur deviennent plus fréquentes et plus intenses. En France, la canicule d'août 2003 a causé environ 15 000 décès, et elle a profondément changé la façon dont on prépare les étés. Les glaciers fondent à vue d'œil. Dans les Alpes, la Mer de Glace, près de Chamonix, a perdu tellement d'épaisseur qu'il faut descendre des centaines de marches pour l'atteindre depuis l'ancienne gare. Le niveau des mers monte aussi, d'environ 20 centimètres depuis 1900, à cause de la fonte des glaces et de la dilatation de l'eau qui se réchauffe. Les sécheresses, les pluies extrêmes et les incendies de forêt deviennent plus probables. Et pour l'agriculture, ça veut dire adapter les cultures et les dates de vendange."
+   },
+   {
+    "titre": "Agir, chaque dixième de degré compte",
+    "texte": "Face à ça, les pays du monde se sont mis d'accord en 2015, lors de la conférence de Paris. L'accord de Paris fixe un objectif : limiter le réchauffement nettement en dessous de 2 degrés, et si possible à 1,5 degré, par rapport à l'époque préindustrielle. Pour y arriver, il faut viser la neutralité carbone, c'est-à-dire ne pas émettre plus que ce que la nature et nos technologies peuvent absorber. Les leviers : produire de l'électricité sans carbone, isoler les bâtiments, changer nos façons de nous déplacer, réduire le gaspillage, protéger les forêts. Il faut aussi s'adapter à ce qui arrive déjà : végétaliser les villes, gérer l'eau autrement. Et ce n'est pas tout ou rien. Chaque dixième de degré évité réduit les risques. Ce qu'on fait maintenant a vraiment un effet."
+   }
+  ],
+  "resume": "En résumé : en brûlant charbon, pétrole et gaz, nous renforçons l'effet de serre naturel, la planète s'est déjà réchauffée de plus d'un degré, et l'accord de Paris vise à limiter ce réchauffement, sachant que chaque dixième de degré compte.",
+  "quiz": [
+   {"q": "Quelle serait la température moyenne de la Terre sans effet de serre ?", "r": "Environ moins 18 degrés."},
+   {"q": "Quel est le principal gaz responsable du réchauffement actuel ?", "r": "Le dioxyde de carbone, issu surtout des énergies fossiles."},
+   {"q": "Que signifie le sigle GIEC ?", "r": "Groupe d'experts intergouvernemental sur l'évolution du climat."},
+   {"q": "Combien de décès a causé la canicule de 2003 en France ?", "r": "Environ 15 000."},
+   {"q": "Quel est l'objectif de l'accord de Paris de 2015 ?", "r": "Limiter le réchauffement nettement sous 2 degrés, si possible à 1,5 degré."}
+  ]
+ },
+ {
+  "id": "biodiversite-danger",
+  "categorie": "Planète",
+  "titre": "La biodiversité en danger",
+  "intro": "Aujourd'hui, on parle de la biodiversité : toute la richesse du vivant, pourquoi elle recule, et ce qui marche pour la protéger.",
+  "sections": [
+   {
+    "titre": "La biodiversité, c'est quoi exactement",
+    "texte": "Le mot biodiversité est la contraction de diversité biologique. Il s'est popularisé dans les années 1980, et il a pris une dimension mondiale au sommet de la Terre de Rio, en 1992. Mais derrière ce mot, il y a trois niveaux. D'abord, la diversité des espèces : les animaux, les plantes, les champignons, les bactéries. Ensuite, la diversité génétique à l'intérieur d'une même espèce, par exemple les centaines de variétés de pommes ou de races de vaches. Enfin, la diversité des écosystèmes : une forêt, une mare, une prairie, un récif de corail. Les scientifiques ont décrit environ deux millions d'espèces. Mais on estime qu'il en existerait plusieurs millions de plus, peut-être huit millions au total. Autrement dit, la plupart des êtres vivants de la planète n'ont encore jamais été observés ni nommés par la science."
+   },
+   {
+    "titre": "Une sixième extinction",
+    "texte": "Au cours de son histoire, la Terre a connu cinq grandes extinctions de masse, où une grande partie des espèces a disparu en peu de temps à l'échelle géologique. La plus célèbre est la dernière, il y a 66 millions d'années, qui a vu disparaître les dinosaures, probablement après la chute d'un astéroïde. Aujourd'hui, de nombreux scientifiques parlent d'une sixième extinction en cours, et cette fois, la cause principale, c'est nous. En 2019, un grand rapport international sur la biodiversité a estimé qu'environ un million d'espèces animales et végétales étaient menacées d'extinction. Pour suivre la situation, l'Union internationale pour la conservation de la nature tient une liste rouge, qui classe les espèces selon leur niveau de menace. Le rythme actuel des disparitions est bien plus rapide que le rythme naturel observé dans les fossiles."
+   },
+   {
+    "titre": "Les cinq grandes menaces",
+    "texte": "Les scientifiques identifient cinq grandes causes. La première, c'est la destruction et la transformation des milieux naturels : on bétonne, on draine les zones humides, on défriche des forêts pour l'agriculture. La deuxième, c'est la surexploitation, comme la surpêche ou le braconnage. La troisième, c'est le changement climatique, qui oblige les espèces à se déplacer plus vite qu'elles ne le peuvent parfois. La quatrième, ce sont les pollutions : pesticides, plastiques, engrais en excès, et même la lumière la nuit, qui désoriente les insectes et les oiseaux migrateurs. La cinquième, ce sont les espèces envahissantes, transportées par l'homme loin de chez elles. En France, l'exemple typique, c'est le frelon asiatique. Il serait arrivé vers 2004 dans le Lot-et-Garonne, probablement caché dans des poteries venues de Chine. Depuis, il s'est répandu partout et s'attaque aux abeilles."
+   },
+   {
+    "titre": "Des signaux d'alarme près de chez nous",
+    "texte": "On imagine souvent la biodiversité menacée au bout du monde, dans la forêt amazonienne. Mais les signaux d'alarme sont aussi tout près de nous. Tu te souviens peut-être qu'il y a quelques décennies, après un long trajet en voiture l'été, le pare-brise était couvert d'insectes. Aujourd'hui, beaucoup moins. Plusieurs études confirment un fort déclin des insectes en Europe. En France, les oiseaux des campagnes, comme l'alouette ou la perdrix, ont perdu environ un tiers de leurs effectifs en une trentaine d'années. Or, ces espèces nous rendent d'immenses services. Les insectes pollinisateurs, comme les abeilles, sont indispensables à une grande partie de nos fruits et légumes. Et l'histoire nous rappelle qu'une extinction est définitive : le dodo, un gros oiseau de l'île Maurice qui ne savait pas voler, a disparu à la fin du dix-septième siècle."
+   },
+   {
+    "titre": "Ce qui marche pour la protéger",
+    "texte": "Heureusement, il y a aussi de vraies réussites. Le bouquetin des Alpes avait presque disparu au dix-neuvième siècle à cause de la chasse. Protégé, il a été sauvé et réintroduit dans de nombreux massifs. Le loup, éliminé de France dans les années 1930, est revenu tout seul depuis l'Italie : on l'a observé à nouveau en 1992 dans le parc national du Mercantour. Ces retours montrent que la nature récupère quand on lui en laisse la possibilité. Les espaces protégés jouent un grand rôle. Le premier parc national français, celui de la Vanoise, a été créé en 1963 pour protéger justement les bouquetins. À ton échelle, tu peux laisser un coin de jardin sauvage, tondre moins souvent, planter des fleurs locales, installer un nichoir, ou éviter les pesticides. Les petits gestes, multipliés par des millions de personnes, comptent."
+   }
+  ],
+  "resume": "En résumé : la biodiversité, c'est la richesse des espèces, des gènes et des milieux, elle recule fortement à cause des activités humaines, mais des exemples comme le bouquetin ou le loup montrent que la protection fonctionne.",
+  "quiz": [
+   {"q": "Lors de quel sommet la biodiversité a-t-elle pris une dimension mondiale en 1992 ?", "r": "Le sommet de la Terre de Rio."},
+   {"q": "Combien d'espèces seraient menacées d'extinction selon le rapport de 2019 ?", "r": "Environ un million."},
+   {"q": "Quelle espèce envahissante est arrivée en France vers 2004 dans des poteries ?", "r": "Le frelon asiatique."},
+   {"q": "En quelle année le loup a-t-il été revu en France, dans le Mercantour ?", "r": "En 1992."},
+   {"q": "Quel est le premier parc national français ?", "r": "Le parc de la Vanoise, créé en 1963."}
+  ]
+ },
+ {
+  "id": "oceans-planete-bleue",
+  "categorie": "Planète",
+  "titre": "Les océans, notre planète bleue",
+  "intro": "Aujourd'hui, on part en mer : on parle des océans, qui couvrent la plus grande partie de la Terre, nous font respirer et restent en grande partie inexplorés.",
+  "sections": [
+   {
+    "titre": "Une planète d'eau",
+    "texte": "Vue de l'espace, la Terre est bleue, et ce n'est pas un hasard : les océans couvrent environ 71 pour cent de sa surface. On en distingue cinq. Le Pacifique est de loin le plus grand : à lui seul, il est plus vaste que toutes les terres émergées réunies. Viennent ensuite l'Atlantique, l'océan Indien, l'océan Austral autour de l'Antarctique, et l'océan Arctique, le plus petit. La profondeur moyenne des océans est d'environ 3 700 mètres. Et le point le plus profond connu se trouve dans la fosse des Mariannes, dans le Pacifique, à près de 11 000 mètres. On pourrait y engloutir l'Everest tout entier. En 1960, deux hommes, le Suisse Jacques Piccard et l'Américain Don Walsh, y sont descendus pour la première fois, à bord d'un engin appelé le Trieste."
+   },
+   {
+    "titre": "Le poumon et le climatiseur de la Terre",
+    "texte": "On parle souvent des forêts comme du poumon de la planète. Mais l'océan joue un rôle au moins aussi important. Il contient du phytoplancton, des algues microscopiques qui font la photosynthèse, comme les plantes. Ces minuscules organismes produiraient environ la moitié de l'oxygène de la planète. Autrement dit, une respiration sur deux, tu la dois en quelque sorte à l'océan. L'océan est aussi un formidable régulateur du climat. Il a absorbé plus de 90 pour cent de la chaleur en excès liée au réchauffement, et environ un quart du dioxyde de carbone que nous émettons. Il transporte aussi la chaleur d'un bout à l'autre du globe grâce aux courants. Le Gulf Stream, par exemple, contribue à apporter de la douceur vers l'Europe de l'Ouest. C'est en partie pour ça que les hivers en Bretagne sont si doux."
+   },
+   {
+    "titre": "La vie dans les profondeurs",
+    "texte": "Les océans abritent une vie incroyable, et une bonne partie reste encore inconnue. En 1977, des chercheurs explorent le fond du Pacifique près des îles Galápagos et font une découverte stupéfiante : autour de sources d'eau très chaude qui jaillissent du plancher océanique, ils trouvent des vers géants, des crabes, des moules. Toute une vie qui prospère dans le noir complet, sans lumière du soleil, grâce à des bactéries qui tirent leur énergie des composés chimiques. Cette découverte a bouleversé notre idée des conditions nécessaires à la vie. Les océans abritent aussi le plus grand animal ayant jamais existé : la baleine bleue, qui peut dépasser 25 mètres de long. Elle est plus grande que n'importe quel dinosaure connu."
+   },
+   {
+    "titre": "Un océan sous pression",
+    "texte": "Ce géant est pourtant fragile. La surpêche a fortement réduit de nombreuses populations de poissons, comme le thon rouge de Méditerranée, qui a frôlé l'effondrement avant que des quotas stricts permettent sa remontée. La pollution plastique est un autre fléau. On parle parfois de continent de plastique dans le Pacifique Nord, mais l'image est trompeuse : c'est plutôt une immense soupe de petits fragments, souvent invisibles à l'œil nu, qui s'accumulent à cause des courants. Ces microplastiques se retrouvent jusque dans les poissons que nous mangeons. Il y a aussi le réchauffement de l'eau, qui provoque le blanchissement des coraux : stressés par la chaleur, ils expulsent les algues qui les nourrissent et leur donnent leurs couleurs. Enfin, en absorbant du dioxyde de carbone, l'océan devient plus acide, ce qui gêne les coquillages pour fabriquer leur coquille."
+   },
+   {
+    "titre": "La France, grande puissance maritime",
+    "texte": "Tu ne le sais peut-être pas, mais la France possède l'un des plus grands domaines maritimes du monde, le deuxième selon la plupart des classements. C'est grâce à ses territoires d'outre-mer, dispersés sur tous les océans : la Polynésie française, la Nouvelle-Calédonie, La Réunion, les Antilles, et bien d'autres. Autour de chaque côte, un pays dispose d'une zone économique exclusive, qui s'étend jusqu'à environ 370 kilomètres au large, où il contrôle la pêche et les ressources. La France a aussi une grande tradition d'exploration sous-marine. Le commandant Cousteau, avec son navire la Calypso, a fait découvrir les fonds marins au grand public. Son film Le Monde du silence a même reçu la Palme d'or à Cannes en 1956. Et en 2023, les pays du monde ont adopté un traité pour mieux protéger la haute mer, au-delà des eaux nationales."
+   }
+  ],
+  "resume": "En résumé : les océans couvrent environ 71 pour cent de la Terre, produisent une grande partie de notre oxygène et régulent le climat, mais ils souffrent de la surpêche, du plastique et du réchauffement.",
+  "quiz": [
+   {"q": "Quel est le plus grand océan du monde ?", "r": "L'océan Pacifique."},
+   {"q": "Quel est le point le plus profond des océans ?", "r": "La fosse des Mariannes, à près de 11 000 mètres."},
+   {"q": "Quelle part de l'oxygène de la planète le phytoplancton produirait-il ?", "r": "Environ la moitié."},
+   {"q": "Qu'a-t-on découvert en 1977 près des Galápagos ?", "r": "Une vie abondante autour de sources chaudes, sans lumière du soleil."},
+   {"q": "Pourquoi la France a-t-elle un si grand domaine maritime ?", "r": "Grâce à ses territoires d'outre-mer répartis sur tous les océans."}
+  ]
+ },
+ {
+  "id": "chine-histoire",
+  "categorie": "Monde",
+  "titre": "La Chine, de l'Empire à aujourd'hui",
+  "intro": "Aujourd'hui, on parle de la Chine, une des plus anciennes civilisations du monde, de ses empereurs jusqu'à la puissance qu'elle est devenue.",
+  "sections": [
+   {
+    "titre": "Une civilisation millénaire",
+    "texte": "La civilisation chinoise est née il y a plusieurs milliers d'années, le long d'un grand fleuve, le fleuve Jaune, dont les crues apportaient un limon fertile. Parmi les premières dynasties bien attestées, il y a celle des Shang, qui règne il y a environ 3 500 ans. C'est de cette époque que datent les plus anciens écrits chinois connus. On les a retrouvés gravés sur des os et des carapaces de tortue utilisés pour la divination : on posait une question aux ancêtres, on chauffait l'os, et on interprétait les fissures. Fait remarquable, l'écriture chinoise actuelle descend directement de ces caractères. Un peu plus tard, vers le cinquième siècle avant notre ère, vit Confucius, un sage qui enseigne le respect, la loyauté, l'étude et l'harmonie familiale. Sa pensée va marquer profondément la société chinoise pendant plus de deux mille ans."
+   },
+   {
+    "titre": "Le premier empereur",
+    "texte": "Pendant des siècles, la Chine est divisée en royaumes rivaux qui se font la guerre. En 221 avant notre ère, le roi de Qin parvient à tous les soumettre. Il prend le titre de premier empereur, Qin Shi Huang. Il unifie le pays : une seule écriture, une seule monnaie, les mêmes poids et mesures, et même la largeur des essieux des chars. Le nom occidental de la Chine viendrait d'ailleurs de Qin. Pour sa mort, il fait préparer un tombeau gigantesque. En 1974, des paysans qui creusaient un puits près de la ville de Xi'an tombent par hasard sur des fragments de statues. C'est l'armée de terre cuite : des milliers de soldats grandeur nature, tous différents, enterrés pour protéger l'empereur dans l'au-delà. Quant à la Grande Muraille, elle a été construite et reconstruite pendant des siècles."
+   },
+   {
+    "titre": "Inventions et routes de la soie",
+    "texte": "La Chine impériale a été l'une des régions les plus inventives du monde. On lui doit le papier, la boussole, la poudre noire et l'imprimerie, quatre inventions qui ont changé l'histoire de l'humanité. Dès la dynastie des Han, il y a plus de deux mille ans, des caravanes partent vers l'ouest sur ce qu'on appellera bien plus tard les routes de la soie. On y échange de la soie, des épices, des idées, et même des religions, comme le bouddhisme venu d'Inde. À la fin du treizième siècle, le voyageur vénitien Marco Polo raconte son séjour à la cour de l'empereur mongol Kubilai Khan, et fait rêver l'Europe. Au début du quinzième siècle, sous la dynastie Ming, l'amiral Zheng He mène d'immenses expéditions maritimes jusqu'aux côtes de l'Afrique. C'est aussi à cette époque qu'est bâtie la Cité interdite, à Pékin."
+   },
+   {
+    "titre": "La fin de l'empire",
+    "texte": "Au dix-neuvième siècle, la Chine traverse une période très difficile. Les puissances européennes veulent ouvrir son marché. Le Royaume-Uni vend de l'opium en Chine, et quand l'empereur tente d'interdire ce commerce, éclatent les guerres de l'opium. La première se termine en 1842 : la Chine doit céder Hong Kong aux Britanniques, qui ne la rendront qu'en 1997. Les Chinois appellent cette période le siècle des humiliations. En 1911, une révolution renverse la dynastie Qing, et la République est proclamée début 1912. Le dernier empereur, Puyi, abdique alors qu'il n'a que six ans. Son destin étonnant a inspiré un célèbre film. Suivent des décennies de chaos : guerre civile entre nationalistes et communistes, puis invasion japonaise. En 1949, Mao Zedong proclame la République populaire de Chine, tandis que les nationalistes se replient sur l'île de Taïwan."
+   },
+   {
+    "titre": "Vers une grande puissance",
+    "texte": "Les premières décennies du régime communiste sont marquées par des épreuves terribles. À la fin des années 1950, une campagne d'industrialisation forcée, le Grand Bond en avant, provoque une famine qui fait des dizaines de millions de morts. Puis, de 1966 à 1976, la Révolution culturelle plonge le pays dans la violence et la persécution des intellectuels. Après la mort de Mao en 1976, Deng Xiaoping lance à partir de 1978 des réformes économiques qui ouvrent progressivement le pays aux entreprises et aux investissements étrangers. La croissance devient spectaculaire. Des centaines de millions de personnes sortent de la pauvreté, et la Chine devient l'atelier du monde. En 2001, elle entre dans l'Organisation mondiale du commerce, et en 2008, Pékin accueille les Jeux olympiques. Aujourd'hui, c'est la deuxième économie mondiale, avec environ 1,4 milliard d'habitants."
+   }
+  ],
+  "resume": "En résumé : de la dynastie Shang au premier empereur, des routes de la soie à la chute de l'empire en 1912, puis de la République populaire de 1949 aux réformes de 1978, la Chine est passée d'une civilisation millénaire à une grande puissance mondiale.",
+  "quiz": [
+   {"q": "Sur quoi ont été retrouvés les plus anciens écrits chinois ?", "r": "Sur des os et des carapaces de tortue utilisés pour la divination."},
+   {"q": "En quelle année Qin Shi Huang unifie-t-il la Chine ?", "r": "En 221 avant notre ère."},
+   {"q": "Comment l'armée de terre cuite a-t-elle été découverte ?", "r": "Par des paysans qui creusaient un puits en 1974."},
+   {"q": "Qui était le dernier empereur de Chine ?", "r": "Puyi, qui abdiqua en 1912 à six ans."},
+   {"q": "En quelle année est proclamée la République populaire de Chine ?", "r": "En 1949."}
+  ]
+ },
+ {
+  "id": "japon-tradition-modernite",
+  "categorie": "Monde",
+  "titre": "Le Japon, entre tradition et modernité",
+  "intro": "Aujourd'hui, on parle du Japon, un archipel où les temples millénaires côtoient les trains à grande vitesse, et où la tradition sait se marier avec l'innovation.",
+  "sections": [
+   {
+    "titre": "Un archipel sur une terre qui tremble",
+    "texte": "Le Japon est un archipel de plus de 14 000 îles, dans le Pacifique. Mais l'essentiel de la population vit sur quatre grandes îles : Honshu, la plus grande, où se trouve Tokyo, puis Hokkaido au nord, Kyushu et Shikoku au sud. Environ 125 millions de personnes y habitent, souvent concentrées sur des plaines côtières, car le pays est très montagneux. Son nom japonais, Nihon, signifie à peu près l'origine du soleil, d'où son surnom de pays du soleil levant. Le Japon est situé sur la ceinture de feu du Pacifique, une zone de volcans et de séismes. Son symbole, le mont Fuji, est un volcan qui culmine à 3 776 mètres. Les Japonais vivent avec le risque : les bâtiments sont conçus pour résister aux secousses, et les exercices d'évacuation font partie de la vie scolaire."
+   },
+   {
+    "titre": "Empereurs, shoguns et samouraïs",
+    "texte": "Le Japon a une famille impériale très ancienne, souvent présentée comme la plus ancienne monarchie héréditaire encore en place au monde. Mais pendant des siècles, l'empereur a surtout eu un rôle symbolique et religieux. Le vrai pouvoir appartenait aux shoguns, des chefs militaires. À partir de la fin du douzième siècle, ce sont eux qui gouvernent, entourés de guerriers, les samouraïs. Ces derniers suivent un code d'honneur fait de loyauté, de courage et de maîtrise de soi. Au début du dix-septième siècle, la famille Tokugawa s'impose et installe son pouvoir à Edo, l'ancien nom de Tokyo. Commence alors une longue période de paix de plus de deux siècles. Pendant cette époque, le Japon se ferme presque totalement au monde extérieur. Seuls quelques marchands néerlandais et chinois ont le droit de commercer, sur une petite île artificielle près de Nagasaki."
+   },
+   {
+    "titre": "La grande modernisation",
+    "texte": "En 1853, des navires de guerre américains commandés par le commodore Perry arrivent dans la baie d'Edo. Les Japonais les surnomment les bateaux noirs, à cause de la fumée de leurs machines à vapeur. Les Américains exigent l'ouverture du pays au commerce. Le choc est immense. Quelques années plus tard, en 1868, une révolution politique redonne le pouvoir à l'empereur : c'est l'ère Meiji, qui signifie gouvernement éclairé. Le Japon décide alors de rattraper l'Occident à toute vitesse. Les samouraïs perdent leurs privilèges, on envoie des étudiants apprendre en Europe et aux États-Unis, on construit des usines, une armée moderne, et dès 1872, la première ligne de chemin de fer. La capitale devient officiellement Tokyo, qui veut dire capitale de l'Est. En quelques décennies, le pays devient une puissance industrielle, et bat même la Russie lors d'une guerre en 1905."
+   },
+   {
+    "titre": "De la guerre au miracle économique",
+    "texte": "Dans la première moitié du vingtième siècle, le Japon mène une politique d'expansion militaire en Asie, qui le conduit à entrer dans la Seconde Guerre mondiale. En août 1945, les États-Unis larguent deux bombes atomiques, sur Hiroshima le 6 août, puis sur Nagasaki le 9 août. Le Japon capitule quelques jours plus tard. Le pays est occupé, et une nouvelle Constitution entre en vigueur en 1947. Le Japon y renonce à la guerre, et l'empereur devient le symbole de l'unité du peuple, sans pouvoir politique. Ensuite, c'est le miracle économique. Le pays se reconstruit et devient en quelques décennies une des premières économies du monde, avec ses voitures, son électronique et ses robots. En 1964, pour les Jeux olympiques de Tokyo, on inaugure le Shinkansen, le premier train à grande vitesse du monde. Une vraie fierté nationale."
+   },
+   {
+    "titre": "Une culture entre deux mondes",
+    "texte": "Ce qui fascine au Japon, c'est cette cohabitation permanente entre l'ancien et le nouveau. La plupart des Japonais pratiquent à la fois le shintoïsme, la religion traditionnelle des esprits de la nature, et le bouddhisme : on va au sanctuaire pour une naissance, et au temple bouddhiste pour les funérailles. Chaque printemps, on pique-nique sous les cerisiers en fleurs, une tradition appelée hanami. On retire ses chaussures en entrant dans une maison, et on se salue en s'inclinant. En même temps, le Japon a conquis le monde avec ses mangas, ses dessins animés, et des studios comme le studio Ghibli, connu pour Le Voyage de Chihiro. Sa cuisine, le washoku, est inscrite depuis 2013 au patrimoine mondial immatériel. Et le pays a montré sa résilience après le terrible séisme et tsunami de mars 2011, suivi de l'accident nucléaire de Fukushima."
+   }
+  ],
+  "resume": "En résumé : archipel volcanique, le Japon est passé des shoguns et des samouraïs à une modernisation éclair sous l'ère Meiji, puis s'est reconstruit après 1945 pour devenir une grande puissance, tout en gardant ses traditions vivantes.",
+  "quiz": [
+   {"q": "Combien de grandes îles principales compte le Japon ?", "r": "Quatre : Honshu, Hokkaido, Kyushu et Shikoku."},
+   {"q": "Comment s'appelaient les chefs militaires qui détenaient le vrai pouvoir ?", "r": "Les shoguns."},
+   {"q": "Quelle ère de modernisation commence en 1868 ?", "r": "L'ère Meiji."},
+   {"q": "À quelle occasion le Shinkansen a-t-il été inauguré ?", "r": "Pour les Jeux olympiques de Tokyo en 1964."},
+   {"q": "Comment s'appelle la tradition de pique-nique sous les cerisiers en fleurs ?", "r": "Le hanami."}
+  ]
+ },
+ {
+  "id": "langue-francaise",
+  "categorie": "Culture",
+  "titre": "L'histoire de la langue française",
+  "intro": "Aujourd'hui, on parle de la langue que tu es en train d'écouter : le français, de ses racines latines jusqu'à ses millions de locuteurs dans le monde.",
+  "sections": [
+   {
+    "titre": "Du gaulois au latin",
+    "texte": "Il y a un peu plus de deux mille ans, sur le territoire de la France actuelle, on parle surtout le gaulois, une langue celtique. Puis Jules César conquiert la Gaule, entre 58 et 50 avant notre ère. Peu à peu, les Gaulois adoptent le latin, mais pas le latin raffiné des grands auteurs. Plutôt le latin populaire des soldats, des marchands et des colons. Le gaulois disparaît presque complètement, mais il nous laisse quelques dizaines de mots, souvent liés à la campagne : chêne, ruche, alouette, mouton, boue, ou encore charrue. Ensuite, à la fin de l'Empire romain, arrivent les Francs, un peuple germanique. Ils apportent leur langue, et des mots comme guerre, jardin, bleu ou blanc. Ils donnent aussi leur nom au pays : la France, c'est le pays des Francs. "
+   },
+   {
+    "titre": "Les premiers textes en français",
+    "texte": "Au fil des siècles, le latin parlé en Gaule se transforme tellement qu'il devient une autre langue. Le plus ancien texte considéré comme écrit dans un ancêtre du français date de 842. Ce sont les serments de Strasbourg. Deux petits-fils de Charlemagne, Charles le Chauve et Louis le Germanique, s'allient contre leur frère. Pour que leurs troupes comprennent, ils prêtent serment dans la langue de chacune : l'une romane, ancêtre du français, l'autre germanique. Au Moyen Âge, la France est coupée en deux grandes zones linguistiques. Au nord, la langue d'oïl, et au sud, la langue d'oc, qu'on appelle aussi l'occitan. Leurs noms viennent simplement de la façon de dire oui. Vers l'an 1100, on écrit la Chanson de Roland, un des grands chefs-d'œuvre de l'ancien français, qui raconte les exploits d'un chevalier de Charlemagne."
+   },
+   {
+    "titre": "Le roi, l'Académie et les règles",
+    "texte": "Pendant longtemps, la langue des actes officiels, de l'Église et des savants reste le latin. Tout change en 1539. Le roi François premier signe l'ordonnance de Villers-Cotterêts, qui impose le français dans les décisions de justice et les actes administratifs. C'est encore aujourd'hui l'un des plus anciens textes de loi en vigueur en France. Un siècle plus tard, en 1635, le cardinal de Richelieu fonde l'Académie française. Sa mission : fixer les règles de la langue et rédiger un dictionnaire. Elle compte quarante membres, qu'on surnomme les immortels, non pas parce qu'ils ne meurent jamais, mais en référence à leur devise, À l'immortalité. La première édition de son dictionnaire paraît en 1694. Au dix-septième siècle, on cherche à rendre la langue claire et élégante, et le français devient la langue de la diplomatie dans toute l'Europe."
+   },
+   {
+    "titre": "Une langue pour tous les Français",
+    "texte": "Tu seras peut-être surpris d'apprendre qu'à la Révolution française, une grande partie des habitants du pays ne parlent pas bien le français. En 1794, l'abbé Grégoire réalise une enquête qui montre que la majorité des Français utilisent surtout des langues régionales ou des patois : le breton, le basque, l'alsacien, l'occitan, le picard, et bien d'autres. C'est surtout l'école qui va changer la donne. Avec les lois de Jules Ferry, en 1881 et 1882, l'école devient gratuite, obligatoire et laïque, et on y enseigne en français. Plus tard, le service militaire, la radio puis la télévision achèvent cette diffusion. Pendant ce temps, la langue continue d'emprunter des mots partout. À l'italien, pendant la Renaissance : balcon, banque, concert. À l'arabe : sucre, alcool, algèbre, zéro. Et plus récemment à l'anglais : week-end, parking ou sandwich."
+   },
+   {
+    "titre": "Le français dans le monde aujourd'hui",
+    "texte": "Aujourd'hui, le français est parlé par plus de 300 millions de personnes, sur les cinq continents. C'est l'une des langues les plus parlées du monde, et la plupart de ses locuteurs vivent désormais en Afrique, dans des pays comme la République démocratique du Congo, la Côte d'Ivoire ou le Sénégal. Les pays qui ont le français en partage se retrouvent au sein d'une organisation, la Francophonie. Le français est aussi l'une des langues officielles des Nations unies et des Jeux olympiques. Chaque pays francophone y apporte sa touche. Au Québec, par exemple, on dit courriel pour email, et on fait son magasinage au lieu du shopping. Et la langue continue d'évoluer : en 1990, des rectifications de l'orthographe ont par exemple autorisé à écrire oignon sans le i. Comme quoi, une langue vivante n'arrête jamais de bouger."
+   }
+  ],
+  "resume": "En résumé : né du latin populaire parlé en Gaule, enrichi de gaulois et de francique, le français s'est imposé avec l'ordonnance de Villers-Cotterêts, l'Académie et l'école, avant de devenir une langue mondiale parlée par plus de 300 millions de personnes.",
+  "quiz": [
+   {"q": "De quelle langue le français descend-il principalement ?", "r": "Du latin populaire."},
+   {"q": "Quel peuple germanique a donné son nom à la France ?", "r": "Les Francs."},
+   {"q": "Quel est le plus ancien texte en ancêtre du français ?", "r": "Les serments de Strasbourg, en 842."},
+   {"q": "Quelle ordonnance de 1539 impose le français dans les actes officiels ?", "r": "L'ordonnance de Villers-Cotterêts."},
+   {"q": "Qui a fondé l'Académie française en 1635 ?", "r": "Le cardinal de Richelieu."}
+  ]
+ },
+ {
+  "id": "histoire-automobile",
+  "categorie": "Technologie",
+  "titre": "Une histoire de l'automobile",
+  "intro": "Aujourd'hui, puisque tu es au volant, on parle de l'histoire de l'automobile, depuis un drôle d'engin à vapeur jusqu'aux voitures électriques d'aujourd'hui.",
+  "sections": [
+   {
+    "titre": "Le fardier de Cugnot",
+    "texte": "L'histoire de l'automobile commence en France, en 1769. Un ingénieur militaire lorrain, Nicolas Joseph Cugnot, construit un drôle de véhicule : un lourd chariot à trois roues, propulsé par une machine à vapeur. On l'appelle le fardier de Cugnot. Il est destiné à tirer des canons pour l'armée. C'est le premier véhicule capable de se déplacer par sa propre force mécanique, sans chevaux. Sa vitesse est modeste, à peine quelques kilomètres à l'heure, celle d'un piéton. Et il doit s'arrêter régulièrement pour refaire de la vapeur. Une légende raconte que lors d'un essai, faute de freins efficaces, il serait allé s'écraser contre un mur, ce qui en ferait aussi le premier accident de la route. L'histoire est peut-être embellie, mais tu peux encore voir un fardier au musée des Arts et Métiers, à Paris."
+   },
+   {
+    "titre": "Benz, Bertha et les pionniers",
+    "texte": "La vraie naissance de l'automobile moderne arrive avec le moteur à explosion. En janvier 1886, l'Allemand Carl Benz dépose le brevet de sa Motorwagen, un tricycle équipé d'un moteur à essence. On la considère généralement comme la première automobile. Mais l'héroïne de l'histoire, c'est sa femme, Bertha Benz. En 1888, sans prévenir son mari, elle prend la voiture avec ses deux fils et parcourt environ 100 kilomètres pour aller voir sa mère. En route, elle achète du carburant dans une pharmacie, et répare une panne avec une épingle à chapeau. Ce voyage prouve que l'invention est utilisable. En France, les pionniers s'appellent Panhard et Levassor, ou Peugeot. Et en 1894, on organise la course Paris-Rouen, considérée comme la première compétition automobile de l'histoire. Les Français ont aussi donné au monde des mots comme automobile, garage ou chauffeur."
+   },
+   {
+    "titre": "La voiture pour tous",
+    "texte": "Au début, la voiture est un luxe réservé aux plus riches. Celui qui va changer ça, c'est l'Américain Henry Ford. En 1908, il lance la Ford T, une voiture simple, robuste et bon marché. Et en 1913, il introduit dans son usine la chaîne de montage mobile : la voiture avance devant les ouvriers, qui répètent toujours le même geste. Le temps de fabrication s'effondre, le prix aussi. Plus de 15 millions de Ford T seront produites. On lui prête cette phrase : le client peut choisir n'importe quelle couleur, pourvu que ce soit noir. En France, André Citroën applique ces méthodes. Après la Seconde Guerre mondiale, arrivent des voitures populaires mythiques, comme la Renault 4CV et la Citroën 2CV, présentée en 1948. La 2CV devait pouvoir transporter un panier d'œufs à travers un champ sans les casser."
+   },
+   {
+    "titre": "Des règles et de la sécurité",
+    "texte": "Avec la multiplication des voitures, il faut des règles. Dès 1893, à Paris, on crée un certificat de capacité pour conduire, l'ancêtre du permis de conduire. En 1921, la France adopte son premier véritable code de la route. Mais pendant longtemps, la sécurité reste rudimentaire. Une invention va sauver un nombre immense de vies : la ceinture de sécurité à trois points. Elle est mise au point en 1959 par un ingénieur suédois de Volvo, Nils Bohlin. Volvo laisse alors le brevet libre, pour que tous les constructeurs puissent l'utiliser. En France, le port de la ceinture devient obligatoire à l'avant sur les routes en 1973, à une époque où les accidents faisaient plus de 16 000 morts par an. Depuis, avec les airbags, les radars et le freinage assisté, ce chiffre a très fortement baissé."
+   },
+   {
+    "titre": "L'électrique, un retour aux sources",
+    "texte": "Tu crois peut-être que la voiture électrique est une invention récente. En fait, c'est un retour aux sources. À la fin du dix-neuvième siècle, les voitures électriques étaient courantes, car plus silencieuses et plus faciles à démarrer que les voitures à essence, qu'il fallait lancer à la manivelle. En 1899, c'est même une voiture électrique en forme d'obus, baptisée La Jamais Contente et pilotée par le Belge Camille Jenatzy, qui dépasse pour la première fois les 100 kilomètres à l'heure. Mais le pétrole bon marché et le démarreur électrique ont ensuite donné l'avantage au moteur thermique pendant un siècle. Aujourd'hui, avec les progrès des batteries et les enjeux climatiques, l'électrique revient en force. Et les constructeurs travaillent aussi sur l'aide à la conduite et les véhicules autonomes. L'histoire de l'automobile est loin d'être terminée."
+   }
+  ],
+  "resume": "En résumé : du fardier à vapeur de Cugnot en 1769 à la Motorwagen de Benz en 1886, puis de la Ford T à la ceinture de sécurité, l'automobile n'a cessé d'évoluer, jusqu'au grand retour de l'électrique.",
+  "quiz": [
+   {"q": "Quel est le premier véhicule autopropulsé, construit en 1769 ?", "r": "Le fardier à vapeur de Nicolas Joseph Cugnot."},
+   {"q": "Qui a fait en 1888 le premier long trajet en automobile ?", "r": "Bertha Benz, la femme de Carl Benz."},
+   {"q": "Quelle innovation Henry Ford introduit-il en 1913 ?", "r": "La chaîne de montage mobile."},
+   {"q": "Qui a inventé la ceinture de sécurité à trois points ?", "r": "Nils Bohlin, ingénieur chez Volvo, en 1959."},
+   {"q": "Quelle voiture électrique a dépassé la première les 100 kilomètres à l'heure ?", "r": "La Jamais Contente, en 1899."}
+  ]
+ }
+]

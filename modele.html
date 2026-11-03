@@ -1,0 +1,466 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0c0f14">
+<title>En route</title>
+<style>
+  :root {
+    --fond:#0c0f14; --carte:#151a22; --bord:#2a3342; --piste:#1d2430;
+    --texte:#f3f5f8; --doux:#a1abba; --vert:#5fd4a0;
+    --accent:#8fa6ff; --accent-doux:rgba(143,166,255,.14);
+  }
+  * { box-sizing:border-box; }
+  html, body { margin:0; background:var(--fond); color:var(--texte); font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; }
+  button { font:inherit; color:inherit; cursor:pointer; }
+  .app { max-width:480px; margin:0 auto; min-height:100vh; min-height:100dvh; display:flex; flex-direction:column;
+         padding-top:env(safe-area-inset-top); padding-bottom:env(safe-area-inset-bottom); }
+
+  .entete { display:flex; align-items:center; justify-content:space-between; padding:14px 16px 6px; }
+  .entete .nom { display:flex; flex-direction:column; gap:2px; }
+  .entete .nom b { font-size:15px; }
+  .entete .nom span { font-size:13px; color:var(--doux); }
+  .entete .actions { display:flex; gap:8px; }
+  .icone { width:48px; height:48px; border-radius:14px; border:1px solid var(--bord); background:var(--carte); display:grid; place-items:center; }
+
+  .milieu { flex:1; display:flex; flex-direction:column; gap:16px; padding:8px 16px 0; }
+  .carte { background:var(--carte); border:1px solid var(--bord); border-radius:22px; padding:20px; display:flex; flex-direction:column; gap:14px; }
+  .puces { display:flex; gap:8px; flex-wrap:wrap; }
+  .puce { font-size:12px; font-weight:600; letter-spacing:.04em; text-transform:uppercase; padding:6px 10px; border-radius:999px; }
+  .puce.jour { background:var(--accent-doux); color:var(--accent); }
+  .puce.cat { border:1px solid var(--bord); color:var(--doux); }
+  h1 { margin:0; font-size:28px; line-height:1.15; }
+  .segments { display:flex; gap:4px; }
+  .segments span { height:6px; border-radius:3px; background:var(--piste); overflow:hidden; display:flex; }
+  .segments span i { display:block; background:var(--accent); transition:width .3s; }
+  .etape { display:flex; flex-direction:column; gap:4px; }
+  .etape small { font-size:13px; color:var(--doux); font-weight:600; }
+  .etape strong { font-size:18px; font-weight:600; line-height:1.3; }
+
+  .scene { flex:1; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; gap:14px; padding:4px 8px; min-height:200px; }
+  .phrase { margin:0; font-size:21px; line-height:1.45; max-width:34ch; }
+  .anneau { width:140px; height:140px; position:relative; }
+  .anneau svg { transform:rotate(-90deg); }
+  .anneau circle.prog { transition:stroke-dashoffset 1s linear; }
+  .anneau span { position:absolute; inset:0; display:grid; place-items:center; font-size:52px; font-weight:700; }
+  .consigne { margin:0; font-size:17px; color:var(--doux); line-height:1.45; }
+
+  .bilan { align-self:stretch; display:flex; flex-direction:column; gap:12px; }
+  .ligne { display:flex; align-items:center; gap:12px; padding:14px; border-radius:16px; background:var(--piste); text-align:left; }
+  .ligne div { flex:1; display:flex; flex-direction:column; gap:3px; }
+  .ligne div span { font-size:13px; color:var(--doux); }
+  .ligne div b { font-size:16px; font-weight:600; }
+  .badge { font-size:12px; font-weight:600; padding:4px 8px; border-radius:8px; white-space:nowrap; }
+  .badge.vert { color:var(--vert); background:rgba(95,212,160,.12); }
+  .badge.gris { color:var(--doux); border:1px solid var(--bord); }
+
+  .bas { padding:12px 16px 18px; display:flex; flex-direction:column; gap:12px; }
+  .commandes { display:grid; grid-template-columns:1fr 1.25fr 1fr; gap:12px; }
+  .commandes button { height:96px; border-radius:26px; border:1px solid var(--bord); background:var(--carte); display:grid; place-items:center; }
+  .commandes button.fort { border-color:var(--accent); background:var(--accent); color:var(--fond); }
+  .commandes button:active { transform:scale(.97); }
+  .infos { display:flex; justify-content:space-between; align-items:center; }
+  .pilule { height:44px; padding:0 16px; border-radius:999px; border:1px solid var(--bord); background:transparent; color:var(--doux); font-size:14px; font-weight:600; }
+  .infos span { font-size:14px; color:var(--doux); }
+
+  dialog { border:0; padding:0; background:var(--carte); color:var(--texte); width:100%; max-width:480px; max-height:85vh; margin:auto auto 0; border-radius:22px 22px 0 0; }
+  dialog::backdrop { background:rgba(0,0,0,.6); }
+  .feuille { display:flex; flex-direction:column; max-height:85vh; }
+  .feuille header { display:flex; align-items:center; justify-content:space-between; padding:16px 16px 8px; }
+  .feuille header b { font-size:18px; }
+  .feuille .corps { overflow:auto; padding:0 16px 20px; display:flex; flex-direction:column; gap:16px; }
+  .sujets { list-style:none; margin:0; padding:0; }
+  .sujets li button { width:100%; display:flex; align-items:center; gap:12px; padding:12px 4px; border:0; border-bottom:1px solid var(--bord); background:none; text-align:left; min-height:56px; }
+  .sujets li button div { flex:1; display:flex; flex-direction:column; gap:2px; }
+  .sujets li button div span { font-size:12px; color:var(--doux); text-transform:uppercase; letter-spacing:.04em; }
+  .sujets li button.actuel b { color:var(--accent); }
+  .ok { color:var(--vert); font-weight:700; }
+  .reglage { display:flex; flex-direction:column; gap:8px; }
+  .reglage label, .reglage > span { font-size:13px; color:var(--doux); font-weight:600; }
+  select, .bouton { min-height:48px; font-size:16px; padding:0 14px; border-radius:14px; border:1px solid var(--bord); background:var(--piste); color:var(--texte); }
+  .couleurs { display:flex; gap:12px; }
+  .couleurs button { width:48px; height:48px; border-radius:50%; border:3px solid transparent; }
+  .couleurs button[aria-pressed="true"] { border-color:var(--texte); }
+  .note { font-size:13px; color:var(--doux); line-height:1.5; margin:0; }
+  [hidden] { display:none !important; }
+</style>
+</head>
+<body>
+<div class="app">
+  <div class="entete">
+    <div class="nom"><b>En route</b><span id="date"></span></div>
+    <div class="actions">
+      <button class="icone" id="btn-liste" aria-label="Liste des sujets"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M8 6h13M8 12h13M8 18h13M3.5 6h.01M3.5 12h.01M3.5 18h.01"/></svg></button>
+      <button class="icone" id="btn-reglages" aria-label="Réglages"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h10M18 7h2M4 17h4M12 17h8"/><circle cx="16" cy="7" r="2"/><circle cx="10" cy="17" r="2"/></svg></button>
+    </div>
+  </div>
+
+  <div class="milieu">
+    <div class="carte">
+      <div class="puces"><span class="puce jour" id="puce-jour">Sujet du jour</span><span class="puce cat" id="puce-cat"></span></div>
+      <h1 id="titre"></h1>
+      <div class="segments" id="segments" aria-hidden="true"></div>
+      <div class="etape"><small id="etape-label"></small><strong id="etape-titre"></strong></div>
+    </div>
+
+    <div class="scene" id="scene-texte"><p class="phrase" id="phrase"></p></div>
+
+    <div class="scene" id="scene-quiz" hidden>
+      <div class="anneau">
+        <svg width="140" height="140" viewBox="0 0 120 120" aria-hidden="true"><circle cx="60" cy="60" r="54" fill="none" stroke="var(--piste)" stroke-width="10"/><circle class="prog" id="anneau" cx="60" cy="60" r="54" fill="none" stroke="var(--accent)" stroke-width="10" stroke-linecap="round" stroke-dasharray="339.3" stroke-dashoffset="0"/></svg>
+        <span id="compte"></span>
+      </div>
+      <p class="consigne" id="consigne"></p>
+    </div>
+
+    <div class="scene" id="scene-fin" hidden>
+      <div class="bilan">
+        <div class="ligne"><div><span id="fin-l1"></span><b id="fin-t1"></b></div><span class="badge vert" id="fin-b1"></span></div>
+        <div class="ligne"><div><span>Demain</span><b id="fin-demain"></b></div><span class="badge gris">À venir</span></div>
+      </div>
+      <p class="consigne">Séance terminée. Il te reste de la route ? Appuie sur suivant.</p>
+    </div>
+  </div>
+
+  <div class="bas">
+    <div class="commandes">
+      <button id="prev" aria-label="Partie précédente"><svg width="38" height="38" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6 5h2.2v14H6zM20 5.6v12.8a.8.8 0 0 1-1.2.7L9.6 12.7a.8.8 0 0 1 0-1.4l9.2-6.4a.8.8 0 0 1 1.2.7z"/></svg></button>
+      <button id="play" class="fort" aria-label="Lecture">
+        <svg id="ic-play" width="46" height="46" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M7 4.8v14.4a1 1 0 0 0 1.5.86l11.7-7.2a1 1 0 0 0 0-1.72L8.5 3.94A1 1 0 0 0 7 4.8z"/></svg>
+        <svg id="ic-pause" hidden width="46" height="46" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><rect x="6" y="4.5" width="4.2" height="15" rx="1.2"/><rect x="13.8" y="4.5" width="4.2" height="15" rx="1.2"/></svg>
+      </button>
+      <button id="next" aria-label="Partie suivante"><svg width="38" height="38" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M15.8 5H18v14h-2.2zM4 5.6v12.8a.8.8 0 0 0 1.2.7l9.2-6.4a.8.8 0 0 0 0-1.4L5.2 4.9A.8.8 0 0 0 4 5.6z"/></svg></button>
+    </div>
+    <div class="infos">
+      <button class="pilule" id="vitesse"></button>
+      <span id="reste"></span>
+    </div>
+  </div>
+</div>
+
+<dialog id="d-liste">
+  <div class="feuille">
+    <header><b>Tous les sujets</b><button class="icone" data-fermer aria-label="Fermer"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></header>
+    <div class="corps"><ul class="sujets" id="liste"></ul></div>
+  </div>
+</dialog>
+
+<dialog id="d-reglages">
+  <div class="feuille">
+    <header><b>Réglages</b><button class="icone" data-fermer aria-label="Fermer"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></header>
+    <div class="corps">
+      <div class="reglage"><label for="voix">Voix</label><select id="voix"></select>
+        <p class="note">Pour écouter hors ligne, choisis une voix qui n'est pas marquée « en ligne ».</p></div>
+      <div class="reglage"><span>Couleur</span><div class="couleurs" id="couleurs"></div></div>
+      <div class="reglage"><label for="import">Ajouter des sujets (fichier JSON)</label>
+        <input type="file" id="import" accept="application/json,.json">
+        <button class="bouton" id="reset">Retirer les sujets importés</button></div>
+      <p class="note">Prépare la lecture à l'arrêt. En roulant, utilise seulement les trois gros boutons. L'écran reste allumé pendant la lecture.</p>
+    </div>
+  </div>
+</dialog>
+
+<script>
+const SUJETS = [
+];
+
+const $ = id => document.getElementById(id);
+const store = {
+  get(k, d) { try { const v = localStorage.getItem(k); return v === null ? d : JSON.parse(v); } catch { return d; } },
+  set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} }
+};
+const VITESSES = [0.85, 1, 1.15, 1.3];
+const COULEURS = ["#8fa6ff", "#5fd4a0", "#ffb86b", "#f38ba8"];
+const PAUSE_QUIZ = 7000;
+
+const tousLesSujets = () => SUJETS.concat(store.get("importes", []));
+const jourIndex = () => { const d = new Date(); return Math.floor(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()) / 86400000); };
+function indexDuJour(decalage = 0) {
+  const n = tousLesSujets().length;
+  let debut = store.get("debut", null);
+  if (debut === null) { debut = jourIndex(); store.set("debut", debut); }
+  return (((jourIndex() - debut + decalage) % n) + n) % n;
+}
+const sujetDuJour = () => tousLesSujets()[indexDuJour()];
+function sujetBonus() {
+  const liste = tousLesSujets(), faits = store.get("faits", []), n = liste.length;
+  const exclus = new Set([sujet.id, liste[indexDuJour(1)].id]);
+  for (let k = 1; k <= n; k++) {
+    const x = liste[(liste.indexOf(sujet) + k) % n];
+    if (!exclus.has(x.id) && !faits.includes(x.id)) return x;
+  }
+  return liste[(liste.indexOf(sujet) + 2) % n];
+}
+
+const phrases = t => (t.match(/[^.!?…]+[.!?…]+[»"]?\s*|[^.!?…]+$/g) || [t]).map(s => s.trim()).filter(Boolean);
+
+function construireFile(s) {
+  const f = [], segs = [];
+  const seg = (label, flex = 1) => { segs.push({ label, flex }); return segs.length - 1; };
+  const add = (texte, g, extra = {}) => phrases(texte).forEach(p => f.push({ texte: p, g, type: "texte", pause: 350, ...extra }));
+
+  let g = seg("intro");
+  add(`Sujet du jour : ${s.titre}.`, g, { pause: 700 });
+  add(s.intro, g);
+  s.sections.forEach((sec, i) => {
+    g = seg("partie");
+    add(`Partie ${i + 1} : ${sec.titre}.`, g, { pause: 700, partie: i + 1, titrePartie: sec.titre });
+    phrases(sec.texte).forEach(p => f.push({ texte: p, g, type: "texte", pause: 350, partie: i + 1, titrePartie: sec.titre }));
+  });
+  g = seg("resume");
+  add(s.resume, g);
+
+  g = seg("quiz", 2);
+  add("Place au quiz. Je pose une question, tu as quelques secondes pour répondre à voix haute.", g, { pause: 800, mode: "quiz" });
+  s.quiz.forEach((q, i) => {
+    const info = { g, mode: "quiz", n: i + 1, total: s.quiz.length, question: q.q };
+    f.push({ ...info, texte: `Question ${i + 1}. ${q.q}`, type: "question", pause: PAUSE_QUIZ });
+    f.push({ ...info, texte: `Réponse : ${q.r}`, type: "reponse", pause: 1200 });
+  });
+
+  const faits = store.get("faits", []);
+  const anciens = tousLesSujets().filter(x => x.id !== s.id && faits.includes(x.id));
+  const revises = [];
+  if (anciens.length) {
+    g = seg("revision", 2);
+    const pool = anciens.flatMap(x => x.quiz.map(q => ({ ...q, t: x.titre }))).sort(() => Math.random() - 0.5).slice(0, 6);
+    add("Maintenant, un peu de révision sur les sujets des jours précédents.", g, { pause: 800, mode: "revision" });
+    pool.forEach((q, i) => {
+      if (!revises.includes(q.t)) revises.push(q.t);
+      const info = { g, mode: "revision", n: i + 1, total: pool.length, question: q.q, sujetQ: q.t };
+      f.push({ ...info, texte: `À propos de : ${q.t}. ${q.q}`, type: "question", pause: PAUSE_QUIZ });
+      f.push({ ...info, texte: `Réponse : ${q.r}`, type: "reponse", pause: 1200 });
+    });
+  }
+  f.push({ texte: "C'est terminé pour aujourd'hui. Il te reste de la route ? Appuie sur suivant pour un sujet bonus. Bonne route !", g: segs.length, type: "fin", pause: 0 });
+  return { f, segs, revises };
+}
+
+let sujet, file, segs, revises, pos = 0, lecture = false, jeton = 0, voix = [], wakeLock = null;
+let minuteur = null, compte = null, bonus = false;
+
+function charger(s, opts = {}) {
+  arreter();
+  sujet = s;
+  bonus = !!opts.bonus;
+  ({ f: file, segs, revises } = construireFile(s));
+  pos = Math.min(opts.pos || 0, file.length - 1);
+  rendre();
+}
+
+function sauver() { store.set("position", { id: sujet.id, jour: jourIndex(), pos, bonus }); }
+
+const fmtVitesse = v => "Vitesse " + v.toLocaleString("fr-FR") + "×";
+function minutesRestantes() {
+  const v = parseFloat(store.get("vitesse", 1));
+  let ms = 0;
+  for (let i = pos; i < file.length; i++) ms += file[i].texte.split(/\s+/).length / (155 * v) * 60000 + file[i].pause;
+  return Math.max(1, Math.round(ms / 60000));
+}
+
+function rendre() {
+  const it = file[pos], fin = it.type === "fin";
+  $("puce-jour").textContent = bonus ? "Sujet bonus" : (sujet === sujetDuJour() ? "Sujet du jour" : "Sujet choisi");
+  $("puce-cat").textContent = sujet.categorie;
+  $("titre").textContent = sujet.titre;
+
+  const bar = $("segments");
+  if (bar.children.length !== segs.length) bar.innerHTML = segs.map(s => `<span style="flex:${s.flex}"><i></i></span>`).join("");
+  segs.forEach((s, i) => {
+    let p = 0;
+    if (fin || i < it.g) p = 1;
+    else if (i === it.g) {
+      const debut = file.findIndex(x => x.g === i), n = file.filter(x => x.g === i).length;
+      p = Math.max(0.04, (pos - debut) / n);
+    }
+    bar.children[i].firstChild.style.width = (p * 100) + "%";
+  });
+
+  let label = "", titre = "";
+  const sg = segs[it.g] ? segs[it.g].label : "fin";
+  if (fin) { label = "Fin de la séance"; titre = "Appuie sur suivant pour un sujet bonus"; }
+  else if (sg === "intro") { label = "Introduction"; titre = "Présentation du sujet"; }
+  else if (sg === "partie") { label = `Partie ${it.partie} sur ${sujet.sections.length}`; titre = it.titrePartie; }
+  else if (sg === "resume") { label = "Résumé"; titre = "L'essentiel à retenir"; }
+  else if (it.n) { label = `${sg === "quiz" ? "Quiz" : "Révision"} · question ${it.n} sur ${it.total}`; titre = it.question; }
+  else { label = sg === "quiz" ? "Quiz" : "Révision"; titre = "Prépare-toi à répondre"; }
+  $("etape-label").textContent = label;
+  $("etape-titre").textContent = titre;
+
+  const quiz = it.type === "question";
+  $("scene-texte").hidden = quiz || fin;
+  $("scene-quiz").hidden = !quiz;
+  $("scene-fin").hidden = !fin;
+  $("phrase").textContent = fin ? "" : (lecture || pos > 0 ? it.texte : "Appuie sur lecture avant de démarrer, puis laisse-toi guider.");
+  if (quiz) {
+    const total = PAUSE_QUIZ / 1000, r = compte === null ? total : compte;
+    $("compte").textContent = r;
+    $("anneau").style.strokeDashoffset = 339.3 * (1 - r / total);
+    $("consigne").textContent = compte === null ? (it.sujetQ ? `Révision : ${it.sujetQ}` : "Écoute bien la question") : "À toi : réponds à voix haute";
+  }
+  if (fin) {
+    if (revises.length) { $("fin-l1").textContent = "Révisé aujourd'hui"; $("fin-t1").textContent = revises.join(", "); $("fin-b1").textContent = "Révision"; }
+    else { $("fin-l1").textContent = "Écouté aujourd'hui"; $("fin-t1").textContent = sujet.titre; $("fin-b1").textContent = "Terminé"; }
+    $("fin-demain").textContent = tousLesSujets()[indexDuJour(1)].titre;
+  }
+
+  $("ic-play").toggleAttribute("hidden", lecture); $("ic-pause").toggleAttribute("hidden", !lecture);
+  $("play").setAttribute("aria-label", lecture ? "Pause" : "Lecture");
+  $("play").classList.toggle("fort", !fin);
+  $("next").classList.toggle("fort", fin);
+  $("next").setAttribute("aria-label", fin ? "Sujet bonus" : (it.mode && it.n ? "Question suivante" : "Partie suivante"));
+  $("vitesse").textContent = fmtVitesse(parseFloat(store.get("vitesse", 1)));
+  const liste = tousLesSujets();
+  $("reste").textContent = fin ? `Sujet ${liste.indexOf(sujet) + 1} sur ${liste.length}` : `≈ ${minutesRestantes()} min restantes`;
+}
+
+function arreterMinuteur() { clearTimeout(minuteur); clearInterval(minuteur); minuteur = null; compte = null; }
+
+function parler() {
+  if (!lecture) return;
+  const it = file[pos];
+  arreterMinuteur();
+  rendre();
+  const mon = ++jeton;
+  const u = new SpeechSynthesisUtterance(it.texte);
+  u.lang = "fr-FR";
+  const v = voix.find(v => v.name === store.get("voix", ""));
+  if (v) u.voice = v;
+  u.rate = parseFloat(store.get("vitesse", 1));
+  u.onend = () => {
+    if (mon !== jeton || !lecture) return;
+    if (it.type === "fin") { marquerFait(); lecture = false; libererEcran(); rendre(); return; }
+    const suite = () => { if (mon === jeton && lecture) { arreterMinuteur(); pos++; sauver(); parler(); } };
+    if (it.type === "question") {
+      compte = PAUSE_QUIZ / 1000; rendre();
+      minuteur = setInterval(() => { compte--; if (compte <= 0) suite(); else rendre(); }, 1000);
+    } else minuteur = setTimeout(suite, it.pause);
+  };
+  u.onerror = e => { if (mon === jeton && e.error !== "interrupted" && e.error !== "canceled") { lecture = false; rendre(); } };
+  speechSynthesis.speak(u);
+}
+
+function demarrer() {
+  if (!("speechSynthesis" in window)) { $("phrase").textContent = "Ce navigateur ne sait pas lire à voix haute. Essaie Chrome ou Safari."; return; }
+  if (file[pos].type === "fin") pos = 0;
+  lecture = true; speechSynthesis.cancel(); garderEcran(); parler();
+}
+function arreter() { lecture = false; jeton++; arreterMinuteur(); try { speechSynthesis.cancel(); } catch {} libererEcran(); if (file) rendre(); }
+function allerA(i) {
+  pos = Math.max(0, Math.min(i, file.length - 1)); sauver();
+  if (lecture) { jeton++; arreterMinuteur(); speechSynthesis.cancel(); setTimeout(parler, 150); } else rendre();
+}
+
+function suivant() {
+  const it = file[pos];
+  if (it.type === "fin") { const b = sujetBonus(); charger(b, { bonus: true }); sauver(); demarrer(); return; }
+  if (it.n) {
+    const q = file.findIndex((x, i) => i > pos && x.type === "question" && x.g === it.g);
+    if (q > 0) return allerA(q);
+  }
+  const s = file.findIndex(x => x.g > it.g);
+  allerA(s < 0 ? file.length - 1 : s);
+}
+function precedent() {
+  const it = file[pos];
+  if (it.n) {
+    const q = file.findIndex(x => x.type === "question" && x.g === it.g && x.n === it.n);
+    if (pos > q) return allerA(q);
+    const p = file.findIndex(x => x.type === "question" && x.g === it.g && x.n === it.n - 1);
+    if (p >= 0) return allerA(p);
+  }
+  const debut = file.findIndex(x => x.g === it.g);
+  const g = (pos - debut > 2 || it.g === 0) && it.type !== "fin" ? it.g : Math.max(0, it.g - 1);
+  allerA(file.findIndex(x => x.g === g));
+}
+
+function marquerFait() {
+  const faits = store.get("faits", []);
+  if (!faits.includes(sujet.id)) { faits.push(sujet.id); store.set("faits", faits); }
+}
+
+function dessinerListe() {
+  const faits = store.get("faits", []), ul = $("liste");
+  ul.innerHTML = "";
+  tousLesSujets().forEach((x, i) => {
+    const li = document.createElement("li"), b = document.createElement("button");
+    if (x.id === sujet.id) b.className = "actuel";
+    b.innerHTML = `<div><span></span><b></b></div><span class="ok">${faits.includes(x.id) ? "✓" : ""}</span>`;
+    b.querySelector("span").textContent = `${i + 1} · ${x.categorie}`;
+    b.querySelector("b").textContent = x.titre;
+    b.onclick = () => { $("d-liste").close(); charger(x); sauver(); };
+    li.appendChild(b); ul.appendChild(li);
+  });
+}
+
+function choisirVoix() {
+  voix = speechSynthesis.getVoices().filter(v => v.lang && v.lang.toLowerCase().startsWith("fr"));
+  const sel = $("voix"), pref = store.get("voix", "");
+  sel.innerHTML = "";
+  if (!voix.length) { sel.innerHTML = "<option value=''>Voix par défaut</option>"; return; }
+  const choix = voix.find(v => v.name === pref) || voix.find(v => v.localService) || voix[0];
+  voix.forEach(v => {
+    const o = document.createElement("option");
+    o.value = v.name; o.textContent = v.name + (v.localService ? "" : " (en ligne)");
+    o.selected = v === choix; sel.appendChild(o);
+  });
+  if (!pref) store.set("voix", choix.name);
+}
+
+function appliquerCouleur(c) {
+  const n = parseInt(c.slice(1), 16);
+  document.documentElement.style.setProperty("--accent", c);
+  document.documentElement.style.setProperty("--accent-doux", `rgba(${n >> 16},${(n >> 8) & 255},${n & 255},.14)`);
+  document.querySelector('meta[name="theme-color"]').content = "#0c0f14";
+  [...$("couleurs").children].forEach(b => b.setAttribute("aria-pressed", b.dataset.c === c));
+}
+
+async function garderEcran() { try { if ("wakeLock" in navigator) wakeLock = await navigator.wakeLock.request("screen"); } catch {} }
+function libererEcran() { try { wakeLock && wakeLock.release(); } catch {} wakeLock = null; }
+document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible" && lecture) garderEcran(); });
+
+$("play").onclick = () => lecture ? arreter() : demarrer();
+$("next").onclick = suivant;
+$("prev").onclick = precedent;
+$("vitesse").onclick = () => {
+  const v = parseFloat(store.get("vitesse", 1));
+  store.set("vitesse", VITESSES[(VITESSES.indexOf(v) + 1) % VITESSES.length] || 1);
+  if (lecture) allerA(pos); else rendre();
+};
+$("btn-liste").onclick = () => { dessinerListe(); $("d-liste").showModal(); const a = $("liste").querySelector(".actuel"); a && a.scrollIntoView({ block: "center" }); };
+$("btn-reglages").onclick = () => $("d-reglages").showModal();
+document.querySelectorAll("[data-fermer]").forEach(b => b.onclick = () => b.closest("dialog").close());
+document.querySelectorAll("dialog").forEach(d => d.addEventListener("click", e => { if (e.target === d) d.close(); }));
+$("voix").onchange = () => store.set("voix", $("voix").value);
+$("import").onchange = async e => {
+  const fichier = e.target.files[0]; if (!fichier) return;
+  try {
+    const data = JSON.parse(await fichier.text());
+    const liste = (Array.isArray(data) ? data : [data]).filter(x => x.id && x.titre && x.sections && x.quiz);
+    store.set("importes", store.get("importes", []).filter(x => !liste.some(n => n.id === x.id)).concat(liste));
+    alert(`${liste.length} sujet(s) ajouté(s).`);
+  } catch { alert("Fichier invalide."); }
+};
+$("reset").onclick = () => { store.set("importes", []); alert("Sujets importés retirés."); };
+
+COULEURS.forEach(c => {
+  const b = document.createElement("button");
+  b.dataset.c = c; b.style.background = c; b.setAttribute("aria-label", "Couleur " + c);
+  b.onclick = () => { store.set("accent", c); appliquerCouleur(c); };
+  $("couleurs").appendChild(b);
+});
+appliquerCouleur(store.get("accent", COULEURS[0]));
+
+const d = new Date().toLocaleDateString("fr-FR", { weekday: "long", day: "numeric", month: "long" });
+$("date").textContent = d.charAt(0).toUpperCase() + d.slice(1);
+
+if ("speechSynthesis" in window) { choisirVoix(); speechSynthesis.onvoiceschanged = choisirVoix; }
+
+const sauv = store.get("position", null);
+const reprise = sauv && sauv.jour === jourIndex() && tousLesSujets().find(x => x.id === sauv.id);
+if (reprise) charger(reprise, { pos: sauv.pos, bonus: sauv.bonus });
+else charger(sujetDuJour());
+</script>
+</body>
+</html>

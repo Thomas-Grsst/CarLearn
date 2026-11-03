@@ -1,0 +1,362 @@
+[
+ {
+  "id": "socrate-platon-aristote",
+  "categorie": "Philosophie",
+  "titre": "Socrate, Platon et Aristote",
+  "intro": "Aujourd'hui, on part à Athènes, il y a environ deux mille quatre cents ans, pour rencontrer trois penseurs qui ont façonné toute la philosophie occidentale : Socrate, Platon et Aristote.",
+  "sections": [
+   {
+    "titre": "Socrate, le taon d'Athènes",
+    "texte": "Commençons par Socrate, né vers 470 avant notre ère. Imagine un homme pas très beau, souvent pieds nus, qui traîne sur la place publique d'Athènes et qui arrête les passants pour leur poser des questions. Qu'est-ce que le courage ? Qu'est-ce que la justice ? Son interlocuteur répond avec assurance, puis Socrate, question après question, lui montre que sa définition ne tient pas debout. Il se comparait lui-même à un taon, cet insecte qui pique le cheval pour le réveiller. Sa célèbre formule, je sais que je ne sais rien, n'est pas de la fausse modestie : c'est le point de départ de toute recherche sincère. Socrate n'a jamais rien écrit. Tout ce qu'on sait de lui vient de ses disciples, surtout de Platon, et de quelques auteurs comme Xénophon."
+   },
+   {
+    "titre": "La mort de Socrate",
+    "texte": "En 399 avant notre ère, Socrate est traîné devant un tribunal populaire. On l'accuse de ne pas honorer les dieux de la cité et de corrompre la jeunesse. Au lieu de supplier ses juges, il se défend avec ironie et va jusqu'à proposer, comme peine, d'être nourri aux frais de la ville pour services rendus. Il est condamné à mort. Ses amis organisent son évasion, mais il refuse : pour lui, fuir serait trahir les lois qu'il a respectées toute sa vie. Il boit donc la ciguë, un poison végétal, entouré de ses disciples, en discutant calmement de l'immortalité de l'âme. Platon raconte cette scène bouleversante dans un dialogue appelé le Phédon. Cette mort a fait de Socrate un symbole : celui du penseur qui préfère mourir plutôt que renoncer à la vérité."
+   },
+   {
+    "titre": "Platon et le monde des Idées",
+    "texte": "Platon, son élève, est issu d'une famille aristocratique d'Athènes. Profondément marqué par la mort de son maître, il consacre sa vie à prolonger son enseignement. Vers 387 avant notre ère, il fonde l'Académie, une école qui va durer près de trois siècles. Platon écrit des dialogues où Socrate est presque toujours le personnage principal. Son idée centrale ? Le monde que nous percevons avec nos sens n'est qu'une pâle copie d'un monde plus vrai, celui des Idées. Prends un cercle dessiné au tableau : il n'est jamais parfaitement rond. Pourtant, tu sais très bien ce qu'est un cercle parfait. Pour Platon, ce cercle parfait existe vraiment, dans un monde qu'il appelle intelligible, et c'est par la raison, pas par les yeux, qu'on peut l'atteindre."
+   },
+   {
+    "titre": "L'allégorie de la caverne",
+    "texte": "Pour faire comprendre cette idée, Platon raconte, dans La République, une histoire devenue célèbre : l'allégorie de la caverne. Imagine des prisonniers enchaînés depuis l'enfance au fond d'une grotte, le dos tourné à l'entrée. Derrière eux brûle un feu, et des objets passent devant ce feu. Les prisonniers ne voient que des ombres projetées sur le mur, et ils croient que ces ombres sont la réalité. Un jour, l'un d'eux est libéré. Il sort, ébloui par le soleil, et découvre peu à peu le vrai monde. Quand il redescend pour prévenir les autres, ceux-ci se moquent de lui et pourraient même vouloir le tuer. Tu reconnais l'allusion au destin de Socrate. Pour Platon, philosopher, c'est justement sortir de la caverne, au prix d'un effort douloureux."
+   },
+   {
+    "titre": "Aristote, le savant du réel",
+    "texte": "Le troisième de la lignée, c'est Aristote, né en 384 avant notre ère à Stagire, dans le nord de la Grèce. Il passe une vingtaine d'années à l'Académie de Platon, puis devient le précepteur du jeune Alexandre, futur Alexandre le Grand. Ensuite, il fonde sa propre école à Athènes, le Lycée, où il enseigne, dit-on, en marchant. Contrairement à son maître, Aristote garde les pieds sur terre : pour lui, la connaissance part de l'observation du monde réel. Il étudie tout, la logique, la physique, la biologie, la politique, la morale, la poésie. Il dissèque des animaux, classe les espèces, compare les constitutions des cités. Sa formule, l'homme est un animal politique, signifie que nous sommes faits pour vivre en communauté. Pendant des siècles, on l'appellera simplement le Philosophe."
+   }
+  ],
+  "resume": "En résumé : Socrate interroge sans relâche et meurt pour ses idées, Platon imagine un monde des Idées au-delà des apparences, et Aristote fonde la connaissance sur l'observation du réel.",
+  "quiz": [
+   {"q": "Quelle phrase célèbre résume l'attitude de Socrate ?", "r": "Je sais que je ne sais rien."},
+   {"q": "Comment Socrate est-il mort ?", "r": "Il a bu la ciguë après avoir été condamné à mort."},
+   {"q": "Quelle école Platon a-t-il fondée à Athènes ?", "r": "L'Académie."},
+   {"q": "Que représentent les ombres dans l'allégorie de la caverne ?", "r": "Les apparences que l'on prend à tort pour la réalité."},
+   {"q": "De quel futur conquérant Aristote a-t-il été le précepteur ?", "r": "D'Alexandre le Grand."}
+  ]
+ },
+ {
+  "id": "descartes-cogito",
+  "categorie": "Philosophie",
+  "titre": "Descartes : je pense, donc je suis",
+  "intro": "Aujourd'hui, on parle de René Descartes et de la phrase philosophique sans doute la plus célèbre au monde : je pense, donc je suis.",
+  "sections": [
+   {
+    "titre": "Un jeune homme qui veut des certitudes",
+    "texte": "René Descartes naît en 1596 à La Haye, une petite ville de Touraine qui porte aujourd'hui son nom : Descartes. Enfant à la santé fragile, il étudie chez les jésuites au collège de La Flèche, où on le laisse, paraît-il, rester au lit tard le matin pour réfléchir. Une habitude qu'il gardera toute sa vie. Jeune homme, il est déçu par ce qu'on lui a enseigné : beaucoup d'opinions, peu de certitudes. Il décide alors de lire dans le grand livre du monde. Il voyage, s'engage comme soldat dans plusieurs armées, puis s'installe aux Pays-Bas, où il vivra une vingtaine d'années. Descartes n'est pas seulement philosophe : c'est aussi un mathématicien de génie. On lui doit l'idée de repérer un point par des coordonnées, ce qu'on appelle encore aujourd'hui le repère cartésien."
+   },
+   {
+    "titre": "Le doute méthodique",
+    "texte": "Le grand projet de Descartes, c'est de reconstruire le savoir sur des bases solides, comme on rebâtit une maison sur des fondations neuves. Pour cela, il utilise une arme redoutable : le doute. Mais attention, ce n'est pas le doute de quelqu'un qui hésite. C'est un doute volontaire et méthodique. La règle est simple : tout ce qui peut être mis en doute, même un tout petit peu, doit être provisoirement rejeté. Nos sens ? Ils nous trompent parfois, comme ce bâton qui paraît brisé quand on le plonge dans l'eau. Alors on les met de côté. Le monde extérieur ? Peut-être que je rêve en ce moment même. Les mathématiques ? Descartes imagine même un malin génie, un être puissant et trompeur qui s'amuserait à me faire croire que deux et trois font cinq."
+   },
+   {
+    "titre": "Je pense, donc je suis",
+    "texte": "Arrivé au fond de ce doute vertigineux, Descartes trouve enfin un point d'appui. Même si je me trompe sur tout, même si un malin génie me trompe, il y a une chose dont je ne peux pas douter : pour être trompé, il faut bien que j'existe. Et le fait même de douter prouve que je pense. D'où la formule : je pense, donc je suis. Elle apparaît en français en 1637 dans le Discours de la méthode, puis en latin sous la forme cogito, ergo sum, qu'on résume souvent par un seul mot, le cogito. Ce qui est génial, c'est que cette certitude résiste à tous les doutes. C'est la première pierre, le fondement à partir duquel Descartes va reconstruire tout l'édifice du savoir, un peu comme Archimède cherchait un point fixe pour soulever le monde."
+   },
+   {
+    "titre": "L'âme et le corps",
+    "texte": "À partir de cette certitude, Descartes distingue deux réalités très différentes. D'un côté, la pensée, ce qu'il appelle l'âme ou l'esprit, qui ne prend pas de place dans l'espace. De l'autre, la matière, c'est-à-dire tout ce qui a une étendue, une longueur, une largeur, une profondeur. Le corps humain fait partie de la matière, et Descartes le voit un peu comme une machine très perfectionnée, avec ses tuyaux et ses rouages. Les animaux, eux, seraient de pures machines, sans pensée : c'est la célèbre et très discutée théorie des animaux-machines. Cette séparation entre l'esprit et le corps, on l'appelle le dualisme cartésien. Elle pose une question redoutable, que Descartes lui-même a eu du mal à résoudre : comment une âme sans étendue peut-elle faire bouger un bras bien matériel ?"
+   },
+   {
+    "titre": "Une fin glaciale et un héritage immense",
+    "texte": "En 1649, la reine Christine de Suède invite Descartes à Stockholm pour qu'il lui donne des leçons de philosophie. Problème : la reine veut ses cours à cinq heures du matin, en plein hiver nordique. Pour celui qui aimait tant faire la grasse matinée, c'est un choc. Il tombe malade et meurt en février 1650, probablement d'une pneumonie. Mais son influence est immense. Avec sa méthode, qui consiste à ne rien accepter sans preuve et à découper chaque problème en petites parties, il a donné un modèle à la science moderne. On dit souvent qu'il est le père de la philosophie moderne. Et quand on qualifie quelqu'un de cartésien, en français, on veut dire qu'il est logique, rigoureux et méthodique. Pas mal, pour un homme qui voulait d'abord douter de tout."
+   }
+  ],
+  "resume": "En résumé : en doutant de tout de façon méthodique, Descartes découvre une certitude inébranlable, je pense, donc je suis, sur laquelle il reconstruit le savoir et distingue l'esprit du corps.",
+  "quiz": [
+   {"q": "Dans quel ouvrage paraît en 1637 la formule je pense, donc je suis ?", "r": "Dans le Discours de la méthode."},
+   {"q": "Comment s'appelle l'être trompeur imaginé par Descartes ?", "r": "Le malin génie."},
+   {"q": "Comment appelle-t-on la séparation entre l'esprit et le corps chez Descartes ?", "r": "Le dualisme cartésien."},
+   {"q": "Quelle reine a fait venir Descartes à Stockholm ?", "r": "La reine Christine de Suède."},
+   {"q": "Quel outil mathématique porte le nom de Descartes ?", "r": "Le repère cartésien."}
+  ]
+ },
+ {
+  "id": "siecle-des-lumieres",
+  "categorie": "Philosophie",
+  "titre": "Le siècle des Lumières",
+  "intro": "Aujourd'hui, on parle du siècle des Lumières, ce grand mouvement d'idées du dix-huitième siècle qui a voulu éclairer le monde par la raison.",
+  "sections": [
+   {
+    "titre": "Ose savoir",
+    "texte": "Le mot lui-même est une image. Les penseurs du dix-huitième siècle ont l'impression de sortir d'une longue nuit, faite de superstitions, de préjugés et d'obéissance aveugle. Ils veulent apporter la lumière de la raison. Le philosophe allemand Emmanuel Kant résume l'esprit du mouvement en une devise latine, sapere aude, qu'on peut traduire par : ose savoir, aie le courage de te servir de ta propre intelligence. Les Lumières ne sont pas une école avec un chef, mais un vaste réseau européen : on les trouve en France, en Angleterre, en Écosse, en Allemagne, en Italie. Elles s'appuient sur les progrès scientifiques du siècle précédent, notamment ceux de Newton, qui a montré que l'univers obéit à des lois que l'esprit humain peut comprendre. Et si la nature a des lois, pourquoi pas la société ?"
+   },
+   {
+    "titre": "Voltaire et le combat pour la tolérance",
+    "texte": "Le plus célèbre des philosophes français des Lumières, c'est sans doute Voltaire, de son vrai nom François-Marie Arouet. Il a la plume la plus vive de son temps, drôle, piquante, impitoyable. Embastillé deux fois dans sa jeunesse, exilé en Angleterre, il en revient admiratif de la liberté qui y règne. Son grand combat, c'est la tolérance. En 1762, à Toulouse, un commerçant protestant, Jean Calas, est accusé à tort d'avoir tué son fils, et il est exécuté. Voltaire s'empare de l'affaire, mobilise l'opinion publique et obtient la réhabilitation de Calas trois ans plus tard. Il écrit aussi des contes philosophiques, comme Candide, où un jeune homme naïf traverse les pires catastrophes en répétant que tout va pour le mieux. La conclusion du livre est restée célèbre : il faut cultiver notre jardin."
+   },
+   {
+    "titre": "Montesquieu et Rousseau",
+    "texte": "Deux autres géants marquent la pensée politique. Montesquieu, magistrat bordelais, publie en 1748 De l'esprit des lois. Il y défend une idée qui va faire le tour du monde : pour éviter la tyrannie, il faut séparer les pouvoirs. Celui qui fait les lois, celui qui les applique et celui qui juge ne doivent pas être la même personne. Les constitutions modernes, à commencer par celle des États-Unis, s'en inspireront. Jean-Jacques Rousseau, lui, est né à Genève. Dans Du contrat social, il affirme que le pouvoir légitime vient du peuple, de ce qu'il appelle la volonté générale. Il ouvre son livre par une phrase choc : l'homme est né libre, et partout il est dans les fers. Rousseau est un personnage à part, souvent fâché avec les autres philosophes, à commencer par Voltaire."
+   },
+   {
+    "titre": "L'aventure de l'Encyclopédie",
+    "texte": "Le grand chantier des Lumières françaises, c'est l'Encyclopédie. Dirigée par Denis Diderot et, au début, par le mathématicien d'Alembert, elle paraît à partir de 1751. L'ambition est folle : rassembler tout le savoir humain, des sciences à la philosophie, en passant par les métiers les plus concrets. On y trouve des planches magnifiques montrant comment on fabrique des épingles, du verre ou du papier. Mettre l'artisan à côté du savant, c'était déjà une petite révolution. Plus de cent cinquante auteurs y participent. Le projet dérange, car certains articles critiquent discrètement l'Église et le pouvoir absolu. L'Encyclopédie est interdite à plusieurs reprises, et Diderot doit continuer le travail presque en cachette. Au total, il faudra plus de vingt ans pour publier les dix-sept volumes de texte et les onze volumes de planches."
+   },
+   {
+    "titre": "Des salons aux révolutions",
+    "texte": "Les idées des Lumières circulent dans les salons, où des femmes cultivées comme Madame Geoffrin reçoivent les philosophes, dans les cafés, et même à la cour de certains souverains. Frédéric le Grand, roi de Prusse, invite Voltaire, et l'impératrice Catherine la Grande achète la bibliothèque de Diderot. On parle alors de despotes éclairés. Mais l'héritage le plus spectaculaire, ce sont les révolutions. La Déclaration d'indépendance américaine de 1776, puis la Déclaration des droits de l'homme et du citoyen de 1789 en France reprennent directement leurs idées : liberté, égalité devant la loi, souveraineté du peuple, séparation des pouvoirs. Bien sûr, les Lumières ont aussi leurs angles morts, et beaucoup de leurs penseurs s'accommodaient encore de l'esclavage ou de l'inégalité des femmes. Mais l'idée que chacun a le droit de penser par lui-même, c'est un cadeau qu'elles nous ont laissé."
+   }
+  ],
+  "resume": "En résumé : au dix-huitième siècle, Voltaire, Montesquieu, Rousseau, Diderot et bien d'autres ont défendu la raison, la tolérance et la liberté, des idées qui ont inspiré les grandes révolutions.",
+  "quiz": [
+   {"q": "Quelle devise latine Kant donne-t-il aux Lumières ?", "r": "Sapere aude, ose savoir."},
+   {"q": "Quelle affaire judiciaire Voltaire a-t-il défendue ?", "r": "L'affaire Calas, un protestant exécuté à tort à Toulouse."},
+   {"q": "Quelle grande idée politique défend Montesquieu ?", "r": "La séparation des pouvoirs."},
+   {"q": "Qui a dirigé l'Encyclopédie ?", "r": "Denis Diderot, avec d'Alembert au début."},
+   {"q": "Quelle déclaration française de 1789 s'inspire des Lumières ?", "r": "La Déclaration des droits de l'homme et du citoyen."}
+  ]
+ },
+ {
+  "id": "sartre-camus-existentialisme",
+  "categorie": "Philosophie",
+  "titre": "Sartre, Camus et l'existentialisme",
+  "intro": "Aujourd'hui, on file dans le Paris de l'après-guerre, à Saint-Germain-des-Prés, pour parler de Jean-Paul Sartre, d'Albert Camus et de l'existentialisme.",
+  "sections": [
+   {
+    "titre": "Les cafés de Saint-Germain-des-Prés",
+    "texte": "Imagine Paris juste après la Seconde Guerre mondiale. Dans le quartier de Saint-Germain-des-Prés, les cafés comme le Café de Flore ou les Deux Magots sont pleins de jeunes gens qui discutent, fument, écoutent du jazz dans des caves enfumées. Le mot à la mode, c'est existentialisme. Tout le monde l'emploie, souvent sans savoir ce qu'il veut dire. Au centre de cette effervescence, un petit homme aux lunettes épaisses, Jean-Paul Sartre, et sa compagne, la philosophe Simone de Beauvoir. Ils écrivent souvent au café, parce qu'il y fait chaud, alors que leurs chambres d'hôtel ne sont pas toujours chauffées. Après les horreurs de la guerre, beaucoup se demandent quel sens donner à la vie. L'existentialisme propose une réponse exigeante : ce sens, personne ne nous le donne, c'est à nous de le créer."
+   },
+   {
+    "titre": "L'existence précède l'essence",
+    "texte": "La formule clé de Sartre, c'est : l'existence précède l'essence. Ça sonne compliqué, mais l'idée est simple. Prends un coupe-papier. Avant de le fabriquer, l'artisan sait déjà à quoi il servira. Son essence, sa définition, existe avant lui. Pour l'être humain, dit Sartre, c'est l'inverse. Nous venons au monde sans mode d'emploi, sans nature fixée à l'avance. D'abord on existe, ensuite on se définit par nos actes. Personne ne naît lâche ou héros : on le devient par ce qu'on fait. C'est ce qu'il explique en 1945 dans une conférence célèbre, L'existentialisme est un humanisme. Simone de Beauvoir prolonge cette réflexion sur la condition des femmes dans Le Deuxième Sexe, avec cette phrase restée fameuse : on ne naît pas femme, on le devient."
+   },
+   {
+    "titre": "Condamnés à être libres",
+    "texte": "Si nous ne sommes pas définis d'avance, alors nous sommes totalement libres. Mais pour Sartre, cette liberté n'est pas une partie de plaisir. Il dit même que l'homme est condamné à être libre. Condamné, parce qu'on ne peut pas y échapper : même ne pas choisir, c'est encore choisir. Et avec la liberté vient la responsabilité. Impossible de se cacher derrière son caractère, son éducation ou les circonstances. Sartre appelle mauvaise foi cette tendance à se raconter des histoires pour fuir sa liberté. Son exemple célèbre : un garçon de café qui joue un peu trop son rôle de garçon de café, avec des gestes trop appliqués, comme s'il n'était que cela. En 1964, Sartre reçoit le prix Nobel de littérature, et il le refuse, pour rester libre à l'égard de toute institution."
+   },
+   {
+    "titre": "Camus et l'absurde",
+    "texte": "Albert Camus, lui, est né en 1913 en Algérie, dans une famille très pauvre. Son père meurt à la guerre alors qu'il n'a pas un an, et sa mère, presque sourde, fait des ménages. C'est un instituteur qui repère son talent et l'aide à poursuivre ses études. Camus refusait d'ailleurs l'étiquette d'existentialiste. Sa grande idée, c'est l'absurde : l'homme cherche un sens, et le monde reste silencieux. Pour l'illustrer, il reprend le mythe de Sisyphe, condamné par les dieux à pousser éternellement un rocher en haut d'une montagne, d'où il retombe sans cesse. Faut-il désespérer ? Non. Camus conclut : il faut imaginer Sisyphe heureux. On retrouve ce thème dans son roman L'Étranger. En 1957, il reçoit le prix Nobel de littérature, à seulement quarante-quatre ans."
+   },
+   {
+    "titre": "Une amitié brisée",
+    "texte": "Sartre et Camus ont d'abord été amis. Ils se rencontrent en 1943, et Camus, qui dirige à la Libération le journal Combat, issu de la Résistance, est admiré de toute une génération. Mais en 1951, Camus publie L'Homme révolté, où il critique les révolutions qui justifient la violence au nom d'un avenir radieux, et notamment le régime soviétique. La revue de Sartre, Les Temps modernes, publie une critique sévère du livre, et la querelle éclate publiquement en 1952. Les deux hommes ne se réconcilieront jamais. Camus meurt brutalement en janvier 1960 dans un accident de voiture. Sartre lui rend alors un hommage émouvant. Au fond, les deux partageaient l'essentiel : dans un monde sans réponse toute faite, c'est à chacun de nous de donner un sens à sa vie, par ses choix et ses actes."
+   }
+  ],
+  "resume": "En résumé : pour Sartre, l'homme n'a pas de nature fixée et se définit par ses choix libres, tandis que Camus affronte l'absurde en invitant à imaginer Sisyphe heureux.",
+  "quiz": [
+   {"q": "Quelle est la formule clé de Sartre ?", "r": "L'existence précède l'essence."},
+   {"q": "Quelle phrase célèbre trouve-t-on dans Le Deuxième Sexe de Simone de Beauvoir ?", "r": "On ne naît pas femme, on le devient."},
+   {"q": "Qu'a fait Sartre du prix Nobel de littérature en 1964 ?", "r": "Il l'a refusé."},
+   {"q": "Quel personnage mythologique Camus utilise-t-il pour illustrer l'absurde ?", "r": "Sisyphe, qui pousse éternellement son rocher."},
+   {"q": "Quel livre de Camus a provoqué sa rupture avec Sartre ?", "r": "L'Homme révolté."}
+  ]
+ },
+ {
+  "id": "bouddhisme",
+  "categorie": "Religions",
+  "titre": "Le bouddhisme",
+  "intro": "Aujourd'hui, on parle du bouddhisme, une tradition spirituelle née en Inde il y a environ deux mille cinq cents ans, et qui compte aujourd'hui des centaines de millions de fidèles.",
+  "sections": [
+   {
+    "titre": "Le prince Siddhartha",
+    "texte": "Tout commence avec un homme, Siddhartha Gautama, né selon la tradition au sixième ou au cinquième siècle avant notre ère, à Lumbini, dans l'actuel Népal. Il est le fils d'un chef du clan des Shakya. La tradition raconte que son père, voulant le protéger de toute souffrance, l'élève dans un palais luxueux. Siddhartha se marie et a un fils. Mais un jour, lors de sorties hors du palais, il fait quatre rencontres qui le bouleversent : un vieillard, un malade, un cadavre, et enfin un moine errant au visage paisible. Il découvre ainsi la vieillesse, la maladie et la mort, qui attendent tout être humain. Vers vingt-neuf ans, il quitte tout, sa famille comme son confort, pour chercher une réponse à la souffrance. On appelle cet épisode le grand départ."
+   },
+   {
+    "titre": "L'Éveil sous l'arbre",
+    "texte": "Pendant six ans, Siddhartha suit des maîtres spirituels et pratique un ascétisme extrême. Il jeûne tellement, dit la tradition, qu'il ne mange presque plus rien et devient squelettique. Mais il comprend que se torturer ne mène pas plus à la libération que le luxe du palais. Il choisit alors une voie du milieu, entre les deux extrêmes. Il s'assoit sous un figuier, qu'on appelle depuis l'arbre de la Bodhi, à Bodh-Gaya, dans le nord-est de l'Inde, et il décide de méditer jusqu'à comprendre. Selon la tradition, au terme d'une nuit de méditation, il atteint l'Éveil. Il devient le Bouddha, un mot qui signifie justement l'Éveillé. Il passera ensuite environ quarante-cinq ans à enseigner sur les routes de l'Inde, jusqu'à sa mort vers l'âge de quatre-vingts ans."
+   },
+   {
+    "titre": "Les quatre nobles vérités",
+    "texte": "Le premier enseignement du Bouddha, prononcé dans un parc près de Bénarès, tient en ce qu'on appelle les quatre nobles vérités. On les compare souvent à la démarche d'un médecin. Première vérité, le constat de la maladie : l'existence comporte de la souffrance, de l'insatisfaction, même dans les moments heureux, car tout est passager. Deuxième vérité, la cause : cette souffrance vient de la soif, du désir, de l'attachement à ce qui ne dure pas. Troisième vérité, la guérison est possible : si l'on éteint cette soif, la souffrance cesse. C'est ce qu'on appelle le nirvana, un mot qui évoque l'extinction d'une flamme. Quatrième vérité, le remède : c'est le noble sentier octuple, huit pratiques qui concernent la compréhension et l'intention, la parole, l'action, les moyens d'existence, l'effort, l'attention et la concentration."
+   },
+   {
+    "titre": "Impermanence, karma et méditation",
+    "texte": "Plusieurs notions sont au cœur du bouddhisme. D'abord l'impermanence : rien ne dure, ni les choses, ni les émotions, ni nous-mêmes. Ensuite le karma, une idée déjà présente dans les traditions indiennes : nos actes intentionnels ont des conséquences, dans cette vie et au-delà. Le bouddhisme reprend aussi l'idée d'un cycle de renaissances, qu'on appelle le samsara, dont l'Éveil permet de sortir. Contrairement à ce qu'on croit parfois, le Bouddha n'est pas considéré comme un dieu créateur, mais comme un être humain qui a montré un chemin. La morale bouddhiste repose sur des préceptes comme ne pas tuer, ne pas voler, ne pas mentir. Et la méditation y occupe une place essentielle. La pleine conscience, très populaire aujourd'hui en Occident, s'inspire d'ailleurs directement de pratiques bouddhistes d'attention au moment présent."
+   },
+   {
+    "titre": "Un voyage à travers l'Asie",
+    "texte": "Après la mort du Bouddha, ses enseignements se répandent dans toute l'Asie. Au troisième siècle avant notre ère, l'empereur indien Ashoka, converti après une guerre sanglante dont il regrette les massacres, envoie des missionnaires dans de nombreuses régions. Au fil des siècles, plusieurs grandes branches se développent. Le bouddhisme theravada, qu'on trouve au Sri Lanka, en Thaïlande ou en Birmanie. Le bouddhisme mahayana, répandu en Chine, au Japon, en Corée et au Vietnam, avec notamment le zen japonais. Et le bouddhisme tibétain, dont le dalaï-lama est la figure la plus connue. Fait étonnant, le bouddhisme a presque disparu de son pays natal, l'Inde, pendant des siècles. Aujourd'hui, on estime qu'il compte environ cinq cents millions de fidèles dans le monde, et il attire aussi de nombreux Occidentaux."
+   }
+  ],
+  "resume": "En résumé : le bouddhisme est né de l'Éveil de Siddhartha Gautama, devenu le Bouddha, qui a enseigné comment se libérer de la souffrance par la sagesse, la morale et la méditation.",
+  "quiz": [
+   {"q": "Que signifie le mot Bouddha ?", "r": "L'Éveillé."},
+   {"q": "Sous quel arbre le Bouddha a-t-il atteint l'Éveil selon la tradition ?", "r": "Sous un figuier, l'arbre de la Bodhi, à Bodh-Gaya."},
+   {"q": "D'où vient la souffrance selon la deuxième noble vérité ?", "r": "De la soif, du désir et de l'attachement."},
+   {"q": "Comment s'appelle le cycle des renaissances ?", "r": "Le samsara."},
+   {"q": "Quel empereur indien a favorisé la diffusion du bouddhisme ?", "r": "L'empereur Ashoka."}
+  ]
+ },
+ {
+  "id": "religions-abrahamiques",
+  "categorie": "Religions",
+  "titre": "Judaïsme, christianisme, islam : racines communes",
+  "intro": "Aujourd'hui, on parle du judaïsme, du christianisme et de l'islam, trois religions distinctes qui partagent pourtant des racines communes et une figure fondatrice : Abraham.",
+  "sections": [
+   {
+    "titre": "Abraham, le père commun",
+    "texte": "Les trois religions ont un point de départ commun : la figure d'Abraham. C'est pour cela qu'on les appelle souvent les religions abrahamiques. Selon la Bible hébraïque, Abraham vivait en Mésopotamie, dans la ville d'Ur, quand Dieu lui demanda de quitter son pays pour une terre nouvelle, en lui promettant une descendance aussi nombreuse que les étoiles du ciel. Abraham est vu comme le premier à avoir placé toute sa confiance dans un Dieu unique. Il a deux fils. Isaac, le fils de sa femme Sarah, que la tradition juive considère comme l'ancêtre du peuple d'Israël. Et Ismaël, le fils d'Agar, que la tradition musulmane présente comme l'ancêtre de nombreux Arabes. Dans l'islam, Abraham s'appelle Ibrahim, et il est honoré comme un grand prophète et un modèle de foi."
+   },
+   {
+    "titre": "Le judaïsme",
+    "texte": "Le judaïsme est la plus ancienne des trois. Son cœur, c'est l'alliance entre Dieu et le peuple d'Israël. Après Abraham, une figure majeure est Moïse, qui, selon la tradition, fait sortir les Hébreux d'Égypte et reçoit les dix commandements sur le mont Sinaï. Le texte fondamental est la Torah, les cinq premiers livres de la Bible hébraïque, qui s'ouvre sur le récit de la création. Le judaïsme insiste sur l'unicité de Dieu, exprimée dans une prière centrale, le Shema Israël, qui proclame que Dieu est un. La vie religieuse est rythmée par le shabbat, jour de repos hebdomadaire qui commence le vendredi soir, et par des fêtes comme Pessah, qui commémore la sortie d'Égypte. On se réunit pour prier à la synagogue, et les rabbins y enseignent et interprètent la loi."
+   },
+   {
+    "titre": "Le christianisme",
+    "texte": "Le christianisme naît au premier siècle de notre ère, en Judée, autour de Jésus de Nazareth, un Juif qui prêche en Galilée. Ses disciples le reconnaissent comme le Messie, le Christ, c'est-à-dire celui qui a reçu l'onction, et comme le Fils de Dieu. Il est crucifié à Jérusalem sous l'autorité romaine, et ses disciples affirment qu'il est ressuscité le troisième jour, ce que les chrétiens célèbrent à Pâques. Les chrétiens croient en un Dieu unique en trois personnes, le Père, le Fils et le Saint-Esprit : c'est la Trinité. Leur Bible réunit l'Ancien Testament, qui reprend la Bible hébraïque, et le Nouveau Testament, avec notamment les quatre Évangiles. Au fil de l'histoire, le christianisme s'est divisé en plusieurs grandes branches, catholique, orthodoxe et protestante."
+   },
+   {
+    "titre": "L'islam",
+    "texte": "L'islam apparaît au septième siècle de notre ère, dans la péninsule Arabique. Selon la tradition musulmane, le prophète Mahomet, Muhammad en arabe, reçoit à partir de l'an 610 la révélation de Dieu, Allah en arabe, par l'intermédiaire de l'ange Gabriel, alors qu'il médite dans une grotte près de La Mecque. Ces révélations forment le Coran, le livre saint de l'islam. Les musulmans considèrent Mahomet comme le dernier des prophètes, après Abraham, Moïse et Jésus, qu'ils honorent également. La pratique repose sur cinq piliers : la profession de foi, les cinq prières quotidiennes, l'aumône, le jeûne du mois de ramadan et, pour ceux qui le peuvent, le pèlerinage à La Mecque. L'islam compte deux grandes branches, le sunnisme, majoritaire, et le chiisme. Les fidèles se rassemblent notamment pour prier à la mosquée."
+   },
+   {
+    "titre": "Ce qui les rapproche",
+    "texte": "Au-delà de leurs différences, réelles et importantes, ces trois religions partagent beaucoup. D'abord le monothéisme, la croyance en un seul Dieu, créateur du monde. Ensuite, l'idée d'un Dieu qui se révèle aux humains et leur parle à travers des prophètes. On retrouve dans leurs textes de nombreux personnages communs : Adam et Ève, Noé et le déluge, Abraham, Moïse, David. Marie, la mère de Jésus, est même mentionnée plus souvent dans le Coran que dans le Nouveau Testament, et un chapitre du Coran porte son nom. Les trois accordent une grande place à la prière, à la justice et à l'attention aux plus pauvres. Elles partagent aussi des lieux sacrés, en particulier Jérusalem. On parle parfois des gens du Livre, une expression de la tradition musulmane pour désigner les juifs et les chrétiens."
+   }
+  ],
+  "resume": "En résumé : judaïsme, christianisme et islam se rattachent tous à Abraham et partagent la croyance en un Dieu unique, de nombreux personnages et des valeurs communes, tout en ayant chacun leur identité propre.",
+  "quiz": [
+   {"q": "Pourquoi parle-t-on de religions abrahamiques ?", "r": "Parce qu'elles se rattachent toutes à la figure d'Abraham."},
+   {"q": "Comment s'appellent les cinq premiers livres de la Bible hébraïque ?", "r": "La Torah."},
+   {"q": "Comment s'appelle la croyance chrétienne en un Dieu en trois personnes ?", "r": "La Trinité."},
+   {"q": "Combien l'islam compte-t-il de piliers ?", "r": "Cinq piliers."},
+   {"q": "Quelle ville est sacrée pour les trois religions ?", "r": "Jérusalem."}
+  ]
+ },
+ {
+  "id": "impressionnisme",
+  "categorie": "Arts",
+  "titre": "L'impressionnisme",
+  "intro": "Aujourd'hui, on parle de l'impressionnisme, ce mouvement de peinture qui a fait scandale au dix-neuvième siècle avant de devenir l'un des plus aimés au monde.",
+  "sections": [
+   {
+    "titre": "Le règne du Salon",
+    "texte": "Pour comprendre l'impressionnisme, il faut imaginer le monde de l'art en France vers 1860. Tout tourne autour du Salon, une grande exposition officielle à Paris. Un jury très conservateur y décide de ce qui est beau. Ce qu'il aime, ce sont les grands tableaux d'histoire, les scènes mythologiques, les portraits soignés, peints en atelier avec une finition lisse, où l'on ne voit pas le coup de pinceau. Les jeunes peintres qui veulent faire autrement sont refusés. En 1863, il y a tant de refusés que l'empereur autorise une exposition à part, le Salon des refusés. On y voit le Déjeuner sur l'herbe d'Édouard Manet, qui scandalise le public : une femme nue pique-nique tranquillement avec deux hommes tout habillés. Manet devient malgré lui le grand frère de la future génération impressionniste."
+   },
+   {
+    "titre": "Un nom né d'une moquerie",
+    "texte": "En 1874, un groupe de jeunes artistes en a assez d'attendre l'approbation du jury. Ils organisent leur propre exposition, dans l'ancien atelier du photographe Nadar, boulevard des Capucines à Paris. Parmi eux, Claude Monet, Auguste Renoir, Edgar Degas, Camille Pissarro, Alfred Sisley, Paul Cézanne et Berthe Morisot. Monet expose une petite toile représentant le port du Havre au lever du jour, dans la brume, avec un soleil orange. Il l'a intitulée Impression, soleil levant. Un critique, Louis Leroy, s'en moque dans un journal satirique et appelle tout le groupe les impressionnistes, pour dire qu'ils ne savent pas finir leurs tableaux. Le mot, lancé comme une insulte, est finalement adopté par les peintres eux-mêmes. Comme souvent dans l'histoire de l'art, la moquerie a fini par devenir un titre de gloire."
+   },
+   {
+    "titre": "Peindre la lumière",
+    "texte": "Qu'est-ce qui rend ces tableaux si nouveaux ? D'abord, les impressionnistes peignent souvent en plein air, directement devant le paysage. Cela devient plus facile grâce à une invention toute simple : le tube de peinture en métal, qu'on peut emporter partout. Ensuite, ils ne cherchent plus à dessiner des contours nets. Ils veulent saisir une impression fugace, la lumière à un instant précis, le reflet du soleil sur l'eau, le frémissement des feuilles. Pour cela, ils posent la couleur en petites touches rapides, bien visibles, côte à côte. De près, on ne voit que des taches. De loin, l'œil reconstitue la scène, et tout semble vibrer. Ils éclaircissent aussi leur palette : les ombres ne sont plus noires, mais bleues ou violettes. Les sujets changent également : guinguettes, gares, canotiers, boulevards, toute la vie moderne."
+   },
+   {
+    "titre": "Des personnalités très différentes",
+    "texte": "Chaque impressionniste a sa personnalité. Claude Monet est le plus fidèle à l'idée de départ. Il peint des séries entières du même motif à différentes heures, comme la cathédrale de Rouen ou les meules de foin, pour montrer comment la lumière transforme tout. À la fin de sa vie, dans son jardin de Giverny, il peint inlassablement son bassin aux nymphéas. Auguste Renoir aime les visages, les fêtes et la joie de vivre, comme dans le Bal du moulin de la Galette. Edgar Degas préfère l'atelier et se passionne pour le mouvement des danseuses de l'Opéra et des chevaux de course. Berthe Morisot, l'une des rares femmes du groupe, peint avec délicatesse la vie intime des femmes et des enfants. Quant à Camille Pissarro, le doyen du groupe, il est le seul à avoir participé aux huit expositions impressionnistes."
+   },
+   {
+    "titre": "Du scandale à la gloire",
+    "texte": "Au début, la critique et le public se moquent copieusement. Certains visiteurs ricanent devant les toiles, et les peintres vivent souvent dans une grande pauvreté. Monet a parfois du mal à nourrir sa famille. Peu à peu pourtant, grâce notamment au marchand Paul Durand-Ruel, qui croit en eux et les expose jusqu'à New York, leurs œuvres trouvent des acheteurs. L'impressionnisme ouvre la porte à toute la peinture moderne. Après lui viennent Van Gogh, Gauguin, Seurat et ses petits points de couleur, tandis que Cézanne, s'éloignant du groupe, prépare le terrain du cubisme. Aujourd'hui, la situation s'est complètement inversée : ces tableaux autrefois raillés sont parmi les plus admirés et les plus chers du monde. À Paris, le musée d'Orsay, installé dans une ancienne gare, abrite l'une des plus belles collections impressionnistes."
+   }
+  ],
+  "resume": "En résumé : rejetés par le Salon officiel, Monet, Renoir, Degas, Morisot et leurs amis ont inventé une peinture de plein air, en touches visibles, pour saisir la lumière de l'instant.",
+  "quiz": [
+   {"q": "Quel tableau de Monet a donné son nom au mouvement ?", "r": "Impression, soleil levant."},
+   {"q": "En quelle année a eu lieu la première exposition impressionniste ?", "r": "En 1874."},
+   {"q": "Quelle invention a facilité la peinture en plein air ?", "r": "Le tube de peinture en métal."},
+   {"q": "Quel peintre impressionniste est célèbre pour ses danseuses ?", "r": "Edgar Degas."},
+   {"q": "Dans quel musée parisien voit-on une grande collection impressionniste ?", "r": "Au musée d'Orsay."}
+  ]
+ },
+ {
+  "id": "bach-mozart-beethoven",
+  "categorie": "Arts",
+  "titre": "Bach, Mozart, Beethoven",
+  "intro": "Aujourd'hui, on parle de trois géants de la musique classique, Bach, Mozart et Beethoven : trois vies très différentes et trois façons de changer la musique pour toujours.",
+  "sections": [
+   {
+    "titre": "Bach, le travailleur infatigable",
+    "texte": "Jean-Sébastien Bach naît en 1685 à Eisenach, en Allemagne, dans une famille où l'on est musicien de père en fils depuis des générations. Orphelin à dix ans, il est recueilli par son frère aîné, organiste, qui lui apprend le métier. On raconte que le jeune Jean-Sébastien recopiait la nuit, au clair de lune, des partitions que son frère lui interdisait de toucher. Bach passe toute sa vie en Allemagne, au service de princes ou d'églises. À partir de 1723, il est cantor de l'église Saint-Thomas de Leipzig, où il doit composer de la musique pour les offices, semaine après semaine. Il a eu vingt enfants de deux mariages, et plusieurs de ses fils deviendront eux aussi compositeurs. Profondément croyant, il terminait souvent ses partitions par une dédicace à la gloire de Dieu."
+   },
+   {
+    "titre": "Le maître du contrepoint",
+    "texte": "La musique de Bach est un sommet de ce qu'on appelle la période baroque. Il est le grand maître du contrepoint, l'art de superposer plusieurs mélodies indépendantes qui s'entrelacent parfaitement, comme dans ses fugues. Parmi ses chefs-d'œuvre, il y a la Passion selon saint Matthieu, les Concertos brandebourgeois, les Suites pour violoncelle seul, et le Clavier bien tempéré, un recueil de préludes et fugues que les pianistes travaillent encore aujourd'hui. Pourtant, de son vivant, Bach est surtout reconnu comme un organiste virtuose, et après sa mort, en 1750, sa musique passe pour démodée. Elle tombe en partie dans l'oubli. Il faudra attendre 1829, quand le jeune compositeur Felix Mendelssohn dirige à Berlin la Passion selon saint Matthieu, pour que le grand public redécouvre son génie."
+   },
+   {
+    "titre": "Mozart, l'enfant prodige",
+    "texte": "Wolfgang Amadeus Mozart naît en 1756 à Salzbourg, en Autriche. C'est l'enfant prodige par excellence. Tout petit, il joue déjà du clavecin, et à cinq ans, il compose ses premières pièces. Son père, Leopold, lui-même musicien, l'emmène avec sa sœur Nannerl dans une grande tournée à travers l'Europe. Le petit Wolfgang joue devant les cours royales, parfois les touches recouvertes d'un tissu, pour épater le public. À quatorze ans, à Rome, il entend un célèbre Miserere chanté à la chapelle Sixtine, dont la partition est jalousement gardée. De retour chez lui, il le réécrit entièrement de mémoire. Adulte, il se brouille avec l'archevêque de Salzbourg, son employeur, et s'installe à Vienne comme musicien indépendant, un choix très audacieux à l'époque."
+   },
+   {
+    "titre": "La grâce de Mozart",
+    "texte": "En à peine trente-cinq ans de vie, Mozart compose plus de six cents œuvres, dans tous les genres. Des symphonies, des concertos pour piano, de la musique de chambre, et surtout des opéras inoubliables, comme Les Noces de Figaro, Don Giovanni ou La Flûte enchantée. Sa musique semble couler de source, élégante, limpide, et pourtant d'une profondeur étonnante. C'est le grand représentant du style classique, avec son ami Joseph Haydn. Mais sa vie à Vienne est difficile : certaines années, il gagne bien sa vie, mais il dépense beaucoup et accumule les dettes. Il meurt en 1791, à trente-cinq ans, alors qu'il travaille sur un Requiem, une messe des morts commandée par un mystérieux inconnu. Contrairement à la légende popularisée par le film Amadeus, rien ne prouve que son rival Salieri l'ait empoisonné."
+   },
+   {
+    "titre": "Beethoven, le génie sourd",
+    "texte": "Ludwig van Beethoven naît en 1770 à Bonn, en Allemagne. Jeune homme, il part pour Vienne, où il prend des leçons auprès de Haydn. Il se fait d'abord connaître comme un pianiste fougueux, capable d'improviser de façon stupéfiante. Mais vers la fin de sa vingtaine, un drame commence : il devient sourd, peu à peu. Pour un musicien, c'est une catastrophe. Il songe même à mourir, puis décide de continuer à créer. Dans ses dernières années, presque totalement sourd, il compose de tête, en entendant la musique à l'intérieur. Sa Neuvième Symphonie, avec son final chanté, l'Ode à la joie, est devenue l'hymne de l'Union européenne. Lors de sa création, en 1824, il fallut, dit-on, le retourner vers le public pour qu'il voie les applaudissements. Beethoven fait le pont entre le classicisme et le romantisme."
+   }
+  ],
+  "resume": "En résumé : Bach a porté la musique baroque à son sommet, Mozart a incarné la grâce du style classique, et Beethoven, malgré sa surdité, a ouvert la voie au romantisme.",
+  "quiz": [
+   {"q": "Dans quelle ville Bach a-t-il été cantor à partir de 1723 ?", "r": "À Leipzig, à l'église Saint-Thomas."},
+   {"q": "Qui a fait redécouvrir Bach au public en 1829 ?", "r": "Le compositeur Felix Mendelssohn."},
+   {"q": "Quelle œuvre Mozart a-t-il réécrite de mémoire à quatorze ans ?", "r": "Un Miserere chanté à la chapelle Sixtine."},
+   {"q": "Sur quelle œuvre Mozart travaillait-il au moment de sa mort ?", "r": "Sur son Requiem."},
+   {"q": "Quel passage de la Neuvième Symphonie de Beethoven est devenu l'hymne européen ?", "r": "L'Ode à la joie."}
+  ]
+ },
+ {
+  "id": "histoire-du-cinema",
+  "categorie": "Arts",
+  "titre": "Une brève histoire du cinéma",
+  "intro": "Aujourd'hui, on parle du cinéma, de la toute première projection publique à Paris jusqu'aux images numériques d'aujourd'hui, en un peu plus d'un siècle d'histoire.",
+  "sections": [
+   {
+    "titre": "La première séance des frères Lumière",
+    "texte": "Tout commence le 28 décembre 1895, à Paris, au Salon indien du Grand Café, boulevard des Capucines. Ce soir-là, les frères Auguste et Louis Lumière, des industriels lyonnais, organisent la première projection publique et payante de leur invention, le cinématographe. Une trentaine de spectateurs découvrent une dizaine de courts films, dont La Sortie de l'usine Lumière à Lyon. Chaque film dure moins d'une minute. Une légende tenace raconte que, lors des projections de L'Arrivée d'un train en gare de La Ciotat, les spectateurs se seraient levés, terrifiés, en voyant la locomotive foncer vers eux. C'est sans doute exagéré, mais l'émotion était bien réelle. Les Lumière ne sont pas les seuls inventeurs : aux États-Unis, Thomas Edison avait déjà mis au point un appareil, mais on y regardait les images seul, l'œil collé à une boîte."
+   },
+   {
+    "titre": "Méliès et l'époque du muet",
+    "texte": "Parmi les spectateurs fascinés de ces premières séances, il y a un illusionniste, Georges Méliès. Il comprend vite que le cinéma peut faire bien plus que filmer la réalité : il peut faire rêver. Il invente des trucages, des apparitions, des disparitions, et réalise en 1902 Le Voyage dans la Lune, avec cette image célèbre d'une fusée plantée dans l'œil de la Lune. Le cinéma devient un art du spectacle. Pendant une trentaine d'années, il reste muet. Les dialogues s'affichent sur des cartons, et un pianiste, parfois un orchestre, accompagne la projection dans la salle. C'est l'époque des grands comiques, comme Charlie Chaplin et son personnage de Charlot, petit vagabond au chapeau melon et à la canne, ou Buster Keaton, l'homme qui ne sourit jamais, qui réalise lui-même des cascades incroyables."
+   },
+   {
+    "titre": "Le parlant et l'âge d'or d'Hollywood",
+    "texte": "En 1927, un film américain fait sensation : Le Chanteur de jazz. Pour la première fois dans un long métrage, on entend un acteur chanter et prononcer quelques phrases synchronisées avec l'image. En quelques années, le cinéma parlant remplace le muet. Certaines vedettes, dont la voix passe mal au micro, voient leur carrière s'effondrer. C'est aussi l'âge d'or d'Hollywood, près de Los Angeles. Les grands studios fonctionnent comme des usines à rêves, avec leurs stars sous contrat. La couleur se développe, notamment grâce au procédé Technicolor. En 1939 sortent deux films mythiques en couleur, Autant en emporte le vent et Le Magicien d'Oz. Et en 1941, le jeune Orson Welles, à peine vingt-cinq ans, réalise Citizen Kane, souvent cité comme l'un des plus grands films de tous les temps."
+   },
+   {
+    "titre": "Néoréalisme et Nouvelle Vague",
+    "texte": "Après la Seconde Guerre mondiale, le cinéma se réinvente en Europe. En Italie, le néoréalisme filme la vie des gens ordinaires dans les rues dévastées, comme dans Le Voleur de bicyclette de Vittorio De Sica. En France, à la fin des années cinquante, de jeunes critiques de la revue les Cahiers du cinéma passent derrière la caméra. C'est la Nouvelle Vague. François Truffaut réalise Les Quatre Cents Coups, Jean-Luc Godard À bout de souffle. Ils tournent dans la rue, avec des caméras légères, peu d'argent, des acteurs souvent inconnus, et une grande liberté de ton. Ils défendent l'idée que le réalisateur est un véritable auteur, comme un écrivain. À la même époque, les Japonais Akira Kurosawa et Yasujiro Ozu sont reconnus dans le monde entier, et en Inde, Satyajit Ray signe des chefs-d'œuvre."
+   },
+   {
+    "titre": "Des blockbusters au numérique",
+    "texte": "À partir des années soixante-dix, Hollywood invente le film à grand spectacle, qu'on appelle blockbuster. Les Dents de la mer de Steven Spielberg, en 1975, puis La Guerre des étoiles de George Lucas, en 1977, battent tous les records et lancent l'ère des effets spéciaux. Dans les années quatre-vingt-dix, l'image de synthèse fait une entrée fracassante, avec les dinosaures de Jurassic Park, puis Toy Story, premier long métrage entièrement réalisé en images de synthèse, en 1995. Le numérique remplace peu à peu la pellicule, d'abord au tournage, puis dans les salles. Aujourd'hui, les plateformes de diffusion en ligne bousculent les habitudes, et l'on regarde de plus en plus de films à la maison, sur un téléviseur ou même sur un téléphone. Pourtant, la magie de la salle obscure, partagée avec des inconnus, continue d'attirer le public."
+   }
+  ],
+  "resume": "En résumé : né en 1895 avec les frères Lumière, le cinéma est passé du muet au parlant, de l'âge d'or d'Hollywood à la Nouvelle Vague, puis des effets spéciaux au numérique.",
+  "quiz": [
+   {"q": "Qui a organisé la première projection publique et payante de cinéma en 1895 ?", "r": "Les frères Auguste et Louis Lumière."},
+   {"q": "Quel film de Méliès montre une fusée dans l'œil de la Lune ?", "r": "Le Voyage dans la Lune."},
+   {"q": "Quel film de 1927 a lancé le cinéma parlant ?", "r": "Le Chanteur de jazz."},
+   {"q": "Quel mouvement français réunit Truffaut et Godard ?", "r": "La Nouvelle Vague."},
+   {"q": "Quel est le premier long métrage entièrement en images de synthèse ?", "r": "Toy Story, sorti en 1995."}
+  ]
+ },
+ {
+  "id": "mythes-grecs",
+  "categorie": "Culture",
+  "titre": "Les grands mythes grecs",
+  "intro": "Aujourd'hui, on parle des grands mythes grecs, ces histoires de dieux, de héros et de monstres qui continuent, des millénaires plus tard, à nourrir notre langue et notre imaginaire.",
+  "sections": [
+   {
+    "titre": "Du Chaos à l'Olympe",
+    "texte": "Pour les anciens Grecs, au commencement il y avait le Chaos, un vide immense. Puis apparaît Gaïa, la Terre, qui donne naissance à Ouranos, le Ciel. De leur union naissent les Titans. Le plus jeune, Cronos, renverse son père et prend le pouvoir. Mais une prophétie lui annonce qu'un de ses enfants le détrônera à son tour. Alors, à chaque naissance, il avale le bébé. Sa femme, Rhéa, finit par ruser : à la place du petit dernier, Zeus, elle lui donne une pierre enveloppée dans des langes. Zeus grandit caché en Crète, puis revient, force Cronos à recracher ses frères et sœurs, et mène contre les Titans une guerre terrible. Victorieux, il s'installe avec les autres dieux sur le mont Olympe et devient le roi des dieux, maître du ciel et de la foudre."
+   },
+   {
+    "titre": "Prométhée et Pandore",
+    "texte": "Parmi les Titans, il y en a un qui aime particulièrement les humains : Prométhée. Selon le mythe, il vole le feu aux dieux pour l'offrir aux hommes, et avec lui la possibilité de développer les techniques et la civilisation. Zeus est furieux. Il fait enchaîner Prométhée sur un rocher du Caucase, où un aigle vient chaque jour lui dévorer le foie, qui repousse chaque nuit. Pour punir aussi les humains, Zeus fait façonner la première femme, Pandore, ornée de tous les dons par les dieux. On lui confie une jarre, devenue une boîte dans les récits plus tardifs, qu'elle ne doit surtout pas ouvrir. Évidemment, la curiosité l'emporte. Elle soulève le couvercle, et tous les maux s'échappent sur la Terre, la maladie, la vieillesse, la misère. Seule l'espérance reste au fond. D'où l'expression ouvrir la boîte de Pandore."
+   },
+   {
+    "titre": "Héraclès et Thésée",
+    "texte": "Les mythes grecs sont aussi peuplés de héros. Le plus célèbre est Héraclès, que les Romains appelleront Hercule, fils de Zeus et d'une mortelle. Pour expier un crime commis dans un accès de folie provoqué par la déesse Héra, il doit accomplir douze travaux. Il étouffe le lion de Némée, terrasse l'hydre de Lerne, dont les têtes repoussent quand on les coupe, et va même chercher Cerbère, le chien à trois têtes qui garde les Enfers. Autre héros, Thésée, prince d'Athènes. En Crète, le roi Minos enferme dans un labyrinthe le Minotaure, un monstre mi-homme mi-taureau qui dévore des jeunes Athéniens. Thésée le tue, puis ressort du labyrinthe grâce au fil que lui a donné Ariane, la fille du roi. D'où l'expression le fil d'Ariane, pour désigner ce qui nous guide."
+   },
+   {
+    "titre": "La guerre de Troie et Ulysse",
+    "texte": "Le plus grand récit de la mythologie, c'est la guerre de Troie. Tout commence par une pomme d'or, destinée à la plus belle des déesses. Le prince troyen Pâris l'offre à Aphrodite, qui en échange l'aide à enlever Hélène, la femme du roi de Sparte. Les Grecs assiègent alors Troie pendant dix ans. On y croise Achille, guerrier presque invincible, dont le seul point faible est le talon. D'où l'expression talon d'Achille. Finalement, le rusé Ulysse imagine un stratagème : un immense cheval de bois, abandonné devant la ville, dans lequel se cachent des soldats. Les Troyens le font entrer, et la ville tombe. Le retour d'Ulysse chez lui, à Ithaque, durera encore dix ans, à travers mille aventures, face au cyclope ou aux sirènes. C'est le sujet de l'Odyssée, attribuée au poète Homère."
+   },
+   {
+    "titre": "Des mythes toujours vivants",
+    "texte": "Ces mythes ne sont pas seulement de belles histoires. Pour les Grecs, ils expliquaient le monde, les saisons, les passions humaines. Le mythe de Perséphone, enlevée par Hadès, dieu des Enfers, raconte par exemple pourquoi la nature semble mourir en hiver : sa mère Déméter, déesse des moissons, pleure son absence. Ces récits ont traversé les siècles et imprègnent encore notre langage. On parle d'un travail de Titan, d'un supplice de Tantale, d'une voix de stentor, ou d'un caractère narcissique, du nom de Narcisse, ce jeune homme tombé amoureux de son propre reflet. Les peintres, les poètes, les psychanalystes et les cinéastes y ont puisé sans fin. Et même l'espace s'en souvient : le programme américain qui a emmené des hommes sur la Lune s'appelait Apollo, et la plupart des planètes portent des noms de dieux, dans leur version romaine."
+   }
+  ],
+  "resume": "En résumé : des Titans à Zeus, de Prométhée à Ulysse, les mythes grecs racontent l'origine du monde et les exploits des héros, et ils vivent encore dans nos expressions de tous les jours.",
+  "quiz": [
+   {"q": "Quel Titan avalait ses enfants à leur naissance ?", "r": "Cronos."},
+   {"q": "Qu'a volé Prométhée aux dieux pour l'offrir aux hommes ?", "r": "Le feu."},
+   {"q": "Grâce à quoi Thésée sort-il du labyrinthe ?", "r": "Grâce au fil d'Ariane."},
+   {"q": "Quel stratagème a permis aux Grecs de prendre Troie ?", "r": "Le cheval de bois imaginé par Ulysse."},
+   {"q": "Quel est le point faible d'Achille ?", "r": "Son talon."}
+  ]
+ }
+]

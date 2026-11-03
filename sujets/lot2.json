@@ -1,0 +1,362 @@
+[
+ {
+  "id": "coeur-circulation",
+  "categorie": "Corps humain",
+  "titre": "Le cœur et la circulation sanguine",
+  "intro": "Aujourd'hui, on parle du cœur et de la circulation sanguine. Une pompe infatigable et un réseau de tuyaux bien plus long que tu ne l'imagines.",
+  "sections": [
+   {
+    "titre": "Une pompe qui ne s'arrête jamais",
+    "texte": "Ton cœur a à peu près la taille de ton poing fermé. Il pèse environ trois cents grammes, et pourtant il travaille sans pause depuis avant ta naissance. Au repos, il bat autour de soixante à quatre-vingts fois par minute. Ça fait environ cent mille battements par jour, et plus de deux milliards et demi sur une vie entière. À chaque battement, il propulse du sang dans tout le corps. Au repos, il fait circuler environ cinq litres de sang par minute, c'est-à-dire à peu près tout le sang que contient un adulte. Pendant un effort intense, ce débit peut être multiplié par quatre ou cinq. Et le plus étonnant, c'est que tu n'as jamais besoin d'y penser. Pendant que tu conduis, il fait son travail en silence, battement après battement."
+   },
+   {
+    "titre": "Quatre cavités, deux circuits",
+    "texte": "Le cœur est divisé en deux moitiés, la droite et la gauche, et chacune a deux cavités : une oreillette en haut, qui reçoit le sang, et un ventricule en bas, qui l'expulse. En réalité, ton sang fait deux voyages en boucle. Le côté droit envoie le sang pauvre en oxygène vers les poumons. Là, il se débarrasse du gaz carbonique et se recharge en oxygène. Il revient ensuite au côté gauche, qui le propulse vers tout le reste du corps, des orteils jusqu'au cerveau. C'est pour ça que le ventricule gauche a une paroi bien plus épaisse : il doit pousser beaucoup plus fort. Entre les cavités, des valves jouent le rôle de portes à sens unique. Le fameux bruit du cœur, ce boum-boum, c'est justement le son de ces valves qui se ferment."
+   },
+   {
+    "titre": "Un réseau de tuyaux gigantesque",
+    "texte": "Le sang voyage dans trois grandes familles de vaisseaux. Les artères partent du cœur et transportent le sang sous pression. Les veines le ramènent vers le cœur. Et entre les deux, il y a les capillaires, des tuyaux si fins que les globules rouges doivent s'y faufiler presque à la file indienne. C'est dans ces capillaires que se font les échanges : l'oxygène et les nutriments passent vers les cellules, et les déchets repartent. Si on mettait bout à bout tous les vaisseaux sanguins d'un adulte, on obtiendrait une longueur estimée à des dizaines de milliers de kilomètres, assez pour faire au moins une fois le tour de la Terre. Dans les veines des jambes, de petites valves empêchent le sang de redescendre, et les muscles des mollets aident à le remonter à chaque pas."
+   },
+   {
+    "titre": "Le sang, un liquide vivant",
+    "texte": "Un adulte possède environ cinq litres de sang. Un peu plus de la moitié, c'est du plasma, un liquide jaunâtre composé surtout d'eau. Le reste, ce sont des cellules. Les globules rouges sont de loin les plus nombreux. Ils contiennent l'hémoglobine, une protéine riche en fer qui capte l'oxygène et donne au sang sa couleur rouge. Chaque globule rouge vit environ quatre mois avant d'être recyclé, et ton corps en fabrique des millions chaque seconde, dans la moelle des os. Les globules blancs, eux, sont les soldats de ton système immunitaire. Ils patrouillent et attaquent les intrus. Enfin, les plaquettes sont de minuscules fragments qui se précipitent sur une blessure pour former un bouchon. C'est grâce à elles qu'une petite coupure arrête de saigner au bout de quelques minutes."
+   },
+   {
+    "titre": "Un chef d'orchestre électrique",
+    "texte": "Pendant des siècles, on a cru que le sang était produit par le foie puis consommé par les organes. C'est le médecin anglais William Harvey qui, en 1628, a démontré que le sang circule en boucle fermée, propulsé par le cœur. Une vraie révolution. Autre fait fascinant : le cœur possède son propre générateur électrique. Dans la paroi de l'oreillette droite, un petit groupe de cellules envoie une impulsion régulière qui déclenche chaque contraction. Le cœur peut donc battre même sans recevoir d'ordre du cerveau. C'est d'ailleurs pour ça qu'un cœur transplanté se remet à battre dans son nouveau corps. Le cerveau, lui, se contente d'accélérer ou de ralentir le rythme, selon que tu as peur, que tu cours ou que tu te reposes tranquillement."
+   }
+  ],
+  "resume": "En résumé : le cœur est une double pompe qui envoie le sang vers les poumons puis vers tout le corps, à travers un immense réseau d'artères, de veines et de capillaires, le tout rythmé par son propre générateur électrique.",
+  "quiz": [
+   {"q": "Combien de fois environ le cœur bat-il par jour ?", "r": "Environ cent mille fois par jour."},
+   {"q": "Où le côté droit du cœur envoie-t-il le sang ?", "r": "Vers les poumons, pour qu'il se recharge en oxygène."},
+   {"q": "Quelle protéine des globules rouges transporte l'oxygène ?", "r": "L'hémoglobine, une protéine riche en fer."},
+   {"q": "Qui a démontré la circulation du sang en boucle fermée, et quand ?", "r": "William Harvey, en 1628."},
+   {"q": "Pourquoi un cœur peut-il battre sans ordre du cerveau ?", "r": "Parce qu'il possède son propre générateur électrique dans l'oreillette droite."}
+  ]
+ },
+ {
+  "id": "pourquoi-dormir",
+  "categorie": "Corps humain",
+  "titre": "Pourquoi on dort",
+  "intro": "Aujourd'hui, on parle du sommeil. On passe environ un tiers de notre vie à dormir, alors voyons ce qui se passe vraiment pendant ces heures-là.",
+  "sections": [
+   {
+    "titre": "Un tiers de notre vie",
+    "texte": "Si tu vis quatre-vingt-dix ans, tu en passeras à peu près trente à dormir. Ça paraît énorme, presque du temps perdu. Pourtant, tous les animaux étudiés dorment ou ont une forme de repos, des mouches jusqu'aux baleines. Certains font même preuve d'une ingéniosité étonnante. Les dauphins dorment avec une seule moitié du cerveau à la fois, pour continuer à nager et à remonter respirer. Si l'évolution a conservé un comportement aussi risqué, où l'on est vulnérable aux prédateurs, c'est qu'il doit être absolument vital. Et c'est le cas. Les chercheurs ont découvert que le sommeil n'est pas un simple arrêt. C'est une période d'intense activité, pendant laquelle le cerveau et le corps accomplissent des tâches qu'ils ne peuvent pas faire pendant l'éveil."
+   },
+   {
+    "titre": "Les cycles de la nuit",
+    "texte": "Une nuit de sommeil n'est pas uniforme. Elle est faite de cycles d'environ une heure et demie, qui se répètent quatre à six fois. Chaque cycle commence par un sommeil léger, puis plonge vers le sommeil lent profond. Dans cette phase, ton cerveau produit de grandes ondes lentes, et il est très difficile de te réveiller. Ensuite vient le sommeil paradoxal. On l'appelle ainsi car le cerveau y est presque aussi actif qu'à l'éveil, alors que les muscles sont paralysés. C'est la phase des rêves les plus vivants, et cette paralysie t'empêche de les mimer. Le chercheur français Michel Jouvet a beaucoup étudié ce sommeil paradoxal dans les années 1950 et 1960. En début de nuit, le sommeil profond domine. Au petit matin, c'est le sommeil paradoxal qui prend plus de place."
+   },
+   {
+    "titre": "Le grand ménage du cerveau",
+    "texte": "Pendant la journée, ton cerveau travaille dur, et comme toute usine, il produit des déchets. En 2013, une équipe de chercheuses et de chercheurs menée par la neuroscientifique Maiken Nedergaard a montré, chez la souris, quelque chose de spectaculaire. Pendant le sommeil, l'espace entre les cellules du cerveau s'agrandit, et le liquide qui baigne le cerveau circule beaucoup plus vite pour emporter les déchets. On a baptisé ce système le système glymphatique. Parmi les déchets évacués, il y a certaines protéines qui, lorsqu'elles s'accumulent, sont associées à des maladies du cerveau. Les recherches continuent pour comprendre précisément comment cela fonctionne chez l'humain. Mais l'idée générale est frappante : dormir, c'est aussi laisser passer l'équipe de nettoyage pendant que les bureaux sont fermés."
+   },
+   {
+    "titre": "La nuit porte conseil",
+    "texte": "Le sommeil joue aussi un rôle majeur pour la mémoire. Pendant la nuit, le cerveau rejoue les expériences de la journée. Des expériences sur des rats l'ont montré de façon étonnante : les neurones qui s'activaient quand l'animal parcourait un labyrinthe se réactivent dans le même ordre pendant son sommeil. Chez l'humain, de nombreuses études montrent qu'on retient mieux ce qu'on a appris quand on a dormi ensuite. Le sommeil aide à trier, à consolider ce qui est important et à laisser filer le reste. Il favorise aussi les associations d'idées. Le vieux proverbe qui dit que la nuit porte conseil a donc un vrai fond scientifique. Et le sommeil sert au corps entier : il participe à la réparation des tissus, au bon fonctionnement de l'immunité et à la régulation de l'appétit."
+   },
+   {
+    "titre": "L'horloge interne et le manque de sommeil",
+    "texte": "Ton corps possède une horloge interne, qui suit un rythme d'environ vingt-quatre heures. Elle est logée dans une petite zone du cerveau, juste au-dessus du croisement des nerfs optiques, et elle se règle grâce à la lumière. Le soir, quand il fait sombre, ton cerveau libère de la mélatonine, l'hormone qui signale qu'il est temps de dormir. Quand on prive quelqu'un de sommeil, les effets arrivent vite. En 1964, un lycéen américain, Randy Gardner, est resté éveillé onze jours d'affilée pour un projet scientifique. Il a souffert de troubles de l'humeur, de la mémoire et même d'hallucinations. Le manque de sommeil ralentit aussi les réflexes de façon comparable à l'alcool. C'est pourquoi la somnolence au volant est si dangereuse : dès que tu sens la fatigue, une pause s'impose."
+   }
+  ],
+  "resume": "En résumé : le sommeil n'est pas du temps perdu, c'est une période d'activité intense où le cerveau fait le ménage, consolide les souvenirs et où le corps se répare, au rythme de notre horloge interne.",
+  "quiz": [
+   {"q": "Combien de temps dure environ un cycle de sommeil ?", "r": "Environ une heure et demie."},
+   {"q": "Pourquoi appelle-t-on le sommeil paradoxal ainsi ?", "r": "Parce que le cerveau y est très actif alors que les muscles sont paralysés."},
+   {"q": "Comment s'appelle le système qui nettoie le cerveau pendant le sommeil ?", "r": "Le système glymphatique."},
+   {"q": "Quelle hormone signale au corps qu'il est temps de dormir ?", "r": "La mélatonine."},
+   {"q": "Combien de jours Randy Gardner est-il resté éveillé en 1964 ?", "r": "Onze jours d'affilée."}
+  ]
+ },
+ {
+  "id": "adn-genetique",
+  "categorie": "Corps humain",
+  "titre": "L'ADN et la génétique",
+  "intro": "Aujourd'hui, on parle de l'ADN et de la génétique. Le mode d'emploi de ton corps, écrit avec seulement quatre lettres.",
+  "sections": [
+   {
+    "titre": "Un mode d'emploi à quatre lettres",
+    "texte": "Dans presque chacune de tes cellules se cache une longue molécule : l'ADN. C'est le mode d'emploi qui permet de construire et de faire fonctionner ton corps. Ce qui est incroyable, c'est que ce texte est écrit avec un alphabet de seulement quatre lettres, A, T, C et G. Chacune correspond à une petite molécule qu'on appelle une base. Ton génome complet compte environ trois milliards de ces lettres. Si on devait les imprimer dans des livres ordinaires, il faudrait des milliers de volumes pour tout contenir. Et si on dépliait l'ADN d'une seule cellule, il mesurerait environ deux mètres de long. Pourtant, il tient dans un noyau invisible à l'œil nu, grâce à un empaquetage extraordinairement serré, un peu comme un fil enroulé sur des bobines minuscules."
+   },
+   {
+    "titre": "La double hélice",
+    "texte": "En 1953, deux chercheurs de l'université de Cambridge, James Watson et Francis Crick, ont proposé la structure de l'ADN : une double hélice, comme une échelle tordue en spirale. Les montants de l'échelle sont faits de sucres et de phosphates, et les barreaux sont formés par les bases, qui s'associent toujours par paires : A avec T, et C avec G. Cette découverte doit énormément au travail de la chercheuse Rosalind Franklin, qui avait obtenu une image aux rayons X d'une netteté remarquable. Son rôle a longtemps été sous-estimé. Elle est morte en 1958, quatre ans avant que Watson, Crick et leur collègue Maurice Wilkins reçoivent le prix Nobel. Le génie de cette structure, c'est qu'en séparant les deux brins, chacun sert de modèle pour reconstruire l'autre. C'est ainsi que l'ADN se copie."
+   },
+   {
+    "titre": "Gènes et chromosomes",
+    "texte": "Un gène, c'est un passage de l'ADN qui contient la recette d'une protéine. Et les protéines, ce sont les ouvrières de ton corps : elles forment tes muscles, transportent l'oxygène, digèrent tes repas. L'être humain possède environ vingt mille gènes. On s'attendait à beaucoup plus, et la surprise a été grande quand on l'a découvert. D'ailleurs, ces gènes ne représentent qu'une petite partie de l'ADN total. Le reste sert notamment à réguler quand et où les gènes s'activent. Ton ADN est réparti en quarante-six chromosomes, rangés par paires. Tu as reçu un chromosome de chaque paire de ta mère, et l'autre de ton père. Le premier séquençage presque complet du génome humain a été annoncé en 2003, après plus de dix ans d'efforts internationaux et un budget de plusieurs milliards de dollars."
+   },
+   {
+    "titre": "Mendel et ses petits pois",
+    "texte": "Bien avant qu'on connaisse l'ADN, un moine du nom de Gregor Mendel a découvert les lois de l'hérédité. Dans le jardin de son monastère, à Brno, il a croisé des milliers de plants de petits pois pendant des années. Il a observé que certains caractères, comme la couleur des graines, disparaissent à une génération pour réapparaître à la suivante, selon des proportions très régulières. Il a compris que chaque parent transmet une unité d'information, ce qu'on appellera plus tard un gène, et que certaines versions dominent les autres. Il a publié ses résultats en 1866, dans l'indifférence générale. Ce n'est qu'en 1900, seize ans après sa mort, que trois scientifiques ont redécouvert ses travaux. Aujourd'hui, Mendel est considéré comme le père de la génétique."
+   },
+   {
+    "titre": "Tous cousins",
+    "texte": "Voici une idée qui fait réfléchir. Deux êtres humains pris au hasard, n'importe où sur la planète, ont un ADN identique à environ quatre-vingt-dix-neuf virgule neuf pour cent. Toutes nos différences visibles tiennent dans une toute petite fraction du génome. Et on partage aussi beaucoup avec les autres espèces : une grande partie de nos gènes ont des équivalents chez la souris, et même chez la levure du boulanger ou la banane, même si la ressemblance est bien plus faible. C'est la preuve que tous les êtres vivants descendent d'ancêtres communs. Aujourd'hui, la génétique a de nombreuses applications : identifier des personnes grâce aux empreintes génétiques, comprendre certaines maladies héréditaires, ou encore retracer les grandes migrations de nos ancêtres à travers les continents."
+   }
+  ],
+  "resume": "En résumé : l'ADN est une double hélice qui contient, avec quatre lettres, les recettes de nos protéines, organisées en gènes et chromosomes et transmises de génération en génération selon les lois découvertes par Mendel.",
+  "quiz": [
+   {"q": "Combien de lettres compose l'alphabet de l'ADN ?", "r": "Quatre lettres : A, T, C et G."},
+   {"q": "Qui a proposé la structure en double hélice en 1953 ?", "r": "James Watson et Francis Crick."},
+   {"q": "Quelle chercheuse a obtenu l'image aux rayons X décisive ?", "r": "Rosalind Franklin."},
+   {"q": "Combien de chromosomes possède un être humain ?", "r": "Quarante-six, rangés en vingt-trois paires."},
+   {"q": "Avec quelle plante Mendel a-t-il découvert les lois de l'hérédité ?", "r": "Avec des petits pois."}
+  ]
+ },
+ {
+  "id": "darwin-evolution",
+  "categorie": "Corps humain",
+  "titre": "Darwin et l'évolution",
+  "intro": "Aujourd'hui, on parle de Charles Darwin et de la théorie de l'évolution. Une idée simple qui a bouleversé notre vision du vivant et de notre propre place dans la nature.",
+  "sections": [
+   {
+    "titre": "Un jeune homme sur le Beagle",
+    "texte": "En 1831, Charles Darwin a vingt-deux ans. Il a abandonné ses études de médecine, et son père désespère un peu de lui. Mais une occasion se présente : embarquer comme naturaliste à bord du Beagle, un navire de la marine britannique chargé de cartographier les côtes d'Amérique du Sud. Le voyage devait durer deux ans. Il en durera presque cinq. Darwin collecte des fossiles, des plantes, des oiseaux, des insectes. Il souffre terriblement du mal de mer, mais il observe tout. En Argentine, il déterre des fossiles d'animaux géants disparus qui ressemblent étrangement aux tatous actuels. Il se demande alors pourquoi les espèces vivantes ressemblent tant aux espèces fossiles de la même région. Cette question va le hanter pendant des années après son retour en Angleterre."
+   },
+   {
+    "titre": "Les leçons des Galápagos",
+    "texte": "En 1835, le Beagle fait escale aux îles Galápagos, un archipel volcanique perdu dans le Pacifique. Darwin y découvre des tortues géantes et des oiseaux, notamment des moqueurs et des pinsons. Le gouverneur des îles lui fait une remarque troublante : on peut deviner de quelle île vient une tortue rien qu'à la forme de sa carapace. De retour en Angleterre, un ornithologue examine ses oiseaux et lui révèle qu'il s'agit de nombreuses espèces différentes, chacune adaptée à son île. Certains pinsons ont un bec épais pour casser des graines, d'autres un bec fin pour attraper des insectes. Darwin comprend que ces espèces ont sans doute un ancêtre commun venu du continent, et qu'elles se sont transformées différemment sur chaque île. L'idée de l'évolution commence à prendre forme."
+   },
+   {
+    "titre": "La sélection naturelle",
+    "texte": "Le mécanisme que Darwin propose est d'une simplicité géniale. D'abord, au sein d'une même espèce, les individus sont tous un peu différents. Ensuite, une partie de ces différences se transmet aux descendants. Enfin, il naît beaucoup plus d'individus que le milieu ne peut en nourrir. Résultat : ceux qui possèdent des caractères un peu plus avantageux survivent et se reproduisent davantage. Génération après génération, ces caractères deviennent plus fréquents. C'est la sélection naturelle. Darwin s'est inspiré des éleveurs, qui créent des races de pigeons ou de chiens en choisissant les reproducteurs. La nature fait la même chose, sans intention, sur des durées immenses. Attention, l'évolution n'a pas de but. Elle ne mène pas vers le progrès ou la perfection, elle favorise simplement ce qui fonctionne dans un environnement donné."
+   },
+   {
+    "titre": "Une course contre Wallace",
+    "texte": "Darwin a mis au point sa théorie dès la fin des années 1830, mais il hésite pendant vingt ans à la publier. Il sait qu'elle va choquer, et il accumule les preuves avec une patience incroyable. Puis, en 1858, coup de théâtre. Il reçoit une lettre d'un jeune naturaliste, Alfred Russel Wallace, qui travaille en Asie du Sud-Est. Wallace y décrit exactement la même idée, trouvée de son côté. Pour régler la question avec élégance, les amis de Darwin organisent une présentation commune des deux travaux à Londres. L'année suivante, en 1859, Darwin publie enfin son grand livre, De l'origine des espèces. Le premier tirage est épuisé presque aussitôt. Le débat est immense, mais en quelques décennies, l'idée d'évolution est largement acceptée par les scientifiques."
+   },
+   {
+    "titre": "L'évolution sous nos yeux",
+    "texte": "On pourrait croire que l'évolution est trop lente pour être observée. Pourtant, il existe des exemples frappants. En Angleterre, au dix-neuvième siècle, la pollution des usines a noirci les troncs des arbres. Une espèce de papillon de nuit, la phalène du bouleau, existait en version claire et en version sombre. Sur les troncs noircis, les papillons clairs étaient plus facilement repérés et mangés par les oiseaux. En quelques décennies, la forme sombre est devenue majoritaire autour des villes industrielles. Quand l'air s'est assaini, la tendance s'est inversée. Aujourd'hui, on observe aussi l'évolution chez les bactéries qui deviennent résistantes aux antibiotiques. Et la génétique moderne a confirmé Darwin de façon éclatante : l'humain et le chimpanzé partagent un ancêtre commun qui vivait il y a plusieurs millions d'années."
+   }
+  ],
+  "resume": "En résumé : en observant la nature pendant son voyage sur le Beagle, Darwin a compris que les espèces se transforment par sélection naturelle, une idée trouvée aussi par Wallace et confirmée depuis par de nombreuses observations et par la génétique.",
+  "quiz": [
+   {"q": "Sur quel navire Darwin a-t-il fait son grand voyage ?", "r": "Sur le Beagle."},
+   {"q": "Quel archipel a particulièrement inspiré Darwin ?", "r": "Les îles Galápagos."},
+   {"q": "En quelle année Darwin a-t-il publié De l'origine des espèces ?", "r": "En 1859."},
+   {"q": "Quel naturaliste a eu la même idée que Darwin de son côté ?", "r": "Alfred Russel Wallace."},
+   {"q": "Quel papillon illustre l'évolution liée à la pollution industrielle ?", "r": "La phalène du bouleau."}
+  ]
+ },
+ {
+  "id": "digestion-microbiote",
+  "categorie": "Corps humain",
+  "titre": "La digestion et le microbiote",
+  "intro": "Aujourd'hui, on parle de la digestion et du microbiote. On va suivre le voyage d'une bouchée, et rencontrer les milliards de bactéries qui vivent dans ton ventre.",
+  "sections": [
+   {
+    "titre": "Tout commence dans la bouche",
+    "texte": "La digestion commence avant même que tu avales. Rien qu'en sentant une bonne odeur, ta bouche se met à saliver. Les dents broient les aliments, et la salive les ramollit. Elle contient aussi une enzyme qui commence à découper l'amidon, celui du pain ou des pâtes. Fais le test : si tu mâches longtemps un morceau de pain, il finit par prendre un goût légèrement sucré. C'est l'amidon qui se transforme en sucres plus simples. Ensuite, tu avales, et la bouchée descend dans l'œsophage. Elle ne tombe pas simplement par gravité. Des vagues de contraction musculaire la poussent vers l'estomac. C'est pour ça que les astronautes peuvent manger en apesanteur, et qu'on peut même avaler la tête en bas, même si ce n'est pas très recommandé."
+   },
+   {
+    "titre": "L'estomac, un sac acide",
+    "texte": "Arrivée dans l'estomac, la nourriture est brassée par des muscles puissants et mélangée à des sucs digestifs très acides. Cet acide tue une bonne partie des microbes avalés et aide des enzymes à découper les protéines. Pourquoi l'estomac ne se digère-t-il pas lui-même ? Parce qu'il se protège avec une épaisse couche de mucus et renouvelle sa paroi en permanence. On a beaucoup appris sur l'estomac grâce à une histoire étonnante. En 1822, au Canada, un jeune trappeur, Alexis Saint-Martin, reçoit accidentellement un coup de fusil dans le ventre. Il survit, mais il garde un trou qui donne directement sur son estomac. Son médecin, William Beaumont, en profite pendant des années pour y glisser des aliments attachés à un fil et observer leur digestion."
+   },
+   {
+    "titre": "L'intestin grêle, le cœur de l'absorption",
+    "texte": "Après quelques heures dans l'estomac, la bouillie alimentaire passe dans l'intestin grêle. Malgré son nom, il est très long : environ six à sept mètres, replié dans ton ventre. C'est là que se fait l'essentiel du travail. Le foie y envoie la bile, qui agit un peu comme un liquide vaisselle sur les graisses. Le pancréas y déverse ses enzymes, qui découpent les sucres, les protéines et les graisses en petites molécules. Ces molécules traversent ensuite la paroi de l'intestin pour passer dans le sang. Pour absorber un maximum, la paroi est couverte de millions de minuscules replis en forme de doigts, qu'on appelle les villosités. Ils multiplient énormément la surface d'échange. Au total, un repas met généralement entre un et trois jours pour traverser tout le tube digestif."
+   },
+   {
+    "titre": "Le microbiote, un peuple intérieur",
+    "texte": "Ce qui n'a pas été absorbé arrive dans le gros intestin, ou côlon. Et là, tu n'es plus seul. Des dizaines de milliers de milliards de bactéries y vivent, appartenant à des centaines d'espèces différentes. On estime aujourd'hui qu'il y a à peu près autant de cellules bactériennes dans ton corps que de cellules humaines. Cet ensemble, on l'appelle le microbiote intestinal. Ces bactéries ne sont pas des envahisseurs, ce sont des partenaires. Elles digèrent les fibres que ton corps ne sait pas décomposer, celles des légumes, des fruits et des céréales complètes. En échange, elles produisent des substances utiles, et certaines participent à la fabrication de vitamines. Le gros intestin récupère aussi une grande partie de l'eau, avant que les restes ne soient évacués."
+   },
+   {
+    "titre": "Un organe à part entière",
+    "texte": "Le microbiote est si important que certains chercheurs le décrivent comme un organe à part entière. Il entraîne ton système immunitaire à faire la différence entre les amis et les ennemis. Il occupe aussi le terrain, ce qui laisse moins de place aux microbes dangereux. Chaque personne a un microbiote unique, un peu comme une empreinte digitale, qui dépend de sa naissance, de son alimentation et de son mode de vie. On sait par exemple que les antibiotiques peuvent le perturber pour un temps, car ils tuent aussi les bonnes bactéries. Des recherches très actives explorent les liens entre le microbiote et de nombreux aspects de la santé, y compris le cerveau. Mais beaucoup de questions restent ouvertes, et la science dans ce domaine avance encore pas à pas."
+   }
+  ],
+  "resume": "En résumé : la digestion découpe les aliments de la bouche à l'intestin grêle, où les nutriments passent dans le sang, puis le gros intestin abrite le microbiote, un immense peuple de bactéries alliées qui digèrent les fibres et protègent notre santé.",
+  "quiz": [
+   {"q": "Pourquoi le pain mâché longtemps devient-il sucré ?", "r": "Parce qu'une enzyme de la salive transforme l'amidon en sucres simples."},
+   {"q": "Quel médecin a étudié la digestion grâce au trou dans l'estomac d'un trappeur ?", "r": "William Beaumont."},
+   {"q": "Quelle est la longueur approximative de l'intestin grêle ?", "r": "Environ six à sept mètres."},
+   {"q": "Comment s'appellent les petits replis qui augmentent la surface de l'intestin ?", "r": "Les villosités."},
+   {"q": "Que digèrent les bactéries du microbiote que notre corps ne sait pas décomposer ?", "r": "Les fibres des végétaux."}
+  ]
+ },
+ {
+  "id": "hormones",
+  "categorie": "Corps humain",
+  "titre": "Les hormones, messagères du corps",
+  "intro": "Aujourd'hui, on parle des hormones. Ces messagères chimiques circulent dans ton sang et pilotent une grande partie de ce que fait ton corps, souvent sans que tu t'en rendes compte.",
+  "sections": [
+   {
+    "titre": "Des messages par la poste du sang",
+    "texte": "Ton corps a deux grands systèmes de communication. Le premier, c'est le système nerveux : des signaux électriques ultrarapides, comme un coup de téléphone. Le second, ce sont les hormones : des molécules libérées dans le sang, qui voyagent jusqu'à leurs destinataires, un peu comme du courrier. C'est plus lent, mais l'effet peut durer longtemps et toucher de nombreux organes à la fois. Les hormones sont fabriquées par des glandes : la thyroïde dans le cou, les surrénales posées sur les reins, le pancréas, les ovaires ou les testicules, et bien d'autres. Chaque hormone ne parle qu'à certaines cellules, celles qui possèdent le bon récepteur, un peu comme une clé qui n'ouvre qu'une seule serrure. Et il suffit souvent de quantités infimes pour produire un effet puissant."
+   },
+   {
+    "titre": "Le chef d'orchestre caché",
+    "texte": "À la base de ton cerveau se trouve une glande pas plus grosse qu'un petit pois : l'hypophyse. On la surnomme souvent la glande maîtresse, car elle donne des ordres à beaucoup d'autres glandes. Elle est elle-même commandée par une région du cerveau toute proche, l'hypothalamus, qui fait le lien entre le système nerveux et les hormones. L'hypophyse produit notamment l'hormone de croissance. Pendant l'enfance, c'est elle qui fait grandir les os. Une grande partie est libérée pendant le sommeil profond, ce qui donne un fond de vérité au vieux dicton selon lequel les enfants grandissent en dormant. L'hypophyse commande aussi la thyroïde, qui règle la vitesse à laquelle ton corps brûle son énergie, un peu comme le thermostat d'une maison."
+   },
+   {
+    "titre": "L'insuline, une découverte qui a sauvé des millions de vies",
+    "texte": "Le pancréas fabrique une hormone essentielle : l'insuline. Après un repas, le taux de sucre dans ton sang augmente. L'insuline agit alors comme une clé qui permet aux cellules de faire entrer ce sucre pour s'en servir ou le stocker. Quand le corps ne produit plus d'insuline, c'est le diabète de type un. Avant 1922, c'était une maladie presque toujours mortelle chez l'enfant. En 1921, à Toronto, le chirurgien Frederick Banting et son jeune assistant Charles Best ont réussi à extraire de l'insuline. En janvier 1922, un garçon de quatorze ans, Leonard Thompson, a été le premier patient traité. Son état s'est amélioré de façon spectaculaire. Banting a reçu le prix Nobel dès 1923, et il a tenu à partager sa part de la récompense avec Best."
+   },
+   {
+    "titre": "Adrénaline et cortisol",
+    "texte": "Imagine qu'une voiture freine brutalement devant toi. En une fraction de seconde, ton cœur s'emballe, ta respiration s'accélère, tes muscles se tendent. C'est l'œuvre de l'adrénaline, une hormone libérée par les glandes surrénales. Elle prépare ton corps à réagir vite : plus de sang vers les muscles, plus de sucre disponible, une attention aiguisée. Les mêmes glandes produisent aussi le cortisol, qui agit plus lentement et aide le corps à mobiliser son énergie sur la durée. Le cortisol suit d'ailleurs un rythme quotidien : son taux est généralement élevé au réveil, ce qui t'aide à démarrer la journée, puis il baisse progressivement jusqu'au soir. À l'inverse, la mélatonine, produite dans le cerveau quand la lumière diminue, prend le relais pour préparer le sommeil."
+   },
+   {
+    "titre": "Hormones et émotions",
+    "texte": "Les hormones influencent aussi nos émotions et nos relations. L'ocytocine en est un bel exemple. Produite par l'hypothalamus, elle joue un rôle clé pendant l'accouchement en déclenchant les contractions, puis pendant l'allaitement. On lui attribue aussi un rôle dans l'attachement entre les parents et leur bébé, et plus largement dans les liens sociaux, même si la science invite à rester prudent face aux étiquettes un peu trop simples comme hormone de l'amour. À l'adolescence, les hormones sexuelles provoquent la puberté et transforment le corps en quelques années. Tout ce système fonctionne grâce à des boucles de rétroaction : quand une hormone atteint le bon niveau, elle freine sa propre production. C'est un équilibre subtil et permanent, qui maintient ton corps dans un état stable."
+   }
+  ],
+  "resume": "En résumé : les hormones sont des messagères chimiques produites par des glandes et transportées par le sang, qui règlent la croissance, l'énergie, le sucre, le stress, le sommeil et même nos émotions, sous la direction de l'hypophyse et de l'hypothalamus.",
+  "quiz": [
+   {"q": "Par quoi les hormones voyagent-elles dans le corps ?", "r": "Par le sang."},
+   {"q": "Quelle glande de la taille d'un petit pois est surnommée la glande maîtresse ?", "r": "L'hypophyse."},
+   {"q": "Qui a extrait l'insuline à Toronto en 1921 ?", "r": "Frederick Banting et Charles Best."},
+   {"q": "Quelles glandes produisent l'adrénaline ?", "r": "Les glandes surrénales, posées sur les reins."},
+   {"q": "Quelle hormone déclenche les contractions pendant l'accouchement ?", "r": "L'ocytocine."}
+  ]
+ },
+ {
+  "id": "muscles-effort",
+  "categorie": "Corps humain",
+  "titre": "Les muscles et l'effort physique",
+  "intro": "Aujourd'hui, on parle des muscles et de l'effort physique. Comment ils se contractent, d'où vient leur énergie, et pourquoi ils deviennent plus forts quand on les fait travailler.",
+  "sections": [
+   {
+    "titre": "Plus de six cents moteurs",
+    "texte": "Ton corps compte plus de six cents muscles. Ils représentent souvent autour d'un tiers à près de la moitié du poids d'un adulte, selon les personnes. Il en existe trois grandes familles. Les muscles squelettiques, attachés aux os par des tendons, sont ceux que tu commandes volontairement : pour marcher, sourire ou tourner le volant. Les muscles lisses, eux, travaillent sans que tu y penses, dans les parois de l'estomac, de l'intestin ou des vaisseaux sanguins. Et puis il y a un muscle unique en son genre : le cœur, qui ne se fatigue jamais. Le plus gros muscle du corps est le grand fessier, qui te permet de te tenir debout et de monter les escaliers. Le plus petit se trouve dans l'oreille interne et mesure à peine quelques millimètres."
+   },
+   {
+    "titre": "Comment un muscle se contracte",
+    "texte": "Un muscle est fait de longues cellules, les fibres musculaires, regroupées en faisceaux comme les brins d'un câble. À l'intérieur de chaque fibre, deux sortes de filaments de protéines s'emboîtent : l'actine et la myosine. Quand ton cerveau envoie un signal par un nerf, les têtes de myosine s'accrochent à l'actine et tirent dessus, comme des rameurs qui tirent sur une corde. Les filaments glissent les uns sur les autres et le muscle raccourcit. Retiens ce détail important : un muscle ne peut que tirer, jamais pousser. C'est pour ça qu'ils fonctionnent par paires. Pour plier le bras, le biceps se contracte. Pour le tendre, c'est le triceps, à l'arrière, qui prend le relais. Chaque mouvement que tu fais est une coordination parfaite entre muscles opposés."
+   },
+   {
+    "titre": "Le carburant de l'effort",
+    "texte": "Pour se contracter, un muscle a besoin d'énergie. Il utilise une petite molécule qui sert de monnaie énergétique à toutes tes cellules. Le problème, c'est que le muscle n'en stocke que très peu, de quoi tenir quelques secondes à peine. Il doit donc la fabriquer en continu. Pour un sprint très court, il puise dans des réserves rapides. Pour un effort intense de quelques dizaines de secondes, il brûle du sucre sans attendre l'oxygène, ce qui est rapide mais vite épuisant. Pour un effort long, comme une randonnée, il utilise l'oxygène pour brûler du sucre et des graisses. C'est plus lent, mais presque inépuisable. Une partie de cette énergie se transforme en chaleur. C'est d'ailleurs pour ça que tu frissonnes quand tu as froid : tes muscles se contractent pour te réchauffer."
+   },
+   {
+    "titre": "Le mythe de l'acide lactique",
+    "texte": "Tu as sûrement entendu dire que les courbatures du lendemain sont dues à l'acide lactique accumulé dans les muscles. C'est une idée très répandue, mais elle est fausse. Le lactate produit pendant l'effort est éliminé et recyclé en quelques dizaines de minutes à une heure environ. Il est même réutilisé comme carburant par le cœur et d'autres muscles. Les courbatures qui apparaissent un ou deux jours après un effort inhabituel s'expliquent plutôt par de petites lésions dans les fibres musculaires, suivies d'une réaction inflammatoire pendant la réparation. Elles sont particulièrement fortes après les mouvements où le muscle travaille en s'allongeant, comme descendre une pente en courant ou les escaliers. Plus tu répètes un exercice, moins il te donne de courbatures, car le muscle s'adapte."
+   },
+   {
+    "titre": "Pourquoi les muscles se renforcent",
+    "texte": "Quand tu sollicites un muscle plus que d'habitude, tu lui envoies un message : il faut être plus fort. Pendant la récupération, le corps répare les fibres et les rend un peu plus épaisses. C'est pour ça que le repos fait partie intégrante de l'entraînement. Au début, les progrès viennent d'ailleurs surtout du système nerveux, qui apprend à mieux recruter les fibres. Les fibres elles-mêmes sont de deux grands types. Les fibres lentes résistent à la fatigue, idéales pour le marathon. Les fibres rapides sont explosives mais s'épuisent vite, parfaites pour le sprint. Chacun naît avec un mélange différent, mais l'entraînement peut modifier certaines de leurs propriétés. À l'inverse, un muscle qu'on n'utilise plus fond assez vite. Les astronautes en apesanteur le savent bien, ils doivent faire du sport tous les jours."
+   }
+  ],
+  "resume": "En résumé : nos muscles se contractent grâce à l'actine et à la myosine, ne peuvent que tirer et travaillent par paires, puisent leur énergie dans le sucre et les graisses, et se renforcent en se réparant après l'effort.",
+  "quiz": [
+   {"q": "Combien de muscles compte environ le corps humain ?", "r": "Plus de six cents."},
+   {"q": "Quelles sont les deux protéines qui font contracter le muscle ?", "r": "L'actine et la myosine."},
+   {"q": "Pourquoi les muscles fonctionnent-ils par paires ?", "r": "Parce qu'un muscle ne peut que tirer, jamais pousser."},
+   {"q": "Les courbatures sont-elles dues à l'acide lactique ?", "r": "Non, elles viennent de petites lésions des fibres et de leur réparation."},
+   {"q": "Quel type de fibres musculaires résiste le mieux à la fatigue ?", "r": "Les fibres lentes."}
+  ]
+ },
+ {
+  "id": "virus-bacteries",
+  "categorie": "Corps humain",
+  "titre": "Virus et bactéries : quelle différence ?",
+  "intro": "Aujourd'hui, on parle des virus et des bactéries. On les confond souvent, alors qu'ils sont radicalement différents, et cette différence change tout pour se soigner.",
+  "sections": [
+   {
+    "titre": "Les bactéries, des êtres vivants à part entière",
+    "texte": "Une bactérie est un être vivant composé d'une seule cellule. Elle est minuscule, quelques millièmes de millimètre, mais elle se débrouille toute seule : elle se nourrit, produit son énergie et se reproduit en se divisant en deux. Dans de bonnes conditions, certaines bactéries peuvent se dédoubler en une vingtaine de minutes. Les bactéries sont apparues sur Terre il y a plus de trois milliards d'années, bien avant les plantes et les animaux. On en trouve absolument partout : dans le sol, dans les océans, dans les sources chaudes et même dans les glaces. La grande majorité est inoffensive, et beaucoup nous sont indispensables, comme celles de notre intestin. Seule une petite minorité provoque des maladies, comme la tuberculose, certaines angines ou certaines infections urinaires."
+   },
+   {
+    "titre": "Les virus, des pirates de cellules",
+    "texte": "Un virus, c'est tout autre chose. Il est en général bien plus petit qu'une bactérie, souvent des dizaines de fois plus. Il faut un microscope électronique pour le voir. Surtout, un virus n'est pas une cellule. C'est essentiellement un morceau de matériel génétique enfermé dans une coque de protéines. Seul, il ne mange pas, ne respire pas et ne peut pas se reproduire. Pour se multiplier, il doit entrer dans une cellule vivante et détourner sa machinerie, comme un pirate qui s'empare d'une usine pour lui faire fabriquer des copies de lui-même. La cellule produit alors des centaines, voire des milliers de nouveaux virus. C'est pour cette raison que les scientifiques débattent encore pour savoir si l'on peut vraiment considérer les virus comme des êtres vivants."
+   },
+   {
+    "titre": "Les antibiotiques, un miracle à protéger",
+    "texte": "En 1928, à Londres, le biologiste Alexander Fleming rentre de vacances et découvre qu'une moisissure a envahi l'une de ses boîtes de culture. Autour d'elle, les bactéries ont disparu. Cette moisissure produit une substance qu'il appelle la pénicilline. Il faudra attendre les années 1940 pour qu'on parvienne à la produire en grande quantité, et elle sauvera d'innombrables vies. Les antibiotiques attaquent des éléments propres aux bactéries, comme leur paroi. Et voilà le point essentiel : ils sont totalement inefficaces contre les virus, qui n'ont pas cette paroi. Un rhume ou une grippe ne se soignent donc pas avec des antibiotiques. Et chaque utilisation inutile favorise l'apparition de bactéries résistantes. C'est l'évolution en action, et c'est aujourd'hui l'un des grands défis de santé publique."
+   },
+   {
+    "titre": "Les vaccins, un entraînement pour l'immunité",
+    "texte": "Contre les virus, l'une des armes les plus puissantes est la vaccination. Son histoire commence en 1796, en Angleterre. Le médecin Edward Jenner remarque que les fermières qui ont attrapé la vaccine, une maladie bénigne des vaches, semblent protégées contre la variole, une maladie terrible. Il inocule la vaccine à un jeune garçon, puis vérifie qu'il résiste à la variole. Le mot vaccin vient d'ailleurs du latin qui désigne la vache. Le principe est de présenter au système immunitaire un élément inoffensif du microbe, pour qu'il apprenne à le reconnaître. Ainsi, le jour où le vrai microbe arrive, la riposte est immédiate. Grâce à une campagne mondiale de vaccination, la variole a été déclarée éradiquée en 1980. C'est la première maladie humaine vaincue de cette façon."
+   },
+   {
+    "titre": "Quand les virus attaquent les bactéries",
+    "texte": "Le monde microscopique réserve encore des surprises. Il existe des virus qui n'infectent que les bactéries. On les appelle les bactériophages, ou simplement phages. Ce sont probablement les entités biologiques les plus nombreuses de la planète. Un seul millilitre d'eau de mer peut en contenir des millions. Ils ont été découverts au début du vingtième siècle, notamment par le chercheur franco-canadien Félix d'Hérelle, à l'Institut Pasteur. Avant l'essor des antibiotiques, on les a utilisés pour soigner certaines infections. Aujourd'hui, face aux bactéries résistantes, des équipes de recherche s'y intéressent à nouveau. Retiens donc l'essentiel : la bactérie est une cellule vivante autonome, souvent utile, qu'on peut combattre avec des antibiotiques. Le virus est un pirate qui a besoin de nos cellules, et contre lequel les antibiotiques ne servent à rien."
+   }
+  ],
+  "resume": "En résumé : les bactéries sont des cellules vivantes autonomes, majoritairement inoffensives, sensibles aux antibiotiques, tandis que les virus sont de minuscules pirates qui détournent nos cellules et contre lesquels on mise surtout sur l'immunité et les vaccins.",
+  "quiz": [
+   {"q": "Une bactérie est-elle un être vivant composé de cellules ?", "r": "Oui, d'une seule cellule qui se reproduit en se divisant."},
+   {"q": "Pourquoi un virus ne peut-il pas se multiplier seul ?", "r": "Parce qu'il doit détourner la machinerie d'une cellule vivante."},
+   {"q": "Qui a découvert la pénicilline en 1928 ?", "r": "Alexander Fleming."},
+   {"q": "Les antibiotiques soignent-ils la grippe ?", "r": "Non, ils sont inefficaces contre les virus."},
+   {"q": "En quelle année la variole a-t-elle été déclarée éradiquée ?", "r": "En 1980."}
+  ]
+ },
+ {
+  "id": "vision",
+  "categorie": "Corps humain",
+  "titre": "Comment fonctionne la vision",
+  "intro": "Aujourd'hui, on parle de la vision. Tes yeux captent la lumière, mais c'est ton cerveau qui construit vraiment l'image que tu vois en ce moment sur la route.",
+  "sections": [
+   {
+    "titre": "Un appareil photo vivant",
+    "texte": "On compare souvent l'œil à un appareil photo, et ce n'est pas faux. La lumière entre d'abord par la cornée, la fenêtre transparente et bombée à l'avant de l'œil. Elle passe ensuite par la pupille, ce petit rond noir au centre. La pupille est en réalité un trou, dont la taille est réglée par l'iris, la partie colorée de ton œil. En plein soleil, elle se rétrécit. Dans le noir, elle s'agrandit pour laisser entrer plus de lumière. Derrière, le cristallin agit comme une lentille qui fait la mise au point. Il change de forme grâce à de petits muscles, pour voir net de près comme de loin. Avec l'âge, généralement à partir de quarante-cinq ans environ, il devient moins souple. C'est la presbytie, et c'est pour ça qu'on finit par éloigner son journal pour lire."
+   },
+   {
+    "titre": "La rétine, un écran sensible",
+    "texte": "Au fond de l'œil se trouve la rétine, une fine couche de cellules sensibles à la lumière, qu'on appelle les photorécepteurs. Il en existe deux sortes. Les bâtonnets, plus de cent millions par œil, sont très sensibles et te permettent de voir quand il fait sombre, mais seulement en nuances de gris. C'est pour ça que la nuit, les couleurs semblent disparaître. Les cônes, quelques millions seulement, ont besoin de plus de lumière, mais ils voient les couleurs et les détails. Ils sont concentrés dans une petite zone centrale, la fovéa, celle que tu pointes vers ce que tu regardes. Un détail étonnant : l'image projetée sur la rétine est à l'envers, comme dans un appareil photo. C'est ton cerveau qui la remet à l'endroit, sans que tu t'en aperçoives."
+   },
+   {
+    "titre": "Trois couleurs pour tout voir",
+    "texte": "Tu possèdes trois types de cônes. Les uns réagissent surtout aux longueurs d'onde qu'on associe au rouge, d'autres au vert, et les derniers au bleu. Toutes les couleurs que tu perçois naissent du mélange des signaux de ces trois capteurs, un peu comme sur un écran de télévision. Quand l'un de ces types de cônes fonctionne mal, on parle de daltonisme. Ce nom vient du chimiste anglais John Dalton, qui a décrit en 1794 sa propre difficulté à distinguer certaines couleurs. Le daltonisme touche environ un homme sur douze dans les populations d'origine européenne, et beaucoup moins de femmes, car le gène concerné se trouve sur le chromosome X. Certains animaux voient bien plus de couleurs que nous, et beaucoup d'oiseaux et d'insectes perçoivent même l'ultraviolet."
+   },
+   {
+    "titre": "La tache aveugle",
+    "texte": "Il y a un endroit de ta rétine où tu ne vois rien du tout. C'est le point où le nerf optique quitte l'œil pour rejoindre le cerveau. À cet endroit, il n'y a aucun photorécepteur. On l'appelle la tache aveugle. Pourtant, tu ne vois jamais de trou noir dans ton champ de vision. Pourquoi ? D'abord parce que ton autre œil couvre cette zone. Ensuite, et c'est le plus fascinant, parce que ton cerveau comble le vide en inventant ce qui devrait s'y trouver, à partir de ce qui l'entoure. Ce que tu vois n'est donc pas une simple photo de la réalité. C'est une reconstruction. D'ailleurs, une très grande partie de ton cerveau est consacrée au traitement de la vision, surtout à l'arrière du crâne, dans le lobe occipital."
+   },
+   {
+    "titre": "Des yeux toujours en mouvement",
+    "texte": "Tu as l'impression que ton regard est stable, mais tes yeux bougent sans cesse. Ils font plusieurs petits sauts par seconde, qu'on appelle des saccades, pour balayer la scène et placer les détails intéressants sur la fovéa. Pendant chaque saccade, ton cerveau met en quelque sorte la vision en pause, pour éviter que l'image ne soit floue. Tu ne le remarques jamais. Pour la conduite, c'est une information précieuse. Ta vision précise ne couvre qu'une petite zone au centre. Sur les côtés, ta vision périphérique est floue et pauvre en couleurs, mais très sensible aux mouvements. C'est elle qui te signale un vélo qui arrive sur le côté. Voilà pourquoi les moniteurs d'auto-école insistent tant pour qu'on balaie régulièrement la route et les rétroviseurs du regard."
+   }
+  ],
+  "resume": "En résumé : l'œil fait la mise au point grâce à la cornée et au cristallin, la rétine capte la lumière avec les bâtonnets et trois types de cônes, et c'est le cerveau qui reconstruit l'image, la remet à l'endroit et comble même la tache aveugle.",
+  "quiz": [
+   {"q": "Quelle partie de l'œil règle la taille de la pupille ?", "r": "L'iris, la partie colorée de l'œil."},
+   {"q": "Quels photorécepteurs permettent de voir quand il fait sombre ?", "r": "Les bâtonnets."},
+   {"q": "Combien de types de cônes possède l'œil humain ?", "r": "Trois types."},
+   {"q": "D'où vient le mot daltonisme ?", "r": "Du chimiste anglais John Dalton, qui a décrit son propre cas en 1794."},
+   {"q": "Pourquoi ne voit-on pas de trou à l'endroit de la tache aveugle ?", "r": "Parce que l'autre œil couvre la zone et que le cerveau comble le vide."}
+  ]
+ },
+ {
+  "id": "stress",
+  "categorie": "Corps humain",
+  "titre": "Le stress : utile ou toxique ?",
+  "intro": "Aujourd'hui, on parle du stress. Il a mauvaise réputation, mais c'est d'abord un mécanisme de survie remarquable. Tout dépend de sa durée et de son intensité.",
+  "sections": [
+   {
+    "titre": "Combattre ou fuir",
+    "texte": "Imagine un de nos lointains ancêtres qui tombe nez à nez avec un fauve. Pour survivre, il n'a que deux options : se battre ou s'enfuir. Son corps doit se préparer en une fraction de seconde. C'est exactement ce que fait la réaction de stress. Au début du vingtième siècle, le physiologiste américain Walter Cannon l'a baptisée la réaction de combat ou de fuite. Quand ton cerveau perçoit un danger, il active le système nerveux et les glandes surrénales, qui libèrent de l'adrénaline. Ton cœur accélère, ta respiration aussi, ta tension monte, du sucre est libéré dans le sang et tes muscles reçoivent plus de sang. Même ta digestion se met en pause, car ce n'est pas le moment. Tout ton organisme se mobilise pour l'action, en quelques secondes seulement."
+   },
+   {
+    "titre": "Hans Selye et l'invention du mot",
+    "texte": "Le mot stress vient de l'anglais, où il désignait d'abord une contrainte mécanique, la pression qu'on exerce sur un matériau. C'est le médecin et chercheur Hans Selye, installé à Montréal, qui l'a popularisé en biologie à partir de 1936. En étudiant des rats soumis à différentes agressions, comme le froid, la douleur ou l'effort, il a remarqué que leur corps réagissait toujours de la même manière. Il a décrit une réponse en trois temps. D'abord l'alarme, quand le corps se mobilise. Ensuite la résistance, quand il tient le coup. Et enfin l'épuisement, si la pression dure trop longtemps et que les réserves s'effondrent. Ce modèle a profondément marqué la médecine. Il montre bien que le stress est une réponse d'adaptation, mais qu'elle a des limites."
+   },
+   {
+    "titre": "Le bon stress",
+    "texte": "Le stress n'est pas toujours un ennemi, loin de là. À petite dose et pour une courte durée, il améliore tes performances. Il aiguise ton attention, accélère tes réflexes et te donne de l'énergie. C'est ce qui t'aide à te concentrer avant un examen, un entretien ou une compétition. En 1908, deux psychologues américains, Robert Yerkes et John Dodson, ont décrit une relation qui porte aujourd'hui leur nom. Leur idée, devenue un classique, c'est que la performance augmente avec la stimulation, jusqu'à un certain point. Au-delà, trop de pression fait chuter les résultats. Imagine une courbe en forme de cloche. Trop peu de stress, et tu t'ennuies, tu manques de motivation. Trop de stress, et tu paniques. Entre les deux, il existe une zone idéale où tu donnes le meilleur."
+   },
+   {
+    "titre": "Quand le stress devient chronique",
+    "texte": "Le problème commence quand le stress ne s'arrête plus. Notre corps a été conçu pour des alertes brèves, comme la rencontre avec un fauve. Mais les soucis modernes, comme le travail, l'argent ou les embouteillages, peuvent durer des semaines ou des mois. Le cerveau réagit alors comme s'il était en danger permanent. Le cortisol, l'hormone qui aide à tenir sur la durée, reste élevé trop longtemps. Avec le temps, ce stress chronique est associé à de nombreux troubles : un sommeil perturbé, des défenses immunitaires affaiblies, des problèmes digestifs, et un risque accru de maladies cardiovasculaires. Il peut aussi peser lourdement sur le moral. Le psychologue Robert Sapolsky a résumé cela d'une formule célèbre : les zèbres n'ont pas d'ulcères, car eux, une fois le lion parti, ils se calment."
+   },
+   {
+    "titre": "Changer de regard sur le stress",
+    "texte": "Puisque le stress est une réaction naturelle, l'objectif n'est pas de le supprimer, mais de lui permettre de retomber. Plusieurs leviers généraux sont bien documentés. L'activité physique aide le corps à consommer l'énergie mobilisée. Le sommeil permet de récupérer. Les liens sociaux jouent un rôle protecteur important. La respiration lente agit directement sur le système nerveux : quand tu allonges l'expiration, tu actives le frein naturel de ton organisme et ton cœur ralentit. Des études suggèrent aussi que la façon dont on interprète le stress compte. Le voir comme une énergie qui prépare à relever un défi, plutôt que comme une menace, peut aider à mieux le vivre. Et bien sûr, quand le stress devient envahissant et dure, en parler à un professionnel de santé est une démarche sensée."
+   }
+  ],
+  "resume": "En résumé : le stress est une réaction de survie qui mobilise le corps en quelques secondes et peut améliorer nos performances, mais lorsqu'il devient chronique, il épuise l'organisme, d'où l'importance de lui permettre de retomber.",
+  "quiz": [
+   {"q": "Comment Walter Cannon a-t-il appelé la réaction de stress ?", "r": "La réaction de combat ou de fuite."},
+   {"q": "Quel chercheur a popularisé le mot stress en biologie à partir de 1936 ?", "r": "Hans Selye."},
+   {"q": "Quelles sont les trois phases décrites par Selye ?", "r": "L'alarme, la résistance et l'épuisement."},
+   {"q": "Que décrit la relation de Yerkes et Dodson ?", "r": "La performance augmente avec la stimulation jusqu'à un point, puis chute."},
+   {"q": "Quelle hormone reste trop élevée en cas de stress chronique ?", "r": "Le cortisol."}
+  ]
+ }
+]

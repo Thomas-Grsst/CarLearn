@@ -1,0 +1,512 @@
+[
+ {
+  "id": "memoire",
+  "categorie": "Cerveau",
+  "titre": "Comment fonctionne la mémoire",
+  "intro": "Aujourd'hui, on parle de la mémoire. Pourquoi on oublie, comment on retient, et comment s'en servir pour apprendre mieux.",
+  "sections": [
+   {
+    "titre": "Les différentes mémoires",
+    "texte": "On parle souvent de la mémoire comme si c'était une seule chose. En réalité, le cerveau en utilise plusieurs. La mémoire de travail, c'est celle qui retient un numéro de téléphone le temps de le composer. Elle est très limitée : on garde en tête environ quatre éléments à la fois. La mémoire à long terme, elle, a une capacité gigantesque. On la divise en deux grandes familles. La mémoire déclarative, ce sont les faits et les souvenirs qu'on peut raconter : la capitale de l'Italie, ou ton dernier anniversaire. La mémoire procédurale, ce sont les savoir-faire : faire du vélo, taper au clavier, passer les vitesses. Celle-là est remarquablement solide. On peut ne pas faire de vélo pendant vingt ans et s'y remettre en quelques minutes."
+   },
+   {
+    "titre": "L'hippocampe, le chef d'orchestre",
+    "texte": "Au cœur de chaque hémisphère du cerveau se trouve une petite structure en forme de cheval de mer : l'hippocampe. Il joue un rôle central pour transformer une expérience récente en souvenir durable. On l'a compris grâce à un patient célèbre, connu sous les initiales H.M. En 1953, on lui a retiré une partie des lobes temporaux, dont l'hippocampe, pour soigner une épilepsie sévère. Après l'opération, il ne pouvait plus former de nouveaux souvenirs de faits ou d'événements. Pourtant, il pouvait encore apprendre de nouveaux gestes, comme dessiner en regardant dans un miroir, sans se souvenir de s'être entraîné. Cela a montré que les différentes mémoires reposent sur des circuits différents."
+   },
+   {
+    "titre": "La courbe de l'oubli",
+    "texte": "À la fin du dix-neuvième siècle, le psychologue allemand Hermann Ebbinghaus s'est pris lui-même comme cobaye. Il apprenait des listes de syllabes sans signification, puis mesurait combien il en avait oublié avec le temps. Il a découvert que l'oubli est très rapide au début : une grande partie disparaît dans les heures et les jours qui suivent. Ensuite, la perte ralentit. C'est ce qu'on appelle la courbe de l'oubli. La bonne nouvelle, c'est que chaque fois qu'on révise, la courbe devient plus plate. On oublie moins vite. C'est pour cela que réviser un peu, plusieurs fois, en espaçant les séances, est bien plus efficace que tout réviser d'un coup."
+   },
+   {
+    "titre": "Le sommeil, l'allié secret",
+    "texte": "Pendant que tu dors, ton cerveau ne se repose pas complètement. Il trie et consolide ce que tu as vécu dans la journée. Pendant le sommeil profond, l'hippocampe rejoue en accéléré certaines séquences d'activité de la journée, et ces informations sont progressivement transférées vers le cortex, où elles sont stockées à plus long terme. De nombreuses études montrent qu'une nuit de sommeil après un apprentissage améliore nettement la rétention. À l'inverse, une nuit blanche réduit la capacité à former de nouveaux souvenirs le lendemain. Autrement dit, bien dormir fait partie intégrante de l'apprentissage."
+   },
+   {
+    "titre": "Comment mieux retenir",
+    "texte": "La recherche en sciences cognitives a identifié quelques techniques très efficaces. La première, c'est la récupération active : au lieu de relire, on essaie de se rappeler l'information sans regarder. C'est exactement ce que fait le quiz à la fin de chaque sujet. Le simple effort de chercher une réponse renforce le souvenir. La deuxième, c'est la répétition espacée, qu'on a vue avec Ebbinghaus. La troisième, c'est l'élaboration : relier une nouvelle information à quelque chose que tu connais déjà, ou l'expliquer avec tes propres mots. Essaie, ce soir, de raconter à quelqu'un ce que tu as appris aujourd'hui. Tu verras que ça reste beaucoup mieux."
+   }
+  ],
+  "resume": "En résumé : il existe plusieurs mémoires, l'hippocampe aide à fixer les nouveaux souvenirs, on oublie vite au début puis plus lentement, le sommeil consolide, et pour retenir, rien ne vaut le fait de se tester et de réviser en espaçant.",
+  "quiz": [
+   {
+    "q": "Combien d'éléments la mémoire de travail peut-elle garder environ en même temps ?",
+    "r": "Environ quatre."
+   },
+   {
+    "q": "Quelle structure du cerveau, en forme de cheval de mer, aide à former les nouveaux souvenirs ?",
+    "r": "L'hippocampe."
+   },
+   {
+    "q": "Qui a décrit la courbe de l'oubli ?",
+    "r": "Hermann Ebbinghaus, à la fin du dix-neuvième siècle."
+   },
+   {
+    "q": "Le patient H.M. pouvait-il encore apprendre de nouveaux gestes ?",
+    "r": "Oui. Sa mémoire procédurale fonctionnait, même s'il ne se souvenait pas de s'être entraîné."
+   },
+   {
+    "q": "Quelle technique consiste à essayer de se rappeler une information sans la relire ?",
+    "r": "La récupération active, ou le fait de se tester."
+   }
+  ]
+ },
+ {
+  "id": "rome",
+  "categorie": "Histoire",
+  "titre": "Rome : de la République à l'Empire",
+  "intro": "Aujourd'hui, direction l'Antiquité. On va voir comment une petite cité d'Italie est devenue un empire immense, et comment la République romaine a basculé vers le pouvoir d'un seul homme.",
+  "sections": [
+   {
+    "titre": "Les débuts de Rome",
+    "texte": "Selon la légende, Rome a été fondée en 753 avant Jésus-Christ par Romulus, après avoir tué son frère jumeau Rémus. Les deux frères auraient été allaités par une louve. Ce récit est un mythe, mais l'archéologie confirme qu'il y avait bien des villages sur les collines de Rome vers cette époque. Au début, Rome est gouvernée par des rois. Le dernier, Tarquin le Superbe, est chassé vers 509 avant Jésus-Christ. Les Romains gardent ensuite une profonde méfiance envers la royauté. Le mot roi, rex en latin, devient presque une insulte politique."
+   },
+   {
+    "titre": "Le fonctionnement de la République",
+    "texte": "Après les rois, les Romains inventent un système pour qu'aucun homme ne concentre trop de pouvoir. Au sommet, il y a deux consuls, élus pour un an seulement. Chacun peut bloquer les décisions de l'autre. Le Sénat, composé d'anciens magistrats, conseille et pèse énormément sur la politique, notamment étrangère. Le peuple vote dans des assemblées. Pendant longtemps, la société est marquée par une opposition entre les patriciens, les grandes familles aristocratiques, et les plébéiens, le reste des citoyens. Les plébéiens obtiennent peu à peu des droits, notamment des magistrats pour les protéger : les tribuns de la plèbe."
+   },
+   {
+    "titre": "La conquête de la Méditerranée",
+    "texte": "Rome étend d'abord son contrôle sur l'Italie. Puis elle affronte Carthage, une puissance commerçante installée dans l'actuelle Tunisie. Ce sont les guerres puniques, entre 264 et 146 avant Jésus-Christ. Pendant la deuxième, le général carthaginois Hannibal traverse les Alpes avec son armée et des éléphants, et inflige aux Romains de terribles défaites, comme à Cannes en 216. Mais Rome tient bon, et finit par vaincre. En 146, Carthage est détruite. La même année, Rome soumet aussi la Grèce. La Méditerranée devient peu à peu une mer romaine."
+   },
+   {
+    "titre": "Les guerres civiles et César",
+    "texte": "Les conquêtes apportent d'immenses richesses, mais aussi de fortes tensions. Les généraux victorieux deviennent très puissants, et leurs soldats leur sont plus fidèles qu'à l'État. Le premier siècle avant Jésus-Christ est une période de guerres civiles. Jules César conquiert la Gaule entre 58 et 50 avant Jésus-Christ. En 49, il franchit avec son armée le Rubicon, la rivière qui marque la limite qu'un général n'a pas le droit de traverser en armes. C'est un acte de guerre contre le Sénat. César l'emporte et devient dictateur. Mais le 15 mars 44 avant Jésus-Christ, aux Ides de mars, il est assassiné par des sénateurs qui veulent sauver la République."
+   },
+   {
+    "titre": "Auguste, le premier empereur",
+    "texte": "L'assassinat de César ne sauve pas la République. Une nouvelle guerre civile éclate. Le vainqueur est Octave, le petit-neveu et fils adoptif de César. En 31 avant Jésus-Christ, il bat Marc Antoine et Cléopâtre à la bataille d'Actium. En 27, le Sénat lui donne le titre d'Auguste. Très habile, il prétend restaurer la République, tout en gardant en réalité tous les pouvoirs. On considère qu'il est le premier empereur romain. Son règne ouvre une longue période de stabilité relative, appelée la paix romaine, la Pax Romana, qui dure environ deux siècles."
+   }
+  ],
+  "resume": "En résumé : Rome passe des rois à la République vers 509 avant Jésus-Christ, conquiert la Méditerranée en battant Carthage, s'enfonce dans les guerres civiles, et après César, Auguste devient le premier empereur en 27 avant Jésus-Christ.",
+  "quiz": [
+   {
+    "q": "Quelle est la date légendaire de la fondation de Rome ?",
+    "r": "753 avant Jésus-Christ."
+   },
+   {
+    "q": "Combien de consuls dirigeaient la République, et pour combien de temps ?",
+    "r": "Deux consuls, élus pour un an."
+   },
+   {
+    "q": "Quel général carthaginois a traversé les Alpes avec des éléphants ?",
+    "r": "Hannibal."
+   },
+   {
+    "q": "Que signifie franchir le Rubicon pour César ?",
+    "r": "Entrer en Italie avec son armée, ce qui était interdit : c'est déclarer la guerre au Sénat."
+   },
+   {
+    "q": "Qui est considéré comme le premier empereur romain ?",
+    "r": "Auguste, anciennement Octave."
+   }
+  ]
+ },
+ {
+  "id": "trous-noirs",
+  "categorie": "Univers",
+  "titre": "Les trous noirs",
+  "intro": "Aujourd'hui, on part dans l'espace pour parler des objets les plus extrêmes de l'Univers : les trous noirs.",
+  "sections": [
+   {
+    "titre": "Qu'est-ce qu'un trou noir ?",
+    "texte": "Un trou noir est une région de l'espace où la gravité est si intense que rien ne peut s'en échapper, pas même la lumière. Pour comprendre, pense à la vitesse de libération. Pour quitter la Terre, une fusée doit atteindre environ onze kilomètres par seconde. Plus un objet est massif et compact, plus cette vitesse est élevée. Dans un trou noir, elle dépasse la vitesse de la lumière, qui est d'environ trois cent mille kilomètres par seconde. Comme rien ne va plus vite que la lumière, rien ne ressort."
+   },
+   {
+    "titre": "L'horizon des événements",
+    "texte": "La frontière d'un trou noir s'appelle l'horizon des événements. Ce n'est pas une surface solide : c'est une limite de non-retour. Tant que tu es à l'extérieur, tu peux encore t'éloigner, avec assez d'énergie. Une fois que tu l'as franchie, tous les chemins possibles mènent vers le centre. La taille de cet horizon dépend de la masse. Si on comprimait le Soleil jusqu'à en faire un trou noir, son horizon ne ferait qu'environ trois kilomètres de rayon. Pour la Terre entière, ce serait à peine la taille d'une bille, environ neuf millimètres."
+   },
+   {
+    "titre": "Comment naissent-ils ?",
+    "texte": "Les trous noirs les plus courants naissent de la mort d'étoiles très massives, au moins une vingtaine de fois la masse du Soleil environ. Une étoile brille parce qu'en son cœur, la fusion nucléaire produit une pression qui compense la gravité. Quand le combustible s'épuise, cet équilibre est rompu. Le cœur s'effondre sur lui-même en une fraction de seconde, tandis que les couches extérieures sont souvent soufflées dans une gigantesque explosion : une supernova. Si le cœur restant est assez massif, rien ne peut arrêter l'effondrement, et un trou noir se forme."
+   },
+   {
+    "titre": "Les monstres au centre des galaxies",
+    "texte": "Il existe aussi des trous noirs supermassifs, qui pèsent des millions, voire des milliards de fois la masse du Soleil. On pense qu'il y en a un au centre de presque toutes les grandes galaxies. Celui de notre galaxie, la Voie lactée, s'appelle Sagittarius A étoile. Il pèse environ quatre millions de masses solaires. On l'a démontré en suivant pendant des décennies le mouvement d'étoiles qui tournent autour d'un point invisible à très grande vitesse. Ce travail a valu le prix Nobel de physique 2020 à Reinhard Genzel et Andrea Ghez, partagé avec Roger Penrose pour ses travaux théoriques."
+   },
+   {
+    "titre": "Les voir, enfin",
+    "texte": "Comment photographier un objet qui n'émet pas de lumière ? En observant la matière très chaude qui tourbillonne autour. En 2019, le réseau de radiotélescopes Event Horizon Telescope, qui combine des antennes réparties sur toute la planète, a publié la première image d'un trou noir : celui de la galaxie M87. On y voit un anneau lumineux autour d'une zone sombre, l'ombre du trou noir. En 2022, la même équipe a publié l'image de Sagittarius A étoile. Par ailleurs, depuis 2015, on détecte aussi des ondes gravitationnelles, des vibrations de l'espace-temps produites quand deux trous noirs fusionnent."
+   }
+  ],
+  "resume": "En résumé : un trou noir est une zone dont même la lumière ne peut s'échapper, délimitée par l'horizon des événements. Il naît souvent de l'effondrement d'une étoile massive. Des géants supermassifs trônent au centre des galaxies, et on a obtenu leurs premières images en 2019 et 2022.",
+  "quiz": [
+   {
+    "q": "Pourquoi la lumière ne peut-elle pas sortir d'un trou noir ?",
+    "r": "Parce que la vitesse de libération y dépasse la vitesse de la lumière."
+   },
+   {
+    "q": "Comment s'appelle la frontière de non-retour d'un trou noir ?",
+    "r": "L'horizon des événements."
+   },
+   {
+    "q": "Quelle taille ferait la Terre si elle devenait un trou noir ?",
+    "r": "Environ celle d'une bille, à peu près neuf millimètres."
+   },
+   {
+    "q": "Comment s'appelle le trou noir au centre de la Voie lactée ?",
+    "r": "Sagittarius A étoile, environ quatre millions de masses solaires."
+   },
+   {
+    "q": "En quelle année a-t-on publié la première image d'un trou noir ?",
+    "r": "En 2019, celui de la galaxie M87."
+   }
+  ]
+ },
+ {
+  "id": "biais",
+  "categorie": "Psychologie",
+  "titre": "Les biais cognitifs",
+  "intro": "Aujourd'hui, on parle des petits pièges que notre cerveau nous tend : les biais cognitifs. Les connaître, c'est déjà mieux s'en protéger.",
+  "sections": [
+   {
+    "titre": "Deux façons de penser",
+    "texte": "Le psychologue Daniel Kahneman, prix Nobel d'économie en 2002, a popularisé une idée simple. Notre esprit fonctionne avec deux systèmes. Le système un est rapide, automatique, intuitif. C'est lui qui reconnaît un visage ou qui freine quand une voiture déboîte devant toi. Le système deux est lent, réfléchi, et demande un effort, comme pour calculer dix-sept fois vingt-quatre. La plupart du temps, le système un fait un excellent travail. Mais il prend des raccourcis, et ces raccourcis produisent des erreurs systématiques : ce sont les biais cognitifs."
+   },
+   {
+    "titre": "Le biais de confirmation",
+    "texte": "C'est peut-être le plus puissant. Le biais de confirmation, c'est la tendance à chercher, à remarquer et à retenir les informations qui confirment ce qu'on pense déjà, et à ignorer celles qui le contredisent. Si tu penses qu'un collègue est désagréable, tu vas remarquer chacune de ses remarques sèches et oublier ses gestes sympathiques. Sur internet, les algorithmes amplifient ce biais en nous montrant ce qui nous plaît déjà. Un bon antidote : se demander régulièrement quelle information pourrait me faire changer d'avis, et aller la chercher."
+   },
+   {
+    "titre": "L'effet d'ancrage",
+    "texte": "Le premier chiffre qu'on entend influence fortement notre jugement, même s'il n'a aucun rapport. Dans une expérience célèbre de Kahneman et Tversky, on faisait tourner une roue truquée qui s'arrêtait sur dix ou sur soixante-cinq. Puis on demandait aux participants d'estimer le pourcentage de pays africains membres de l'ONU. Ceux qui avaient vu soixante-cinq donnaient en moyenne des estimations beaucoup plus élevées. Les vendeurs le savent bien : afficher un prix barré très élevé rend le prix réduit attirant. En négociation, celui qui annonce un chiffre en premier pose souvent l'ancre."
+   },
+   {
+    "titre": "Disponibilité et aversion à la perte",
+    "texte": "Le biais de disponibilité nous fait juger la probabilité d'un événement selon la facilité avec laquelle des exemples nous viennent en tête. Après avoir vu un reportage sur un accident d'avion, on surestime le danger de l'avion, alors qu'il est bien plus sûr que la voiture par kilomètre parcouru. L'aversion à la perte, elle, signifie que perdre une somme nous fait plus mal que gagner la même somme ne nous fait plaisir. Les études suggèrent qu'une perte pèse environ deux fois plus lourd qu'un gain équivalent. C'est pour cela qu'on garde parfois trop longtemps une action en bourse qui baisse, pour ne pas avoir à acter la perte."
+   },
+   {
+    "titre": "Se protéger",
+    "texte": "On ne peut pas supprimer ses biais, ils font partie du fonctionnement normal du cerveau. Mais on peut limiter leurs dégâts pour les décisions importantes. D'abord, ralentir : quand une décision compte, donne-toi le temps de réveiller le système deux. Ensuite, chercher activement l'avis contraire, ou demander à quelqu'un de jouer l'avocat du diable. Enfin, s'appuyer sur des données plutôt que sur des impressions, et se fixer ses critères avant de voir les options. Et retiens ceci : tout le monde voit facilement les biais des autres, beaucoup moins les siens."
+   }
+  ],
+  "resume": "En résumé : notre pensée rapide prend des raccourcis qui créent des biais. Les principaux : confirmation, ancrage, disponibilité et aversion à la perte. Pour s'en protéger : ralentir, chercher la contradiction, et s'appuyer sur des données.",
+  "quiz": [
+   {
+    "q": "Selon Kahneman, lequel des deux systèmes de pensée est rapide et intuitif ?",
+    "r": "Le système un."
+   },
+   {
+    "q": "Comment s'appelle la tendance à ne retenir que ce qui confirme nos idées ?",
+    "r": "Le biais de confirmation."
+   },
+   {
+    "q": "Quel biais explique qu'un prix barré élevé rende une promotion attirante ?",
+    "r": "L'effet d'ancrage."
+   },
+   {
+    "q": "Environ combien de fois une perte pèse-t-elle plus qu'un gain équivalent ?",
+    "r": "Environ deux fois."
+   },
+   {
+    "q": "Pourquoi surestime-t-on le danger de l'avion après un reportage sur un crash ?",
+    "r": "À cause du biais de disponibilité : les exemples nous viennent facilement en tête."
+   }
+  ]
+ },
+ {
+  "id": "inflation",
+  "categorie": "Économie",
+  "titre": "L'inflation expliquée simplement",
+  "intro": "Aujourd'hui, un sujet qui touche directement ton portefeuille : l'inflation. Ce que c'est, d'où elle vient, et comment on essaie de la contrôler.",
+  "sections": [
+   {
+    "titre": "Définition",
+    "texte": "L'inflation, c'est la hausse générale et durable des prix. Pas celle d'un seul produit, mais de l'ensemble des biens et services. En France, c'est l'Insee qui la mesure, à partir de l'indice des prix à la consommation. Il suit l'évolution du prix d'un grand panier représentatif : alimentation, énergie, loyers, transports, loisirs, et ainsi de suite. Quand on dit que l'inflation est de deux pour cent sur un an, cela signifie qu'en moyenne, ce panier coûte deux pour cent de plus que l'année précédente. Autrement dit, avec la même somme d'argent, tu peux acheter un peu moins de choses : ton pouvoir d'achat baisse, sauf si ton revenu augmente aussi vite."
+   },
+   {
+    "titre": "D'où vient l'inflation ?",
+    "texte": "Les économistes distinguent plusieurs causes. L'inflation par la demande : quand les gens et les entreprises veulent acheter plus que ce que l'économie peut produire, les prix montent. L'inflation par les coûts : quand le prix des matières premières ou de l'énergie augmente, les entreprises répercutent ces hausses sur leurs prix de vente. C'est ce qui s'est passé en Europe en 2022, avec la flambée du prix du gaz et de l'électricité. Enfin, il y a la création monétaire : si la quantité de monnaie augmente beaucoup plus vite que la production, chaque euro vaut moins. Les anticipations jouent aussi un rôle : si tout le monde s'attend à des hausses de prix, les salaires et les prix sont négociés en conséquence, ce qui entretient le mouvement."
+   },
+   {
+    "titre": "Pourquoi viser deux pour cent ?",
+    "texte": "La Banque centrale européenne a pour mission principale la stabilité des prix. Son objectif est une inflation de deux pour cent à moyen terme. Pourquoi pas zéro ? Parce qu'une légère inflation laisse une marge de sécurité. Le contraire de l'inflation, la déflation, c'est-à-dire la baisse générale des prix, est très dangereux. Si les prix baissent, les ménages repoussent leurs achats en attendant que ce soit moins cher, les entreprises vendent moins, licencient, et l'économie peut s'enfoncer dans une spirale. Le Japon a connu une longue période de prix stagnants ou en baisse à partir des années 1990."
+   },
+   {
+    "titre": "Les taux d'intérêt, le levier principal",
+    "texte": "Pour freiner l'inflation, la banque centrale augmente ses taux directeurs. C'est le taux auquel les banques se refinancent. Quand il monte, les crédits deviennent plus chers pour les ménages et les entreprises. On emprunte moins pour acheter une maison ou investir, la demande ralentit, et les prix se calment. À l'inverse, quand l'économie est faible et l'inflation basse, la banque centrale baisse ses taux pour encourager le crédit. Entre 2022 et 2023, la BCE a relevé ses taux à un rythme inédit dans son histoire, pour répondre à une inflation qui avait dépassé dix pour cent dans la zone euro à l'automne 2022."
+   },
+   {
+    "titre": "Gagnants et perdants",
+    "texte": "L'inflation ne touche pas tout le monde de la même façon. Ceux qui ont des dettes à taux fixe y gagnent : la valeur réelle de ce qu'ils doivent diminue. Si tu as un crédit immobilier à taux fixe et que ton salaire augmente avec l'inflation, ta mensualité pèse de moins en moins lourd. À l'inverse, l'épargne qui dort sur un compte non rémunéré perd de sa valeur. Les personnes dont les revenus ne suivent pas les prix sont les plus pénalisées. Retiens donc la notion de taux réel : c'est le rendement de ton épargne moins l'inflation. Un placement à trois pour cent avec une inflation à quatre pour cent te fait en réalité perdre un pour cent par an."
+   }
+  ],
+  "resume": "En résumé : l'inflation est la hausse générale des prix, qui réduit le pouvoir d'achat. Elle vient de la demande, des coûts ou de la monnaie. La BCE vise deux pour cent et agit surtout avec ses taux d'intérêt. Et pense toujours en taux réel.",
+  "quiz": [
+   {
+    "q": "Quel organisme mesure l'inflation en France ?",
+    "r": "L'Insee, avec l'indice des prix à la consommation."
+   },
+   {
+    "q": "Quel est l'objectif d'inflation de la Banque centrale européenne ?",
+    "r": "Deux pour cent à moyen terme."
+   },
+   {
+    "q": "Comment s'appelle la baisse générale des prix ?",
+    "r": "La déflation."
+   },
+   {
+    "q": "Que fait la banque centrale pour freiner l'inflation ?",
+    "r": "Elle augmente ses taux directeurs, ce qui rend le crédit plus cher."
+   },
+   {
+    "q": "Si ton épargne rapporte trois pour cent et que l'inflation est de quatre pour cent, quel est ton taux réel ?",
+    "r": "Moins un pour cent : tu perds du pouvoir d'achat."
+   }
+  ]
+ },
+ {
+  "id": "immunite",
+  "categorie": "Corps humain",
+  "titre": "Le système immunitaire",
+  "intro": "Aujourd'hui, on découvre l'armée qui te protège en permanence sans que tu y penses : ton système immunitaire.",
+  "sections": [
+   {
+    "titre": "Les premières barrières",
+    "texte": "Avant même de parler de cellules, ton corps a des défenses physiques. La peau est un rempart très efficace contre la plupart des microbes. Les muqueuses, dans le nez, la bouche ou les intestins, produisent du mucus qui piège les intrus. Les larmes et la salive contiennent une enzyme, le lysozyme, capable d'attaquer la paroi de certaines bactéries. L'acidité de l'estomac détruit une grande partie des microbes que l'on avale. Et des milliards de bactéries amies, qui vivent sur notre peau et dans notre intestin, occupent la place et empêchent les bactéries dangereuses de s'installer."
+   },
+   {
+    "titre": "L'immunité innée",
+    "texte": "Si un microbe franchit ces barrières, par exemple à cause d'une coupure, l'immunité innée entre en jeu en quelques minutes. Elle réagit à tout ce qui semble étranger, sans avoir besoin de le connaître. Des globules blancs appelés macrophages et neutrophiles se précipitent sur place et avalent les intrus : c'est la phagocytose. La zone devient rouge, chaude et gonflée : c'est l'inflammation. Elle n'est pas un problème en soi, c'est le signe que les renforts arrivent, grâce à l'afflux de sang. La fièvre, de son côté, aide aussi l'organisme à combattre certaines infections."
+   },
+   {
+    "titre": "L'immunité adaptative",
+    "texte": "La deuxième ligne de défense est plus lente, mais redoutablement précise. C'est l'immunité adaptative. Elle repose sur deux grands types de lymphocytes. Les lymphocytes B fabriquent des anticorps, des protéines en forme de Y qui s'accrochent spécifiquement à un microbe donné, comme une clé dans une serrure, et le signalent pour qu'il soit détruit. Les lymphocytes T, eux, ont plusieurs rôles : certains coordonnent la réponse, d'autres détruisent directement les cellules infectées par un virus. Lors d'une première rencontre avec un microbe, cette réponse met généralement plusieurs jours à se mettre en place."
+   },
+   {
+    "titre": "La mémoire immunitaire et les vaccins",
+    "texte": "Après une infection, une partie des lymphocytes devient des cellules mémoire. Elles peuvent rester dans l'organisme pendant des années, parfois toute la vie. Si le même microbe revient, la réponse est beaucoup plus rapide et plus forte, souvent avant même que tu ne tombes malade. C'est le principe de la vaccination : on présente au système immunitaire un microbe inactivé, un morceau de microbe, ou les instructions pour en fabriquer un morceau, comme avec les vaccins à ARN messager. Le corps apprend à reconnaître l'ennemi sans subir la maladie. Le premier vaccin a été mis au point par Edward Jenner en 1796, contre la variole, une maladie aujourd'hui éradiquée."
+   },
+   {
+    "titre": "Quand le système se dérègle",
+    "texte": "Le système immunitaire doit faire la différence entre ce qui est soi et ce qui est étranger. Parfois, il se trompe. Dans les allergies, il réagit de façon excessive à des substances inoffensives, comme le pollen ou les acariens. Dans les maladies auto-immunes, il attaque les propres tissus du corps. C'est le cas du diabète de type un, où il détruit les cellules du pancréas qui fabriquent l'insuline, ou de la sclérose en plaques, où il s'en prend à la gaine qui entoure les nerfs. Le sommeil, l'activité physique et une alimentation variée font partie des habitudes qui aident le système immunitaire à bien fonctionner."
+   }
+  ],
+  "resume": "En résumé : des barrières physiques d'abord, puis l'immunité innée, rapide et générale, ensuite l'immunité adaptative, lente mais précise, avec ses anticorps et ses lymphocytes. Les cellules mémoire expliquent le fonctionnement des vaccins.",
+  "quiz": [
+   {
+    "q": "Comment s'appelle le fait, pour un globule blanc, d'avaler un microbe ?",
+    "r": "La phagocytose."
+   },
+   {
+    "q": "Quelles cellules fabriquent les anticorps ?",
+    "r": "Les lymphocytes B."
+   },
+   {
+    "q": "Pourquoi une zone infectée devient-elle rouge et chaude ?",
+    "r": "À cause de l'inflammation : le sang afflue pour apporter des renforts."
+   },
+   {
+    "q": "Qui a mis au point le premier vaccin, et contre quelle maladie ?",
+    "r": "Edward Jenner, en 1796, contre la variole."
+   },
+   {
+    "q": "Comment appelle-t-on les maladies où le système immunitaire attaque le corps lui-même ?",
+    "r": "Les maladies auto-immunes."
+   }
+  ]
+ },
+ {
+  "id": "internet",
+  "categorie": "Technologie",
+  "titre": "Comment est né Internet",
+  "intro": "Aujourd'hui, l'histoire d'un outil que tu utilises tous les jours : Internet. Et on verra qu'Internet et le Web, ce n'est pas la même chose.",
+  "sections": [
+   {
+    "titre": "ARPANET, l'ancêtre",
+    "texte": "Tout commence à la fin des années 1960 aux États-Unis. L'ARPA, une agence de recherche liée à la Défense, finance un réseau pour relier les ordinateurs de plusieurs universités et partager leurs ressources, très coûteuses à l'époque. Ce réseau s'appelle ARPANET. Le 29 octobre 1969, un premier message est envoyé entre l'université de Californie à Los Angeles et l'institut de recherche de Stanford. On voulait taper le mot login. Mais le système a planté après les deux premières lettres. Le premier message de l'histoire d'Internet a donc été : L, O."
+   },
+   {
+    "titre": "La commutation de paquets",
+    "texte": "L'idée clé de ces réseaux, c'est la commutation de paquets. Au lieu d'établir une ligne dédiée entre deux points, comme le téléphone de l'époque, on découpe chaque message en petits morceaux, les paquets. Chaque paquet voyage indépendamment, éventuellement par des chemins différents, et le message est reconstitué à l'arrivée. Si une partie du réseau tombe en panne, les paquets passent ailleurs. C'est robuste et efficace. En France, le réseau expérimental Cyclades, dirigé par Louis Pouzin au début des années 1970, a apporté des idées importantes, notamment celle du datagramme, qui ont inspiré la suite."
+   },
+   {
+    "titre": "TCP IP, la langue commune",
+    "texte": "Au début des années 1970, il existe plusieurs réseaux qui ne savent pas se parler. Vinton Cerf et Robert Kahn conçoivent alors un ensemble de règles communes, de protocoles, pour interconnecter les réseaux entre eux : TCP IP. IP se charge d'adresser et d'acheminer les paquets, TCP s'assure qu'ils arrivent tous, dans le bon ordre, et redemande ceux qui sont perdus. Le premier janvier 1983, ARPANET bascule officiellement sur TCP IP. Cette date est souvent considérée comme la naissance d'Internet, qui signifie littéralement un réseau entre les réseaux."
+   },
+   {
+    "titre": "Le Web, une invention européenne",
+    "texte": "Internet, c'est l'infrastructure : les câbles, les routeurs, les protocoles. Le Web, c'est un service qui fonctionne par-dessus, comme l'e-mail en est un autre. Le Web a été inventé en 1989 par le Britannique Tim Berners-Lee, au CERN, le laboratoire européen de physique des particules situé près de Genève. Il voulait faciliter le partage de documents entre chercheurs. Il crée trois briques : les adresses des pages, appelées URL, le langage HTML pour écrire les pages, et le protocole HTTP pour les transmettre. Et surtout, les liens hypertextes, qui permettent de passer d'une page à l'autre. En 1993, le CERN met le Web dans le domaine public, ce qui permet son explosion."
+   },
+   {
+    "titre": "Ce qui se passe quand tu tapes une adresse",
+    "texte": "Quand tu tapes une adresse dans ton navigateur, ton ordinateur doit d'abord trouver l'adresse IP du serveur, une suite de chiffres. Il interroge pour cela le DNS, une sorte d'annuaire géant d'Internet. Ensuite, ton navigateur envoie une requête HTTP au serveur, généralement chiffrée, c'est le S de HTTPS. Les paquets traversent ta box, le réseau de ton opérateur, puis souvent des câbles sous-marins : l'essentiel du trafic intercontinental passe par des câbles de fibre optique posés au fond des océans, et non par satellite. Le serveur répond, et ton navigateur assemble la page. Tout cela prend généralement moins d'une seconde."
+   }
+  ],
+  "resume": "En résumé : ARPANET naît en 1969, la commutation de paquets rend le réseau robuste, TCP IP permet de relier les réseaux en 1983, et le Web, inventé par Tim Berners-Lee au CERN en 1989, n'est qu'un des services d'Internet.",
+  "quiz": [
+   {
+    "q": "Quel a été le tout premier message envoyé sur ARPANET ?",
+    "r": "L, O. Le système a planté en tapant login."
+   },
+   {
+    "q": "Quelle est l'idée de la commutation de paquets ?",
+    "r": "Découper les messages en petits paquets qui voyagent indépendamment et sont reconstitués à l'arrivée."
+   },
+   {
+    "q": "Qui a conçu le protocole TCP IP ?",
+    "r": "Vinton Cerf et Robert Kahn."
+   },
+   {
+    "q": "Qui a inventé le Web, où et quand ?",
+    "r": "Tim Berners-Lee, au CERN, en 1989."
+   },
+   {
+    "q": "Par où passe l'essentiel du trafic Internet entre les continents ?",
+    "r": "Par des câbles sous-marins en fibre optique."
+   }
+  ]
+ },
+ {
+  "id": "stoicisme",
+  "categorie": "Philosophie",
+  "titre": "Le stoïcisme, une philosophie pratique",
+  "intro": "Aujourd'hui, une philosophie vieille de plus de deux mille ans, mais étonnamment utile au quotidien, y compris dans les bouchons : le stoïcisme.",
+  "sections": [
+   {
+    "titre": "Origines",
+    "texte": "Le stoïcisme naît à Athènes vers 300 avant Jésus-Christ. Son fondateur, Zénon de Citium, enseignait sous un portique couvert de peintures, la Stoa poikilè. C'est de là que vient le nom de stoïcisme. L'école se développe ensuite à Rome, où elle devient très populaire. Les trois stoïciens les plus lus aujourd'hui sont Romains. Sénèque, conseiller de l'empereur Néron, a écrit des lettres pleines de conseils de vie. Épictète était un ancien esclave devenu professeur. Et Marc Aurèle était carrément empereur : ses Pensées pour moi-même sont un journal intime qu'il n'avait jamais destiné à être publié."
+   },
+   {
+    "titre": "La dichotomie du contrôle",
+    "texte": "L'idée centrale, on la trouve au début du Manuel d'Épictète. Parmi les choses, certaines dépendent de nous, d'autres non. Ce qui dépend de nous : nos jugements, nos intentions, nos choix, nos actions. Ce qui ne dépend pas de nous : le corps dans une certaine mesure, la réputation, la richesse, le comportement des autres, la météo, et bien sûr la circulation. Pour les stoïciens, une grande partie de nos souffrances vient du fait qu'on s'agite à propos de ce qui ne dépend pas de nous. Le conseil est simple : concentre ton énergie sur ce que tu contrôles, et accepte le reste avec calme."
+   },
+   {
+    "titre": "Ce ne sont pas les choses qui nous troublent",
+    "texte": "Épictète a une phrase célèbre : ce ne sont pas les choses qui troublent les hommes, mais les jugements qu'ils portent sur les choses. Prends un exemple concret. Quelqu'un te fait une queue de poisson. Le fait, c'est qu'une voiture s'est rabattue devant toi. Le jugement, c'est : il m'a manqué de respect, c'est inadmissible. C'est ce jugement qui déclenche la colère. Les stoïciens proposent de faire une pause entre l'événement et la réaction, et d'examiner son jugement. Peut-être que le conducteur est pressé pour une urgence, peut-être qu'il ne t'a simplement pas vu. Cette idée a d'ailleurs inspiré les thérapies cognitives modernes."
+   },
+   {
+    "titre": "Quelques exercices stoïciens",
+    "texte": "Les stoïciens pratiquaient des exercices concrets. Le premier, c'est la préparation du matin. Marc Aurèle se disait au réveil : aujourd'hui, je rencontrerai des gens ingrats, insolents, malhonnêtes. Ce n'est pas du pessimisme, c'est une façon de ne pas être surpris. Le deuxième, c'est la visualisation négative : imaginer qu'on perd ce qu'on a, pour mieux l'apprécier. Le troisième, c'est l'examen du soir, que pratiquait Sénèque : repasser sa journée, se demander ce qu'on a bien fait, ce qu'on a mal fait, et ce qu'on peut améliorer, sans se juger trop durement."
+   },
+   {
+    "titre": "Ce que le stoïcisme n'est pas",
+    "texte": "Dans le langage courant, être stoïque signifie encaisser sans rien montrer. C'est une vision réductrice. Les stoïciens ne prônaient pas de supprimer toutes les émotions, mais de ne pas se laisser dominer par les passions destructrices comme la colère ou la peur excessive. Ils valorisaient au contraire des émotions positives, comme la joie sereine, la bienveillance, et le sens de la justice. Pour eux, le seul vrai bien, c'est la vertu, qu'ils divisaient en quatre : la sagesse, le courage, la justice et la tempérance. Et ils insistaient sur le fait que nous faisons tous partie d'une même communauté humaine."
+   }
+  ],
+  "resume": "En résumé : le stoïcisme, né à Athènes avec Zénon, a été popularisé par Sénèque, Épictète et Marc Aurèle. Son cœur : distinguer ce qui dépend de nous de ce qui n'en dépend pas, et comprendre que ce sont nos jugements qui nous troublent.",
+  "quiz": [
+   {
+    "q": "D'où vient le nom stoïcisme ?",
+    "r": "Du portique d'Athènes, la Stoa, où Zénon enseignait."
+   },
+   {
+    "q": "Cite les trois grands stoïciens romains.",
+    "r": "Sénèque, Épictète et Marc Aurèle."
+   },
+   {
+    "q": "Qu'est-ce que la dichotomie du contrôle ?",
+    "r": "Distinguer ce qui dépend de nous, nos jugements et nos actions, de ce qui n'en dépend pas."
+   },
+   {
+    "q": "Selon Épictète, qu'est-ce qui nous trouble vraiment ?",
+    "r": "Pas les choses elles-mêmes, mais les jugements que nous portons sur elles."
+   },
+   {
+    "q": "Quelles sont les quatre vertus stoïciennes ?",
+    "r": "La sagesse, le courage, la justice et la tempérance."
+   }
+  ]
+ },
+ {
+  "id": "revolution",
+  "categorie": "Histoire",
+  "titre": "La Révolution française en 5 étapes",
+  "intro": "Aujourd'hui, on revient sur un moment fondateur de l'histoire de France : la Révolution, de 1789 à 1799.",
+  "sections": [
+   {
+    "titre": "Un royaume en crise",
+    "texte": "À la fin des années 1780, la France de Louis seize est le pays le plus peuplé d'Europe occidentale, avec environ vingt-huit millions d'habitants. Mais l'État est au bord de la faillite, en partie à cause du coût de la guerre d'indépendance américaine, que la France a soutenue. La société est divisée en trois ordres : le clergé, la noblesse, et le tiers état, qui représente l'immense majorité de la population. Les deux premiers ordres bénéficient de privilèges, notamment fiscaux. En 1788, une mauvaise récolte fait flamber le prix du pain. Pour trouver une solution, le roi convoque les États généraux, une assemblée des trois ordres qui ne s'était pas réunie depuis 1614."
+   },
+   {
+    "titre": "1789, l'année de tous les bouleversements",
+    "texte": "Les États généraux s'ouvrent à Versailles en mai 1789. Les députés du tiers état réclament le vote par tête plutôt que par ordre. Le 17 juin, ils se proclament Assemblée nationale. Le 20 juin, ils prêtent le serment du Jeu de paume : ils jurent de ne pas se séparer avant d'avoir donné une Constitution à la France. Le 14 juillet, le peuple de Paris prend la Bastille, une forteresse symbole de l'arbitraire royal. Dans la nuit du 4 août, l'Assemblée abolit les privilèges. Et le 26 août, elle adopte la Déclaration des droits de l'homme et du citoyen, dont le premier article affirme que les hommes naissent et demeurent libres et égaux en droits."
+   },
+   {
+    "titre": "La chute de la monarchie",
+    "texte": "Au départ, beaucoup espèrent une monarchie constitutionnelle, avec un roi aux pouvoirs limités. Mais la confiance se brise en juin 1791, quand Louis seize tente de fuir à l'étranger avec sa famille. Il est arrêté à Varennes et ramené à Paris. En 1792, la France entre en guerre contre l'Autriche, puis la Prusse. Le 10 août, les insurgés parisiens prennent le palais des Tuileries. Le roi est suspendu. Le 21 septembre 1792, la nouvelle assemblée, la Convention, abolit la royauté, et la République est proclamée le lendemain. Louis seize est jugé, puis guillotiné le 21 janvier 1793."
+   },
+   {
+    "titre": "La Terreur",
+    "texte": "En 1793, la jeune République est menacée de toutes parts : guerres aux frontières, révoltes à l'intérieur, comme en Vendée, et crise économique. Le pouvoir se concentre dans les mains du Comité de salut public, où Maximilien Robespierre joue un rôle majeur. C'est la période de la Terreur : des lois d'exception permettent d'arrêter les suspects, et des milliers de personnes sont exécutées, dont la reine Marie-Antoinette. Les révolutionnaires eux-mêmes s'entre-déchirent. En juillet 1794, le 9 thermidor selon le calendrier révolutionnaire, Robespierre est renversé et guillotiné à son tour."
+   },
+   {
+    "titre": "Du Directoire à Bonaparte",
+    "texte": "Après la Terreur, un nouveau régime plus modéré s'installe en 1795 : le Directoire, avec cinq directeurs au pouvoir. Mais il est instable, et doit faire appel à l'armée pour se maintenir. Un jeune général s'est rendu célèbre par ses victoires en Italie : Napoléon Bonaparte. Le 9 novembre 1799, le 18 brumaire, il prend le pouvoir par un coup d'État. On considère généralement que cela marque la fin de la Révolution. Elle laisse un héritage immense : la fin de la société d'ordres, l'idée de souveraineté nationale, les droits de l'homme, le système métrique, et la devise qui deviendra celle de la République : liberté, égalité, fraternité."
+   }
+  ],
+  "resume": "En résumé : crise financière et sociale, convocation des États généraux, 1789 avec la prise de la Bastille et la Déclaration des droits de l'homme, la chute de la monarchie en 1792, la Terreur, puis le coup d'État de Bonaparte en 1799.",
+  "quiz": [
+   {
+    "q": "Depuis quand les États généraux ne s'étaient-ils pas réunis avant 1789 ?",
+    "r": "Depuis 1614."
+   },
+   {
+    "q": "Que jurent les députés lors du serment du Jeu de paume ?",
+    "r": "De ne pas se séparer avant d'avoir donné une Constitution à la France."
+   },
+   {
+    "q": "Où Louis seize est-il arrêté pendant sa fuite ?",
+    "r": "À Varennes, en juin 1791."
+   },
+   {
+    "q": "Quel homme est associé au Comité de salut public et à la Terreur ?",
+    "r": "Maximilien Robespierre."
+   },
+   {
+    "q": "Quel événement marque la fin de la Révolution ?",
+    "r": "Le coup d'État du 18 brumaire de Bonaparte, en novembre 1799."
+   }
+  ]
+ },
+ {
+  "id": "negociation",
+  "categorie": "Compétences",
+  "titre": "Les bases de la négociation",
+  "intro": "Aujourd'hui, une compétence utile partout, au travail comme dans la vie : savoir négocier.",
+  "sections": [
+   {
+    "titre": "Positions et intérêts",
+    "texte": "La méthode de négociation la plus connue a été développée à l'université Harvard, et présentée dans le livre Comment réussir une négociation, de Roger Fisher et William Ury. Son idée de départ : ne pas négocier sur les positions, mais sur les intérêts. La position, c'est ce que la personne dit vouloir. L'intérêt, c'est pourquoi elle le veut. L'exemple classique : deux sœurs se disputent une orange. Elles finissent par la couper en deux. Mais l'une voulait le jus, l'autre voulait l'écorce pour faire un gâteau. Si elles avaient parlé de leurs intérêts, chacune aurait pu avoir cent pour cent de ce qu'elle voulait."
+   },
+   {
+    "titre": "Ta meilleure solution de repli",
+    "texte": "Avant toute négociation, pose-toi une question : que se passe-t-il si on ne trouve pas d'accord ? Les auteurs de Harvard appellent cela la MESORE, la meilleure solution de rechange, en anglais BATNA. Si tu négocies ton salaire et que tu as déjà une autre offre ferme, ta solution de repli est solide, et tu peux être plus exigeant. Si tu n'as aucune alternative, ta position est plus fragile. Le pouvoir dans une négociation dépend beaucoup de cette solution de repli. Le meilleur moyen de renforcer ta position est donc souvent de travailler tes alternatives avant même de t'asseoir à la table."
+   },
+   {
+    "titre": "L'écoute active",
+    "texte": "On pense souvent que bien négocier, c'est bien parler. En réalité, c'est d'abord bien écouter. Chris Voss, ancien négociateur du FBI pour les prises d'otages, recommande quelques techniques simples. Le miroir : répéter les deux ou trois derniers mots de ton interlocuteur sur un ton interrogatif. Cela l'encourage à développer. L'étiquetage : nommer l'émotion que tu perçois, par exemple : on dirait que ce délai t'inquiète. Et les questions ouvertes qui commencent par comment ou qu'est-ce que, par exemple : comment je suis censé faire ça ? Elles amènent l'autre à réfléchir à ta contrainte."
+   },
+   {
+    "titre": "Ancrage et concessions",
+    "texte": "Tu te souviens peut-être de l'effet d'ancrage : le premier chiffre posé influence toute la discussion. En négociation, si tu connais bien le marché, il est souvent intéressant de faire la première offre, de façon ambitieuse mais justifiable. Si tu ne connais pas bien la valeur, laisse plutôt l'autre parler en premier. Ensuite, côté concessions, quelques règles. Ne concède jamais rien gratuitement : demande quelque chose en échange. Fais des concessions de plus en plus petites, ce qui signale que tu approches de ta limite. Et prépare plusieurs variables à échanger, pas seulement le prix : délais, quantités, garanties, conditions de paiement."
+   },
+   {
+    "titre": "Rester dur sur le fond, doux avec les personnes",
+    "texte": "Un principe important de la méthode de Harvard : séparer les personnes du problème. On peut être ferme sur ses intérêts tout en restant respectueux et chaleureux avec l'autre. Une négociation n'est pas un combat, surtout quand tu vas retravailler avec la même personne. Utilise aussi des critères objectifs : un prix du marché, une grille salariale, un devis concurrent. Il est plus facile de s'accorder sur un critère neutre que de céder à la volonté de l'autre. Enfin, avant de conclure, reformule clairement ce sur quoi vous êtes d'accord, et mets-le par écrit."
+   }
+  ],
+  "resume": "En résumé : négocier sur les intérêts, pas sur les positions, connaître sa solution de repli, écouter activement, gérer l'ancrage et ne jamais concéder sans contrepartie, tout en restant dur sur le fond et doux avec les personnes.",
+  "quiz": [
+   {
+    "q": "Quelle est la différence entre une position et un intérêt ?",
+    "r": "La position, c'est ce qu'on demande ; l'intérêt, c'est la raison pour laquelle on le demande."
+   },
+   {
+    "q": "Que signifie BATNA, ou MESORE ?",
+    "r": "La meilleure solution de rechange si la négociation échoue."
+   },
+   {
+    "q": "En quoi consiste la technique du miroir de Chris Voss ?",
+    "r": "Répéter les derniers mots de l'interlocuteur sur un ton interrogatif pour qu'il développe."
+   },
+   {
+    "q": "Quelle règle suivre quand on fait une concession ?",
+    "r": "Ne jamais concéder gratuitement : demander quelque chose en échange."
+   },
+   {
+    "q": "Qu'est-ce que l'histoire de l'orange illustre ?",
+    "r": "Qu'en parlant des intérêts, on peut trouver une solution où chacun obtient tout ce qu'il veut."
+   }
+  ]
+ }
+]
