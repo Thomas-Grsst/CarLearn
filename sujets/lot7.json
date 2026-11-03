@@ -1,132 +1,832 @@
 [
-{"id":"ia-expliquee","categorie":"Technologie","titre":"L'intelligence artificielle expliquée","intro":"Aujourd'hui, on parle d'intelligence artificielle. Ce mot est partout, alors on va voir ensemble ce qu'il recouvre vraiment, sans jargon.","sections":[
-{"titre":"Une idée ancienne","texte":"L'idée de machines capables de penser ne date pas d'hier. Le terme intelligence artificielle a été proposé en 1956, lors d'une rencontre de chercheurs aux États-Unis, à l'université de Dartmouth. À l'époque, on imaginait qu'il suffirait de quelques années pour créer une machine aussi maligne qu'un humain. Ça a été beaucoup plus long. Il y a eu des périodes d'enthousiasme, puis des périodes de déception, qu'on a appelées les hivers de l'intelligence artificielle, où les financements s'effondraient. Aujourd'hui, quand on parle d'intelligence artificielle, on désigne surtout des programmes capables d'accomplir des tâches qui demandaient jusque-là un humain : reconnaître un visage, traduire un texte, répondre à une question. Retiens bien une chose : ces programmes sont très forts dans certaines tâches précises, mais ils ne pensent pas comme toi."},
-{"titre":"Apprendre à partir d'exemples","texte":"La grande révolution, c'est l'apprentissage automatique. Avant, pour qu'un ordinateur reconnaisse un chat, il fallait lui écrire des règles : deux oreilles pointues, des moustaches, une queue. Ça marchait très mal, parce qu'un chat vu de dos ou roulé en boule ne ressemble pas du tout à la règle. Avec l'apprentissage automatique, on fait autrement. On montre au programme des milliers, voire des millions de photos, en lui disant à chaque fois s'il y a un chat ou non. À force d'essais et d'erreurs, il ajuste lui-même ses réglages internes pour se tromper de moins en moins. C'est un peu comme un enfant qui apprend à reconnaître les chiens en en croisant beaucoup dans la rue, sans qu'on lui donne de définition. Le programme ne comprend pas ce qu'est un chat, il repère des régularités."},
-{"titre":"Les réseaux de neurones","texte":"Beaucoup de ces programmes s'appuient sur ce qu'on appelle des réseaux de neurones artificiels. Le nom vient d'une inspiration lointaine du cerveau, mais ne t'y trompe pas, ce sont avant tout des mathématiques. Imagine une immense table de mixage avec des millions de petits boutons. Chaque bouton règle l'importance d'une information. Au départ, les boutons sont réglés au hasard et le résultat est mauvais. Pendant l'apprentissage, le programme tourne un peu chaque bouton pour améliorer sa réponse, encore et encore. On empile plusieurs couches de ces réglages, d'où le nom d'apprentissage profond. Cette approche a vraiment décollé dans les années 2010, grâce à deux choses : des quantités énormes de données disponibles sur internet, et des puces de calcul très puissantes, d'abord conçues pour afficher les images des jeux vidéo."},
-{"titre":"Les assistants qui parlent","texte":"Tu as sûrement entendu parler des assistants capables de discuter, d'écrire un texte ou de résumer un document. Ils reposent sur de grands modèles de langage. Le principe de base est étonnamment simple : on les entraîne sur d'immenses quantités de textes, et ils apprennent à prédire le mot suivant le plus probable dans une phrase. C'est un peu comme la saisie automatique de ton téléphone, mais en infiniment plus puissant. À force de prédire, ils deviennent capables de produire des réponses fluides et souvent utiles. Mais attention, ils peuvent aussi se tromper avec beaucoup d'assurance, et inventer un fait ou une référence qui n'existe pas. C'est pour ça qu'il faut toujours vérifier ce qu'ils affirment, surtout quand c'est important, comme une question de santé, d'argent ou de droit."},
-{"titre":"Promesses et limites","texte":"L'intelligence artificielle sert déjà dans plein de domaines. Elle aide les médecins à repérer certaines anomalies sur des images, elle filtre les courriers indésirables, elle propose des itinéraires ou traduit des conversations. Mais elle pose aussi de vraies questions. Elle apprend à partir de données produites par des humains, donc elle peut reproduire leurs préjugés. Elle consomme beaucoup d'électricité pour s'entraîner et fonctionner. Elle peut servir à fabriquer de fausses images ou de fausses voix très convaincantes. Et elle soulève des inquiétudes sur l'emploi et la vie privée. Les spécialistes eux-mêmes ne sont pas d'accord sur son avenir. Le plus sage, c'est de la voir comme un outil puissant, ni magique, ni diabolique, mais quelque chose qu'il faut apprendre à utiliser avec discernement et esprit critique."}
-],"resume":"En résumé : l'intelligence artificielle, ce sont des programmes qui apprennent à partir d'exemples pour accomplir des tâches précises. Ils sont impressionnants, mais ils peuvent se tromper et doivent être utilisés avec esprit critique.","quiz":[
-{"q":"En quelle année le terme intelligence artificielle a-t-il été proposé ?","r":"En 1956."},
-{"q":"Comment s'appelle la méthode où un programme apprend à partir d'exemples ?","r":"L'apprentissage automatique."},
-{"q":"Pourquoi parle-t-on d'apprentissage profond ?","r":"Parce qu'on empile plusieurs couches de réglages dans le réseau de neurones."},
-{"q":"Que font, à la base, les grands modèles de langage ?","r":"Ils prédisent le mot suivant le plus probable."},
-{"q":"Pourquoi faut-il vérifier ce que dit un assistant d'intelligence artificielle ?","r":"Parce qu'il peut se tromper ou inventer des faits avec assurance."}
-]},
-{"id":"fonctionnement-ordinateur","categorie":"Technologie","titre":"Comment fonctionne un ordinateur","intro":"Aujourd'hui, on parle de l'ordinateur. On va ouvrir le capot, en pensée, pour comprendre comment une machine fait autant de choses avec si peu.","sections":[
-{"titre":"Tout est fait de zéros et de uns","texte":"Au fond, un ordinateur ne connaît que deux états : le courant passe, ou il ne passe pas. On note ça un et zéro. C'est ce qu'on appelle le binaire, et chaque zéro ou un s'appelle un bit. Ça paraît très pauvre, mais en combinant beaucoup de bits, on peut tout représenter. Huit bits forment un octet, et un octet suffit pour coder une lettre de l'alphabet. Une photo, c'est une grande grille de points, et chaque point est décrit par sa couleur, elle-même codée en nombres. Une chanson, c'est une suite de mesures du son, prises des dizaines de milliers de fois par seconde. Ton film préféré, tes messages, ce cours que tu écoutes : tout ça, pour la machine, n'est qu'une immense suite de zéros et de uns."},
-{"titre":"Le processeur, le cerveau qui calcule","texte":"Le cœur de l'ordinateur, c'est le processeur. C'est une petite puce de quelques centimètres qui contient des milliards de minuscules interrupteurs appelés transistors. En s'allumant et en s'éteignant, ces transistors réalisent des opérations très simples : additionner deux nombres, comparer deux valeurs, déplacer une information d'un endroit à un autre. Rien de bien sorcier pris un par un. La magie vient de la vitesse, car un processeur moderne effectue des milliards d'opérations chaque seconde. Imagine un cuisinier qui ne saurait faire que des gestes basiques, couper, verser, mélanger, mais qui en ferait des milliards par seconde sans jamais se tromper. Il finirait par préparer des plats incroyablement compliqués. C'est exactement ce que fait le processeur avec les instructions qu'on lui donne, une par une, à toute allure."},
-{"titre":"La mémoire vive et le stockage","texte":"Un ordinateur a deux sortes de mémoire, et on les confond souvent. La première, c'est la mémoire vive. C'est comme le plan de travail de ta cuisine : on y pose ce qu'on utilise en ce moment, c'est rapide d'accès, mais quand tu éteins l'ordinateur, tout est effacé. Plus ton plan de travail est grand, plus tu peux faire de choses en même temps. La seconde, c'est le stockage, sur un disque dur ou sur une mémoire flash. Ça, ce sont tes placards. Tu y ranges tes fichiers, tes photos, tes programmes, et ils restent là même quand le courant est coupé. Quand tu ouvres un document, l'ordinateur va le chercher dans le placard et le pose sur le plan de travail, pour que le processeur puisse s'en occuper rapidement."},
-{"titre":"Les programmes, des recettes très précises","texte":"Un ordinateur sans programme, c'est une cuisine sans recette. Un programme est une liste d'instructions que le processeur suit à la lettre, une par une. Ces instructions sont écrites par des développeurs dans des langages de programmation, plus faciles à lire pour un humain, puis traduites en langage machine, c'est-à-dire en zéros et en uns. Le programme le plus important, c'est le système d'exploitation, comme Windows, macOS ou Linux. C'est le chef d'orchestre. Il gère le clavier, l'écran, la mémoire, et il partage le processeur entre toutes les applications ouvertes, en passant de l'une à l'autre si vite que tu as l'impression qu'elles tournent toutes en même temps. Sans lui, chaque application devrait tout gérer seule, dans son coin, et ce serait vite le chaos."},
-{"titre":"De la salle géante à ta poche","texte":"Les premiers ordinateurs électroniques, dans les années 1940, occupaient des pièces entières, pesaient des dizaines de tonnes et consommaient énormément d'électricité. Ils utilisaient des tubes à vide, un peu comme de grosses ampoules, qui grillaient souvent. Puis le transistor a été inventé en 1947, et peu à peu, on a su en graver de plus en plus sur une même puce. Pendant des décennies, le nombre de transistors sur une puce a doublé environ tous les deux ans. Résultat, le téléphone que tu as dans la poche est immensément plus puissant que l'ordinateur de bord des missions qui ont emmené des hommes sur la Lune en 1969. Pourtant, le principe reste exactement le même qu'au début : des zéros, des uns, et des milliards de petits calculs très simples."}
-],"resume":"En résumé : un ordinateur manipule des zéros et des uns grâce à un processeur ultra rapide, range ses données entre mémoire vive et stockage, et suit des programmes orchestrés par le système d'exploitation.","quiz":[
-{"q":"Comment s'appelle un zéro ou un un en informatique ?","r":"Un bit."},
-{"q":"Combien de bits forment un octet ?","r":"Huit bits."},
-{"q":"Que se passe-t-il pour la mémoire vive quand on éteint l'ordinateur ?","r":"Elle est effacée."},
-{"q":"Quel programme joue le rôle de chef d'orchestre de l'ordinateur ?","r":"Le système d'exploitation."},
-{"q":"En quelle année le transistor a-t-il été inventé ?","r":"En 1947."}
-]},
-{"id":"alan-turing","categorie":"Technologie","titre":"Alan Turing et les débuts de l'informatique","intro":"Aujourd'hui, on parle d'Alan Turing, un mathématicien britannique qui a imaginé l'ordinateur avant qu'il existe, et dont la vie a été aussi brillante que tragique.","sections":[
-{"titre":"Un jeune mathématicien brillant","texte":"Alan Turing est né à Londres en 1912. Enfant, il est déjà passionné par les sciences et les chiffres, au point de sembler un peu à part à l'école. Il étudie les mathématiques à l'université de Cambridge, où il se fait remarquer très vite. En 1936, à seulement 24 ans, il publie un article qui va changer l'histoire. Il s'y pose une question qui paraît très abstraite : peut-on tout résoudre avec une méthode mécanique, étape par étape ? Pour y répondre, il imagine une machine théorique. Elle n'existe que sur le papier, mais elle va devenir le modèle de tous les ordinateurs. Ce qui est fascinant, c'est qu'il a pensé l'ordinateur avant même qu'on sache vraiment en construire un. Il avait une longueur d'avance sur tout le monde."},
-{"titre":"La machine de Turing","texte":"Imagine un ruban de papier infini, découpé en cases. Dans chaque case, on peut écrire un symbole ou l'effacer. Une petite tête de lecture se déplace sur ce ruban, case par case, lit ce qui est écrit, et décide quoi faire selon une table de règles très simple : écrire, effacer, avancer ou reculer. C'est tout. Turing montre que cette machine rudimentaire peut réaliser n'importe quel calcul qu'on sait décrire étape par étape, à condition de lui donner les bonnes règles. Mieux encore, il imagine une machine universelle, capable de lire les règles d'une autre machine sur son ruban et de l'imiter. C'est exactement l'idée de l'ordinateur moderne : une seule machine qui peut tout faire, selon le programme qu'on lui donne. Ton téléphone est, au fond, une machine universelle de Turing."},
-{"titre":"Casser le code Enigma","texte":"Pendant la Seconde Guerre mondiale, Turing rejoint en secret Bletchley Park, un domaine anglais où les Britanniques cherchent à décrypter les messages allemands. L'armée allemande utilise une machine appelée Enigma, qui brouille les messages avec des réglages changés chaque jour. Le nombre de combinaisons possibles est astronomique. Turing joue un rôle central dans la conception de machines électromécaniques, surnommées les bombes, qui testent les réglages à grande vitesse en s'appuyant sur des failles et des habitudes des opérateurs. Il s'appuie aussi sur les travaux pionniers de mathématiciens polonais, qui avaient déjà percé une première version d'Enigma. Grâce à ce travail d'équipe, une partie importante des communications ennemies devient lisible. Les historiens estiment que cela a contribué à raccourcir la guerre, peut-être de plusieurs années, et à sauver de nombreuses vies."},
-{"titre":"Les machines peuvent-elles penser ?","texte":"Après la guerre, Turing participe à la conception de certains des premiers ordinateurs électroniques, en Angleterre. Mais il voit plus loin. En 1950, il publie un article qui commence par une question audacieuse : les machines peuvent-elles penser ? Plutôt que de se perdre dans des définitions, il propose une expérience, qu'on appelle aujourd'hui le test de Turing. Une personne discute par écrit avec deux interlocuteurs cachés, un humain et une machine. Si elle n'arrive pas à savoir lequel est la machine, alors on peut considérer que celle-ci se comporte de façon intelligente. Ce test est encore discuté et critiqué aujourd'hui, mais il a lancé la réflexion sur l'intelligence artificielle, quelques années avant que l'expression elle-même apparaisse. Une fois de plus, Turing était vraiment en avance sur son temps."},
-{"titre":"Une fin tragique, une reconnaissance tardive","texte":"La vie de Turing a une fin bouleversante. En 1952, il est poursuivi par la justice britannique pour son homosexualité, qui était alors un délit au Royaume-Uni. Condamné, il doit choisir entre la prison et un traitement hormonal imposé. Il choisit le traitement, qui le fait beaucoup souffrir. On lui retire aussi l'accès à certains travaux secrets. En 1954, il meurt empoisonné au cyanure, à 41 ans. L'enquête conclut à un suicide, même si certains en doutent encore. Il a fallu des décennies pour que son pays reconnaisse ses torts. En 2009, le Premier ministre britannique présente des excuses officielles, et en 2013, Turing reçoit une grâce royale posthume. Aujourd'hui, son portrait figure sur les billets de 50 livres, et le plus prestigieux prix d'informatique porte son nom."}
-],"resume":"En résumé : Alan Turing a imaginé le principe de l'ordinateur en 1936, aidé à casser le code Enigma pendant la guerre et posé les bases de l'intelligence artificielle, avant d'être persécuté pour son homosexualité.","quiz":[
-{"q":"En quelle année Turing publie-t-il l'article décrivant sa machine théorique ?","r":"En 1936."},
-{"q":"Comment s'appelait la machine allemande de chiffrement que Turing a aidé à décrypter ?","r":"Enigma."},
-{"q":"Dans quel lieu secret Turing travaillait-il pendant la guerre ?","r":"À Bletchley Park, en Angleterre."},
-{"q":"Que cherche à vérifier le test de Turing ?","r":"Si une machine peut se faire passer pour un humain dans une conversation écrite."},
-{"q":"En quelle année Turing a-t-il reçu une grâce royale posthume ?","r":"En 2013."}
-]},
-{"id":"cybersecurite","categorie":"Technologie","titre":"Se protéger des pirates : la cybersécurité","intro":"Aujourd'hui, on parle de cybersécurité, c'est-à-dire de la façon de protéger tes comptes et tes données contre les pirates. Promis, c'est plus simple qu'il n'y paraît.","sections":[
-{"titre":"Qui sont les pirates ?","texte":"Quand on pense aux pirates informatiques, on imagine souvent un génie solitaire en capuche, tapant à toute vitesse dans le noir. La réalité est plus banale, et plus organisée. Beaucoup d'attaques sont menées par des groupes criminels qui fonctionnent comme de vraies entreprises, avec un objectif simple : gagner de l'argent. Ils volent des mots de passe, des coordonnées bancaires, ou bloquent les fichiers d'une entreprise pour exiger une rançon. Et la plupart du temps, ils ne visent pas quelqu'un en particulier. Ils lancent leurs filets très large, en envoyant des millions de messages, et attendent que quelqu'un morde à l'hameçon. La bonne nouvelle, c'est qu'avec quelques réflexes simples, tu peux éviter la grande majorité de ces pièges. Pas besoin d'être expert en informatique pour ça."},
-{"titre":"Le hameçonnage, l'arnaque numéro un","texte":"L'attaque la plus courante s'appelle le hameçonnage, ou phishing en anglais. Tu reçois un courriel ou un texto qui semble venir de ta banque, d'un service de livraison ou des impôts. On te dit qu'il y a un problème urgent, un colis bloqué, un remboursement à réclamer, un compte suspendu. Et on t'invite à cliquer sur un lien. Ce lien mène vers un faux site, parfaitement imité, où tu vas taper ton identifiant ou ta carte bancaire. Le pirate n'a plus qu'à se servir. Le signal d'alerte principal, c'est l'urgence et la pression. Une vraie banque ne te demandera jamais ton code secret par message. Le bon réflexe : ne clique pas, et va directement sur le site ou l'application officielle, en tapant l'adresse toi-même."},
-{"titre":"Des mots de passe solides","texte":"Ton mot de passe, c'est la clé de ta maison numérique. Le problème, c'est qu'on a tendance à utiliser des clés faciles à copier : une date de naissance, le prénom du chien, ou le même mot de passe partout. Or, quand un site se fait pirater, les mots de passe volés sont testés automatiquement sur des centaines d'autres sites. Si tu utilises le même partout, une seule fuite suffit à ouvrir toutes tes portes. La règle d'or, c'est un mot de passe différent pour chaque compte important. Pour qu'il soit solide, mieux vaut qu'il soit long. Une phrase de plusieurs mots sans rapport entre eux, c'est à la fois facile à retenir et difficile à deviner. Et pour ne pas tout mémoriser, il existe des gestionnaires de mots de passe, de vrais coffres-forts numériques."},
-{"titre":"La double vérification","texte":"Même le meilleur mot de passe peut être volé. C'est pour ça qu'il existe une protection supplémentaire, qu'on appelle la double authentification, ou vérification en deux étapes. Le principe est simple : pour te connecter, il faut deux éléments au lieu d'un. Ce que tu sais, c'est ton mot de passe, et ce que tu possèdes, c'est par exemple ton téléphone. Après avoir tapé ton mot de passe, tu reçois un code ou une notification à valider. Un pirate qui a volé ton mot de passe reste bloqué devant la porte, parce qu'il n'a pas ton téléphone. C'est comme une porte avec deux serrures différentes. Active-la au moins sur ta messagerie et ta banque, car ta messagerie sert souvent à réinitialiser tous tes autres comptes. Quelques secondes de plus, pour beaucoup de tranquillité."},
-{"titre":"Les bons réflexes au quotidien","texte":"Quelques habitudes simples font une énorme différence. D'abord, fais les mises à jour de ton téléphone et de ton ordinateur. Elles ne servent pas qu'à ajouter des fonctions, elles bouchent surtout des failles que les pirates connaissent. Repousser une mise à jour, c'est laisser une fenêtre ouverte. Ensuite, sauvegarde régulièrement tes photos et tes documents importants, sur un disque externe ou en ligne. Si un jour un logiciel malveillant bloque tes fichiers, tu pourras les récupérer sans payer de rançon. Méfie-toi aussi des applications téléchargées hors des boutiques officielles, et des réseaux wifi publics pour les opérations sensibles. Enfin, si tu as un doute sur un appel ou un message, prends le temps. Raccroche, et rappelle toi-même le numéro officiel. Les arnaqueurs détestent qu'on prenne son temps."}
-],"resume":"En résumé : méfie-toi des messages urgents, utilise des mots de passe longs et différents, active la double vérification, fais tes mises à jour et sauvegarde tes données.","quiz":[
-{"q":"Comment s'appelle l'arnaque qui imite un message de ta banque pour te voler tes identifiants ?","r":"Le hameçonnage, ou phishing."},
-{"q":"Quel est le principal signal d'alerte d'un message frauduleux ?","r":"L'urgence et la pression qu'il met."},
-{"q":"Pourquoi ne faut-il pas utiliser le même mot de passe partout ?","r":"Parce qu'une seule fuite suffirait à ouvrir tous tes comptes."},
-{"q":"Sur quels comptes activer en priorité la double vérification ?","r":"La messagerie et la banque."},
-{"q":"À quoi servent surtout les mises à jour ?","r":"À boucher des failles de sécurité connues des pirates."}
-]},
-{"id":"cloud-donnees","categorie":"Technologie","titre":"Le cloud, où sont vraiment nos données","intro":"Aujourd'hui, on parle du cloud, ce fameux nuage où l'on range nos photos et nos documents. On va découvrir où ils se trouvent vraiment.","sections":[
-{"titre":"Le nuage n'est pas dans le ciel","texte":"On dit que nos photos ou nos documents sont dans le cloud, c'est-à-dire dans le nuage. Le mot est joli, mais il est trompeur. Tes données ne flottent pas dans le ciel. Elles sont stockées sur des ordinateurs bien réels, posés au sol, quelque part dans le monde. Le cloud, c'est simplement le fait d'utiliser les ordinateurs de quelqu'un d'autre, à distance, par internet. Quand tu regardes une série en streaming, que tu consultes tes courriels depuis n'importe quel appareil, ou que ton téléphone sauvegarde automatiquement tes photos, tu utilises le cloud. L'image du nuage vient des anciens schémas d'ingénieurs, qui dessinaient internet comme un petit nuage pour dire : ici, il y a tout un réseau compliqué, mais on n'a pas besoin d'entrer dans le détail."},
-{"titre":"Les centres de données","texte":"Concrètement, le cloud vit dans des centres de données. Ce sont d'immenses bâtiments, parfois grands comme plusieurs terrains de football, remplis d'armoires métalliques alignées sur des rangées entières. Dans chaque armoire, des dizaines d'ordinateurs sans écran ni clavier, qu'on appelle des serveurs, tournent jour et nuit. Ils sont reliés au reste du monde par des câbles de fibre optique. Ces bâtiments sont très surveillés, avec des contrôles d'accès stricts, des gardiens et des caméras. Ils ont aussi des groupes électrogènes et des batteries de secours, pour ne jamais s'arrêter, même en cas de coupure de courant. Il en existe des milliers sur la planète, aux États-Unis, en Europe, en Asie. Ta photo de vacances est donc peut-être stockée dans un grand hangar, à des centaines de kilomètres de chez toi."},
-{"titre":"Plusieurs copies pour ne rien perdre","texte":"Une question vient vite : et si le serveur qui garde mes photos tombe en panne ? Rassure-toi, les grands services ne gardent presque jamais une seule copie de tes fichiers. Ils les dupliquent sur plusieurs disques, et souvent dans plusieurs centres de données éloignés les uns des autres. Si un disque lâche, une autre copie prend le relais. Si un bâtiment entier subit un incendie ou une inondation, tes données existent encore ailleurs. C'est un peu comme si tu faisais des photocopies de tes papiers importants et que tu les rangeais chez plusieurs amis, dans des villes différentes. Cela dit, le risque zéro n'existe pas. Un compte piraté, une erreur de manipulation ou un service qui ferme peuvent faire disparaître des données. Garder une copie chez soi reste une bonne idée."},
-{"titre":"Qui peut voir mes données ?","texte":"Confier ses données au cloud, c'est un peu comme confier ses valises à une consigne. C'est pratique, mais il faut faire confiance à celui qui les garde. En général, tes fichiers sont chiffrés, c'est-à-dire brouillés pour être illisibles par quelqu'un qui les volerait. Mais selon les services, l'entreprise elle-même peut parfois détenir la clé. Il faut aussi savoir que les données sont soumises aux lois du pays où elles sont stockées, et parfois à celles du pays de l'entreprise. En Europe, un texte appelé RGPD, pour règlement général sur la protection des données, encadre ce que les entreprises peuvent faire de tes informations personnelles et te donne des droits, comme celui de demander leur suppression. Lire les réglages de confidentialité, ce n'est pas passionnant, mais ça vaut vraiment le coup."},
-{"titre":"Le coût caché du cloud","texte":"Le cloud paraît immatériel, mais il a un vrai poids physique. Les centres de données consomment énormément d'électricité, d'abord pour faire tourner les serveurs, ensuite pour les refroidir, car ces machines chauffent beaucoup. Certains centres utilisent l'air froid extérieur, d'autres de l'eau, et quelques-uns récupèrent leur chaleur pour chauffer des logements ou des piscines voisines. À l'échelle mondiale, les centres de données représentent une part notable de la consommation d'électricité, et cette part augmente, notamment avec l'essor de l'intelligence artificielle. Chaque vidéo regardée, chaque fichier stocké pèse un tout petit peu. Pris un par un, c'est minuscule, mais multiplié par des milliards d'utilisateurs, ça devient considérable. Faire du tri dans ses vieux fichiers et ses sauvegardes inutiles, c'est un petit geste, mais il a du sens."}
-],"resume":"En résumé : le cloud, ce sont des serveurs bien réels installés dans des centres de données, qui copient tes fichiers pour les protéger, mais qui consomment beaucoup d'énergie et demandent de la confiance.","quiz":[
-{"q":"Que désigne concrètement le cloud ?","r":"L'utilisation à distance, par internet, des ordinateurs de quelqu'un d'autre."},
-{"q":"Comment appelle-t-on les ordinateurs qui stockent les données dans les centres de données ?","r":"Des serveurs."},
-{"q":"Pourquoi perd-on rarement ses fichiers en cas de panne d'un serveur ?","r":"Parce qu'ils sont copiés sur plusieurs disques et plusieurs sites."},
-{"q":"Que signifie RGPD ?","r":"Règlement général sur la protection des données."},
-{"q":"Pour quelles deux raisons principales les centres de données consomment-ils de l'électricité ?","r":"Pour faire tourner les serveurs et pour les refroidir."}
-]},
-{"id":"batteries-voiture-electrique","categorie":"Technologie","titre":"Les batteries et la voiture électrique","intro":"Aujourd'hui, on parle des batteries et de la voiture électrique : comment elles stockent l'énergie, comment on les recharge, et ce qu'il faut savoir de leur bilan.","sections":[
-{"titre":"Une batterie, c'est quoi ?","texte":"Une batterie, c'est une réserve d'énergie chimique qu'on peut transformer en électricité, et inversement. Imagine deux bacs reliés par un passage, avec des petites particules chargées qui vont de l'un à l'autre. Dans une batterie lithium-ion, celle de ton téléphone et de la plupart des voitures électriques, ces particules sont des ions de lithium. Quand tu recharges, on les pousse d'un côté, un peu comme on remonterait de l'eau en haut d'une colline. Quand tu utilises la batterie, ils retournent de l'autre côté, et ce mouvement libère un courant électrique qui alimente l'appareil. Le lithium est très léger et permet de stocker beaucoup d'énergie pour un poids donné, c'est pour ça qu'il s'est imposé. Cette technologie a d'ailleurs valu le prix Nobel de chimie à trois chercheurs en 2019."},
-{"titre":"Kilowattheures et autonomie","texte":"Pour une voiture électrique, on mesure la taille de la batterie en kilowattheures. C'est l'équivalent du volume du réservoir pour une voiture à essence. Une petite citadine peut avoir une batterie d'environ 40 kilowattheures, une grande berline souvent plus de 70. Une voiture électrique consomme en moyenne autour de 15 à 20 kilowattheures pour 100 kilomètres. Fais le calcul : avec 60 kilowattheures, tu peux espérer environ 300 à 400 kilomètres. Mais l'autonomie varie beaucoup. Sur l'autoroute, à grande vitesse, la résistance de l'air augmente fortement et la batterie se vide plus vite. Par grand froid aussi, car la chimie de la batterie ralentit et le chauffage de l'habitacle consomme. À l'inverse, en ville, la voiture récupère de l'énergie à chaque freinage, et elle se montre souvent très économe."},
-{"titre":"Recharger, lentement ou rapidement","texte":"Recharger une voiture électrique, ce n'est pas comme faire le plein. Il y a plusieurs vitesses. Sur une prise domestique ordinaire, c'est très lent, et il faut souvent une nuit entière, voire plus, pour une recharge complète. Avec une borne installée chez soi ou au travail, c'est nettement plus rapide, et la plupart des conducteurs rechargent ainsi, la nuit, pendant que la voiture dort. Sur l'autoroute, les bornes rapides permettent de récupérer une grande partie de l'autonomie en vingt à quarante minutes, le temps d'une pause café. Une astuce importante : la recharge ralentit fortement au-delà de 80 pour cent environ. C'est comme remplir un verre à ras bord, on ralentit à la fin pour ne pas déborder. En voyage, il vaut souvent mieux faire plusieurs recharges courtes qu'une seule longue."},
-{"titre":"La batterie vieillit-elle ?","texte":"Comme celle de ton téléphone, la batterie d'une voiture perd un peu de capacité avec le temps et les cycles de charge. Mais elle est bien mieux protégée. Un système électronique surveille en permanence sa température et son niveau de charge, et un circuit de refroidissement l'empêche de trop chauffer. En pratique, la plupart des batteries gardent l'essentiel de leur capacité pendant de nombreuses années, et les constructeurs les garantissent souvent autour de huit ans. Pour la ménager, quelques habitudes aident : éviter de la laisser longtemps complètement pleine ou complètement vide, et ne pas abuser des recharges rapides si on n'en a pas besoin. En fin de vie automobile, une batterie peut encore servir de stockage fixe pour un bâtiment, avant d'être recyclée pour récupérer une partie de ses métaux."},
-{"titre":"Le débat environnemental","texte":"La voiture électrique ne rejette rien par un pot d'échappement, puisqu'elle n'en a pas. C'est un vrai plus pour l'air des villes. Mais son bilan global se discute. Fabriquer une batterie demande beaucoup d'énergie et des métaux comme le lithium, le nickel ou le cobalt, dont l'extraction pose des questions environnementales et sociales. Une voiture électrique commence donc sa vie avec une dette carbone plus lourde qu'une voiture thermique. Ensuite, tout dépend de la façon dont l'électricité est produite dans le pays où elle roule. Avec une électricité peu carbonée, elle rattrape son retard en quelques années d'utilisation et finit généralement avec un meilleur bilan. Avec une électricité issue du charbon, l'avantage est bien plus réduit. Le recyclage des batteries et la taille des véhicules comptent aussi beaucoup."}
-],"resume":"En résumé : la voiture électrique stocke son énergie dans une batterie lithium-ion mesurée en kilowattheures, son autonomie dépend de la vitesse et du froid, et son bilan écologique dépend surtout de la fabrication et de l'électricité utilisée.","quiz":[
-{"q":"Quel type de batterie équipe la plupart des voitures électriques ?","r":"La batterie lithium-ion."},
-{"q":"Dans quelle unité mesure-t-on la capacité d'une batterie de voiture ?","r":"En kilowattheures."},
-{"q":"Pourquoi l'autonomie baisse-t-elle sur l'autoroute ?","r":"Parce que la résistance de l'air augmente fortement à grande vitesse."},
-{"q":"À partir de quel niveau de charge la recharge rapide ralentit-elle fortement ?","r":"Vers 80 pour cent environ."},
-{"q":"De quoi dépend surtout le bilan carbone d'une voiture électrique à l'usage ?","r":"De la façon dont l'électricité est produite."}
-]},
-{"id":"gps","categorie":"Technologie","titre":"Comment marche le GPS","intro":"Aujourd'hui, on parle du GPS, ce petit miracle qui sait où tu es à quelques mètres près. Tu vas voir qu'il fonctionne grâce à des horloges et un peu de géométrie.","sections":[
-{"titre":"Des satellites qui donnent l'heure","texte":"Le GPS, pour système de positionnement global en anglais, repose sur une constellation d'une trentaine de satellites qui tournent autour de la Terre, à environ 20 000 kilomètres d'altitude. Il a été développé par l'armée américaine, puis ouvert au grand public. Ce qui est surprenant, c'est que ces satellites ne te regardent pas et ne savent pas où tu es. Ils font une seule chose, en boucle : ils envoient un signal radio qui dit, en substance, je suis tel satellite, je me trouve à tel endroit, et il est exactement telle heure. Pour donner une heure aussi précise, chaque satellite embarque des horloges atomiques, d'une précision incroyable. C'est ton téléphone ou ton boîtier de navigation qui fait tout le travail de calcul, à partir des signaux reçus."},
-{"titre":"Calculer une distance avec le temps","texte":"Le principe ressemble à la façon d'estimer la distance d'un orage. Tu vois l'éclair, tu comptes les secondes jusqu'au tonnerre, et tu en déduis à quelle distance il se trouve. Pour le GPS, c'est pareil, mais avec des ondes radio qui voyagent à la vitesse de la lumière, environ 300 000 kilomètres par seconde. Ton récepteur compare l'heure à laquelle le signal est parti du satellite avec l'heure à laquelle il l'a reçu. Le signal met à peu près sept centièmes de seconde pour arriver. En multipliant ce temps par la vitesse de la lumière, on obtient la distance qui te sépare du satellite. Tu comprends maintenant pourquoi l'heure doit être si précise : une erreur d'un millionième de seconde, et tu te retrouves décalé d'environ 300 mètres."},
-{"titre":"Des sphères qui se croisent","texte":"Connaître ta distance à un seul satellite ne suffit pas. Ça te dit juste que tu te trouves quelque part sur une immense sphère autour de lui. Avec un deuxième satellite, les deux sphères se croisent et dessinent un cercle. Avec un troisième, ce cercle croise la troisième sphère en deux points seulement, et l'un d'eux est généralement absurde, perdu dans l'espace. Il reste donc ta position. Cette méthode s'appelle la trilatération. En pratique, ton récepteur a besoin d'au moins quatre satellites. Pourquoi un de plus ? Parce que ton téléphone n'a pas d'horloge atomique, et son horloge à lui est imprécise. Le quatrième satellite permet de corriger cette erreur d'horloge en même temps que le calcul de la position. Plus il y a de satellites visibles, plus le résultat est fiable."},
-{"titre":"Einstein dans ta voiture","texte":"Voilà un détail fascinant : sans la théorie de la relativité d'Albert Einstein, le GPS ne fonctionnerait pas correctement. D'abord, les satellites se déplacent très vite, et selon la relativité, le temps s'écoule un tout petit peu plus lentement pour eux. Ensuite, ils sont loin de la Terre, là où la gravité est plus faible, et dans ce cas, le temps s'écoule un peu plus vite. Au total, les horloges des satellites avancent d'environ 38 millionièmes de seconde par jour par rapport aux nôtres. Ça paraît ridicule. Mais si on ne corrigeait pas cet écart, l'erreur de position grandirait d'une dizaine de kilomètres chaque jour. Les ingénieurs compensent donc ce décalage en permanence. Chaque fois que ton application te guide, la physique d'Einstein est en train de travailler pour toi."},
-{"titre":"Le GPS n'est pas seul","texte":"Aujourd'hui, ton téléphone n'utilise pas seulement le GPS américain. Il existe d'autres systèmes du même genre : Galileo, le système européen, Glonass, le système russe, et Beidou, le système chinois. Les récepteurs modernes captent souvent plusieurs d'entre eux à la fois, ce qui améliore la précision et la fiabilité, surtout en ville. Car le GPS a ses faiblesses. Les signaux venant de l'espace sont très faibles. Ils passent mal à travers le béton, d'où les pertes de signal dans les tunnels ou les parkings souterrains. Entre les grands immeubles, ils rebondissent sur les façades, ce qui fausse un peu le calcul. Pour compenser, ton téléphone s'aide aussi des réseaux wifi et des antennes de téléphonie proches. Et une fois ta position connue, c'est la carte et le logiciel qui calculent l'itinéraire."}
-],"resume":"En résumé : les satellites GPS envoient l'heure exacte, ton récepteur en déduit sa distance à au moins quatre d'entre eux et calcule sa position, avec une correction indispensable issue de la relativité d'Einstein.","quiz":[
-{"q":"À quelle altitude environ tournent les satellites GPS ?","r":"À environ 20 000 kilomètres."},
-{"q":"Quel instrument très précis embarque chaque satellite GPS ?","r":"Des horloges atomiques."},
-{"q":"Combien de satellites faut-il au minimum à ton récepteur pour se positionner ?","r":"Au moins quatre."},
-{"q":"Quelle théorie oblige à corriger l'heure des satellites ?","r":"La théorie de la relativité d'Einstein."},
-{"q":"Comment s'appelle le système de positionnement européen ?","r":"Galileo."}
-]},
-{"id":"moteur-thermique","categorie":"Technologie","titre":"Le moteur thermique de ta voiture","intro":"Aujourd'hui, on parle du moteur thermique, celui qui fait avancer les voitures à essence et diesel. On va comprendre ce qui se passe sous ton capot à chaque tour de roue.","sections":[
-{"titre":"Transformer une combustion en mouvement","texte":"Le moteur d'une voiture à essence ou diesel est un moteur à combustion interne. Son principe tient en une phrase : on brûle du carburant dans un espace fermé, et la poussée des gaz chauds fait bouger une pièce mécanique. Au cœur du moteur, il y a des cylindres, des sortes de tubes, dans lesquels coulisse un piston, comme le bouchon d'une seringue. Quand le mélange d'air et de carburant brûle au-dessus du piston, les gaz se dilatent violemment et le poussent vers le bas. Ce mouvement de va-et-vient est ensuite transformé en rotation par une pièce appelée vilebrequin, un peu comme tes jambes qui poussent sur les pédales d'un vélo font tourner le pédalier. Cette rotation passe ensuite par la boîte de vitesses, puis finit par entraîner les roues."},
-{"titre":"Le cycle à quatre temps","texte":"La plupart des moteurs de voiture fonctionnent selon un cycle à quatre temps. Premier temps, l'admission : le piston descend et aspire de l'air, avec du carburant, par une soupape qui s'ouvre. Deuxième temps, la compression : les soupapes se ferment, le piston remonte et comprime fortement ce mélange. Troisième temps, la combustion : le mélange s'enflamme, et la pression repousse le piston vers le bas. C'est le seul temps qui produit vraiment de l'énergie. Quatrième temps, l'échappement : le piston remonte et chasse les gaz brûlés vers le pot d'échappement. Puis tout recommence. Les mécaniciens résument souvent ça par une formule imagée : admission, compression, explosion, échappement. À un régime normal, chaque cylindre répète ce cycle des dizaines de fois par seconde, sans jamais s'arrêter."},
-{"titre":"Essence ou diesel, quelle différence ?","texte":"Les moteurs essence et diesel suivent le même cycle, mais ils n'allument pas le mélange de la même façon. Dans un moteur à essence, c'est une bougie qui produit une petite étincelle électrique au bon moment, et c'est elle qui déclenche la combustion. Dans un moteur diesel, il n'y a pas de bougie d'allumage. On comprime l'air si fort qu'il devient très chaud, comme une pompe à vélo qui chauffe quand tu gonfles un pneu. On injecte alors le gazole dans cet air brûlant, et il s'enflamme tout seul. Cette forte compression rend le diesel plus économe en carburant, surtout sur les longs trajets. En revanche, il émet davantage de certains polluants, comme les oxydes d'azote et les particules fines, ce qui oblige à ajouter des systèmes de filtration complexes."},
-{"titre":"Un rendement modeste","texte":"Voici un chiffre qui surprend souvent : un moteur thermique de voiture ne transforme en mouvement qu'environ un tiers de l'énergie contenue dans le carburant, un peu plus pour un bon diesel, souvent moins en ville. Le reste part surtout en chaleur. C'est pour ça que le moteur a besoin d'un circuit de refroidissement, avec un radiateur et un liquide qui circule autour des cylindres. Une partie de cette chaleur est d'ailleurs récupérée pour chauffer l'habitacle en hiver, ce qui ne coûte presque rien en plus. Les frottements des pièces mécaniques font aussi perdre de l'énergie, d'où l'importance de l'huile moteur, qui lubrifie tout ce petit monde. Une vidange négligée, et les pièces s'usent plus vite, chauffent davantage, et le moteur peut même finir par casser."},
-{"titre":"Boîte de vitesses et conduite souple","texte":"Un moteur thermique ne fonctionne bien que dans une certaine plage de vitesses de rotation. Il ne peut pas faire démarrer la voiture à partir de l'arrêt en étant relié directement aux roues, d'où l'embrayage, qui permet de les relier ou de les séparer progressivement. Et il ne peut pas tourner indéfiniment vite, d'où la boîte de vitesses. Comme sur un vélo, les premières vitesses donnent de la force pour démarrer, les dernières permettent d'aller vite sans faire hurler le moteur. Pour consommer moins, l'idée est de rester à un régime modéré, de passer les rapports assez tôt, et d'anticiper pour éviter les freinages brusques. Chaque coup de frein transforme en chaleur de l'énergie que tu as payée en carburant. Une conduite souple, c'est moins de carburant, moins d'usure, et plus de sérénité."}
-],"resume":"En résumé : le moteur thermique brûle du carburant dans des cylindres selon un cycle à quatre temps, transforme le mouvement des pistons en rotation, mais perd environ deux tiers de l'énergie en chaleur.","quiz":[
-{"q":"Quelle pièce transforme le va-et-vient des pistons en rotation ?","r":"Le vilebrequin."},
-{"q":"Quels sont les quatre temps du cycle moteur ?","r":"Admission, compression, combustion et échappement."},
-{"q":"Qu'est-ce qui déclenche la combustion dans un moteur à essence ?","r":"L'étincelle d'une bougie d'allumage."},
-{"q":"Comment le gazole s'enflamme-t-il dans un moteur diesel ?","r":"Tout seul, au contact de l'air rendu très chaud par la compression."},
-{"q":"Quelle part environ de l'énergie du carburant devient du mouvement ?","r":"Environ un tiers."}
-]},
-{"id":"energies-renouvelables","categorie":"Technologie","titre":"Les énergies renouvelables","intro":"Aujourd'hui, on parle des énergies renouvelables : le soleil, le vent, l'eau et quelques autres. On va voir comment elles fonctionnent, et quels défis elles posent.","sections":[
-{"titre":"Des énergies qui se renouvellent","texte":"Une énergie renouvelable, c'est une énergie dont la source se reconstitue naturellement, à l'échelle d'une vie humaine. Le soleil se lève chaque matin, le vent souffle, les rivières coulent, les plantes repoussent. À l'inverse, le pétrole, le gaz et le charbon se sont formés en des millions d'années, et quand on les brûle, ils ne reviennent pas. Ces énergies fossiles rejettent aussi du dioxyde de carbone, le principal gaz responsable du réchauffement climatique. Les renouvelables, elles, en émettent très peu pendant leur fonctionnement. Il faut quand même de l'énergie et des matériaux pour fabriquer les panneaux, les éoliennes ou les barrages, donc leur impact n'est pas nul, mais il reste généralement faible sur l'ensemble de leur vie. Faisons ensemble le tour des principales."},
-{"titre":"Le soleil en électricité","texte":"Les panneaux solaires photovoltaïques transforment directement la lumière en électricité. Ils sont faits de cellules, le plus souvent en silicium, un élément qu'on extrait notamment du sable. Quand la lumière frappe une cellule, elle met en mouvement des électrons, et ce mouvement crée un courant. Pas de pièce qui bouge, pas de bruit, juste de la lumière. Il ne faut pas les confondre avec les panneaux solaires thermiques, qui eux chauffent de l'eau, par exemple pour la douche. Le solaire a un gros avantage : il s'installe presque partout, du toit d'une maison à de grandes centrales au sol. Son coût a énormément baissé au fil des années. Sa limite évidente, c'est qu'il ne produit rien la nuit, et beaucoup moins en hiver ou par temps très couvert."},
-{"titre":"Le vent et l'eau","texte":"Une éolienne, c'est un peu un moulin à vent moderne. Le vent fait tourner les pales, qui entraînent un générateur placé en haut du mât, et ce générateur produit de l'électricité, comme la dynamo d'un vélo. Les éoliennes peuvent être installées sur terre ou en mer, où le vent est plus fort et plus régulier. Leur production dépend de la météo : sans vent, rien, et par tempête trop violente, elles s'arrêtent pour se protéger. L'hydroélectricité, elle, est la plus ancienne des grandes renouvelables. Un barrage retient l'eau, puis on la laisse descendre à travers des turbines. Gros avantage : on peut garder l'eau en réserve et produire au moment où on en a besoin. Son inconvénient, c'est qu'un barrage transforme profondément une vallée et la vie de la rivière."},
-{"titre":"Le défi de l'intermittence","texte":"Le soleil et le vent ont un point commun : ils ne produisent pas quand on veut, mais quand la nature le décide. On parle d'énergies intermittentes. Or, sur un réseau électrique, la production doit égaler la consommation à chaque instant, sinon c'est la panne. Il faut donc compenser. Plusieurs solutions existent et se combinent. On peut répartir les installations sur un grand territoire, car il y a souvent du vent quelque part. On peut stocker l'énergie, avec des batteries ou avec des stations de pompage, qui remontent de l'eau dans un lac en hauteur quand il y a trop d'électricité, puis la font redescendre plus tard. On peut aussi décaler certaines consommations. Et on garde des centrales pilotables, qu'on démarre à la demande. Trouver le bon équilibre est un vrai casse-tête d'ingénieur."},
-{"titre":"Biomasse, géothermie et débats","texte":"D'autres renouvelables jouent aussi leur rôle. La biomasse, c'est l'énergie tirée de la matière vivante : le bois de chauffage, les déchets agricoles, ou le biogaz produit par la fermentation de déchets. Elle n'est vraiment renouvelable que si on replante autant qu'on prélève. La géothermie utilise la chaleur du sous-sol, soit pour chauffer des bâtiments, soit, dans les régions volcaniques comme l'Islande, pour produire de l'électricité. Les renouvelables suscitent aussi des débats. Certains s'inquiètent de l'impact des éoliennes sur les paysages ou les oiseaux, d'autres de l'espace occupé par les centrales solaires, ou de l'extraction des métaux nécessaires. Leurs défenseurs soulignent leur faible impact sur le climat et leur coût devenu compétitif. Comme souvent, il n'y a pas de solution parfaite, mais des choix à faire collectivement."}
-],"resume":"En résumé : le soleil, le vent, l'eau, la biomasse et la géothermie fournissent une énergie qui se renouvelle et émet peu de carbone, avec le défi de gérer leur production variable.","quiz":[
-{"q":"Qu'est-ce qui définit une énergie renouvelable ?","r":"Sa source se reconstitue naturellement à l'échelle d'une vie humaine."},
-{"q":"En quel matériau sont faites le plus souvent les cellules solaires ?","r":"En silicium."},
-{"q":"Pourquoi installe-t-on des éoliennes en mer ?","r":"Parce que le vent y est plus fort et plus régulier."},
-{"q":"Que signifie le terme énergie intermittente ?","r":"Une énergie qui produit seulement quand la nature le permet, pas à la demande."},
-{"q":"Comment fonctionne une station de pompage ?","r":"Elle remonte de l'eau en hauteur quand il y a trop d'électricité, puis la fait redescendre pour produire plus tard."}
-]},
-{"id":"nucleaire","categorie":"Technologie","titre":"Le nucléaire, comment ça marche","intro":"Aujourd'hui, on parle de l'énergie nucléaire. On va voir comment on tire de l'électricité du cœur des atomes, et pourquoi le sujet fait autant débat.","sections":[
-{"titre":"L'énergie cachée dans l'atome","texte":"Tout ce qui nous entoure est fait d'atomes. Au centre de chaque atome, il y a un noyau minuscule, qui renferme une énergie colossale, celle qui retient ses particules collées ensemble. Au début du vingtième siècle, Albert Einstein a montré avec sa célèbre équation que la masse elle-même est une forme d'énergie, et qu'une infime quantité de matière peut libérer une énergie énorme. Dans une centrale nucléaire, on exploite cette énergie en cassant des noyaux d'atomes lourds, principalement de l'uranium. Cette réaction s'appelle la fission. Pour te donner une idée, une pastille de combustible, à peu près de la taille d'un bout de doigt, peut fournir autant d'énergie qu'une tonne de charbon environ. C'est cette concentration extraordinaire qui fait tout l'intérêt, et aussi toute la délicatesse, du nucléaire."},
-{"titre":"La réaction en chaîne","texte":"Comment casse-t-on un noyau d'uranium ? On le bombarde avec un neutron, une petite particule sans charge électrique. Le noyau absorbe le neutron, devient instable, et se brise en deux morceaux plus petits. En se cassant, il libère beaucoup de chaleur, et surtout, il éjecte deux ou trois nouveaux neutrons. Ces neutrons peuvent à leur tour casser d'autres noyaux, qui libèrent d'autres neutrons, et ainsi de suite. C'est la réaction en chaîne, un peu comme une rangée de dominos qui se renversent les uns les autres. Dans une bombe, on laisse cette chaîne s'emballer en une fraction de seconde. Dans une centrale, au contraire, on la contrôle soigneusement pour qu'elle reste stable : en moyenne, chaque fission doit en provoquer exactement une autre, ni plus, ni moins."},
-{"titre":"Une grosse bouilloire","texte":"Au fond, une centrale nucléaire est une énorme bouilloire. La fission sert juste à produire de la chaleur. Le combustible, sous forme de petites pastilles empilées dans de longs tubes métalliques, est placé dans le cœur du réacteur, plongé dans de l'eau. Cette eau s'échauffe énormément. Dans les centrales les plus répandues, elle transmet sa chaleur à un second circuit d'eau, qui se transforme en vapeur. Cette vapeur fait tourner une turbine, reliée à un alternateur qui produit l'électricité, exactement comme dans une centrale au charbon ou au gaz. Ensuite, la vapeur doit être refroidie pour redevenir de l'eau. C'est le rôle des grandes tours qu'on voit de loin, au bord de certaines centrales. Le panache blanc qui en sort n'est pas de la fumée, c'est simplement de la vapeur d'eau."},
-{"titre":"Piloter et sécuriser le réacteur","texte":"Pour contrôler la réaction en chaîne, on utilise des barres de commande, faites de matériaux qui absorbent les neutrons. Quand on les enfonce dans le cœur, elles capturent des neutrons et la réaction ralentit. Quand on les remonte, elle s'accélère. En cas de problème, on les fait tomber d'un coup, et la réaction s'arrête en quelques secondes. Mais attention, même arrêté, le combustible continue à dégager de la chaleur pendant longtemps, et il faut continuer à le refroidir. C'est justement une perte de refroidissement qui a provoqué l'accident de Fukushima, au Japon, en 2011, après un séisme et un tsunami. L'autre accident majeur, celui de Tchernobyl, en Ukraine, en 1986, venait d'un réacteur de conception différente et d'erreurs graves pendant un essai. Ces catastrophes ont conduit à renforcer les règles de sûreté."},
-{"titre":"Atouts et questions en débat","texte":"Le nucléaire a des atouts reconnus. Une centrale produit beaucoup d'électricité, de façon stable, jour et nuit, quelle que soit la météo. Et pendant son fonctionnement, elle n'émet presque pas de dioxyde de carbone, ce qui en fait une énergie bas carbone. La France en tire d'ailleurs la majorité de son électricité. Mais il soulève aussi des questions sérieuses. Il y a le risque d'accident, très rare mais aux conséquences lourdes. Il y a les déchets radioactifs, dont certains restent dangereux pendant des dizaines de milliers d'années, voire davantage, et qu'il faut stocker avec beaucoup de précautions. Il y a aussi le coût et la durée de construction des nouvelles centrales. Selon les pays, les choix sont très différents. C'est un débat de société, où chacun pèse les avantages et les risques."}
-],"resume":"En résumé : une centrale nucléaire casse des noyaux d'uranium pour produire de la chaleur, qui fait de la vapeur et tourne une turbine. C'est une électricité stable et bas carbone, mais qui pose les questions des accidents et des déchets.","quiz":[
-{"q":"Comment s'appelle la réaction qui casse les noyaux d'uranium ?","r":"La fission."},
-{"q":"Quelle particule sert à casser un noyau d'uranium ?","r":"Un neutron."},
-{"q":"À quoi servent les barres de commande ?","r":"À absorber des neutrons pour ralentir ou arrêter la réaction."},
-{"q":"Que sort-il des grandes tours de refroidissement ?","r":"De la vapeur d'eau, pas de la fumée."},
-{"q":"Qu'est-ce qui a provoqué l'accident de Fukushima en 2011 ?","r":"Une perte de refroidissement après un séisme et un tsunami."}
-]}
+ {
+  "id": "ia-expliquee",
+  "categorie": "Technologie",
+  "titre": "L'intelligence artificielle expliquée",
+  "intro": "Aujourd'hui, on parle d'intelligence artificielle. Ce mot est partout, alors on va voir ensemble ce qu'il recouvre vraiment, sans jargon.",
+  "sections": [
+   {
+    "titre": "Une idée ancienne",
+    "texte": "L'idée de machines capables de penser ne date pas d'hier. Le terme intelligence artificielle a été proposé en 1956, lors d'une rencontre de chercheurs aux États-Unis, à l'université de Dartmouth. À l'époque, on imaginait qu'il suffirait de quelques années pour créer une machine aussi maligne qu'un humain. Ça a été beaucoup plus long. Il y a eu des périodes d'enthousiasme, puis des périodes de déception, qu'on a appelées les hivers de l'intelligence artificielle, où les financements s'effondraient. Aujourd'hui, quand on parle d'intelligence artificielle, on désigne surtout des programmes capables d'accomplir des tâches qui demandaient jusque-là un humain : reconnaître un visage, traduire un texte, répondre à une question. Retiens bien une chose : ces programmes sont très forts dans certaines tâches précises, mais ils ne pensent pas comme toi."
+   },
+   {
+    "titre": "Apprendre à partir d'exemples",
+    "texte": "La grande révolution, c'est l'apprentissage automatique. Avant, pour qu'un ordinateur reconnaisse un chat, il fallait lui écrire des règles : deux oreilles pointues, des moustaches, une queue. Ça marchait très mal, parce qu'un chat vu de dos ou roulé en boule ne ressemble pas du tout à la règle. Avec l'apprentissage automatique, on fait autrement. On montre au programme des milliers, voire des millions de photos, en lui disant à chaque fois s'il y a un chat ou non. À force d'essais et d'erreurs, il ajuste lui-même ses réglages internes pour se tromper de moins en moins. C'est un peu comme un enfant qui apprend à reconnaître les chiens en en croisant beaucoup dans la rue, sans qu'on lui donne de définition. Le programme ne comprend pas ce qu'est un chat, il repère des régularités."
+   },
+   {
+    "titre": "Trois façons d'apprendre",
+    "texte": "Les spécialistes distinguent en gros trois façons d'apprendre pour une machine. La première, c'est celle qu'on vient de voir, avec des exemples étiquetés : cette photo contient un chat, celle-là non. On parle d'apprentissage supervisé, parce qu'un humain a fourni les bonnes réponses, un peu comme un professeur qui corrige les copies. La deuxième façon se passe de ces étiquettes. On donne au programme une montagne de données en vrac, et on lui demande de trouver lui-même des groupes qui se ressemblent. C'est ce qui permet, par exemple, à un site de vente de repérer des familles de clients aux habitudes proches, sans que personne ne les ait définies à l'avance. On parle alors d'apprentissage non supervisé. La troisième façon ressemble au dressage d'un animal. Le programme agit, puis il reçoit une récompense quand le résultat est bon, et une pénalité quand il est mauvais. Au fil de milliers ou de millions d'essais, il découvre la stratégie qui rapporte le plus de récompenses. C'est l'apprentissage par renforcement. Il est très utilisé pour apprendre à jouer à des jeux, ou pour entraîner des robots à marcher ou à attraper des objets. Dans les systèmes les plus avancés, on combine souvent ces méthodes. Mais au fond, l'idée reste la même : la machine n'obéit pas à des règles écrites à la main, elle s'améliore à partir de l'expérience."
+   },
+   {
+    "titre": "Les réseaux de neurones",
+    "texte": "Beaucoup de ces programmes s'appuient sur ce qu'on appelle des réseaux de neurones artificiels. Le nom vient d'une inspiration lointaine du cerveau, mais ne t'y trompe pas, ce sont avant tout des mathématiques. Imagine une immense table de mixage avec des millions de petits boutons. Chaque bouton règle l'importance d'une information. Au départ, les boutons sont réglés au hasard et le résultat est mauvais. Pendant l'apprentissage, le programme tourne un peu chaque bouton pour améliorer sa réponse, encore et encore. On empile plusieurs couches de ces réglages, d'où le nom d'apprentissage profond. Cette approche a vraiment décollé dans les années 2010, grâce à deux choses : des quantités énormes de données disponibles sur internet, et des puces de calcul très puissantes, d'abord conçues pour afficher les images des jeux vidéo."
+   },
+   {
+    "titre": "Des données de qualité",
+    "texte": "Un programme qui apprend ne vaut que ce que valent ses exemples. Les informaticiens ont un dicton pour ça : si tu mets des déchets à l'entrée, tu obtiens des déchets à la sortie. Imagine que tu entraînes un programme à reconnaître les champignons comestibles, mais que toutes tes photos aient été prises en plein soleil. Le jour où on lui montre un champignon à l'ombre, il risque de se tromper complètement. C'est pour ça que les données doivent être nombreuses, variées et bien étiquetées. Ce travail d'étiquetage est souvent fait à la main, par des milliers de personnes qui passent leurs journées à indiquer ce qu'il y a sur des images ou dans des phrases. Il existe un autre piège, qu'on appelle le surapprentissage. C'est l'élève qui apprend par cœur les corrigés des anciens examens sans comprendre la matière. Devant les questions qu'il connaît, il est parfait. Devant une question nouvelle, il est perdu. Un programme peut faire exactement la même chose et retenir ses exemples au lieu d'en tirer des règles générales. Pour le détecter, les chercheurs gardent toujours de côté une partie des données, que le programme ne voit jamais pendant son entraînement. C'est sur ces exemples inédits qu'on mesure ses vraies performances. Un peu comme un examen surprise, qui montre si l'élève a vraiment compris."
+   },
+   {
+    "titre": "Des échecs au jeu de go",
+    "texte": "Les jeux ont toujours servi de terrain d'essai à l'intelligence artificielle, parce que les règles sont claires et qu'on sait tout de suite qui a gagné. En 1997, un ordinateur d'IBM appelé Deep Blue bat le champion du monde d'échecs Garry Kasparov, dans un match en plusieurs parties. C'est un choc. Pourtant, Deep Blue n'apprenait pas vraiment. Il examinait à une vitesse folle des millions de positions possibles, en suivant des règles d'évaluation écrites par des experts. Il restait alors un jeu qui résistait : le go, un jeu de plateau asiatique très ancien. Le nombre de parties possibles y est tellement gigantesque qu'il est impossible de tout calculer, même pour un ordinateur géant. Les bons joueurs parlent d'ailleurs d'intuition. Beaucoup pensaient qu'il faudrait encore des décennies pour qu'une machine batte les meilleurs humains. En 2016, le programme AlphaGo, conçu par la société DeepMind, bat pourtant le grand champion coréen Lee Sedol. Cette fois, la machine s'appuyait sur des réseaux de neurones. Elle avait étudié des parties humaines, puis s'était énormément améliorée en jouant des millions de parties contre elle-même, par apprentissage par renforcement. Pendant le match, elle a même joué un coup que les commentateurs ont d'abord pris pour une erreur, avant de comprendre qu'il était brillant. Une machine venait de surprendre les humains sur leur propre terrain."
+   },
+   {
+    "titre": "Les assistants qui parlent",
+    "texte": "Tu as sûrement entendu parler des assistants capables de discuter, d'écrire un texte ou de résumer un document. Ils reposent sur de grands modèles de langage. Le principe de base est étonnamment simple : on les entraîne sur d'immenses quantités de textes, et ils apprennent à prédire le mot suivant le plus probable dans une phrase. C'est un peu comme la saisie automatique de ton téléphone, mais en infiniment plus puissant. À force de prédire, ils deviennent capables de produire des réponses fluides et souvent utiles. Mais attention, ils peuvent aussi se tromper avec beaucoup d'assurance, et inventer un fait ou une référence qui n'existe pas. C'est pour ça qu'il faut toujours vérifier ce qu'ils affirment, surtout quand c'est important, comme une question de santé, d'argent ou de droit."
+   },
+   {
+    "titre": "Promesses et limites",
+    "texte": "L'intelligence artificielle sert déjà dans plein de domaines. Elle aide les médecins à repérer certaines anomalies sur des images, elle filtre les courriers indésirables, elle propose des itinéraires ou traduit des conversations. Mais elle pose aussi de vraies questions. Elle apprend à partir de données produites par des humains, donc elle peut reproduire leurs préjugés. Elle consomme beaucoup d'électricité pour s'entraîner et fonctionner. Elle peut servir à fabriquer de fausses images ou de fausses voix très convaincantes. Et elle soulève des inquiétudes sur l'emploi et la vie privée. Les spécialistes eux-mêmes ne sont pas d'accord sur son avenir. Le plus sage, c'est de la voir comme un outil puissant, ni magique, ni diabolique, mais quelque chose qu'il faut apprendre à utiliser avec discernement et esprit critique."
+   }
+  ],
+  "resume": "En résumé : l'intelligence artificielle, ce sont des programmes qui apprennent à partir d'exemples, de données en vrac ou de récompenses, souvent grâce à des réseaux de neurones. Leur qualité dépend de celle de leurs données, ils ont battu les humains aux échecs puis au go, et ils peuvent se tromper, donc il faut les utiliser avec esprit critique.",
+  "quiz": [
+   {
+    "q": "En quelle année le terme intelligence artificielle a-t-il été proposé ?",
+    "r": "En 1956."
+   },
+   {
+    "q": "Comment s'appelle la méthode où un programme apprend à partir d'exemples ?",
+    "r": "L'apprentissage automatique."
+   },
+   {
+    "q": "Pourquoi parle-t-on d'apprentissage profond ?",
+    "r": "Parce qu'on empile plusieurs couches de réglages dans le réseau de neurones."
+   },
+   {
+    "q": "Que font, à la base, les grands modèles de langage ?",
+    "r": "Ils prédisent le mot suivant le plus probable."
+   },
+   {
+    "q": "Pourquoi faut-il vérifier ce que dit un assistant d'intelligence artificielle ?",
+    "r": "Parce qu'il peut se tromper ou inventer des faits avec assurance."
+   },
+   {
+    "q": "Comment s'appelle l'apprentissage fondé sur des récompenses et des pénalités ?",
+    "r": "L'apprentissage par renforcement."
+   },
+   {
+    "q": "Qu'est-ce que le surapprentissage ?",
+    "r": "C'est quand le programme apprend ses exemples par cœur sans savoir généraliser."
+   },
+   {
+    "q": "Pourquoi garde-t-on des données que le programme ne voit jamais pendant son entraînement ?",
+    "r": "Pour mesurer ses vraies performances sur des exemples nouveaux."
+   },
+   {
+    "q": "Quel ordinateur a battu Garry Kasparov aux échecs en 1997 ?",
+    "r": "Deep Blue, d'IBM."
+   },
+   {
+    "q": "Comment s'appelle le programme qui a battu Lee Sedol au go en 2016 ?",
+    "r": "AlphaGo."
+   }
+  ]
+ },
+ {
+  "id": "fonctionnement-ordinateur",
+  "categorie": "Technologie",
+  "titre": "Comment fonctionne un ordinateur",
+  "intro": "Aujourd'hui, on parle de l'ordinateur. On va ouvrir le capot, en pensée, pour comprendre comment une machine fait autant de choses avec si peu.",
+  "sections": [
+   {
+    "titre": "Tout est fait de zéros et de uns",
+    "texte": "Au fond, un ordinateur ne connaît que deux états : le courant passe, ou il ne passe pas. On note ça un et zéro. C'est ce qu'on appelle le binaire, et chaque zéro ou un s'appelle un bit. Ça paraît très pauvre, mais en combinant beaucoup de bits, on peut tout représenter. Huit bits forment un octet, et un octet suffit pour coder une lettre de l'alphabet. Une photo, c'est une grande grille de points, et chaque point est décrit par sa couleur, elle-même codée en nombres. Une chanson, c'est une suite de mesures du son, prises des dizaines de milliers de fois par seconde. Ton film préféré, tes messages, ce cours que tu écoutes : tout ça, pour la machine, n'est qu'une immense suite de zéros et de uns."
+   },
+   {
+    "titre": "Le processeur, le cerveau qui calcule",
+    "texte": "Le cœur de l'ordinateur, c'est le processeur. C'est une petite puce de quelques centimètres qui contient des milliards de minuscules interrupteurs appelés transistors. En s'allumant et en s'éteignant, ces transistors réalisent des opérations très simples : additionner deux nombres, comparer deux valeurs, déplacer une information d'un endroit à un autre. Rien de bien sorcier pris un par un. La magie vient de la vitesse, car un processeur moderne effectue des milliards d'opérations chaque seconde. Imagine un cuisinier qui ne saurait faire que des gestes basiques, couper, verser, mélanger, mais qui en ferait des milliards par seconde sans jamais se tromper. Il finirait par préparer des plats incroyablement compliqués. C'est exactement ce que fait le processeur avec les instructions qu'on lui donne, une par une, à toute allure."
+   },
+   {
+    "titre": "L'horloge et les cœurs",
+    "texte": "Pour que des milliards de transistors travaillent ensemble sans se marcher dessus, le processeur suit un rythme, un peu comme des rameurs qui suivent le tambour. Ce rythme, c'est l'horloge. À chaque battement, le processeur avance d'une petite étape dans son travail. Quand on lit qu'un processeur tourne à trois gigahertz, ça veut dire que son horloge bat trois milliards de fois par seconde. Pendant longtemps, pour aller plus vite, les fabricants ont simplement accéléré ce rythme. Mais vers le milieu des années 2000, ils se sont heurtés à un mur : plus l'horloge bat vite, plus la puce chauffe, et au-delà d'un certain point, on ne sait plus évacuer la chaleur. Ils ont alors changé de stratégie. Au lieu d'un seul processeur toujours plus rapide, ils en ont mis plusieurs sur la même puce, qu'on appelle des cœurs. Un processeur à huit cœurs, c'est un peu comme une cuisine avec huit cuisiniers au lieu d'un. Encore faut-il que la recette puisse être partagée. Éplucher des légumes, ça se répartit facilement. Attendre qu'un gâteau cuise, non. C'est pareil pour les programmes : certains profitent à fond de tous les cœurs, d'autres pas du tout. Et cette chaleur dont on parlait explique le petit ventilateur que tu entends souffler quand ton ordinateur travaille dur."
+   },
+   {
+    "titre": "La mémoire vive et le stockage",
+    "texte": "Un ordinateur a deux sortes de mémoire, et on les confond souvent. La première, c'est la mémoire vive. C'est comme le plan de travail de ta cuisine : on y pose ce qu'on utilise en ce moment, c'est rapide d'accès, mais quand tu éteins l'ordinateur, tout est effacé. Plus ton plan de travail est grand, plus tu peux faire de choses en même temps. La seconde, c'est le stockage, sur un disque dur ou sur une mémoire flash. Ça, ce sont tes placards. Tu y ranges tes fichiers, tes photos, tes programmes, et ils restent là même quand le courant est coupé. Quand tu ouvres un document, l'ordinateur va le chercher dans le placard et le pose sur le plan de travail, pour que le processeur puisse s'en occuper rapidement."
+   },
+   {
+    "titre": "Écran, clavier et carte graphique",
+    "texte": "Un ordinateur qui calcule dans son coin ne servirait à rien s'il ne pouvait pas échanger avec toi. C'est le rôle des périphériques d'entrée et de sortie. Le clavier, la souris, l'écran tactile ou le micro font entrer des informations. Chaque touche que tu enfonces envoie un petit code, que l'ordinateur traduit en lettre. Dans l'autre sens, l'écran et les haut-parleurs font sortir le résultat. Ton écran, justement, est une grille de millions de petits points lumineux, qu'on appelle des pixels. Chaque pixel est fait de trois minuscules sources de lumière, une rouge, une verte et une bleue. En dosant ces trois couleurs, on obtient toutes les teintes que tu vois. Et l'image est redessinée des dizaines de fois par seconde, pour que le mouvement paraisse fluide. Calculer la couleur de millions de pixels aussi souvent, c'est un travail énorme. Il est confié à une puce spécialisée, la carte graphique. Là où le processeur ressemble à quelques chefs cuisiniers très polyvalents, la carte graphique ressemble à une armée de commis qui ne savent faire que des gestes simples, mais tous en même temps. C'est justement cette capacité à faire des milliers de petits calculs en parallèle qui l'a rendue si précieuse, bien au-delà des jeux vidéo, par exemple pour entraîner les programmes d'intelligence artificielle."
+   },
+   {
+    "titre": "Les programmes, des recettes très précises",
+    "texte": "Un ordinateur sans programme, c'est une cuisine sans recette. Un programme est une liste d'instructions que le processeur suit à la lettre, une par une. Ces instructions sont écrites par des développeurs dans des langages de programmation, plus faciles à lire pour un humain, puis traduites en langage machine, c'est-à-dire en zéros et en uns. Le programme le plus important, c'est le système d'exploitation, comme Windows, macOS ou Linux. C'est le chef d'orchestre. Il gère le clavier, l'écran, la mémoire, et il partage le processeur entre toutes les applications ouvertes, en passant de l'une à l'autre si vite que tu as l'impression qu'elles tournent toutes en même temps. Sans lui, chaque application devrait tout gérer seule, dans son coin, et ce serait vite le chaos."
+   },
+   {
+    "titre": "Le bug, quand la recette déraille",
+    "texte": "Puisque le processeur suit les instructions à la lettre, la moindre erreur dans un programme est exécutée elle aussi, fidèlement. Une telle erreur s'appelle un bug, un mot anglais qui veut dire insecte. Il existe une anecdote célèbre à ce sujet. En 1947, aux États-Unis, une équipe qui travaille sur un ordinateur de l'université Harvard, et à laquelle appartient la pionnière de la programmation Grace Hopper, cherche l'origine d'une panne. En ouvrant la machine, les techniciens découvrent un papillon de nuit coincé dans un relais. Ils le collent dans leur cahier de bord avec la mention : premier cas réel de bug trouvé. Le mot existait déjà chez les ingénieurs pour parler d'un défaut, mais l'histoire l'a rendu célèbre. Aujourd'hui, les bugs ne viennent plus d'insectes, mais d'oublis ou de cas imprévus dans les instructions. Certains ont coûté très cher. En 1996, la fusée européenne Ariane 5 est détruite moins d'une minute après son premier décollage. La cause : un morceau de programme repris d'Ariane 4, qui recevait un nombre trop grand pour lui et déclenchait une erreur en cascade. Voilà pourquoi les développeurs passent une bonne partie de leur temps à tester leurs programmes et à corriger des erreurs. Et c'est aussi pour ça que tes applications reçoivent si souvent des mises à jour."
+   },
+   {
+    "titre": "De la salle géante à ta poche",
+    "texte": "Les premiers ordinateurs électroniques, dans les années 1940, occupaient des pièces entières, pesaient des dizaines de tonnes et consommaient énormément d'électricité. Ils utilisaient des tubes à vide, un peu comme de grosses ampoules, qui grillaient souvent. Puis le transistor a été inventé en 1947, et peu à peu, on a su en graver de plus en plus sur une même puce. Pendant des décennies, le nombre de transistors sur une puce a doublé environ tous les deux ans. Résultat, le téléphone que tu as dans la poche est immensément plus puissant que l'ordinateur de bord des missions qui ont emmené des hommes sur la Lune en 1969. Pourtant, le principe reste exactement le même qu'au début : des zéros, des uns, et des milliards de petits calculs très simples."
+   }
+  ],
+  "resume": "En résumé : un ordinateur manipule des zéros et des uns grâce à un processeur rythmé par une horloge et réparti en plusieurs cœurs. Il range ses données entre mémoire vive et stockage, dialogue avec toi par l'écran et le clavier, et suit des programmes orchestrés par le système d'exploitation, où le moindre bug est exécuté à la lettre.",
+  "quiz": [
+   {
+    "q": "Comment s'appelle un zéro ou un un en informatique ?",
+    "r": "Un bit."
+   },
+   {
+    "q": "Combien de bits forment un octet ?",
+    "r": "Huit bits."
+   },
+   {
+    "q": "Que se passe-t-il pour la mémoire vive quand on éteint l'ordinateur ?",
+    "r": "Elle est effacée."
+   },
+   {
+    "q": "Quel programme joue le rôle de chef d'orchestre de l'ordinateur ?",
+    "r": "Le système d'exploitation."
+   },
+   {
+    "q": "En quelle année le transistor a-t-il été inventé ?",
+    "r": "En 1947."
+   },
+   {
+    "q": "Que signifie un processeur à trois gigahertz ?",
+    "r": "Son horloge bat trois milliards de fois par seconde."
+   },
+   {
+    "q": "Pourquoi les fabricants ont-ils mis plusieurs cœurs sur une même puce ?",
+    "r": "Parce qu'accélérer encore l'horloge faisait trop chauffer la puce."
+   },
+   {
+    "q": "Quelles sont les trois couleurs qui composent un pixel ?",
+    "r": "Le rouge, le vert et le bleu."
+   },
+   {
+    "q": "Quelle puce calcule l'image affichée à l'écran ?",
+    "r": "La carte graphique."
+   },
+   {
+    "q": "Qu'a-t-on trouvé dans un ordinateur en 1947, rendant célèbre le mot bug ?",
+    "r": "Un papillon de nuit coincé dans un relais."
+   }
+  ]
+ },
+ {
+  "id": "alan-turing",
+  "categorie": "Technologie",
+  "titre": "Alan Turing et les débuts de l'informatique",
+  "intro": "Aujourd'hui, on parle d'Alan Turing, un mathématicien britannique qui a imaginé l'ordinateur avant qu'il existe, et dont la vie a été aussi brillante que tragique.",
+  "sections": [
+   {
+    "titre": "Un jeune mathématicien brillant",
+    "texte": "Alan Turing est né à Londres en 1912. Enfant, il est déjà passionné par les sciences et les chiffres, au point de sembler un peu à part à l'école. Il étudie les mathématiques à l'université de Cambridge, où il se fait remarquer très vite. En 1936, à seulement 24 ans, il publie un article qui va changer l'histoire. Il s'y pose une question qui paraît très abstraite : peut-on tout résoudre avec une méthode mécanique, étape par étape ? Pour y répondre, il imagine une machine théorique. Elle n'existe que sur le papier, mais elle va devenir le modèle de tous les ordinateurs. Ce qui est fascinant, c'est qu'il a pensé l'ordinateur avant même qu'on sache vraiment en construire un. Il avait une longueur d'avance sur tout le monde."
+   },
+   {
+    "titre": "La machine de Turing",
+    "texte": "Imagine un ruban de papier infini, découpé en cases. Dans chaque case, on peut écrire un symbole ou l'effacer. Une petite tête de lecture se déplace sur ce ruban, case par case, lit ce qui est écrit, et décide quoi faire selon une table de règles très simple : écrire, effacer, avancer ou reculer. C'est tout. Turing montre que cette machine rudimentaire peut réaliser n'importe quel calcul qu'on sait décrire étape par étape, à condition de lui donner les bonnes règles. Mieux encore, il imagine une machine universelle, capable de lire les règles d'une autre machine sur son ruban et de l'imiter. C'est exactement l'idée de l'ordinateur moderne : une seule machine qui peut tout faire, selon le programme qu'on lui donne. Ton téléphone est, au fond, une machine universelle de Turing."
+   },
+   {
+    "titre": "Ce qu'aucune machine ne peut faire",
+    "texte": "Dans son article de 1936, Turing ne se contente pas de décrire ce que sa machine peut faire. Il montre aussi ce qu'elle ne pourra jamais faire. À l'époque, un grand mathématicien allemand, David Hilbert, avait lancé un défi : trouver une méthode mécanique capable de dire, pour n'importe quel énoncé mathématique, s'il peut être démontré ou non. Turing prouve qu'une telle méthode ne peut pas exister. Pour ça, il s'intéresse à une question qui semble toute simple : si je donne un programme à une machine, peut-on savoir à l'avance s'il finira par s'arrêter, ou s'il tournera en boucle pour toujours ? Turing démontre qu'aucune machine, aussi puissante soit-elle, ne peut répondre correctement à cette question pour tous les programmes possibles. On l'appelle aujourd'hui le problème de l'arrêt. C'est une découverte vertigineuse, parce qu'elle fixe une limite définitive à ce que les ordinateurs peuvent calculer, avant même qu'ils existent. Au même moment, aux États-Unis, le logicien Alonzo Church arrive à la même conclusion par une autre voie. Turing part d'ailleurs le rejoindre à l'université de Princeton, où il prépare son doctorat. Cette limite a des conséquences très concrètes, encore aujourd'hui. Elle explique par exemple pourquoi aucun logiciel ne pourra jamais détecter à coup sûr tous les bugs de tous les programmes."
+   },
+   {
+    "titre": "Casser le code Enigma",
+    "texte": "Pendant la Seconde Guerre mondiale, Turing rejoint en secret Bletchley Park, un domaine anglais où les Britanniques cherchent à décrypter les messages allemands. L'armée allemande utilise une machine appelée Enigma, qui brouille les messages avec des réglages changés chaque jour. Le nombre de combinaisons possibles est astronomique. Turing joue un rôle central dans la conception de machines électromécaniques, surnommées les bombes, qui testent les réglages à grande vitesse en s'appuyant sur des failles et des habitudes des opérateurs. Il s'appuie aussi sur les travaux pionniers de mathématiciens polonais, qui avaient déjà percé une première version d'Enigma. Grâce à ce travail d'équipe, une partie importante des communications ennemies devient lisible. Les historiens estiment que cela a contribué à raccourcir la guerre, peut-être de plusieurs années, et à sauver de nombreuses vies."
+   },
+   {
+    "titre": "Le fonctionnement d'Enigma",
+    "texte": "Pour comprendre la prouesse, il faut imaginer la machine Enigma. Elle ressemble à une machine à écrire, avec un clavier, mais au lieu d'imprimer, elle allume de petites lampes marquées de lettres. Quand l'opérateur tape un A, c'est par exemple la lampe du K qui s'allume, et il note ce K. À l'intérieur, des roues crantées, qu'on appelle des rotors, brouillent le circuit électrique. Et surtout, à chaque touche tapée, un rotor tourne d'un cran. Résultat, si tu tapes trois fois la même lettre, tu obtiens trois lettres différentes. À l'arrivée, le destinataire règle sa propre machine exactement de la même façon, tape le message chiffré, et voit réapparaître le texte en clair. Mais Enigma avait une faiblesse de conception : une lettre ne pouvait jamais être chiffrée par elle-même. Un A ne devenait jamais un A. Ça paraît anodin, mais ça permettait d'éliminer énormément de possibilités. Les décrypteurs exploitaient aussi les habitudes des opérateurs. Les bulletins météo, par exemple, étaient envoyés chaque jour, avec souvent les mêmes mots au même endroit. En devinant un bout du message, on pouvait le confronter aux lettres chiffrées et tester seulement les réglages compatibles. Turing s'est particulièrement occupé de la version utilisée par la marine allemande, la plus difficile, celle qui transmettait les ordres aux sous-marins dans l'Atlantique."
+   },
+   {
+    "titre": "Les machines peuvent-elles penser ?",
+    "texte": "Après la guerre, Turing participe à la conception de certains des premiers ordinateurs électroniques, en Angleterre. Mais il voit plus loin. En 1950, il publie un article qui commence par une question audacieuse : les machines peuvent-elles penser ? Plutôt que de se perdre dans des définitions, il propose une expérience, qu'on appelle aujourd'hui le test de Turing. Une personne discute par écrit avec deux interlocuteurs cachés, un humain et une machine. Si elle n'arrive pas à savoir lequel est la machine, alors on peut considérer que celle-ci se comporte de façon intelligente. Ce test est encore discuté et critiqué aujourd'hui, mais il a lancé la réflexion sur l'intelligence artificielle, quelques années avant que l'expression elle-même apparaisse. Une fois de plus, Turing était vraiment en avance sur son temps."
+   },
+   {
+    "titre": "Un esprit touche-à-tout",
+    "texte": "Turing n'était pas seulement un génie des mathématiques. C'était aussi un sportif accompli. Il courait souvent de longues distances, parfois même pour se rendre à des réunions, et c'était un marathonien de très bon niveau, capable de terminer un marathon en moins de trois heures. Il a même tenté les sélections pour les Jeux olympiques, avant qu'une blessure ne l'arrête. Il était aussi passionné par les échecs. Avec un collègue, il écrit l'un des tout premiers programmes capables de jouer une partie. Problème : aucun ordinateur de l'époque n'est assez puissant pour le faire tourner. Qu'à cela ne tienne, Turing joue lui-même le rôle de la machine. Il calcule à la main, sur papier, chaque coup que le programme aurait choisi, ce qui lui prend parfois une demi-heure par coup. À la fin de sa vie, il se tourne vers une question qui n'a rien à voir avec l'informatique, en apparence : comment les êtres vivants fabriquent-ils leurs motifs ? Pourquoi le zèbre a-t-il des rayures, et le léopard des taches ? En 1952, il propose une théorie élégante, selon laquelle des substances chimiques qui réagissent entre elles et se diffusent dans les tissus peuvent former spontanément ces motifs. Longtemps négligée, cette idée est aujourd'hui étudiée par les biologistes, qui en retrouvent la trace dans de nombreux phénomènes naturels."
+   },
+   {
+    "titre": "Une fin tragique, une reconnaissance tardive",
+    "texte": "La vie de Turing a une fin bouleversante. En 1952, il est poursuivi par la justice britannique pour son homosexualité, qui était alors un délit au Royaume-Uni. Condamné, il doit choisir entre la prison et un traitement hormonal imposé. Il choisit le traitement, qui le fait beaucoup souffrir. On lui retire aussi l'accès à certains travaux secrets. En 1954, il meurt empoisonné au cyanure, à 41 ans. L'enquête conclut à un suicide, même si certains en doutent encore. Il a fallu des décennies pour que son pays reconnaisse ses torts. En 2009, le Premier ministre britannique présente des excuses officielles, et en 2013, Turing reçoit une grâce royale posthume. Aujourd'hui, son portrait figure sur les billets de 50 livres, et le plus prestigieux prix d'informatique porte son nom."
+   }
+  ],
+  "resume": "En résumé : Alan Turing a imaginé le principe de l'ordinateur en 1936 et montré ses limites avec le problème de l'arrêt. Il a aidé à casser le code Enigma pendant la guerre, posé les bases de l'intelligence artificielle et exploré jusqu'à la biologie, avant d'être persécuté pour son homosexualité.",
+  "quiz": [
+   {
+    "q": "En quelle année Turing publie-t-il l'article décrivant sa machine théorique ?",
+    "r": "En 1936."
+   },
+   {
+    "q": "Comment s'appelait la machine allemande de chiffrement que Turing a aidé à décrypter ?",
+    "r": "Enigma."
+   },
+   {
+    "q": "Dans quel lieu secret Turing travaillait-il pendant la guerre ?",
+    "r": "À Bletchley Park, en Angleterre."
+   },
+   {
+    "q": "Que cherche à vérifier le test de Turing ?",
+    "r": "Si une machine peut se faire passer pour un humain dans une conversation écrite."
+   },
+   {
+    "q": "En quelle année Turing a-t-il reçu une grâce royale posthume ?",
+    "r": "En 2013."
+   },
+   {
+    "q": "Comment s'appelle la question de savoir si un programme finira par s'arrêter ?",
+    "r": "Le problème de l'arrêt."
+   },
+   {
+    "q": "Dans quelle université américaine Turing a-t-il préparé son doctorat ?",
+    "r": "À Princeton."
+   },
+   {
+    "q": "Quelle faiblesse de la machine Enigma aidait les décrypteurs ?",
+    "r": "Une lettre ne pouvait jamais être chiffrée par elle-même."
+   },
+   {
+    "q": "Comment Turing a-t-il fait jouer son programme d'échecs sans ordinateur assez puissant ?",
+    "r": "Il a calculé lui-même chaque coup à la main, sur papier."
+   },
+   {
+    "q": "Quel phénomène biologique Turing a-t-il cherché à expliquer en 1952 ?",
+    "r": "La formation des motifs, comme les rayures du zèbre ou les taches du léopard."
+   }
+  ]
+ },
+ {
+  "id": "cybersecurite",
+  "categorie": "Technologie",
+  "titre": "Se protéger des pirates : la cybersécurité",
+  "intro": "Aujourd'hui, on parle de cybersécurité, c'est-à-dire de la façon de protéger tes comptes et tes données contre les pirates. Promis, c'est plus simple qu'il n'y paraît.",
+  "sections": [
+   {
+    "titre": "Qui sont les pirates ?",
+    "texte": "Quand on pense aux pirates informatiques, on imagine souvent un génie solitaire en capuche, tapant à toute vitesse dans le noir. La réalité est plus banale, et plus organisée. Beaucoup d'attaques sont menées par des groupes criminels qui fonctionnent comme de vraies entreprises, avec un objectif simple : gagner de l'argent. Ils volent des mots de passe, des coordonnées bancaires, ou bloquent les fichiers d'une entreprise pour exiger une rançon. Et la plupart du temps, ils ne visent pas quelqu'un en particulier. Ils lancent leurs filets très large, en envoyant des millions de messages, et attendent que quelqu'un morde à l'hameçon. La bonne nouvelle, c'est qu'avec quelques réflexes simples, tu peux éviter la grande majorité de ces pièges. Pas besoin d'être expert en informatique pour ça."
+   },
+   {
+    "titre": "Le hameçonnage, l'arnaque numéro un",
+    "texte": "L'attaque la plus courante s'appelle le hameçonnage, ou phishing en anglais. Tu reçois un courriel ou un texto qui semble venir de ta banque, d'un service de livraison ou des impôts. On te dit qu'il y a un problème urgent, un colis bloqué, un remboursement à réclamer, un compte suspendu. Et on t'invite à cliquer sur un lien. Ce lien mène vers un faux site, parfaitement imité, où tu vas taper ton identifiant ou ta carte bancaire. Le pirate n'a plus qu'à se servir. Le signal d'alerte principal, c'est l'urgence et la pression. Une vraie banque ne te demandera jamais ton code secret par message. Le bon réflexe : ne clique pas, et va directement sur le site ou l'application officielle, en tapant l'adresse toi-même."
+   },
+   {
+    "titre": "Les arnaques au téléphone",
+    "texte": "Le hameçonnage ne passe pas que par écrit. Une arnaque très répandue est celle du faux conseiller bancaire. Ton téléphone sonne, et sur l'écran s'affiche le vrai numéro de ta banque. Au bout du fil, une personne aimable et très professionnelle t'annonce qu'une opération suspecte vient d'être détectée sur ton compte. Pour la bloquer, elle te demande de valider une opération sur ton application, ou de lui donner un code reçu par texto. En réalité, c'est toi qui autorises le paiement du pirate. Il faut savoir qu'un numéro affiché peut être falsifié assez facilement. Voir le nom de ta banque à l'écran ne prouve donc rien. Une autre arnaque vise les familles. Tu reçois un message du genre : coucou maman, j'ai cassé mon téléphone, voici mon nouveau numéro. Puis vient vite une demande d'argent urgente, pour une facture à régler. Les entreprises, elles, connaissent la fraude au président. Un comptable reçoit l'appel ou le courriel d'un faux patron qui exige un virement confidentiel et pressant. Dans tous les cas, le scénario repose sur les mêmes ressorts : l'urgence, l'émotion et la confiance. La parade consiste à couper la conversation et à reprendre la main, en contactant toi-même la personne ou l'organisme par un canal que tu connais déjà. Pour un proche, un simple appel sur son ancien numéro suffit souvent à démasquer l'arnaque."
+   },
+   {
+    "titre": "Des mots de passe solides",
+    "texte": "Ton mot de passe, c'est la clé de ta maison numérique. Le problème, c'est qu'on a tendance à utiliser des clés faciles à copier : une date de naissance, le prénom du chien, ou le même mot de passe partout. Or, quand un site se fait pirater, les mots de passe volés sont testés automatiquement sur des centaines d'autres sites. Si tu utilises le même partout, une seule fuite suffit à ouvrir toutes tes portes. La règle d'or, c'est un mot de passe différent pour chaque compte important. Pour qu'il soit solide, mieux vaut qu'il soit long. Une phrase de plusieurs mots sans rapport entre eux, c'est à la fois facile à retenir et difficile à deviner. Et pour ne pas tout mémoriser, il existe des gestionnaires de mots de passe, de vrais coffres-forts numériques."
+   },
+   {
+    "titre": "La double vérification",
+    "texte": "Même le meilleur mot de passe peut être volé. C'est pour ça qu'il existe une protection supplémentaire, qu'on appelle la double authentification, ou vérification en deux étapes. Le principe est simple : pour te connecter, il faut deux éléments au lieu d'un. Ce que tu sais, c'est ton mot de passe, et ce que tu possèdes, c'est par exemple ton téléphone. Après avoir tapé ton mot de passe, tu reçois un code ou une notification à valider. Un pirate qui a volé ton mot de passe reste bloqué devant la porte, parce qu'il n'a pas ton téléphone. C'est comme une porte avec deux serrures différentes. Active-la au moins sur ta messagerie et ta banque, car ta messagerie sert souvent à réinitialiser tous tes autres comptes. Quelques secondes de plus, pour beaucoup de tranquillité."
+   },
+   {
+    "titre": "Le chiffrement, un cadenas pour tes données",
+    "texte": "Quand tu envoies un message ou que tu payes en ligne, tes informations traversent de nombreux équipements avant d'arriver à destination : ta box, les réseaux de ton opérateur, des serveurs parfois situés dans d'autres pays. Pour que personne ne puisse les lire en chemin, on les chiffre. Chiffrer, c'est brouiller un message selon une méthode mathématique, de sorte que seul celui qui possède la bonne clé puisse le remettre en clair. Pour un espion qui intercepte le message, ce n'est qu'une bouillie de caractères sans aucun sens. Tu croises ce principe tous les jours sans le savoir. Le petit cadenas qui apparaît à côté de l'adresse d'un site, dans ton navigateur, signifie que la connexion entre toi et ce site est chiffrée. Attention au piège, pourtant : le cadenas garantit que personne n'écoute la conversation, il ne garantit pas que le site soit honnête. Un faux site de hameçonnage peut très bien afficher un cadenas. Certaines messageries vont plus loin, avec ce qu'on appelle le chiffrement de bout en bout. Le message est chiffré sur ton téléphone et ne peut être déchiffré que sur celui de ton correspondant. Même l'entreprise qui fait fonctionner la messagerie ne peut pas lire son contenu. Enfin, ton téléphone lui-même peut chiffrer ses données. Si tu le perds, un voleur aura bien du mal à les lire sans ton code de déverrouillage, à condition que tu en aies mis un."
+   },
+   {
+    "titre": "Les bons réflexes au quotidien",
+    "texte": "Quelques habitudes simples font une énorme différence. D'abord, fais les mises à jour de ton téléphone et de ton ordinateur. Elles ne servent pas qu'à ajouter des fonctions, elles bouchent surtout des failles que les pirates connaissent. Repousser une mise à jour, c'est laisser une fenêtre ouverte. Ensuite, sauvegarde régulièrement tes photos et tes documents importants, sur un disque externe ou en ligne. Si un jour un logiciel malveillant bloque tes fichiers, tu pourras les récupérer sans payer de rançon. Méfie-toi aussi des applications téléchargées hors des boutiques officielles, et des réseaux wifi publics pour les opérations sensibles. Enfin, si tu as un doute sur un appel ou un message, prends le temps. Raccroche, et rappelle toi-même le numéro officiel. Les arnaqueurs détestent qu'on prenne son temps."
+   },
+   {
+    "titre": "Si tu t'es fait avoir",
+    "texte": "Ça peut arriver à tout le monde, même aux personnes très prudentes. L'important, c'est de réagir vite, et sans honte. Si tu as donné tes coordonnées bancaires ou validé un paiement suspect, appelle immédiatement ta banque pour faire opposition sur ta carte et signaler la fraude. Plus tu appelles tôt, plus tu as de chances de limiter les dégâts. Si c'est un mot de passe qui a été volé, change-le tout de suite, sur le site concerné et sur tous ceux où tu utilisais le même. Active la double vérification si ce n'est pas déjà fait. Préviens aussi tes proches si ta messagerie ou un réseau social a été piraté, car le pirate risque de se servir de ton compte pour les arnaquer à leur tour, en se faisant passer pour toi. Pense ensuite à garder des preuves : des captures d'écran des messages, les numéros, les dates. Elles te serviront pour porter plainte auprès de la police ou de la gendarmerie. En France, il existe aussi un site public d'aide aux victimes, cybermalveillance point gouv point fr, qui explique quoi faire selon la situation et oriente vers des professionnels. Enfin, méfie-toi des faux sauveurs. Après une arnaque, certains escrocs recontactent les victimes en prétendant pouvoir récupérer l'argent perdu, contre paiement. C'est une deuxième arnaque. Aucun service sérieux ne te demandera de payer pour récupérer ton argent."
+   }
+  ],
+  "resume": "En résumé : méfie-toi des messages et des appels urgents, même quand le numéro semble officiel. Utilise des mots de passe longs et différents, active la double vérification, profite du chiffrement, fais tes mises à jour et sauvegarde tes données. Et si tu t'es fait avoir, réagis vite et fais-toi aider.",
+  "quiz": [
+   {
+    "q": "Comment s'appelle l'arnaque qui imite un message de ta banque pour te voler tes identifiants ?",
+    "r": "Le hameçonnage, ou phishing."
+   },
+   {
+    "q": "Quel est le principal signal d'alerte d'un message frauduleux ?",
+    "r": "L'urgence et la pression qu'il met."
+   },
+   {
+    "q": "Pourquoi ne faut-il pas utiliser le même mot de passe partout ?",
+    "r": "Parce qu'une seule fuite suffirait à ouvrir tous tes comptes."
+   },
+   {
+    "q": "Sur quels comptes activer en priorité la double vérification ?",
+    "r": "La messagerie et la banque."
+   },
+   {
+    "q": "À quoi servent surtout les mises à jour ?",
+    "r": "À boucher des failles de sécurité connues des pirates."
+   },
+   {
+    "q": "Le numéro de ta banque affiché à l'écran prouve-t-il que c'est bien elle qui appelle ?",
+    "r": "Non, un numéro affiché peut être falsifié."
+   },
+   {
+    "q": "Que garantit le petit cadenas à côté de l'adresse d'un site ?",
+    "r": "Que la connexion est chiffrée, pas que le site est honnête."
+   },
+   {
+    "q": "Que signifie le chiffrement de bout en bout ?",
+    "r": "Seuls l'expéditeur et le destinataire peuvent lire le message."
+   },
+   {
+    "q": "Que faire en premier si tu as donné ta carte bancaire à un escroc ?",
+    "r": "Appeler ta banque pour faire opposition."
+   },
+   {
+    "q": "Quel site public aide les victimes de piratage en France ?",
+    "r": "Cybermalveillance point gouv point fr."
+   }
+  ]
+ },
+ {
+  "id": "cloud-donnees",
+  "categorie": "Technologie",
+  "titre": "Le cloud, où sont vraiment nos données",
+  "intro": "Aujourd'hui, on parle du cloud, ce fameux nuage où l'on range nos photos et nos documents. On va découvrir où ils se trouvent vraiment.",
+  "sections": [
+   {
+    "titre": "Le nuage n'est pas dans le ciel",
+    "texte": "On dit que nos photos ou nos documents sont dans le cloud, c'est-à-dire dans le nuage. Le mot est joli, mais il est trompeur. Tes données ne flottent pas dans le ciel. Elles sont stockées sur des ordinateurs bien réels, posés au sol, quelque part dans le monde. Le cloud, c'est simplement le fait d'utiliser les ordinateurs de quelqu'un d'autre, à distance, par internet. Quand tu regardes une série en streaming, que tu consultes tes courriels depuis n'importe quel appareil, ou que ton téléphone sauvegarde automatiquement tes photos, tu utilises le cloud. L'image du nuage vient des anciens schémas d'ingénieurs, qui dessinaient internet comme un petit nuage pour dire : ici, il y a tout un réseau compliqué, mais on n'a pas besoin d'entrer dans le détail."
+   },
+   {
+    "titre": "Le voyage d'une photo",
+    "texte": "Suivons une photo que ton téléphone envoie dans le cloud. D'abord, elle est découpée en une multitude de petits morceaux, qu'on appelle des paquets. Chaque paquet porte une étiquette avec l'adresse de destination, un peu comme une enveloppe. Pourquoi découper ? Parce que c'est plus souple. Si un paquet se perd en route, on ne renvoie que lui, pas toute la photo. Les paquets partent ensuite par ondes radio, vers ta box en wifi ou vers une antenne de ton opérateur mobile. De là, ils rejoignent des câbles, souvent en fibre optique, et passent d'un équipement à l'autre. Ces équipements, qu'on appelle des routeurs, jouent le rôle de centres de tri postaux. Ils lisent l'adresse de chaque paquet et l'envoient vers le relais suivant, par le chemin le moins encombré du moment. Deux paquets de la même photo peuvent ainsi emprunter des routes différentes et arriver dans le désordre. Ce n'est pas grave : à l'arrivée, le serveur les remet dans l'ordre, vérifie que rien ne manque et reconstitue la photo. Le plus étonnant, c'est la vitesse. Ce voyage à travers de nombreux relais, parfois sur des centaines ou des milliers de kilomètres, prend souvent moins d'une seconde. C'est ce fonctionnement en paquets, imaginé dans les années 1960 et 1970, qui est à la base d'internet."
+   },
+   {
+    "titre": "Les centres de données",
+    "texte": "Concrètement, le cloud vit dans des centres de données. Ce sont d'immenses bâtiments, parfois grands comme plusieurs terrains de football, remplis d'armoires métalliques alignées sur des rangées entières. Dans chaque armoire, des dizaines d'ordinateurs sans écran ni clavier, qu'on appelle des serveurs, tournent jour et nuit. Ils sont reliés au reste du monde par des câbles de fibre optique. Ces bâtiments sont très surveillés, avec des contrôles d'accès stricts, des gardiens et des caméras. Ils ont aussi des groupes électrogènes et des batteries de secours, pour ne jamais s'arrêter, même en cas de coupure de courant. Il en existe des milliers sur la planète, aux États-Unis, en Europe, en Asie. Ta photo de vacances est donc peut-être stockée dans un grand hangar, à des centaines de kilomètres de chez toi."
+   },
+   {
+    "titre": "Les câbles sous les océans",
+    "texte": "Si ta photo doit traverser un océan, par exemple pour rejoindre un centre de données en Amérique, comment fait-elle ? On imagine souvent qu'elle passe par satellite. En réalité, l'immense majorité des échanges entre continents passe par des câbles posés au fond des mers. Il en existe des centaines, et mis bout à bout, ils représentent plus d'un million de kilomètres. À l'intérieur, on trouve des fibres optiques, des fils de verre plus fins qu'un cheveu, dans lesquels l'information voyage sous forme d'impulsions de lumière. Au fond de l'océan, loin des côtes, un tel câble n'est pas beaucoup plus épais qu'un tuyau d'arrosage. Près des côtes, là où les ancres des bateaux et les filets de pêche risquent de l'abîmer, il est protégé par des couches d'acier et souvent enterré sous le sable. Le long du trajet, des répéteurs amplifient régulièrement le signal pour qu'il ne s'affaiblisse pas. Les câbles sont posés par des navires spécialisés, qui déroulent lentement des milliers de kilomètres de câble. Et quand l'un d'eux est endommagé, il faut envoyer un bateau, repêcher le câble au fond de l'eau et le réparer, ce qui peut prendre des jours. Heureusement, le trafic est alors redirigé par d'autres câbles. Ces autoroutes invisibles sont devenues si importantes que de nombreux pays les considèrent comme des infrastructures stratégiques."
+   },
+   {
+    "titre": "Plusieurs copies pour ne rien perdre",
+    "texte": "Une question vient vite : et si le serveur qui garde mes photos tombe en panne ? Rassure-toi, les grands services ne gardent presque jamais une seule copie de tes fichiers. Ils les dupliquent sur plusieurs disques, et souvent dans plusieurs centres de données éloignés les uns des autres. Si un disque lâche, une autre copie prend le relais. Si un bâtiment entier subit un incendie ou une inondation, tes données existent encore ailleurs. C'est un peu comme si tu faisais des photocopies de tes papiers importants et que tu les rangeais chez plusieurs amis, dans des villes différentes. Cela dit, le risque zéro n'existe pas. Un compte piraté, une erreur de manipulation ou un service qui ferme peuvent faire disparaître des données. Garder une copie chez soi reste une bonne idée."
+   },
+   {
+    "titre": "Qui peut voir mes données ?",
+    "texte": "Confier ses données au cloud, c'est un peu comme confier ses valises à une consigne. C'est pratique, mais il faut faire confiance à celui qui les garde. En général, tes fichiers sont chiffrés, c'est-à-dire brouillés pour être illisibles par quelqu'un qui les volerait. Mais selon les services, l'entreprise elle-même peut parfois détenir la clé. Il faut aussi savoir que les données sont soumises aux lois du pays où elles sont stockées, et parfois à celles du pays de l'entreprise. En Europe, un texte appelé RGPD, pour règlement général sur la protection des données, encadre ce que les entreprises peuvent faire de tes informations personnelles et te donne des droits, comme celui de demander leur suppression. Lire les réglages de confidentialité, ce n'est pas passionnant, mais ça vaut vraiment le coup."
+   },
+   {
+    "titre": "Trois façons d'utiliser le cloud",
+    "texte": "Le cloud ne sert pas qu'à ranger des photos. On peut distinguer en gros trois usages. Le premier, c'est le stockage, celui que tu connais le mieux : tes fichiers sont conservés à distance et accessibles depuis n'importe quel appareil. Le deuxième, ce sont les logiciels en ligne. Ta messagerie consultée dans un navigateur, un traitement de texte où plusieurs personnes écrivent en même temps dans le même document, une plateforme de vidéos : le logiciel ne tourne pas vraiment sur ton appareil, mais sur des serveurs lointains, et ton écran affiche simplement le résultat. Pas besoin de l'installer, ni de le mettre à jour toi-même. Le troisième usage concerne surtout les entreprises : la location de puissance de calcul. Plutôt que d'acheter et d'entretenir ses propres serveurs, une société peut louer ceux d'un grand fournisseur, et ne payer que ce qu'elle consomme, un peu comme on paie l'électricité au compteur. C'est très pratique quand l'activité varie. Imagine un site de vente qui reçoit dix fois plus de visiteurs pendant les soldes. Il peut louer des serveurs supplémentaires pour quelques jours, puis les rendre. Sans le cloud, il aurait dû acheter des machines qui dormiraient le reste de l'année. C'est aussi ce qui permet à une petite entreprise de lancer un service en ligne sans investissement énorme au départ. Le revers de la médaille, c'est une forte dépendance envers une poignée de très grands fournisseurs."
+   },
+   {
+    "titre": "Le coût caché du cloud",
+    "texte": "Le cloud paraît immatériel, mais il a un vrai poids physique. Les centres de données consomment énormément d'électricité, d'abord pour faire tourner les serveurs, ensuite pour les refroidir, car ces machines chauffent beaucoup. Certains centres utilisent l'air froid extérieur, d'autres de l'eau, et quelques-uns récupèrent leur chaleur pour chauffer des logements ou des piscines voisines. À l'échelle mondiale, les centres de données représentent une part notable de la consommation d'électricité, et cette part augmente, notamment avec l'essor de l'intelligence artificielle. Chaque vidéo regardée, chaque fichier stocké pèse un tout petit peu. Pris un par un, c'est minuscule, mais multiplié par des milliards d'utilisateurs, ça devient considérable. Faire du tri dans ses vieux fichiers et ses sauvegardes inutiles, c'est un petit geste, mais il a du sens."
+   }
+  ],
+  "resume": "En résumé : le cloud, ce sont des serveurs bien réels installés dans des centres de données, que tes fichiers rejoignent découpés en paquets, parfois à travers des câbles posés sous les océans. Il sert à stocker, à faire tourner des logiciels et à louer de la puissance de calcul. Il copie tes fichiers pour les protéger, mais il consomme beaucoup d'énergie et demande de la confiance.",
+  "quiz": [
+   {
+    "q": "Que désigne concrètement le cloud ?",
+    "r": "L'utilisation à distance, par internet, des ordinateurs de quelqu'un d'autre."
+   },
+   {
+    "q": "Comment appelle-t-on les ordinateurs qui stockent les données dans les centres de données ?",
+    "r": "Des serveurs."
+   },
+   {
+    "q": "Pourquoi perd-on rarement ses fichiers en cas de panne d'un serveur ?",
+    "r": "Parce qu'ils sont copiés sur plusieurs disques et plusieurs sites."
+   },
+   {
+    "q": "Que signifie RGPD ?",
+    "r": "Règlement général sur la protection des données."
+   },
+   {
+    "q": "Pour quelles deux raisons principales les centres de données consomment-ils de l'électricité ?",
+    "r": "Pour faire tourner les serveurs et pour les refroidir."
+   },
+   {
+    "q": "Comment appelle-t-on les petits morceaux qui composent une donnée envoyée sur internet ?",
+    "r": "Des paquets."
+   },
+   {
+    "q": "Quels équipements orientent les paquets sur internet, comme des centres de tri ?",
+    "r": "Les routeurs."
+   },
+   {
+    "q": "Par où passe l'essentiel des échanges entre continents ?",
+    "r": "Par des câbles posés au fond des mers."
+   },
+   {
+    "q": "Sous quelle forme l'information voyage-t-elle dans une fibre optique ?",
+    "r": "Sous forme d'impulsions de lumière."
+   },
+   {
+    "q": "Pourquoi une entreprise loue-t-elle des serveurs dans le cloud ?",
+    "r": "Pour ne payer que ce qu'elle consomme, sans acheter ses propres machines."
+   }
+  ]
+ },
+ {
+  "id": "batteries-voiture-electrique",
+  "categorie": "Technologie",
+  "titre": "Les batteries et la voiture électrique",
+  "intro": "Aujourd'hui, on parle des batteries et de la voiture électrique : comment elles stockent l'énergie, comment on les recharge, et ce qu'il faut savoir de leur bilan.",
+  "sections": [
+   {
+    "titre": "Une batterie, c'est quoi ?",
+    "texte": "Une batterie, c'est une réserve d'énergie chimique qu'on peut transformer en électricité, et inversement. Imagine deux bacs reliés par un passage, avec des petites particules chargées qui vont de l'un à l'autre. Dans une batterie lithium-ion, celle de ton téléphone et de la plupart des voitures électriques, ces particules sont des ions de lithium. Quand tu recharges, on les pousse d'un côté, un peu comme on remonterait de l'eau en haut d'une colline. Quand tu utilises la batterie, ils retournent de l'autre côté, et ce mouvement libère un courant électrique qui alimente l'appareil. Le lithium est très léger et permet de stocker beaucoup d'énergie pour un poids donné, c'est pour ça qu'il s'est imposé. Cette technologie a d'ailleurs valu le prix Nobel de chimie à trois chercheurs en 2019."
+   },
+   {
+    "titre": "Des milliers de cellules sous le plancher",
+    "texte": "La batterie d'une voiture électrique n'est pas un gros bloc unique. C'est un assemblage de nombreuses petites batteries élémentaires, qu'on appelle des cellules. Selon les modèles, il peut y en avoir quelques centaines ou plusieurs milliers, regroupées en modules, eux-mêmes réunis dans un grand coffre étanche. L'ensemble pèse souvent plusieurs centaines de kilos. Pour ne pas encombrer l'habitacle, ce coffre est le plus souvent placé à plat, sous le plancher, entre les roues. Ce choix a un avantage inattendu : avec autant de poids placé si bas, le centre de gravité de la voiture est très bas, ce qui la rend stable dans les virages. Toutes les batteries lithium-ion ne sont pas identiques. Beaucoup utilisent un mélange de nickel, de manganèse et de cobalt. Elles stockent beaucoup d'énergie dans peu de place. Une autre famille, appelée lithium fer phosphate, se passe de nickel et de cobalt. Elle stocke un peu moins d'énergie pour le même poids, mais elle coûte moins cher, supporte très bien les recharges répétées et elle est réputée plus sûre. On la trouve de plus en plus, surtout sur les modèles abordables. Les chercheurs explorent aussi d'autres pistes, comme les batteries au sodium, un élément très abondant, ou les batteries dites solides. Il faudra encore du temps pour savoir lesquelles s'imposeront."
+   },
+   {
+    "titre": "Kilowattheures et autonomie",
+    "texte": "Pour une voiture électrique, on mesure la taille de la batterie en kilowattheures. C'est l'équivalent du volume du réservoir pour une voiture à essence. Une petite citadine peut avoir une batterie d'environ 40 kilowattheures, une grande berline souvent plus de 70. Une voiture électrique consomme en moyenne autour de 15 à 20 kilowattheures pour 100 kilomètres. Fais le calcul : avec 60 kilowattheures, tu peux espérer environ 300 à 400 kilomètres. Mais l'autonomie varie beaucoup. Sur l'autoroute, à grande vitesse, la résistance de l'air augmente fortement et la batterie se vide plus vite. Par grand froid aussi, car la chimie de la batterie ralentit et le chauffage de l'habitacle consomme. À l'inverse, en ville, la voiture récupère de l'énergie à chaque freinage, et elle se montre souvent très économe."
+   },
+   {
+    "titre": "Un moteur simple et efficace",
+    "texte": "La batterie n'est que la moitié de l'histoire. L'autre, c'est le moteur électrique, et il est d'une simplicité étonnante comparé à un moteur à essence. Il utilise des aimants et des bobines de fil électrique : quand le courant circule, il crée des forces magnétiques qui font tourner la partie centrale. Pas d'explosions, pas de pistons, pas de vidange d'huile moteur. Résultat, il y a beaucoup moins de pièces qui s'usent. Et surtout, son rendement est excellent. Là où un moteur thermique perd la majeure partie de l'énergie en chaleur, un moteur électrique transforme en mouvement environ 90 pour cent de l'électricité qu'il reçoit. Autre particularité : il fournit toute sa force dès le démarrage. C'est pour ça que même une petite voiture électrique démarre vivement au feu vert, sans bruit ni à-coup. La plupart n'ont d'ailleurs pas besoin de boîte de vitesses. Et le moteur sait faire l'inverse de son travail. Quand tu lèves le pied, il peut se transformer en générateur : les roues l'entraînent, il produit de l'électricité et la renvoie dans la batterie, tout en freinant la voiture. C'est le freinage régénératif. Sur beaucoup de modèles, ce frein moteur est si puissant qu'on peut presque conduire avec une seule pédale, en levant le pied pour ralentir. Du coup, tes plaquettes de frein s'usent beaucoup moins vite."
+   },
+   {
+    "titre": "Recharger, lentement ou rapidement",
+    "texte": "Recharger une voiture électrique, ce n'est pas comme faire le plein. Il y a plusieurs vitesses. Sur une prise domestique ordinaire, c'est très lent, et il faut souvent une nuit entière, voire plus, pour une recharge complète. Avec une borne installée chez soi ou au travail, c'est nettement plus rapide, et la plupart des conducteurs rechargent ainsi, la nuit, pendant que la voiture dort. Sur l'autoroute, les bornes rapides permettent de récupérer une grande partie de l'autonomie en vingt à quarante minutes, le temps d'une pause café. Une astuce importante : la recharge ralentit fortement au-delà de 80 pour cent environ. C'est comme remplir un verre à ras bord, on ralentit à la fin pour ne pas déborder. En voyage, il vaut souvent mieux faire plusieurs recharges courtes qu'une seule longue."
+   },
+   {
+    "titre": "Puissance et énergie, deux choses différentes",
+    "texte": "Quand on parle de recharge, deux unités se ressemblent et sèment souvent la confusion : le kilowatt et le kilowattheure. Le kilowattheure, on l'a vu, mesure une quantité d'énergie, la taille du réservoir. Le kilowatt, lui, mesure une puissance, c'est-à-dire la vitesse à laquelle l'énergie arrive. Pense à une baignoire. Le kilowattheure, c'est la quantité d'eau dans la baignoire. Le kilowatt, c'est le débit du robinet. Avec un petit filet d'eau, la baignoire finit par se remplir, mais il faut de la patience. Avec un gros robinet, ça va beaucoup plus vite. Une borne murale à la maison délivre souvent autour de 7 kilowatts. En une heure, elle remet donc environ 7 kilowattheures dans la batterie, de quoi rouler une quarantaine de kilomètres. En une nuit de dix heures, ça fait environ 70 kilowattheures, souvent assez pour remplir toute la batterie. Les bornes rapides des autoroutes, elles, délivrent des dizaines, voire des centaines de kilowatts. Mais attention, c'est la voiture qui décide de ce qu'elle accepte. Une borne très puissante ne rechargera pas plus vite une voiture qui n'est pas conçue pour ça. La température compte aussi. Une batterie froide accepte mal la recharge rapide, pour se protéger. C'est pourquoi beaucoup de voitures récentes préchauffent leur batterie quand tu programmes une borne rapide dans leur système de navigation, pour arriver à la bonne température et recharger plus vite."
+   },
+   {
+    "titre": "La batterie vieillit-elle ?",
+    "texte": "Comme celle de ton téléphone, la batterie d'une voiture perd un peu de capacité avec le temps et les cycles de charge. Mais elle est bien mieux protégée. Un système électronique surveille en permanence sa température et son niveau de charge, et un circuit de refroidissement l'empêche de trop chauffer. En pratique, la plupart des batteries gardent l'essentiel de leur capacité pendant de nombreuses années, et les constructeurs les garantissent souvent autour de huit ans. Pour la ménager, quelques habitudes aident : éviter de la laisser longtemps complètement pleine ou complètement vide, et ne pas abuser des recharges rapides si on n'en a pas besoin. En fin de vie automobile, une batterie peut encore servir de stockage fixe pour un bâtiment, avant d'être recyclée pour récupérer une partie de ses métaux."
+   },
+   {
+    "titre": "Le débat environnemental",
+    "texte": "La voiture électrique ne rejette rien par un pot d'échappement, puisqu'elle n'en a pas. C'est un vrai plus pour l'air des villes. Mais son bilan global se discute. Fabriquer une batterie demande beaucoup d'énergie et des métaux comme le lithium, le nickel ou le cobalt, dont l'extraction pose des questions environnementales et sociales. Une voiture électrique commence donc sa vie avec une dette carbone plus lourde qu'une voiture thermique. Ensuite, tout dépend de la façon dont l'électricité est produite dans le pays où elle roule. Avec une électricité peu carbonée, elle rattrape son retard en quelques années d'utilisation et finit généralement avec un meilleur bilan. Avec une électricité issue du charbon, l'avantage est bien plus réduit. Le recyclage des batteries et la taille des véhicules comptent aussi beaucoup."
+   }
+  ],
+  "resume": "En résumé : la voiture électrique stocke son énergie dans une batterie lithium-ion faite de nombreuses cellules et mesurée en kilowattheures, et la confie à un moteur simple qui récupère de l'énergie au freinage. Son autonomie dépend de la vitesse et du froid, sa vitesse de recharge de la puissance en kilowatts que la voiture accepte, et son bilan écologique surtout de la fabrication et de l'électricité utilisée.",
+  "quiz": [
+   {
+    "q": "Quel type de batterie équipe la plupart des voitures électriques ?",
+    "r": "La batterie lithium-ion."
+   },
+   {
+    "q": "Dans quelle unité mesure-t-on la capacité d'une batterie de voiture ?",
+    "r": "En kilowattheures."
+   },
+   {
+    "q": "Pourquoi l'autonomie baisse-t-elle sur l'autoroute ?",
+    "r": "Parce que la résistance de l'air augmente fortement à grande vitesse."
+   },
+   {
+    "q": "À partir de quel niveau de charge la recharge rapide ralentit-elle fortement ?",
+    "r": "Vers 80 pour cent environ."
+   },
+   {
+    "q": "De quoi dépend surtout le bilan carbone d'une voiture électrique à l'usage ?",
+    "r": "De la façon dont l'électricité est produite."
+   },
+   {
+    "q": "Comment appelle-t-on les petites batteries élémentaires qui composent la batterie d'une voiture ?",
+    "r": "Des cellules."
+   },
+   {
+    "q": "Quel avantage apporte une batterie placée sous le plancher ?",
+    "r": "Un centre de gravité bas, donc une voiture plus stable."
+   },
+   {
+    "q": "Quels métaux la batterie lithium fer phosphate permet-elle d'éviter ?",
+    "r": "Le nickel et le cobalt."
+   },
+   {
+    "q": "Que devient le moteur électrique quand tu lèves le pied ?",
+    "r": "Un générateur qui recharge la batterie en freinant la voiture."
+   },
+   {
+    "q": "Quelle est la différence entre un kilowatt et un kilowattheure ?",
+    "r": "Le kilowatt mesure une puissance, le kilowattheure une quantité d'énergie."
+   }
+  ]
+ },
+ {
+  "id": "gps",
+  "categorie": "Technologie",
+  "titre": "Comment marche le GPS",
+  "intro": "Aujourd'hui, on parle du GPS, ce petit miracle qui sait où tu es à quelques mètres près. Tu vas voir qu'il fonctionne grâce à des horloges et un peu de géométrie.",
+  "sections": [
+   {
+    "titre": "Des satellites qui donnent l'heure",
+    "texte": "Le GPS, pour système de positionnement global en anglais, repose sur une constellation d'une trentaine de satellites qui tournent autour de la Terre, à environ 20 000 kilomètres d'altitude. Il a été développé par l'armée américaine, puis ouvert au grand public. Ce qui est surprenant, c'est que ces satellites ne te regardent pas et ne savent pas où tu es. Ils font une seule chose, en boucle : ils envoient un signal radio qui dit, en substance, je suis tel satellite, je me trouve à tel endroit, et il est exactement telle heure. Pour donner une heure aussi précise, chaque satellite embarque des horloges atomiques, d'une précision incroyable. C'est ton téléphone ou ton boîtier de navigation qui fait tout le travail de calcul, à partir des signaux reçus."
+   },
+   {
+    "titre": "Du militaire au civil",
+    "texte": "Le GPS est né d'un besoin militaire. Dans les années 1970, l'armée américaine veut un système capable de guider ses navires, ses avions et ses troupes partout sur la planète, de jour comme de nuit, par tous les temps. Le premier satellite est lancé en 1978, et il faut attendre le milieu des années 1990 pour que la constellation soit complète. Les satellites sont répartis sur six orbites différentes, et chacun fait le tour de la Terre en à peu près douze heures, de façon à ce qu'il y en ait toujours plusieurs au-dessus de ta tête. Un drame va accélérer l'ouverture au public. En 1983, un avion de ligne coréen s'égare au-dessus du territoire soviétique, et il est abattu avec tous ses passagers. Le président américain Ronald Reagan annonce alors que le GPS sera mis à la disposition des avions civils, pour éviter de telles erreurs de navigation. Mais pendant des années, l'armée garde une longueur d'avance. Elle dégrade volontairement le signal destiné aux civils, qui n'obtiennent qu'une précision d'une centaine de mètres. Assez pour savoir dans quel quartier tu te trouves, pas pour savoir à quel carrefour tourner. En 2000, les États-Unis suppriment cette dégradation. Du jour au lendemain, la précision civile devient environ dix fois meilleure. C'est ce tournant qui a ouvert la voie aux boîtiers de navigation dans les voitures, puis aux téléphones qui te guident rue par rue."
+   },
+   {
+    "titre": "Calculer une distance avec le temps",
+    "texte": "Le principe ressemble à la façon d'estimer la distance d'un orage. Tu vois l'éclair, tu comptes les secondes jusqu'au tonnerre, et tu en déduis à quelle distance il se trouve. Pour le GPS, c'est pareil, mais avec des ondes radio qui voyagent à la vitesse de la lumière, environ 300 000 kilomètres par seconde. Ton récepteur compare l'heure à laquelle le signal est parti du satellite avec l'heure à laquelle il l'a reçu. Le signal met à peu près sept centièmes de seconde pour arriver. En multipliant ce temps par la vitesse de la lumière, on obtient la distance qui te sépare du satellite. Tu comprends maintenant pourquoi l'heure doit être si précise : une erreur d'un millionième de seconde, et tu te retrouves décalé d'environ 300 mètres."
+   },
+   {
+    "titre": "Des sphères qui se croisent",
+    "texte": "Connaître ta distance à un seul satellite ne suffit pas. Ça te dit juste que tu te trouves quelque part sur une immense sphère autour de lui. Avec un deuxième satellite, les deux sphères se croisent et dessinent un cercle. Avec un troisième, ce cercle croise la troisième sphère en deux points seulement, et l'un d'eux est généralement absurde, perdu dans l'espace. Il reste donc ta position. Cette méthode s'appelle la trilatération. En pratique, ton récepteur a besoin d'au moins quatre satellites. Pourquoi un de plus ? Parce que ton téléphone n'a pas d'horloge atomique, et son horloge à lui est imprécise. Le quatrième satellite permet de corriger cette erreur d'horloge en même temps que le calcul de la position. Plus il y a de satellites visibles, plus le résultat est fiable."
+   },
+   {
+    "titre": "Le temps de se réveiller",
+    "texte": "Tu as peut-être remarqué qu'un vieux boîtier de navigation, rallumé après des semaines dans un tiroir ou à des centaines de kilomètres de sa dernière position, met parfois plusieurs minutes avant de te localiser. Ce n'est pas un défaut. Pour faire son calcul, le récepteur doit savoir précisément où se trouve chaque satellite à chaque instant. Ces informations, qui décrivent la trajectoire des satellites, sont diffusées dans leur signal. Mais elles sont transmises très lentement, à quelques dizaines de bits par seconde seulement, bien moins qu'un vieux modem téléphonique. Il faut donc un peu de temps pour les recevoir en entier, et tant qu'on ne les a pas, impossible de calculer sa position. Le récepteur doit aussi d'abord trouver quels satellites sont visibles, ce qui revient à chercher des signaux extrêmement faibles, noyés dans le bruit. Ton téléphone, lui, a une astuce. Il récupère ces données de trajectoire par le réseau mobile ou par internet, en un instant, au lieu d'attendre de les capter depuis l'espace. Il connaît aussi sa position approximative grâce aux antennes voisines, ce qui lui permet de savoir tout de suite quels satellites chercher. On appelle ça le GPS assisté. C'est pour ça que ton téléphone se localise en quelques secondes seulement. Et c'est aussi pour ça que, sans connexion aux données mobiles, il peut parfois mettre plus de temps à te trouver."
+   },
+   {
+    "titre": "Einstein dans ta voiture",
+    "texte": "Voilà un détail fascinant : sans la théorie de la relativité d'Albert Einstein, le GPS ne fonctionnerait pas correctement. D'abord, les satellites se déplacent très vite, et selon la relativité, le temps s'écoule un tout petit peu plus lentement pour eux. Ensuite, ils sont loin de la Terre, là où la gravité est plus faible, et dans ce cas, le temps s'écoule un peu plus vite. Au total, les horloges des satellites avancent d'environ 38 millionièmes de seconde par jour par rapport aux nôtres. Ça paraît ridicule. Mais si on ne corrigeait pas cet écart, l'erreur de position grandirait d'une dizaine de kilomètres chaque jour. Les ingénieurs compensent donc ce décalage en permanence. Chaque fois que ton application te guide, la physique d'Einstein est en train de travailler pour toi."
+   },
+   {
+    "titre": "Bien plus qu'un guide routier",
+    "texte": "On pense au GPS pour trouver son chemin, mais ce n'est qu'une partie de son rôle. Comme ses satellites diffusent une heure d'une précision extraordinaire, il sert aussi d'horloge pour la planète entière. Les réseaux de téléphonie mobile s'en servent pour synchroniser leurs antennes. Des réseaux électriques et des systèmes financiers l'utilisent également pour dater précisément leurs opérations. Une panne générale du GPS ne gênerait donc pas seulement les automobilistes. Dans les champs, des tracteurs guidés par satellite tracent des sillons parfaitement droits et évitent de traiter deux fois la même bande de terre. Pour atteindre une précision de quelques centimètres, ils combinent le signal des satellites avec les corrections d'une station fixe au sol, dont la position est connue exactement. Les scientifiques, eux, posent des stations très précises sur le sol pour mesurer des mouvements minuscules. Ils suivent ainsi la dérive des continents, qui se déplacent de quelques centimètres par an, à peu près à la vitesse où poussent tes ongles. Ils surveillent aussi le gonflement de certains volcans avant une éruption, ou le déplacement du sol après un séisme. Les avions et les bateaux s'en servent pour naviguer, les secours pour localiser une personne en détresse, et les biologistes pour suivre les migrations d'animaux équipés de balises. Ce petit signal venu de l'espace est devenu une infrastructure invisible, dont on dépend bien plus qu'on ne l'imagine."
+   },
+   {
+    "titre": "Le GPS n'est pas seul",
+    "texte": "Aujourd'hui, ton téléphone n'utilise pas seulement le GPS américain. Il existe d'autres systèmes du même genre : Galileo, le système européen, Glonass, le système russe, et Beidou, le système chinois. Les récepteurs modernes captent souvent plusieurs d'entre eux à la fois, ce qui améliore la précision et la fiabilité, surtout en ville. Car le GPS a ses faiblesses. Les signaux venant de l'espace sont très faibles. Ils passent mal à travers le béton, d'où les pertes de signal dans les tunnels ou les parkings souterrains. Entre les grands immeubles, ils rebondissent sur les façades, ce qui fausse un peu le calcul. Pour compenser, ton téléphone s'aide aussi des réseaux wifi et des antennes de téléphonie proches. Et une fois ta position connue, c'est la carte et le logiciel qui calculent l'itinéraire."
+   }
+  ],
+  "resume": "En résumé : les satellites GPS, d'abord militaires puis ouverts à tous, envoient leur position et l'heure exacte. Ton récepteur en déduit sa distance à au moins quatre d'entre eux et calcule où il se trouve, aidé par le réseau mobile pour aller plus vite, avec une correction indispensable issue de la relativité d'Einstein. Au-delà de la route, le GPS sert aussi d'horloge mondiale et d'outil de mesure pour les scientifiques.",
+  "quiz": [
+   {
+    "q": "À quelle altitude environ tournent les satellites GPS ?",
+    "r": "À environ 20 000 kilomètres."
+   },
+   {
+    "q": "Quel instrument très précis embarque chaque satellite GPS ?",
+    "r": "Des horloges atomiques."
+   },
+   {
+    "q": "Combien de satellites faut-il au minimum à ton récepteur pour se positionner ?",
+    "r": "Au moins quatre."
+   },
+   {
+    "q": "Quelle théorie oblige à corriger l'heure des satellites ?",
+    "r": "La théorie de la relativité d'Einstein."
+   },
+   {
+    "q": "Comment s'appelle le système de positionnement européen ?",
+    "r": "Galileo."
+   },
+   {
+    "q": "Quel drame de 1983 a poussé à ouvrir le GPS aux avions civils ?",
+    "r": "Un avion de ligne coréen abattu après s'être égaré au-dessus du territoire soviétique."
+   },
+   {
+    "q": "Qu'ont décidé les États-Unis en 2000 pour le signal GPS civil ?",
+    "r": "Ils ont supprimé sa dégradation volontaire, et la précision s'est beaucoup améliorée."
+   },
+   {
+    "q": "Pourquoi un vieux boîtier GPS met-il parfois des minutes à te localiser ?",
+    "r": "Parce que les données de trajectoire des satellites sont transmises très lentement."
+   },
+   {
+    "q": "Comment s'appelle l'astuce qui permet au téléphone de se localiser en quelques secondes ?",
+    "r": "Le GPS assisté."
+   },
+   {
+    "q": "Quel mouvement très lent les scientifiques mesurent-ils grâce au GPS ?",
+    "r": "La dérive des continents."
+   }
+  ]
+ },
+ {
+  "id": "moteur-thermique",
+  "categorie": "Technologie",
+  "titre": "Le moteur thermique de ta voiture",
+  "intro": "Aujourd'hui, on parle du moteur thermique, celui qui fait avancer les voitures à essence et diesel. On va comprendre ce qui se passe sous ton capot à chaque tour de roue.",
+  "sections": [
+   {
+    "titre": "Transformer une combustion en mouvement",
+    "texte": "Le moteur d'une voiture à essence ou diesel est un moteur à combustion interne. Son principe tient en une phrase : on brûle du carburant dans un espace fermé, et la poussée des gaz chauds fait bouger une pièce mécanique. Au cœur du moteur, il y a des cylindres, des sortes de tubes, dans lesquels coulisse un piston, comme le bouchon d'une seringue. Quand le mélange d'air et de carburant brûle au-dessus du piston, les gaz se dilatent violemment et le poussent vers le bas. Ce mouvement de va-et-vient est ensuite transformé en rotation par une pièce appelée vilebrequin, un peu comme tes jambes qui poussent sur les pédales d'un vélo font tourner le pédalier. Cette rotation passe ensuite par la boîte de vitesses, puis finit par entraîner les roues."
+   },
+   {
+    "titre": "Une invention du dix-neuvième siècle",
+    "texte": "Le moteur de ta voiture a une longue histoire. Au dix-neuvième siècle, c'est la machine à vapeur qui règne. Mais elle a un gros défaut : on brûle le combustible à l'extérieur, dans une chaudière, pour chauffer de l'eau. C'est lourd, encombrant, et il faut du temps pour faire monter la pression. L'idée géniale, c'est de brûler le carburant directement à l'intérieur du cylindre. En 1860, l'ingénieur Étienne Lenoir, installé à Paris, met au point l'un des premiers moteurs à combustion interne qui fonctionnent vraiment, alimenté au gaz. Deux ans plus tard, un autre Français, Alphonse Beau de Rochas, décrit sur le papier le principe du cycle à quatre temps, sans le construire. C'est l'Allemand Nikolaus Otto qui réalise en 1876 un moteur à quatre temps efficace et fiable, si bien qu'on parle encore souvent de cycle d'Otto. Dans la foulée, d'autres ingénieurs allemands, comme Carl Benz et Gottlieb Daimler, adaptent ces moteurs à des véhicules, et les premières automobiles apparaissent dans les années 1880. Quant à Rudolf Diesel, il dépose dans les années 1890 le brevet du moteur qui porte son nom, avec l'ambition d'obtenir un rendement bien supérieur. Plus d'un siècle plus tard, les moteurs ont été énormément perfectionnés, mais le principe imaginé par ces pionniers est toujours celui qui tourne sous la plupart des capots."
+   },
+   {
+    "titre": "Le cycle à quatre temps",
+    "texte": "La plupart des moteurs de voiture fonctionnent selon un cycle à quatre temps. Premier temps, l'admission : le piston descend et aspire de l'air, avec du carburant, par une soupape qui s'ouvre. Deuxième temps, la compression : les soupapes se ferment, le piston remonte et comprime fortement ce mélange. Troisième temps, la combustion : le mélange s'enflamme, et la pression repousse le piston vers le bas. C'est le seul temps qui produit vraiment de l'énergie. Quatrième temps, l'échappement : le piston remonte et chasse les gaz brûlés vers le pot d'échappement. Puis tout recommence. Les mécaniciens résument souvent ça par une formule imagée : admission, compression, explosion, échappement. À un régime normal, chaque cylindre répète ce cycle des dizaines de fois par seconde, sans jamais s'arrêter."
+   },
+   {
+    "titre": "Essence ou diesel, quelle différence ?",
+    "texte": "Les moteurs essence et diesel suivent le même cycle, mais ils n'allument pas le mélange de la même façon. Dans un moteur à essence, c'est une bougie qui produit une petite étincelle électrique au bon moment, et c'est elle qui déclenche la combustion. Dans un moteur diesel, il n'y a pas de bougie d'allumage. On comprime l'air si fort qu'il devient très chaud, comme une pompe à vélo qui chauffe quand tu gonfles un pneu. On injecte alors le gazole dans cet air brûlant, et il s'enflamme tout seul. Cette forte compression rend le diesel plus économe en carburant, surtout sur les longs trajets. En revanche, il émet davantage de certains polluants, comme les oxydes d'azote et les particules fines, ce qui oblige à ajouter des systèmes de filtration complexes."
+   },
+   {
+    "titre": "Le pot catalytique et les filtres",
+    "texte": "Un moteur ne rejette pas que du dioxyde de carbone et de la vapeur d'eau. Comme la combustion n'est jamais parfaite, il produit aussi des gaz toxiques : du monoxyde de carbone, des restes de carburant imbrûlés, et des oxydes d'azote. Pour les traiter, les voitures sont équipées d'un pot catalytique, placé sur la ligne d'échappement. À l'intérieur, une sorte de nid d'abeilles en céramique est recouvert d'une fine couche de métaux précieux, comme le platine, le palladium ou le rhodium. À leur contact, les gaz toxiques se transforment en gaz beaucoup moins nocifs. C'est d'ailleurs à cause de ces métaux précieux que les vols de pots catalytiques sont devenus fréquents. Le catalyseur a besoin d'être chaud pour bien fonctionner. Sur les tout premiers kilomètres, moteur froid, il est peu efficace, ce qui rend les petits trajets plus polluants. Les moteurs diesel ont en plus un filtre à particules, qui retient la suie. Quand il est plein, il se nettoie en brûlant cette suie à très haute température. Mais pour ça, il faut rouler un moment à bon régime, sur une route ou une autoroute. Une voiture diesel qui ne fait que de petits trajets en ville risque donc d'encrasser son filtre. Enfin, beaucoup de diesels récents utilisent un liquide à base d'urée, vendu sous le nom d'AdBlue, injecté dans l'échappement pour transformer les oxydes d'azote en azote et en vapeur d'eau, deux composants naturels de l'air."
+   },
+   {
+    "titre": "Un rendement modeste",
+    "texte": "Voici un chiffre qui surprend souvent : un moteur thermique de voiture ne transforme en mouvement qu'environ un tiers de l'énergie contenue dans le carburant, un peu plus pour un bon diesel, souvent moins en ville. Le reste part surtout en chaleur. C'est pour ça que le moteur a besoin d'un circuit de refroidissement, avec un radiateur et un liquide qui circule autour des cylindres. Une partie de cette chaleur est d'ailleurs récupérée pour chauffer l'habitacle en hiver, ce qui ne coûte presque rien en plus. Les frottements des pièces mécaniques font aussi perdre de l'énergie, d'où l'importance de l'huile moteur, qui lubrifie tout ce petit monde. Une vidange négligée, et les pièces s'usent plus vite, chauffent davantage, et le moteur peut même finir par casser."
+   },
+   {
+    "titre": "Le turbo, souffler plus d'air",
+    "texte": "Pour produire plus de puissance, un moteur doit brûler plus de carburant. Mais pour brûler plus de carburant, il lui faut plus d'air, car la combustion a besoin d'oxygène. C'est là qu'intervient le turbocompresseur, qu'on appelle simplement le turbo. L'idée est astucieuse, parce qu'elle récupère une énergie qui serait sinon perdue. Les gaz d'échappement sortent du moteur chauds et rapides. Au lieu de les laisser filer, on les fait passer dans une petite turbine, qui se met à tourner à une vitesse vertigineuse, souvent plus de cent mille tours par minute. Cette turbine est reliée par un axe à un compresseur, une autre petite roue à ailettes, qui aspire l'air extérieur et le pousse en force dans les cylindres. Avec plus d'air dans le même cylindre, on peut injecter plus de carburant et obtenir plus de puissance. C'est grâce au turbo que les constructeurs ont pu réduire la taille de nombreux moteurs. Un petit moteur turbo peut offrir autant de puissance qu'un gros moteur d'autrefois, tout en consommant moins quand on roule tranquillement. Aujourd'hui, la quasi-totalité des diesels et une grande partie des moteurs essence en sont équipés. Un conseil pour le ménager : après avoir beaucoup sollicité le moteur, par exemple dans une longue montée, roule calmement quelques instants avant de couper le contact. Le turbo, très chaud, a besoin que l'huile continue de circuler pour refroidir en douceur."
+   },
+   {
+    "titre": "Boîte de vitesses et conduite souple",
+    "texte": "Un moteur thermique ne fonctionne bien que dans une certaine plage de vitesses de rotation. Il ne peut pas faire démarrer la voiture à partir de l'arrêt en étant relié directement aux roues, d'où l'embrayage, qui permet de les relier ou de les séparer progressivement. Et il ne peut pas tourner indéfiniment vite, d'où la boîte de vitesses. Comme sur un vélo, les premières vitesses donnent de la force pour démarrer, les dernières permettent d'aller vite sans faire hurler le moteur. Pour consommer moins, l'idée est de rester à un régime modéré, de passer les rapports assez tôt, et d'anticiper pour éviter les freinages brusques. Chaque coup de frein transforme en chaleur de l'énergie que tu as payée en carburant. Une conduite souple, c'est moins de carburant, moins d'usure, et plus de sérénité."
+   }
+  ],
+  "resume": "En résumé : imaginé au dix-neuvième siècle, le moteur thermique brûle du carburant dans des cylindres selon un cycle à quatre temps et transforme le mouvement des pistons en rotation, mais il perd environ deux tiers de l'énergie en chaleur. Le pot catalytique et les filtres nettoient ses gaz, et le turbo lui donne plus de puissance en récupérant l'énergie de l'échappement.",
+  "quiz": [
+   {
+    "q": "Quelle pièce transforme le va-et-vient des pistons en rotation ?",
+    "r": "Le vilebrequin."
+   },
+   {
+    "q": "Quels sont les quatre temps du cycle moteur ?",
+    "r": "Admission, compression, combustion et échappement."
+   },
+   {
+    "q": "Qu'est-ce qui déclenche la combustion dans un moteur à essence ?",
+    "r": "L'étincelle d'une bougie d'allumage."
+   },
+   {
+    "q": "Comment le gazole s'enflamme-t-il dans un moteur diesel ?",
+    "r": "Tout seul, au contact de l'air rendu très chaud par la compression."
+   },
+   {
+    "q": "Quelle part environ de l'énergie du carburant devient du mouvement ?",
+    "r": "Environ un tiers."
+   },
+   {
+    "q": "Quel ingénieur allemand a construit en 1876 un moteur à quatre temps efficace ?",
+    "r": "Nikolaus Otto."
+   },
+   {
+    "q": "Quels métaux précieux trouve-t-on dans un pot catalytique ?",
+    "r": "Du platine, du palladium ou du rhodium."
+   },
+   {
+    "q": "Pourquoi un diesel qui ne fait que de petits trajets risque-t-il d'encrasser son filtre à particules ?",
+    "r": "Parce qu'il faut rouler un moment à bon régime pour brûler la suie."
+   },
+   {
+    "q": "Qu'est-ce qui fait tourner la turbine d'un turbo ?",
+    "r": "Les gaz d'échappement."
+   },
+   {
+    "q": "À quoi sert le turbo ?",
+    "r": "À pousser plus d'air dans les cylindres pour obtenir plus de puissance."
+   }
+  ]
+ },
+ {
+  "id": "energies-renouvelables",
+  "categorie": "Technologie",
+  "titre": "Les énergies renouvelables",
+  "intro": "Aujourd'hui, on parle des énergies renouvelables : le soleil, le vent, l'eau et quelques autres. On va voir comment elles fonctionnent, et quels défis elles posent.",
+  "sections": [
+   {
+    "titre": "Des énergies qui se renouvellent",
+    "texte": "Une énergie renouvelable, c'est une énergie dont la source se reconstitue naturellement, à l'échelle d'une vie humaine. Le soleil se lève chaque matin, le vent souffle, les rivières coulent, les plantes repoussent. À l'inverse, le pétrole, le gaz et le charbon se sont formés en des millions d'années, et quand on les brûle, ils ne reviennent pas. Ces énergies fossiles rejettent aussi du dioxyde de carbone, le principal gaz responsable du réchauffement climatique. Les renouvelables, elles, en émettent très peu pendant leur fonctionnement. Il faut quand même de l'énergie et des matériaux pour fabriquer les panneaux, les éoliennes ou les barrages, donc leur impact n'est pas nul, mais il reste généralement faible sur l'ensemble de leur vie. Faisons ensemble le tour des principales."
+   },
+   {
+    "titre": "Le soleil en électricité",
+    "texte": "Les panneaux solaires photovoltaïques transforment directement la lumière en électricité. Ils sont faits de cellules, le plus souvent en silicium, un élément qu'on extrait notamment du sable. Quand la lumière frappe une cellule, elle met en mouvement des électrons, et ce mouvement crée un courant. Pas de pièce qui bouge, pas de bruit, juste de la lumière. Il ne faut pas les confondre avec les panneaux solaires thermiques, qui eux chauffent de l'eau, par exemple pour la douche. Le solaire a un gros avantage : il s'installe presque partout, du toit d'une maison à de grandes centrales au sol. Son coût a énormément baissé au fil des années. Sa limite évidente, c'est qu'il ne produit rien la nuit, et beaucoup moins en hiver ou par temps très couvert."
+   },
+   {
+    "titre": "Produire son électricité chez soi",
+    "texte": "Le solaire a une particularité : c'est l'une des rares énergies que chacun peut produire chez soi. Quelques panneaux sur un toit suffisent. En France, la meilleure orientation est plein sud, avec une inclinaison d'une trentaine de degrés, mais un toit orienté à l'est ou à l'ouest produit encore une bonne partie de ce maximum. Ce qui compte surtout, c'est d'éviter l'ombre, celle d'un arbre ou d'une cheminée, car un seul panneau à l'ombre peut faire baisser la production de toute une rangée. Les panneaux produisent un courant continu. Un petit appareil appelé onduleur le transforme en courant alternatif, celui qui circule dans les prises de la maison. Ensuite, deux grandes options existent. On peut consommer soi-même l'électricité produite, c'est ce qu'on appelle l'autoconsommation, et revendre le surplus au réseau. Ou bien tout revendre. Pour l'autoconsommation, l'astuce est de faire tourner les gros appareils en pleine journée, quand le soleil brille : le lave-linge, le lave-vaisselle, le chauffe-eau, ou la recharge d'une voiture électrique. Le soleil peut aussi chauffer directement l'eau, avec des capteurs thermiques, ou la maison, grâce à de grandes baies vitrées bien orientées. Les panneaux demandent très peu d'entretien, et ils sont généralement garantis une vingtaine d'années ou plus. Leur production baisse un tout petit peu chaque année, mais ils continuent souvent à fonctionner bien au-delà de leur garantie."
+   },
+   {
+    "titre": "Le vent et l'eau",
+    "texte": "Une éolienne, c'est un peu un moulin à vent moderne. Le vent fait tourner les pales, qui entraînent un générateur placé en haut du mât, et ce générateur produit de l'électricité, comme la dynamo d'un vélo. Les éoliennes peuvent être installées sur terre ou en mer, où le vent est plus fort et plus régulier. Leur production dépend de la météo : sans vent, rien, et par tempête trop violente, elles s'arrêtent pour se protéger. L'hydroélectricité, elle, est la plus ancienne des grandes renouvelables. Un barrage retient l'eau, puis on la laisse descendre à travers des turbines. Gros avantage : on peut garder l'eau en réserve et produire au moment où on en a besoin. Son inconvénient, c'est qu'un barrage transforme profondément une vallée et la vie de la rivière."
+   },
+   {
+    "titre": "Le vent, une énergie au cube",
+    "texte": "Le vent naît du soleil. En chauffant inégalement les océans et les continents, il crée des différences de pression, et l'air se déplace des zones de haute pression vers les zones de basse pression. Le vent, au fond, c'est donc de l'énergie solaire sous une autre forme. Pour une éolienne, la vitesse du vent compte énormément, bien plus qu'on ne l'imagine. Quand la vitesse du vent double, l'énergie qu'il transporte n'est pas multipliée par deux, mais par huit. Les physiciens disent que la puissance varie comme le cube de la vitesse. C'est pour ça que l'emplacement est si important, et qu'on installe les éoliennes sur des crêtes, dans des plaines dégagées ou en mer. C'est aussi pour ça que les mâts sont si hauts : plus on monte, plus le vent est fort et régulier, loin des obstacles et des frottements du sol. Les pales, elles, sont de plus en plus longues, car la puissance captée dépend de la surface balayée par le rotor. Sur les plus grandes éoliennes en mer, une seule pale peut dépasser cent mètres, la longueur d'un terrain de football. Il existe pourtant une limite. Une éolienne ne peut jamais capter toute l'énergie du vent, sinon l'air s'arrêterait net derrière elle et plus rien ne passerait. Un physicien allemand, Albert Betz, a calculé au début du vingtième siècle qu'on ne peut en récupérer, au maximum, qu'environ 59 pour cent. Les meilleures machines ne sont pas si loin de cette limite."
+   },
+   {
+    "titre": "L'énergie des mers",
+    "texte": "Les océans renferment aussi une énergie considérable, et la France a été pionnière pour l'exploiter. Sur l'estuaire de la Rance, en Bretagne, près de Saint-Malo, une usine marémotrice fonctionne depuis 1966. Elle utilise la force des marées, qui sont particulièrement fortes dans cette région. Un barrage ferme l'estuaire. Quand la mer monte puis redescend, l'eau traverse des turbines placées dans le barrage, dans un sens puis dans l'autre. Pendant des décennies, ce fut la plus puissante usine de ce type au monde. Gros avantage des marées : elles sont parfaitement prévisibles, puisqu'elles dépendent de la Lune et du Soleil. On sait des années à l'avance quand elles auront lieu. Mais les sites adaptés sont rares, et un barrage transforme lui aussi profondément un estuaire. D'autres technologies sont en cours d'essai. Les hydroliennes, par exemple, sont un peu des éoliennes sous-marines. Posées au fond de la mer, là où les courants sont forts, elles tournent sous l'effet de l'eau. Comme l'eau est environ huit cents fois plus dense que l'air, même un courant modéré les fait tourner avec beaucoup de force. On cherche aussi à récupérer l'énergie des vagues, avec des flotteurs qui montent et descendent. Ces machines doivent résister à la corrosion du sel et à des tempêtes terribles, ce qui rend leur mise au point longue et coûteuse. Pour l'instant, ces énergies marines restent très marginales."
+   },
+   {
+    "titre": "Le défi de l'intermittence",
+    "texte": "Le soleil et le vent ont un point commun : ils ne produisent pas quand on veut, mais quand la nature le décide. On parle d'énergies intermittentes. Or, sur un réseau électrique, la production doit égaler la consommation à chaque instant, sinon c'est la panne. Il faut donc compenser. Plusieurs solutions existent et se combinent. On peut répartir les installations sur un grand territoire, car il y a souvent du vent quelque part. On peut stocker l'énergie, avec des batteries ou avec des stations de pompage, qui remontent de l'eau dans un lac en hauteur quand il y a trop d'électricité, puis la font redescendre plus tard. On peut aussi décaler certaines consommations. Et on garde des centrales pilotables, qu'on démarre à la demande. Trouver le bon équilibre est un vrai casse-tête d'ingénieur."
+   },
+   {
+    "titre": "Biomasse, géothermie et débats",
+    "texte": "D'autres renouvelables jouent aussi leur rôle. La biomasse, c'est l'énergie tirée de la matière vivante : le bois de chauffage, les déchets agricoles, ou le biogaz produit par la fermentation de déchets. Elle n'est vraiment renouvelable que si on replante autant qu'on prélève. La géothermie utilise la chaleur du sous-sol, soit pour chauffer des bâtiments, soit, dans les régions volcaniques comme l'Islande, pour produire de l'électricité. Les renouvelables suscitent aussi des débats. Certains s'inquiètent de l'impact des éoliennes sur les paysages ou les oiseaux, d'autres de l'espace occupé par les centrales solaires, ou de l'extraction des métaux nécessaires. Leurs défenseurs soulignent leur faible impact sur le climat et leur coût devenu compétitif. Comme souvent, il n'y a pas de solution parfaite, mais des choix à faire collectivement."
+   }
+  ],
+  "resume": "En résumé : le soleil, le vent, l'eau, les marées, la biomasse et la géothermie fournissent une énergie qui se renouvelle et émet peu de carbone. Le solaire peut se produire chez soi, l'éolien dépend énormément de la vitesse du vent, les mers offrent une énergie prévisible encore peu exploitée, et le grand défi reste de gérer une production variable.",
+  "quiz": [
+   {
+    "q": "Qu'est-ce qui définit une énergie renouvelable ?",
+    "r": "Sa source se reconstitue naturellement à l'échelle d'une vie humaine."
+   },
+   {
+    "q": "En quel matériau sont faites le plus souvent les cellules solaires ?",
+    "r": "En silicium."
+   },
+   {
+    "q": "Pourquoi installe-t-on des éoliennes en mer ?",
+    "r": "Parce que le vent y est plus fort et plus régulier."
+   },
+   {
+    "q": "Que signifie le terme énergie intermittente ?",
+    "r": "Une énergie qui produit seulement quand la nature le permet, pas à la demande."
+   },
+   {
+    "q": "Comment fonctionne une station de pompage ?",
+    "r": "Elle remonte de l'eau en hauteur quand il y a trop d'électricité, puis la fait redescendre pour produire plus tard."
+   },
+   {
+    "q": "Quelle est la meilleure orientation pour des panneaux solaires en France ?",
+    "r": "Plein sud."
+   },
+   {
+    "q": "Que veut dire autoconsommation ?",
+    "r": "Consommer soi-même l'électricité qu'on produit."
+   },
+   {
+    "q": "Si la vitesse du vent double, par combien est multipliée son énergie ?",
+    "r": "Par huit."
+   },
+   {
+    "q": "Quelle part maximale de l'énergie du vent une éolienne peut-elle capter ?",
+    "r": "Environ 59 pour cent, selon la limite de Betz."
+   },
+   {
+    "q": "Où se trouve l'usine marémotrice française qui fonctionne depuis 1966 ?",
+    "r": "Sur l'estuaire de la Rance, en Bretagne."
+   }
+  ]
+ },
+ {
+  "id": "nucleaire",
+  "categorie": "Technologie",
+  "titre": "Le nucléaire, comment ça marche",
+  "intro": "Aujourd'hui, on parle de l'énergie nucléaire. On va voir comment on tire de l'électricité du cœur des atomes, et pourquoi le sujet fait autant débat.",
+  "sections": [
+   {
+    "titre": "L'énergie cachée dans l'atome",
+    "texte": "Tout ce qui nous entoure est fait d'atomes. Au centre de chaque atome, il y a un noyau minuscule, qui renferme une énergie colossale, celle qui retient ses particules collées ensemble. Au début du vingtième siècle, Albert Einstein a montré avec sa célèbre équation que la masse elle-même est une forme d'énergie, et qu'une infime quantité de matière peut libérer une énergie énorme. Dans une centrale nucléaire, on exploite cette énergie en cassant des noyaux d'atomes lourds, principalement de l'uranium. Cette réaction s'appelle la fission. Pour te donner une idée, une pastille de combustible, à peu près de la taille d'un bout de doigt, peut fournir autant d'énergie qu'une tonne de charbon environ. C'est cette concentration extraordinaire qui fait tout l'intérêt, et aussi toute la délicatesse, du nucléaire."
+   },
+   {
+    "titre": "De la mine au combustible",
+    "texte": "L'uranium est un métal qu'on trouve naturellement dans certaines roches. On l'extrait dans des mines, notamment au Kazakhstan, au Canada ou en Australie. Mais l'uranium tel qu'on le sort de terre ne convient pas directement aux centrales. Il existe en effet sous plusieurs formes, qu'on appelle des isotopes. Ce sont des atomes du même élément, mais dont les noyaux ont des masses légèrement différentes. Le plus abondant, l'uranium 238, se casse très mal. Celui qui fait vraiment le travail dans une centrale, c'est l'uranium 235, et il ne représente qu'environ sept atomes sur mille dans l'uranium naturel. Pour la plupart des réacteurs, il faut donc augmenter sa proportion, jusqu'à quelques pour cent. C'est ce qu'on appelle l'enrichissement. Ce travail se fait dans des usines spécialisées, souvent avec des centrifugeuses, des cylindres qui tournent extrêmement vite pour séparer les atomes un peu plus lourds des un peu plus légers. Ensuite, l'uranium enrichi est transformé en poudre, puis pressé et cuit pour former les petites pastilles qui rejoindront le cœur du réacteur. Un point important : une bombe atomique demande un uranium enrichi à un niveau bien plus élevé. Le combustible d'une centrale ne peut donc pas exploser comme une bombe. C'est aussi pour ça que les usines d'enrichissement sont surveillées de près par des inspecteurs internationaux, pour vérifier qu'aucun pays ne pousse l'enrichissement jusqu'au niveau militaire."
+   },
+   {
+    "titre": "La réaction en chaîne",
+    "texte": "Comment casse-t-on un noyau d'uranium ? On le bombarde avec un neutron, une petite particule sans charge électrique. Le noyau absorbe le neutron, devient instable, et se brise en deux morceaux plus petits. En se cassant, il libère beaucoup de chaleur, et surtout, il éjecte deux ou trois nouveaux neutrons. Ces neutrons peuvent à leur tour casser d'autres noyaux, qui libèrent d'autres neutrons, et ainsi de suite. C'est la réaction en chaîne, un peu comme une rangée de dominos qui se renversent les uns les autres. Dans une bombe, on laisse cette chaîne s'emballer en une fraction de seconde. Dans une centrale, au contraire, on la contrôle soigneusement pour qu'elle reste stable : en moyenne, chaque fission doit en provoquer exactement une autre, ni plus, ni moins."
+   },
+   {
+    "titre": "Une grosse bouilloire",
+    "texte": "Au fond, une centrale nucléaire est une énorme bouilloire. La fission sert juste à produire de la chaleur. Le combustible, sous forme de petites pastilles empilées dans de longs tubes métalliques, est placé dans le cœur du réacteur, plongé dans de l'eau. Cette eau s'échauffe énormément. Dans les centrales les plus répandues, elle transmet sa chaleur à un second circuit d'eau, qui se transforme en vapeur. Cette vapeur fait tourner une turbine, reliée à un alternateur qui produit l'électricité, exactement comme dans une centrale au charbon ou au gaz. Ensuite, la vapeur doit être refroidie pour redevenir de l'eau. C'est le rôle des grandes tours qu'on voit de loin, au bord de certaines centrales. Le panache blanc qui en sort n'est pas de la fumée, c'est simplement de la vapeur d'eau."
+   },
+   {
+    "titre": "Piloter et sécuriser le réacteur",
+    "texte": "Pour contrôler la réaction en chaîne, on utilise des barres de commande, faites de matériaux qui absorbent les neutrons. Quand on les enfonce dans le cœur, elles capturent des neutrons et la réaction ralentit. Quand on les remonte, elle s'accélère. En cas de problème, on les fait tomber d'un coup, et la réaction s'arrête en quelques secondes. Mais attention, même arrêté, le combustible continue à dégager de la chaleur pendant longtemps, et il faut continuer à le refroidir. C'est justement une perte de refroidissement qui a provoqué l'accident de Fukushima, au Japon, en 2011, après un séisme et un tsunami. L'autre accident majeur, celui de Tchernobyl, en Ukraine, en 1986, venait d'un réacteur de conception différente et d'erreurs graves pendant un essai. Ces catastrophes ont conduit à renforcer les règles de sûreté."
+   },
+   {
+    "titre": "Atouts et questions en débat",
+    "texte": "Le nucléaire a des atouts reconnus. Une centrale produit beaucoup d'électricité, de façon stable, jour et nuit, quelle que soit la météo. Et pendant son fonctionnement, elle n'émet presque pas de dioxyde de carbone, ce qui en fait une énergie bas carbone. La France en tire d'ailleurs la majorité de son électricité. Mais il soulève aussi des questions sérieuses. Il y a le risque d'accident, très rare mais aux conséquences lourdes. Il y a les déchets radioactifs, dont certains restent dangereux pendant des dizaines de milliers d'années, voire davantage, et qu'il faut stocker avec beaucoup de précautions. Il y a aussi le coût et la durée de construction des nouvelles centrales. Selon les pays, les choix sont très différents. C'est un débat de société, où chacun pèse les avantages et les risques."
+   },
+   {
+    "titre": "Que deviennent les déchets ?",
+    "texte": "Après quelques années dans le réacteur, le combustible est usé. Il ne produit plus assez d'énergie, mais il est devenu extrêmement radioactif et dégage encore beaucoup de chaleur. On le plonge d'abord dans de grandes piscines, à côté du réacteur, où l'eau le refroidit et arrête ses rayonnements. Il y reste plusieurs années. Ensuite, les pays font des choix différents. Certains considèrent le combustible usé comme un déchet à stocker tel quel. La France, elle, en recycle une partie, dans l'usine de La Hague, dans la Manche. On y sépare l'uranium et le plutonium encore utilisables, qui peuvent servir à fabriquer un nouveau combustible. Ce qui reste, les déchets les plus radioactifs, est mélangé à du verre en fusion puis coulé dans des conteneurs en acier. C'est la vitrification. Le verre emprisonne la radioactivité pour très longtemps. Il faut savoir que ces déchets les plus dangereux représentent un tout petit volume, mais l'essentiel de la radioactivité. Les déchets faiblement radioactifs, comme des gants ou des outils contaminés, sont bien plus volumineux mais beaucoup moins dangereux, et ils sont stockés en surface dans des centres spécialisés. Pour les déchets les plus dangereux à vie longue, la solution retenue en France est de les enfouir à environ cinq cents mètres sous terre, dans une couche d'argile très stable, près du village de Bure, à la limite de la Meuse et de la Haute-Marne. Ce projet, appelé Cigéo, fait lui aussi débat."
+   },
+   {
+    "titre": "La fusion, l'énergie des étoiles",
+    "texte": "Il existe une autre façon de tirer de l'énergie des noyaux, à l'opposé de la fission. Au lieu de casser des atomes lourds, on peut fusionner des atomes très légers, comme des formes d'hydrogène, pour en former de plus lourds. C'est la fusion. C'est exactement ce qui se passe au cœur du Soleil et de toutes les étoiles. Chaque seconde, le Soleil transforme ainsi d'énormes quantités d'hydrogène en hélium, et c'est cette énergie qui nous éclaire et nous chauffe. Reproduire ça sur Terre fait rêver depuis des décennies. Le combustible serait abondant, il n'y aurait pas de risque d'emballement comme avec la réaction en chaîne, et les déchets seraient beaucoup moins durables. Le problème, c'est que les noyaux se repoussent fortement. Pour les forcer à fusionner, il faut chauffer la matière à plus de cent millions de degrés, bien plus que le cœur du Soleil, qui compense grâce à son énorme masse. À cette température, aucun matériau ne résiste. On utilise donc d'immenses aimants pour maintenir ce gaz brûlant suspendu au milieu d'une enceinte en forme d'anneau, sans qu'il touche les parois. Un grand projet international, appelé ITER, est en construction dans le sud de la France, à Cadarache, pour démontrer qu'on peut produire ainsi plus d'énergie qu'on n'en consomme. Mais avant que la fusion alimente nos maisons, il faudra sans doute encore de longues années. Les physiciens plaisantent d'ailleurs souvent en disant que la fusion est l'énergie de l'avenir, et qu'elle risque de le rester longtemps."
+   }
+  ],
+  "resume": "En résumé : une centrale nucléaire casse des noyaux d'uranium enrichi pour produire de la chaleur, qui fait de la vapeur et tourne une turbine. C'est une électricité stable et bas carbone, mais qui pose les questions des accidents et des déchets, qu'on refroidit, recycle en partie, vitrifie et prévoit d'enfouir. La fusion, l'énergie des étoiles, reste un espoir de long terme.",
+  "quiz": [
+   {
+    "q": "Comment s'appelle la réaction qui casse les noyaux d'uranium ?",
+    "r": "La fission."
+   },
+   {
+    "q": "Quelle particule sert à casser un noyau d'uranium ?",
+    "r": "Un neutron."
+   },
+   {
+    "q": "À quoi servent les barres de commande ?",
+    "r": "À absorber des neutrons pour ralentir ou arrêter la réaction."
+   },
+   {
+    "q": "Que sort-il des grandes tours de refroidissement ?",
+    "r": "De la vapeur d'eau, pas de la fumée."
+   },
+   {
+    "q": "Qu'est-ce qui a provoqué l'accident de Fukushima en 2011 ?",
+    "r": "Une perte de refroidissement après un séisme et un tsunami."
+   },
+   {
+    "q": "Quelle forme d'uranium fait vraiment le travail dans une centrale ?",
+    "r": "L'uranium 235."
+   },
+   {
+    "q": "Comment appelle-t-on l'opération qui augmente la proportion d'uranium 235 ?",
+    "r": "L'enrichissement."
+   },
+   {
+    "q": "Où la France recycle-t-elle une partie de son combustible usé ?",
+    "r": "À l'usine de La Hague, dans la Manche."
+   },
+   {
+    "q": "Qu'est-ce que la vitrification des déchets ?",
+    "r": "On mélange les déchets les plus radioactifs à du verre en fusion."
+   },
+   {
+    "q": "Comment s'appelle le grand projet international de fusion construit en France ?",
+    "r": "ITER, à Cadarache."
+   }
+  ]
+ }
 ]

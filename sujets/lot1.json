@@ -10,6 +10,10 @@
     "texte": "Au début du vingtième siècle, la plupart des savants pensaient que l'Univers était éternel et immobile. Puis tout a basculé. En 1927, un prêtre et physicien belge, Georges Lemaître, propose que l'Univers est en expansion. Deux ans plus tard, l'astronome américain Edwin Hubble observe que les galaxies lointaines s'éloignent de nous, et que plus elles sont loin, plus elles s'éloignent vite. Imagine un gâteau aux raisins qui gonfle dans le four : chaque raisin voit tous les autres s'éloigner de lui. Si tout s'écarte aujourd'hui, c'est qu'hier, tout était plus proche. Et en remontant le temps, on arrive à un état extrêmement chaud et dense. Le nom Big Bang a d'ailleurs été inventé en 1949 par l'astronome Fred Hoyle, à la radio, pour se moquer de cette idée qu'il n'aimait pas du tout."
    },
    {
+    "titre": "Des galaxies qui fuient",
+    "texte": "Comment Hubble a-t-il pu savoir que les galaxies s'éloignent ? Grâce à un phénomène que tu connais sans le savoir. Quand une ambulance s'approche, sa sirène paraît plus aiguë, puis elle devient plus grave quand l'ambulance s'éloigne. Le son est comprimé à l'aller, étiré au retour. C'est l'effet Doppler. La lumière fait pareil. Celle d'un objet qui s'éloigne est étirée vers le rouge. On parle de décalage vers le rouge. Or la lumière des galaxies lointaines est presque toujours décalée vers le rouge. Restait à mesurer leurs distances, et là, une femme a joué un rôle clé. Au début du vingtième siècle, l'Américaine Henrietta Leavitt, employée à l'observatoire de Harvard, étudie des étoiles qui clignotent, les céphéides. Elle découvre que plus elles sont lumineuses, plus elles clignotent lentement. Grâce à elle, on peut connaître leur vraie luminosité, et donc leur distance, un peu comme on devine l'éloignement d'une ampoule dont on connaît la puissance. En observant des céphéides dans la nébuleuse d'Andromède, Hubble montre au milieu des années 1920 qu'elle se trouve bien au-delà de notre Voie lactée. C'est une autre galaxie ! D'un coup, l'Univers devient immensément plus grand qu'on ne l'imaginait. Précision importante : les galaxies ne filent pas à travers l'espace comme des fusées. C'est l'espace entre elles qui s'étire, et qui étire la lumière avec lui."
+   },
+   {
     "titre": "Les premières minutes",
     "texte": "Le Big Bang s'est produit il y a environ 13,8 milliards d'années. Attention à une idée reçue : ce n'était pas une explosion dans un espace vide, comme une bombe. C'est l'espace lui-même qui s'est mis à se dilater, partout à la fois. Au tout début, l'Univers était une sorte de soupe brûlante de particules, à des températures qu'aucun four sur Terre ne peut approcher. En se dilatant, il s'est refroidi. Au bout d'une seconde environ, les protons et les neutrons étaient formés. Et pendant les toutes premières minutes, ils se sont assemblés pour former les premiers noyaux atomiques : surtout de l'hydrogène et de l'hélium. Ces proportions, calculées par la théorie, correspondent très bien à ce qu'on mesure aujourd'hui dans les étoiles les plus anciennes. C'est l'une des grandes preuves du Big Bang."
    },
@@ -18,21 +22,64 @@
     "texte": "Pendant ses premiers milliers d'années, l'Univers était opaque, comme un épais brouillard. La lumière ne pouvait pas voyager loin, car elle rebondissait sans cesse sur les électrons libres. Puis, environ 380 000 ans après le Big Bang, l'Univers s'est assez refroidi pour que les électrons s'accrochent aux noyaux et forment des atomes. D'un coup, le brouillard s'est levé, et la lumière a pu filer librement. Cette lumière très ancienne nous arrive encore aujourd'hui de toutes les directions. On l'appelle le fond diffus cosmologique. Elle a été découverte par hasard en 1965 par deux ingénieurs américains, Arno Penzias et Robert Wilson. Ils captaient un bruit étrange avec leur antenne et ont d'abord accusé des fientes de pigeons ! Après nettoyage, le bruit était toujours là. Ils ont reçu le prix Nobel en 1978."
    },
    {
+    "titre": "Une photo du bébé Univers",
+    "texte": "Le fond diffus cosmologique est devenu l'une des sources d'information les plus précieuses des astronomes. En traversant l'Univers en expansion pendant des milliards d'années, cette lumière s'est étirée et refroidie. Aujourd'hui, elle ne nous arrive plus sous forme de lumière visible, mais sous forme de micro-ondes, les mêmes que dans ton four, en beaucoup plus faible. Sa température est d'environ moins 270 degrés, à peine 3 degrés au-dessus du zéro absolu, le froid le plus extrême possible. Pour l'étudier en détail, il a fallu envoyer des satellites dans l'espace. Le satellite américain COBE, lancé en 1989, a montré que ce rayonnement est presque parfaitement le même dans toutes les directions. Presque, car il existe de minuscules variations, de l'ordre d'un cent-millième de degré. Ces travaux ont valu le prix Nobel à deux chercheurs en 2006. Puis les satellites WMAP et Planck, ce dernier européen, ont dressé des cartes de plus en plus fines. On dirait une peau de léopard, avec des taches à peine plus chaudes et d'autres à peine plus froides. Ces petites irrégularités sont capitales. Ce sont les graines de tout ce qui existe. Les zones un tout petit peu plus denses ont attiré la matière, et sont devenues, des centaines de millions d'années plus tard, les galaxies. Et petite anecdote : sur les vieux téléviseurs, une partie de la neige qu'on voyait entre deux chaînes venait de cette lumière du Big Bang."
+   },
+   {
     "titre": "Des étoiles et des galaxies",
     "texte": "Après cette libération de la lumière, l'Univers est entré dans une longue période sombre. Mais la gravité travaillait en silence. Elle rassemblait peu à peu le gaz en immenses nuages, qui se sont effondrés sur eux-mêmes. Quelques centaines de millions d'années après le Big Bang, les premières étoiles se sont allumées. Au cœur des étoiles, la fusion nucléaire transforme l'hydrogène en éléments plus lourds : carbone, oxygène, azote, jusqu'au fer. Quand les étoiles massives meurent dans d'énormes explosions appelées supernovas, elles dispersent ces éléments dans l'espace. Ces poussières ont ensuite servi à fabriquer de nouvelles étoiles, des planètes, et même toi. Le carbone de tes cellules et le fer de ton sang ont été forgés dans des étoiles disparues. Notre Soleil et la Terre, eux, sont nés bien plus tard, il y a environ 4,6 milliards d'années."
+   },
+   {
+    "titre": "Regarder loin, c'est regarder le passé",
+    "texte": "En astronomie, il existe une machine à remonter le temps, et elle est très simple : il suffit de regarder loin. La lumière va vite, mais pas infiniment vite. Quand tu regardes une étoile, tu ne la vois pas telle qu'elle est aujourd'hui, mais telle qu'elle était quand sa lumière est partie. Pour les étoiles proches, cela fait quelques années. Pour la galaxie d'Andromède, notre grande voisine, la lumière a voyagé environ 2,5 millions d'années. Tu la vois donc telle qu'elle était à peu près à l'époque où apparaissaient, en Afrique, les premiers représentants du genre humain. Plus on observe loin, plus on voit l'Univers jeune. C'est pour ça que les astronomes construisent des télescopes toujours plus puissants. Le télescope spatial James Webb, lancé le jour de Noël 2021, a été conçu pour cela. Son miroir doré mesure six mètres et demi de large. Il observe surtout en infrarouge, une lumière invisible pour nos yeux. Pourquoi ? Parce que la lumière des galaxies les plus lointaines a été tellement étirée par l'expansion de l'Univers qu'elle est passée du visible à l'infrarouge. Grâce à lui, on a observé des galaxies telles qu'elles étaient quelques centaines de millions d'années seulement après le Big Bang. Et elles sont parfois plus nombreuses et plus brillantes que prévu, ce qui intrigue beaucoup les chercheurs. Aujourd'hui, on estime que l'Univers observable contient des centaines de milliards de galaxies, souvent peuplées chacune de milliards d'étoiles."
    },
    {
     "titre": "Les grandes énigmes",
     "texte": "Le Big Bang explique beaucoup de choses, mais il reste des mystères vertigineux. D'abord, la matière que nous connaissons, celle des étoiles, des planètes et des humains, ne représente qu'environ 5 pour cent du contenu de l'Univers. Le reste est composé de deux ingrédients invisibles. La matière noire, qui attire par sa gravité mais qu'on n'a jamais observée directement. Et l'énergie sombre, encore plus mystérieuse. En 1998, des astronomes ont découvert que l'expansion de l'Univers ne ralentit pas, comme on le pensait, mais qu'elle accélère. Cette découverte leur a valu le prix Nobel en 2011, et l'énergie sombre est le nom donné à cette cause inconnue. Et puis il reste la question la plus folle : que s'est-il passé avant le Big Bang, et même, est-ce que cette question a un sens ? Personne ne le sait encore."
    }
   ],
-  "resume": "En résumé : l'Univers est né il y a environ 13,8 milliards d'années d'un état très chaud et dense, puis il s'est dilaté, refroidi, et a donné naissance aux atomes, aux étoiles et aux galaxies. Mais la matière noire et l'énergie sombre restent de grandes énigmes.",
+  "resume": "En résumé : l'Univers est né il y a environ 13,8 milliards d'années d'un état très chaud et dense. Son expansion a été révélée par le décalage vers le rouge de la lumière des galaxies, et sa première lumière, le fond diffus cosmologique, porte encore les graines des galaxies. Puis sont venus les atomes, les étoiles et les galaxies, que des télescopes comme James Webb observent jusque dans le passé lointain. Mais la matière noire et l'énergie sombre restent de grandes énigmes.",
   "quiz": [
-   {"q": "Quel est l'âge approximatif de l'Univers ?", "r": "Environ 13,8 milliards d'années."},
-   {"q": "Qui a inventé le nom Big Bang, et dans quelle intention ?", "r": "Fred Hoyle, en 1949, pour se moquer de cette théorie."},
-   {"q": "Comment appelle-t-on la plus ancienne lumière de l'Univers ?", "r": "Le fond diffus cosmologique."},
-   {"q": "Qu'ont d'abord soupçonné Penzias et Wilson pour expliquer leur bruit étrange ?", "r": "Des fientes de pigeons sur leur antenne."},
-   {"q": "Où ont été fabriqués le carbone et le fer de notre corps ?", "r": "Au cœur d'étoiles anciennes, aujourd'hui disparues."}
+   {
+    "q": "Quel est l'âge approximatif de l'Univers ?",
+    "r": "Environ 13,8 milliards d'années."
+   },
+   {
+    "q": "Qui a inventé le nom Big Bang, et dans quelle intention ?",
+    "r": "Fred Hoyle, en 1949, pour se moquer de cette théorie."
+   },
+   {
+    "q": "Comment appelle-t-on la plus ancienne lumière de l'Univers ?",
+    "r": "Le fond diffus cosmologique."
+   },
+   {
+    "q": "Qu'ont d'abord soupçonné Penzias et Wilson pour expliquer leur bruit étrange ?",
+    "r": "Des fientes de pigeons sur leur antenne."
+   },
+   {
+    "q": "Où ont été fabriqués le carbone et le fer de notre corps ?",
+    "r": "Au cœur d'étoiles anciennes, aujourd'hui disparues."
+   },
+   {
+    "q": "Quel effet montre qu'une galaxie s'éloigne de nous ?",
+    "r": "Le décalage vers le rouge de sa lumière."
+   },
+   {
+    "q": "Quelle astronome a trouvé comment mesurer les distances grâce aux céphéides ?",
+    "r": "L'Américaine Henrietta Leavitt."
+   },
+   {
+    "q": "Quelle est la température actuelle du fond diffus cosmologique ?",
+    "r": "Environ moins 270 degrés, à peine 3 degrés au-dessus du zéro absolu."
+   },
+   {
+    "q": "Combien de temps met la lumière d'Andromède pour nous parvenir ?",
+    "r": "Environ 2,5 millions d'années."
+   },
+   {
+    "q": "Pourquoi le télescope James Webb observe-t-il en infrarouge ?",
+    "r": "Parce que l'expansion a étiré la lumière des galaxies lointaines jusqu'à l'infrarouge."
+   }
   ]
  },
  {
@@ -50,25 +97,72 @@
     "texte": "Près du Soleil, on trouve quatre planètes rocheuses. Mercure, la plus petite et la plus proche, n'a presque pas d'atmosphère : elle est brûlante le jour et glaciale la nuit. Vient ensuite Vénus, une planète infernale. Son épaisse atmosphère de gaz carbonique crée un effet de serre extrême, avec environ 460 degrés en surface, assez pour faire fondre du plomb. C'est la planète la plus chaude, alors qu'elle n'est pas la plus proche du Soleil. Autre bizarrerie : elle tourne sur elle-même à l'envers, et si lentement qu'une journée y dure plus longtemps qu'une année. Puis vient la Terre, la seule planète connue où l'eau liquide coule en surface et où la vie existe. Enfin, Mars, la planète rouge, couleur de rouille. Elle abrite Olympus Mons, un volcan géant plus de deux fois et demie plus haut que l'Everest."
    },
    {
+    "titre": "La Lune, notre fidèle compagne",
+    "texte": "Parmi les planètes rocheuses, la Terre a une particularité : une grosse Lune, très grande par rapport à sa planète. D'où vient-elle ? L'hypothèse la plus répandue est spectaculaire. Peu après la naissance de la Terre, un astre de la taille de Mars l'aurait percutée de plein fouet. Les débris projetés dans l'espace se seraient rassemblés pour former la Lune. Aujourd'hui, elle tourne autour de nous à environ 384 000 kilomètres. Sa lumière, qui est en fait celle du Soleil renvoyée par son sol, met un peu plus d'une seconde à nous parvenir. Tu as remarqué qu'on voit toujours la même face de la Lune ? C'est parce qu'elle tourne sur elle-même exactement dans le temps qu'elle met à faire le tour de la Terre, environ un mois. La face cachée n'a été photographiée pour la première fois qu'en 1959, par une sonde soviétique. La Lune joue un rôle très concret dans nos vies : c'est surtout elle qui provoque les marées, en attirant l'eau des océans. Et elle s'éloigne doucement de nous, de près de quatre centimètres par an. On le sait grâce à des miroirs déposés sur son sol, sur lesquels on fait rebondir des rayons laser envoyés depuis la Terre. Entre 1969 et 1972, douze hommes ont marché sur la Lune, lors des missions Apollo. Le premier, l'Américain Neil Armstrong, y a posé le pied en juillet 1969."
+   },
+   {
     "titre": "Les géantes du dehors",
     "texte": "Au-delà de Mars, changement de décor : place aux géantes. Jupiter est la plus grosse planète. On pourrait faire tenir plus de mille Terres à l'intérieur. Sa célèbre grande tache rouge est une tempête plus large que notre planète, observée depuis plus de 150 ans. Saturne, elle, est célèbre pour ses anneaux, faits de milliards de morceaux de glace et de roche, certains gros comme des grains de sable, d'autres comme des maisons. Anecdote étonnante : Saturne est si peu dense que, si l'on trouvait une baignoire assez grande, elle flotterait sur l'eau. Plus loin, Uranus a une particularité unique : elle est couchée sur le côté, comme une toupie renversée, peut-être après une collision géante. Et enfin Neptune, d'un bleu profond, où soufflent les vents les plus violents du système solaire, à plus de deux mille kilomètres à l'heure."
+   },
+   {
+    "titre": "Des lunes étonnantes",
+    "texte": "Les géantes ne voyagent pas seules. Elles sont entourées de dizaines de lunes, et certaines sont de véritables mondes. En 1610, l'Italien Galilée pointe sa lunette vers Jupiter et découvre quatre petits points lumineux qui tournent autour d'elle. C'est la première fois qu'on voit des astres tourner autour d'autre chose que la Terre. Ces quatre lunes portent aujourd'hui son nom. Io est l'astre le plus volcanique du système solaire, couvert de volcans qui crachent du soufre. Europe cache sous sa croûte de glace un océan d'eau liquide qui contiendrait, selon les estimations, plus d'eau que tous les océans terrestres réunis. Ganymède est la plus grande lune du système solaire, plus grande même que la planète Mercure. Autour de Saturne, Titan est unique en son genre. Elle possède une atmosphère épaisse et des lacs, mais ce ne sont pas des lacs d'eau. Il y fait si froid que ce sont des hydrocarbures liquides, comme le méthane, qui y coulent et y tombent en pluie. En 2005, la petite sonde européenne Huygens s'y est posée, le premier atterrissage dans le système solaire extérieur. Une autre lune de Saturne, Encelade, projette dans l'espace des geysers de vapeur et de glace, venus d'un océan caché. Enfin, Triton, la grande lune de Neptune, tourne à contresens de la rotation de sa planète. C'est sans doute un ancien astre capturé. Pour les chercheurs, ces océans cachés sont parmi les meilleurs endroits où chercher une forme de vie."
    },
    {
     "titre": "Planètes naines, astéroïdes et comètes",
     "texte": "Le système solaire ne se limite pas aux huit planètes. Entre Mars et Jupiter s'étend la ceinture d'astéroïdes, des millions de cailloux et de rochers. Contrairement aux films, ils sont très éloignés les uns des autres, et les sondes la traversent sans difficulté. Au-delà de Neptune, on trouve la ceinture de Kuiper, un réservoir de corps glacés. C'est là que vit Pluton. Découverte en 1930, elle a longtemps été considérée comme la neuvième planète. Mais en 2006, les astronomes l'ont reclassée parmi les planètes naines, car elle ne fait pas le ménage autour de son orbite. Ce choix a beaucoup ému le public. Enfin, il y a les comètes, de grosses boules de glace et de poussière. Quand elles s'approchent du Soleil, la glace se vaporise et forme une magnifique queue, qui peut s'étendre sur des millions de kilomètres."
    },
    {
+    "titre": "Des distances vertigineuses",
+    "texte": "Les images des livres nous trompent souvent : elles montrent les planètes serrées les unes contre les autres. En réalité, le système solaire est surtout fait de vide. Faisons une maquette. Imagine que le Soleil soit un ballon de football posé au milieu d'un terrain. La Terre serait alors un grain de deux millimètres, à un peu moins de vingt-cinq mètres du ballon. Jupiter serait une bille d'un peu plus de deux centimètres, à plus de cent vingt mètres. Neptune, un petit pois à plus de sept cents mètres. Et l'étoile la plus proche, Proxima du Centaure, serait une petite bille rouge à plus de six mille kilomètres, plus loin que Paris ne l'est de New York. Pour mesurer ces distances, les astronomes utilisent une unité pratique, l'unité astronomique, qui vaut la distance moyenne entre la Terre et le Soleil, environ 150 millions de kilomètres. Et puisque tu es sur la route, faisons un petit calcul. Si tu pouvais rouler vers le Soleil à 130 kilomètres à l'heure, sans jamais t'arrêter, il te faudrait environ 130 ans pour y arriver. Pour atteindre Neptune, compte près de quatre mille ans. Même la lumière, la chose la plus rapide qui soit, met plus de quatre heures pour aller du Soleil à Neptune. Et bien au-delà, on pense qu'une immense sphère de corps glacés, le nuage de Oort, enveloppe tout le système solaire. Ce serait le réservoir des comètes qui ne nous rendent visite que très rarement."
+   },
+   {
     "titre": "Explorer notre quartier",
     "texte": "Depuis plus de soixante ans, nous envoyons des robots explorer le système solaire. La sonde Voyager 1, lancée en 1977, est aujourd'hui l'objet fabriqué par l'humanité le plus éloigné de la Terre. En 2012, elle a franchi la limite de la bulle créée par le vent du Soleil, pour entrer dans l'espace interstellaire. En 1990, à la demande de l'astronome Carl Sagan, elle s'est retournée pour photographier la Terre de très loin. Sur l'image, notre planète n'est qu'un minuscule point bleu pâle, perdu dans un rayon de lumière. Sagan en a tiré une belle leçon d'humilité : tout ce que l'humanité a vécu tient sur ce grain de poussière. Sur Mars, plusieurs robots roulants ont étudié le sol et découvert que de l'eau liquide y avait coulé autrefois, dans des rivières et des lacs."
    }
   ],
-  "resume": "En résumé : le système solaire, né il y a 4,6 milliards d'années, compte le Soleil, quatre planètes rocheuses, quatre géantes, et une multitude de planètes naines, d'astéroïdes et de comètes, que nos sondes explorent depuis des décennies.",
+  "resume": "En résumé : le système solaire, né il y a 4,6 milliards d'années, compte le Soleil, quatre planètes rocheuses dont la Terre et sa grande Lune, quatre géantes entourées de lunes étonnantes, et une multitude de planètes naines, d'astéroïdes et de comètes. Les distances y sont vertigineuses, et nos sondes l'explorent depuis des décennies.",
   "quiz": [
-   {"q": "Combien de temps met la lumière du Soleil pour arriver jusqu'à nous ?", "r": "Environ huit minutes."},
-   {"q": "Quelle est la planète la plus chaude du système solaire ?", "r": "Vénus, à cause de son effet de serre extrême."},
-   {"q": "Quelle planète pourrait flotter sur l'eau ?", "r": "Saturne, car elle est moins dense que l'eau."},
-   {"q": "En quelle année Pluton a-t-elle été reclassée planète naine ?", "r": "En 2006."},
-   {"q": "Quel est l'objet humain le plus éloigné de la Terre ?", "r": "La sonde Voyager 1, lancée en 1977."}
+   {
+    "q": "Combien de temps met la lumière du Soleil pour arriver jusqu'à nous ?",
+    "r": "Environ huit minutes."
+   },
+   {
+    "q": "Quelle est la planète la plus chaude du système solaire ?",
+    "r": "Vénus, à cause de son effet de serre extrême."
+   },
+   {
+    "q": "Quelle planète pourrait flotter sur l'eau ?",
+    "r": "Saturne, car elle est moins dense que l'eau."
+   },
+   {
+    "q": "En quelle année Pluton a-t-elle été reclassée planète naine ?",
+    "r": "En 2006."
+   },
+   {
+    "q": "Quel est l'objet humain le plus éloigné de la Terre ?",
+    "r": "La sonde Voyager 1, lancée en 1977."
+   },
+   {
+    "q": "Comment la Lune se serait-elle formée ?",
+    "r": "Après la collision entre la Terre et un astre de la taille de Mars."
+   },
+   {
+    "q": "Pourquoi voit-on toujours la même face de la Lune ?",
+    "r": "Parce qu'elle tourne sur elle-même dans le temps qu'elle met à faire le tour de la Terre."
+   },
+   {
+    "q": "Qui a découvert les quatre grandes lunes de Jupiter ?",
+    "r": "Galilée, en 1610."
+   },
+   {
+    "q": "Quelle lune de Saturne possède des lacs de méthane ?",
+    "r": "Titan."
+   },
+   {
+    "q": "Combien de temps faudrait-il pour rouler jusqu'au Soleil à 130 kilomètres à l'heure ?",
+    "r": "Environ 130 ans."
+   }
   ]
  },
  {
@@ -86,6 +180,10 @@
     "texte": "Pour que la vitesse de la lumière reste la même pour tous, Einstein arrive à une conclusion stupéfiante : c'est le temps qui doit s'adapter. Plus tu vas vite, plus ton temps s'écoule lentement par rapport à quelqu'un resté immobile. C'est ce qu'on appelle la dilatation du temps. Le célèbre paradoxe des jumeaux l'illustre. Un jumeau part dans une fusée très rapide, l'autre reste sur Terre. Au retour, le voyageur est plus jeune que son frère. Ce n'est pas de la fiction. En 1971, des chercheurs ont embarqué des horloges atomiques ultra précises à bord d'avions de ligne, faisant le tour du monde. À leur retour, elles avaient un léger décalage avec les horloges restées au sol, exactement comme prévu par la théorie. L'écart était minuscule, quelques milliardièmes de seconde, mais bien réel."
    },
    {
+    "titre": "Les muons et l'espace qui rétrécit",
+    "texte": "La dilatation du temps a une sœur jumelle, tout aussi étrange : la contraction des longueurs. Pour un objet qui file à une vitesse proche de celle de la lumière, les distances dans le sens du mouvement se raccourcissent. La nature nous offre une démonstration de tout cela, juste au-dessus de nos têtes. Des particules venues de l'espace, les rayons cosmiques, frappent sans arrêt le haut de l'atmosphère. Ces chocs créent d'autres particules, appelées muons, à une quinzaine de kilomètres d'altitude. Or les muons ont une vie très courte, environ deux millionièmes de seconde. Même en filant presque à la vitesse de la lumière, ils ne devraient parcourir qu'environ six cents mètres avant de disparaître. Ils ne devraient donc presque jamais atteindre le sol. Et pourtant, on en détecte en permanence au niveau de la mer. Des centaines traversent ton corps chaque minute, sans danger. Comment est-ce possible ? Vu depuis le sol, leur horloge interne tourne au ralenti, et ils vivent assez longtemps pour arriver jusqu'à nous. Vu par le muon, c'est l'épaisseur de l'atmosphère qui est écrasée et devient beaucoup plus courte. Les deux points de vue donnent le même résultat. La relativité impose aussi une limite de vitesse absolue. Plus un objet qui a une masse va vite, plus il faut d'énergie pour l'accélérer encore. Pour atteindre la vitesse de la lumière, il faudrait une énergie infinie. C'est pourquoi aucun vaisseau, aucune particule de matière ne pourra jamais l'atteindre."
+   },
+   {
     "titre": "La formule la plus célèbre",
     "texte": "La même année, Einstein tire de sa théorie une conséquence qui va devenir la formule la plus connue du monde : E égale m c au carré. En clair, la masse et l'énergie sont deux faces d'une même chose. Une masse peut se transformer en énergie, et la lettre c, la vitesse de la lumière, est un nombre gigantesque. Une fois mis au carré, il devient encore plus énorme. Résultat : une toute petite quantité de masse contient une quantité colossale d'énergie. C'est exactement ce qui se passe au cœur du Soleil. Chaque seconde, il transforme environ quatre millions de tonnes de matière en lumière et en chaleur. C'est aussi le principe des centrales nucléaires, où quelques grammes de matière perdue suffisent à produire l'électricité de toute une ville pendant longtemps."
    },
@@ -94,17 +192,60 @@
     "texte": "En 1915, Einstein va encore plus loin avec la relativité générale. Pour lui, la gravité n'est pas vraiment une force qui tire les objets. C'est une déformation de l'espace et du temps, causée par la masse. Imagine un grand trampoline. Pose une boule de bowling au milieu : la toile se creuse. Si tu lances une bille, elle va tourner autour de la boule, non pas parce qu'elle est attirée, mais parce qu'elle suit la pente. C'est ainsi que la Terre tourne autour du Soleil. Cette théorie prédit aussi que la lumière des étoiles doit être légèrement déviée en passant près du Soleil. En 1919, lors d'une éclipse totale, l'astronome britannique Arthur Eddington a mesuré cette déviation. Elle correspondait aux calculs. Du jour au lendemain, Einstein est devenu une célébrité mondiale."
    },
    {
+    "titre": "Les trous noirs",
+    "texte": "Les équations de la relativité générale cachaient une prédiction vertigineuse. Dès 1916, quelques mois après leur publication, l'astronome allemand Karl Schwarzschild, alors soldat sur le front pendant la Première Guerre mondiale, trouve une solution étonnante. Si l'on concentre assez de masse dans un espace assez petit, l'espace se creuse tellement que rien ne peut plus en sortir, pas même la lumière. C'est ce qu'on appellera plus tard un trou noir. La frontière au-delà de laquelle on ne revient plus porte un joli nom : l'horizon des événements. Pour transformer la Terre en trou noir, il faudrait la comprimer jusqu'à la taille d'une bille de moins de deux centimètres. Einstein lui-même doutait que de tels objets existent vraiment. Pourtant, on sait aujourd'hui qu'ils sont nombreux. Certains naissent de l'effondrement d'étoiles géantes. D'autres, monstrueux, trônent au centre des galaxies. Celui de notre Voie lactée pèse environ quatre millions de fois la masse du Soleil. En 2019, un réseau de radiotélescopes répartis sur toute la planète a réussi à obtenir la toute première image d'un trou noir, au cœur d'une galaxie lointaine. On y voit un anneau de lumière orangée autour d'une ombre sombre, exactement comme les calculs le prévoyaient. Près d'un trou noir, le temps lui-même ralentit énormément. Le film Interstellar, sorti en 2014, s'en est servi : sur une planète proche d'un trou noir, une heure y correspond à des années sur Terre."
+   },
+   {
     "titre": "La relativité dans ta voiture",
     "texte": "Tu crois que la relativité ne concerne que les astronautes ? Pas du tout. Elle est sans doute dans ton tableau de bord. Le GPS fonctionne grâce à des satellites équipés d'horloges très précises. Or, ces satellites vont vite, ce qui ralentit leurs horloges, et ils sont loin de la Terre, là où la gravité est plus faible, ce qui les accélère. Au total, leurs horloges avancent légèrement. Si les ingénieurs ne corrigeaient pas cet effet, ton GPS se tromperait d'environ dix kilomètres chaque jour. Autre conséquence : le temps passe un tout petit peu plus vite au sommet d'une montagne qu'au bord de la mer. Enfin, en 2015, des détecteurs géants ont capté pour la première fois des ondes gravitationnelles, des vibrations de l'espace provoquées par la fusion de deux trous noirs, comme Einstein l'avait prévu."
+   },
+   {
+    "titre": "Einstein, le savant devenu icône",
+    "texte": "Derrière la théorie, il y a un homme au destin étonnant. Albert Einstein naît en 1879 à Ulm, en Allemagne. Contrairement à une légende tenace, ce n'était pas un cancre : il était excellent en mathématiques. Mais il supportait mal la discipline de l'école, et à seize ans, il échoue une première fois à l'examen d'entrée de l'École polytechnique de Zurich, à cause des matières générales. Très jeune, il se pose déjà des questions folles, comme celle-ci : que verrais-je si je chevauchais un rayon de lumière ? Devenu célèbre, Einstein reçoit le prix Nobel de physique de 1921, mais pas pour la relativité, jugée encore trop controversée. En 1933, quand les nazis arrivent au pouvoir, lui qui est juif quitte l'Allemagne pour toujours. Il s'installe aux États-Unis, à Princeton, où il passera le reste de sa vie. En 1939, il signe une lettre au président Roosevelt pour l'avertir que l'Allemagne pourrait fabriquer une bombe atomique. Il le regrettera plus tard, et militera pour la paix et le désarmement. En 1952, on lui propose même de devenir président d'Israël, et il refuse. Passionné de violon, connu pour ses cheveux en bataille et la célèbre photo où il tire la langue, il est devenu le symbole même du génie. Il meurt en 1955, à soixante-seize ans. Son nom est aujourd'hui synonyme d'intelligence dans le monde entier."
    }
   ],
-  "resume": "En résumé : Einstein a montré que le temps ralentit avec la vitesse, que la masse est une forme d'énergie, et que la gravité est une courbure de l'espace et du temps. Ces idées sont confirmées par l'expérience et utilisées tous les jours, notamment par le GPS.",
+  "resume": "En résumé : Einstein a montré que le temps ralentit avec la vitesse et que les longueurs se contractent, ce que confirment les muons venus de l'espace. Il a montré aussi que la masse est une forme d'énergie, et que la gravité est une courbure de l'espace et du temps, capable de créer des trous noirs. Ces idées sont confirmées par l'expérience et utilisées tous les jours, notamment par le GPS, et elles ont fait de leur auteur une icône mondiale.",
   "quiz": [
-   {"q": "Où travaillait Einstein en 1905 ?", "r": "À l'office des brevets de Berne, en Suisse."},
-   {"q": "Que dit le paradoxe des jumeaux ?", "r": "Le jumeau qui voyage très vite revient plus jeune que celui resté sur Terre."},
-   {"q": "Que signifie la formule E égale m c au carré ?", "r": "Que la masse peut se transformer en une énorme quantité d'énergie."},
-   {"q": "Quel événement de 1919 a confirmé la relativité générale ?", "r": "Une éclipse totale, où Eddington a mesuré la déviation de la lumière des étoiles."},
-   {"q": "Que se passerait-il si le GPS ne tenait pas compte de la relativité ?", "r": "Il se tromperait d'environ dix kilomètres par jour."}
+   {
+    "q": "Où travaillait Einstein en 1905 ?",
+    "r": "À l'office des brevets de Berne, en Suisse."
+   },
+   {
+    "q": "Que dit le paradoxe des jumeaux ?",
+    "r": "Le jumeau qui voyage très vite revient plus jeune que celui resté sur Terre."
+   },
+   {
+    "q": "Que signifie la formule E égale m c au carré ?",
+    "r": "Que la masse peut se transformer en une énorme quantité d'énergie."
+   },
+   {
+    "q": "Quel événement de 1919 a confirmé la relativité générale ?",
+    "r": "Une éclipse totale, où Eddington a mesuré la déviation de la lumière des étoiles."
+   },
+   {
+    "q": "Que se passerait-il si le GPS ne tenait pas compte de la relativité ?",
+    "r": "Il se tromperait d'environ dix kilomètres par jour."
+   },
+   {
+    "q": "Pourquoi des muons nés en haute atmosphère arrivent-ils jusqu'au sol ?",
+    "r": "Parce que leur temps ralentit à cause de leur vitesse."
+   },
+   {
+    "q": "Un objet qui a une masse peut-il atteindre la vitesse de la lumière ?",
+    "r": "Non, il faudrait une énergie infinie."
+   },
+   {
+    "q": "Comment s'appelle la frontière d'un trou noir dont rien ne ressort ?",
+    "r": "L'horizon des événements."
+   },
+   {
+    "q": "En quelle année a-t-on obtenu la première image d'un trou noir ?",
+    "r": "En 2019."
+   },
+   {
+    "q": "Dans quel pays Einstein s'est-il installé en 1933 ?",
+    "r": "Aux États-Unis, à Princeton."
+   }
   ]
  },
  {
@@ -122,6 +263,10 @@
     "texte": "Pendant longtemps, on a cru que la lumière blanche était pure, et que les couleurs étaient des altérations. Vers 1666, le jeune Isaac Newton fait une expérience décisive. Dans une pièce sombre, il laisse passer un rayon de soleil à travers un prisme de verre. Sur le mur apparaît un ruban de couleurs : rouge, orange, jaune, vert, bleu, violet. Puis, avec un second prisme, il recompose de la lumière blanche. Conclusion : la lumière blanche est un mélange de toutes les couleurs. L'arc-en-ciel fonctionne exactement pareil. Chaque goutte de pluie agit comme un petit prisme qui décompose la lumière du Soleil. Petite astuce pour la route : pour voir un arc-en-ciel, il faut avoir le Soleil dans le dos et la pluie devant soi. C'est pour ça qu'on en voit souvent en fin d'après-midi, après une averse."
    },
    {
+    "titre": "La lumière qui se courbe",
+    "texte": "Plonge une paille dans un verre d'eau, et regarde-la de côté : elle semble cassée au niveau de la surface. Bien sûr, elle ne l'est pas. C'est la lumière qui change de direction en passant de l'eau à l'air. Ce phénomène s'appelle la réfraction. Il se produit parce que la lumière ne va pas à la même vitesse partout. Dans l'eau, elle ralentit d'environ un quart. Dans le verre, encore un peu plus. Et quand elle entre de biais dans un nouveau milieu, ce changement de vitesse la fait changer de direction, un peu comme une voiture dont une seule roue quitte le bitume pour le sable, et qui se met à tourner. C'est grâce à la réfraction que fonctionnent les lunettes, les loupes, les objectifs d'appareils photo, et le cristallin de ton œil. C'est elle aussi qui séparait les couleurs dans le prisme de Newton. Sur la route, en plein été, tu as sûrement vu cette illusion : au loin, l'asphalte semble mouillé, comme couvert de flaques qui reculent quand tu avances. C'est un mirage. L'air brûlant juste au-dessus du bitume courbe la lumière du ciel vers tes yeux, et tu vois un reflet du ciel posé sur la route. Enfin, quand la lumière arrive très en biais sur la surface d'un matériau transparent, elle peut être entièrement renvoyée à l'intérieur. C'est ce qui permet aux fibres optiques de guider la lumière sur des milliers de kilomètres, jusque sous les océans, pour transporter Internet jusqu'à chez toi."
+   },
+   {
     "titre": "Pourquoi le ciel est bleu",
     "texte": "Lève les yeux par une belle journée : le ciel est bleu. Pourtant, la lumière du Soleil est blanche. Que se passe-t-il ? En traversant l'atmosphère, la lumière rencontre les molécules de l'air. Ces molécules dévient, on dit qu'elles diffusent, beaucoup plus la lumière bleue que la lumière rouge. Ce bleu est donc éparpillé dans tout le ciel, et il nous arrive de toutes les directions. Le soir, c'est différent. Le Soleil est bas sur l'horizon, et sa lumière doit traverser une couche d'air beaucoup plus épaisse avant d'arriver à tes yeux. En chemin, presque tout le bleu a été diffusé ailleurs. Il ne reste que les teintes orangées et rouges, d'où ces couchers de soleil flamboyants. Anecdote amusante : sur Mars, c'est presque l'inverse, le ciel est plutôt ocre en journée et les couchers de soleil y sont bleutés."
    },
@@ -130,17 +275,60 @@
     "texte": "Une tomate n'est pas rouge par elle-même. Quand la lumière blanche la touche, la tomate absorbe la plupart des couleurs et renvoie surtout le rouge. C'est ce rouge renvoyé qui arrive dans tes yeux. Une feuille d'arbre est verte pour la même raison : la chlorophylle absorbe surtout le rouge et le bleu pour faire la photosynthèse, et renvoie le vert, dont la plante se sert moins. Un objet blanc renvoie presque toutes les couleurs. Un objet noir, lui, les absorbe presque toutes. Et l'énergie absorbée se transforme en chaleur. C'est pour ça qu'une voiture noire garée en plein soleil devient bien plus brûlante qu'une voiture blanche, et qu'on porte des vêtements clairs en été. Sans lumière, d'ailleurs, les objets n'ont plus de couleur du tout : dans le noir complet, la tomate rouge et la feuille verte se ressemblent."
    },
    {
+    "titre": "Pigments et teintures",
+    "texte": "Mélanger de la lumière et mélanger de la peinture, ce n'est pas du tout la même chose. Avec des lumières, plus tu ajoutes de couleurs, plus le résultat est clair, jusqu'au blanc. Avec des peintures, c'est l'inverse. Chaque pigment absorbe une partie de la lumière, et plus tu en mélanges, plus tu en retires, jusqu'à obtenir un brun sombre, presque noir. C'est pour ça que ton imprimante n'utilise pas du rouge, du vert et du bleu, mais du cyan, du magenta et du jaune, avec du noir en plus pour économiser l'encre. Pendant des millénaires, les couleurs ont été rares et précieuses, car il fallait les extraire de la nature. Le bleu outremer était tiré d'une pierre, le lapis-lazuli, venue des montagnes d'Afghanistan. À la Renaissance, il était parfois plus cher que l'or, et les peintres le réservaient souvent au manteau de la Vierge. Le pourpre, lui, était extrait de petits coquillages de Méditerranée, les murex. Il en fallait des milliers pour teindre un seul vêtement, si bien que cette couleur est devenue le symbole des empereurs romains. Tout change en 1856. Un étudiant anglais de dix-huit ans, William Perkin, cherche à fabriquer un médicament contre le paludisme. Il rate son expérience, mais obtient par hasard une teinture violette éclatante, la mauvéine. C'est le début des colorants chimiques, et la couleur devient enfin accessible à tous."
+   },
+   {
+    "titre": "Quand la matière s'allume",
+    "texte": "Jusqu'ici, on a parlé d'objets qui renvoient la lumière. Mais certains en produisent eux-mêmes. Chauffe un morceau de métal, et il devient rouge sombre, puis orange, puis presque blanc. C'est l'incandescence. Plus un objet est chaud, plus sa lumière tire vers le blanc et le bleu. C'est aussi pour ça que les étoiles ont des couleurs différentes : les plus froides paraissent rougeâtres, les plus chaudes bleutées. Les feux d'artifice, eux, utilisent un autre secret. Chaque métal, quand on le chauffe, émet des couleurs bien à lui. Le strontium donne le rouge, le baryum le vert, le cuivre le bleu, et le sodium un jaune orangé intense. Ce même sodium donnait leur lumière orange aux anciens lampadaires des routes et des autoroutes. Dans le ciel du Grand Nord, les aurores polaires naissent quand des particules envoyées par le Soleil frappent les gaz de la haute atmosphère. L'oxygène y brille surtout en vert, parfois en rouge, et l'azote ajoute des touches bleues ou violettes. Enfin, de nombreux êtres vivants fabriquent leur propre lumière, sans chaleur, grâce à une réaction chimique. C'est la bioluminescence. Les lucioles s'en servent pour se trouver entre amoureux. Et dans les profondeurs des océans, où la lumière du Soleil n'arrive jamais, une grande partie des animaux brillent ainsi, pour chasser, se cacher ou communiquer."
+   },
+   {
     "titre": "Nos yeux, des capteurs étonnants",
     "texte": "Au fond de ton œil, la rétine contient deux sortes de cellules sensibles à la lumière. Les bâtonnets fonctionnent bien quand il fait sombre, mais ne voient pas les couleurs. C'est pour ça que, la nuit, tout paraît gris. Les cônes, eux, s'activent en plein jour. Il en existe trois types, sensibles surtout au rouge, au vert et au bleu. Ton cerveau mélange leurs signaux pour créer des millions de nuances. Les écrans de télévision et de téléphone exploitent cette astuce : chaque point de l'image est composé de petites lumières rouges, vertes et bleues. Chez certaines personnes, un type de cône fonctionne mal. C'est le daltonisme, qui touche environ 8 pour cent des hommes, et beaucoup moins de femmes. Et d'autres animaux voient différemment : les abeilles perçoivent l'ultraviolet, qui dessine sur les fleurs des motifs invisibles pour nous."
    }
   ],
-  "resume": "En résumé : la lumière est à la fois une onde et un flot de particules, la lumière blanche contient toutes les couleurs, le ciel est bleu parce que l'air diffuse surtout le bleu, et nos yeux recomposent les couleurs grâce à trois types de cônes.",
+  "resume": "En résumé : la lumière est à la fois une onde et un flot de particules, qui se courbe en changeant de milieu. La lumière blanche contient toutes les couleurs, le ciel est bleu parce que l'air diffuse surtout le bleu, et les objets ont la couleur qu'ils renvoient. Les pigments se mélangent autrement que les lumières, certaines matières produisent leur propre lumière, et nos yeux recomposent les couleurs grâce à trois types de cônes.",
   "quiz": [
-   {"q": "Quelle est la vitesse approximative de la lumière ?", "r": "Environ 300 000 kilomètres par seconde."},
-   {"q": "Qu'a montré Newton avec son prisme ?", "r": "Que la lumière blanche est un mélange de toutes les couleurs."},
-   {"q": "Pourquoi les couchers de soleil sont-ils rouges ?", "r": "Parce que la lumière traverse plus d'air et que le bleu a été diffusé ailleurs."},
-   {"q": "Pourquoi une feuille d'arbre est-elle verte ?", "r": "Sa chlorophylle absorbe le rouge et le bleu et renvoie le vert."},
-   {"q": "Combien de types de cônes possède l'œil humain ?", "r": "Trois, sensibles surtout au rouge, au vert et au bleu."}
+   {
+    "q": "Quelle est la vitesse approximative de la lumière ?",
+    "r": "Environ 300 000 kilomètres par seconde."
+   },
+   {
+    "q": "Qu'a montré Newton avec son prisme ?",
+    "r": "Que la lumière blanche est un mélange de toutes les couleurs."
+   },
+   {
+    "q": "Pourquoi les couchers de soleil sont-ils rouges ?",
+    "r": "Parce que la lumière traverse plus d'air et que le bleu a été diffusé ailleurs."
+   },
+   {
+    "q": "Pourquoi une feuille d'arbre est-elle verte ?",
+    "r": "Sa chlorophylle absorbe le rouge et le bleu et renvoie le vert."
+   },
+   {
+    "q": "Combien de types de cônes possède l'œil humain ?",
+    "r": "Trois, sensibles surtout au rouge, au vert et au bleu."
+   },
+   {
+    "q": "Pourquoi une paille semble-t-elle cassée dans un verre d'eau ?",
+    "r": "À cause de la réfraction : la lumière change de direction en changeant de milieu."
+   },
+   {
+    "q": "Pourquoi la route semble-t-elle mouillée au loin en plein été ?",
+    "r": "C'est un mirage : l'air chaud courbe la lumière du ciel vers nos yeux."
+   },
+   {
+    "q": "Quelles sont les trois encres de couleur d'une imprimante ?",
+    "r": "Le cyan, le magenta et le jaune."
+   },
+   {
+    "q": "Quel métal donne le rouge aux feux d'artifice ?",
+    "r": "Le strontium."
+   },
+   {
+    "q": "Quel gaz donne leur couleur verte aux aurores polaires ?",
+    "r": "L'oxygène."
+   }
   ]
  },
  {
@@ -158,6 +346,10 @@
     "texte": "Ironie de l'histoire : l'atome insécable a fini par être découpé. On sait aujourd'hui qu'il possède un noyau, au centre, composé de protons et de neutrons. Autour, de petites particules beaucoup plus légères, les électrons, forment une sorte de nuage. En 1911, le physicien Ernest Rutherford fait une découverte surprenante. Il bombarde une très fine feuille d'or avec des particules. La plupart passent tout droit, comme si de rien n'était, mais quelques-unes rebondissent. Il comprend alors que presque toute la masse de l'atome est concentrée dans un noyau minuscule, et que le reste est essentiellement du vide. Pour te donner une idée, si le noyau était une bille posée au centre d'un stade de football, les électrons se promèneraient au niveau des gradins. Toi, la chaise sur laquelle tu es assis, tout est fait de ce vide."
    },
    {
+    "titre": "Isotopes et radioactivité",
+    "texte": "Dans le noyau, le nombre de protons fixe l'identité de l'atome. Mais le nombre de neutrons, lui, peut varier. Un atome de carbone a toujours six protons, mais il peut avoir six, sept ou huit neutrons. Ces variantes d'un même élément s'appellent des isotopes. Chimiquement, elles se comportent presque pareil. Certains isotopes sont stables. D'autres sont instables : leur noyau finit par se transformer en émettant un rayonnement. C'est la radioactivité. Elle a été découverte en 1896 par le Français Henri Becquerel, presque par hasard, avec des sels d'uranium qui voilaient des plaques photographiques rangées dans un tiroir. Puis Marie Curie et son mari Pierre se lancent dans l'aventure. En 1898, dans un laboratoire de fortune, ils découvrent deux nouveaux éléments, le polonium, baptisé en hommage à la Pologne natale de Marie, et le radium. Marie Curie sera la première femme à recevoir un prix Nobel, et la seule personne à en avoir reçu deux dans deux sciences différentes, la physique et la chimie. Ses carnets de laboratoire sont encore radioactifs aujourd'hui. La radioactivité a aussi des usages précieux. Le carbone 14, un isotope instable, permet de dater les restes d'êtres vivants. Après la mort, il disparaît lentement, et la moitié s'en va en environ 5700 ans. En mesurant ce qu'il en reste, on peut dater un os ou un morceau de bois vieux de plusieurs dizaines de milliers d'années."
+   },
+   {
     "titre": "Mendeleïev et ses cartes",
     "texte": "Au milieu du dix-neuvième siècle, les chimistes connaissent une soixantaine d'éléments, mais personne ne sait comment les ranger. En 1869, le chimiste russe Dmitri Mendeleïev trouve la solution. Selon une anecdote célèbre, il écrit chaque élément sur une carte, avec ses propriétés, et les dispose un peu comme une partie de patience. Il les classe par masse croissante, et remarque que des propriétés semblables reviennent à intervalles réguliers. D'où le nom de tableau périodique. Mais son coup de génie, c'est d'avoir laissé des cases vides. Il affirme que des éléments encore inconnus viendront les remplir, et il décrit même leurs propriétés à l'avance. Quelques années plus tard, on découvre le gallium, puis le germanium, qui correspondent presque parfaitement à ses prédictions. C'est un triomphe, et la preuve que son tableau révèle un ordre profond de la nature."
    },
@@ -166,17 +358,60 @@
     "texte": "Aujourd'hui, le tableau périodique compte 118 éléments. Ils ne sont plus rangés par masse, mais par numéro atomique, c'est-à-dire par nombre de protons dans le noyau. L'hydrogène en a un, l'hélium deux, le carbone six, l'oxygène huit, l'or soixante-dix-neuf. C'est ce nombre qui définit l'identité d'un élément. Les éléments d'une même colonne forment une famille, avec des comportements proches. Tout à gauche, les métaux alcalins, comme le sodium, sont si réactifs qu'ils peuvent s'enflammer ou exploser au contact de l'eau. Tout à droite, les gaz nobles, comme l'hélium, le néon ou l'argon, sont au contraire très calmes : ils ne réagissent presque avec rien. C'est d'ailleurs le néon qui donne sa couleur rouge orangé aux fameuses enseignes lumineuses. Les éléments les plus lourds, eux, ont été fabriqués en laboratoire et ne vivent souvent qu'une fraction de seconde."
    },
    {
+    "titre": "Des noms et des records",
+    "texte": "Chaque élément a un nom, et derrière chaque nom, il y a une histoire. Certains viennent du grec. Hydrogène signifie qui fabrique l'eau. L'hélium vient d'Hélios, le Soleil, car il a été repéré en 1868 dans la lumière du Soleil, avant même d'être trouvé sur Terre, une trentaine d'années plus tard. D'autres éléments honorent des pays : le gallium célèbre la Gaule, donc la France, le germanium l'Allemagne, le polonium la Pologne. D'autres encore rendent hommage à des savants, comme le curium pour les Curie, l'einsteinium pour Einstein, ou le mendélévium pour Mendeleïev. Et un petit village de Suède, Ytterby, détient un record unique : sa mine a donné son nom à quatre éléments, l'yttrium, l'ytterbium, le terbium et l'erbium. Côté records, l'élément le plus abondant de l'Univers est de loin l'hydrogène. Mais dans la croûte terrestre, c'est l'oxygène qui domine, enfermé dans les roches, suivi du silicium, celui du sable et des puces électroniques. À température ambiante, presque tous les éléments sont solides ou gazeux. Deux seulement sont liquides : le mercure, un métal, et le brome. Le gallium, lui, fond à environ trente degrés : si tu en tenais un morceau dans la main, il fondrait doucement comme un glaçon. L'osmium, enfin, est l'un des éléments les plus denses : un litre d'osmium pèserait plus de vingt kilos."
+   },
+   {
+    "titre": "Les liaisons, ou l'art de s'assembler",
+    "texte": "Seuls, les atomes ne font pas grand-chose. Ce qui rend le monde si varié, c'est leur talent pour s'assembler en molécules. Et tout se joue avec les électrons, en particulier ceux qui se trouvent le plus à l'extérieur. Les atomes cherchent à atteindre un état stable, un peu comme les gaz nobles, qui sont si tranquilles. Pour cela, certains donnent des électrons, d'autres en prennent, d'autres encore les partagent. Prends le sodium, un métal mou qui réagit violemment avec l'eau. Et le chlore, un gaz verdâtre et toxique. Séparément, ils sont dangereux. Mais le sodium cède un électron au chlore, et les deux s'accrochent solidement. Le résultat ? Du chlorure de sodium, c'est-à-dire le sel que tu mets sur tes frites. Dans la molécule d'eau, l'oxygène et les hydrogènes, eux, partagent leurs électrons. Le carbone est le champion de ces assemblages. Il peut former quatre liaisons à la fois, et s'accrocher à lui-même pour fabriquer de longues chaînes et des anneaux. C'est pour ça qu'il est à la base de toute la chimie du vivant, des sucres aux protéines en passant par ton ADN. Et la façon dont les atomes s'arrangent change tout. Le diamant et le graphite de la mine de ton crayon sont faits du même carbone pur. Dans le diamant, chaque atome est solidement lié à quatre voisins, ce qui le rend extrêmement dur. Dans le graphite, les atomes forment des feuillets qui glissent les uns sur les autres, et laissent une trace grise sur le papier."
+   },
+   {
     "titre": "D'où viennent les atomes ?",
     "texte": "Les atomes ont une histoire, et elle est cosmique. L'hydrogène et l'hélium sont apparus juste après le Big Bang. Presque tous les autres ont été fabriqués plus tard, au cœur des étoiles, par fusion nucléaire. Le carbone, l'oxygène, l'azote ont été cuisinés dans des étoiles, puis dispersés quand elles sont mortes. L'or, lui, a une origine encore plus spectaculaire : une grande partie proviendrait de collisions entre des étoiles à neutrons, des astres incroyablement denses. Ton alliance a peut-être été forgée dans un tel cataclysme. Ton corps est composé surtout d'oxygène, de carbone, d'hydrogène et d'azote. Et ces atomes ne s'usent pas. Ils sont recyclés sans cesse. Certains de ceux que tu respires aujourd'hui ont déjà appartenu à des arbres, à des animaux, et peut-être à des dinosaures. Tu es fait de matériaux très anciens."
    }
   ],
-  "resume": "En résumé : les atomes sont des briques minuscules, faites d'un noyau et d'électrons, et surtout de vide. Le tableau périodique, inventé par Mendeleïev, range les 118 éléments selon leur nombre de protons, et la plupart ont été fabriqués dans les étoiles.",
+  "resume": "En résumé : les atomes sont des briques minuscules, faites d'un noyau et d'électrons, et surtout de vide. Certains, radioactifs, se transforment avec le temps, ce qui permet de dater le passé. Le tableau périodique, inventé par Mendeleïev, range les 118 éléments selon leur nombre de protons, chacun avec son nom et son histoire. Les atomes s'assemblent en partageant ou en échangeant leurs électrons, et la plupart ont été fabriqués dans les étoiles.",
   "quiz": [
-   {"q": "Que signifie le mot grec atomos ?", "r": "Insécable, qu'on ne peut pas couper."},
-   {"q": "Qu'a découvert Rutherford avec sa feuille d'or ?", "r": "Que l'atome a un noyau minuscule et qu'il est surtout fait de vide."},
-   {"q": "Quel a été le coup de génie de Mendeleïev ?", "r": "Laisser des cases vides pour des éléments encore inconnus et prédire leurs propriétés."},
-   {"q": "Selon quoi les éléments sont-ils rangés aujourd'hui ?", "r": "Selon leur numéro atomique, c'est-à-dire leur nombre de protons."},
-   {"q": "Combien d'éléments compte le tableau périodique ?", "r": "118 éléments."}
+   {
+    "q": "Que signifie le mot grec atomos ?",
+    "r": "Insécable, qu'on ne peut pas couper."
+   },
+   {
+    "q": "Qu'a découvert Rutherford avec sa feuille d'or ?",
+    "r": "Que l'atome a un noyau minuscule et qu'il est surtout fait de vide."
+   },
+   {
+    "q": "Quel a été le coup de génie de Mendeleïev ?",
+    "r": "Laisser des cases vides pour des éléments encore inconnus et prédire leurs propriétés."
+   },
+   {
+    "q": "Selon quoi les éléments sont-ils rangés aujourd'hui ?",
+    "r": "Selon leur numéro atomique, c'est-à-dire leur nombre de protons."
+   },
+   {
+    "q": "Combien d'éléments compte le tableau périodique ?",
+    "r": "118 éléments."
+   },
+   {
+    "q": "Qu'est-ce qui distingue deux isotopes d'un même élément ?",
+    "r": "Leur nombre de neutrons."
+   },
+   {
+    "q": "Quels éléments Marie et Pierre Curie ont-ils découverts en 1898 ?",
+    "r": "Le polonium et le radium."
+   },
+   {
+    "q": "Où l'hélium a-t-il été repéré avant d'être trouvé sur Terre ?",
+    "r": "Dans la lumière du Soleil."
+   },
+   {
+    "q": "Que donne l'union du sodium et du chlore ?",
+    "r": "Du chlorure de sodium, le sel de table."
+   },
+   {
+    "q": "Combien de liaisons un atome de carbone peut-il former ?",
+    "r": "Quatre."
+   }
   ]
  },
  {
@@ -188,6 +423,10 @@
    {
     "titre": "Une énergie en petits paquets",
     "texte": "À la fin du dix-neuvième siècle, beaucoup de physiciens pensent avoir presque tout compris. Il ne reste que quelques détails à régler. Parmi eux, une énigme sur la lumière émise par les objets chauds, comme le métal rougeoyant d'une forge. En 1900, l'Allemand Max Planck trouve une solution, presque à contrecœur. Il suppose que l'énergie n'est pas échangée de manière continue, comme de l'eau qui coule, mais par petits paquets, qu'il appelle des quanta. Un peu comme si tu ne pouvais monter un escalier que marche par marche, sans jamais t'arrêter entre deux. En 1905, Einstein va plus loin et affirme que la lumière elle-même est faite de ces grains d'énergie. Ça lui vaudra le prix Nobel en 1921, et non pas la relativité. La mécanique quantique était née, et elle allait tout bouleverser."
+   },
+   {
+    "titre": "L'atome de Bohr et les sauts quantiques",
+    "texte": "En 1913, le jeune physicien danois Niels Bohr applique l'idée des quanta à l'atome. Il propose que les électrons ne peuvent pas tourner n'importe où autour du noyau. Ils sont rangés sur des niveaux d'énergie bien précis, comme les barreaux d'une échelle. Un électron peut sauter d'un barreau à l'autre, mais jamais s'arrêter entre deux. Quand il descend d'un niveau, il libère un grain de lumière dont l'énergie correspond exactement à la hauteur du saut. Et cette énergie fixe la couleur de la lumière. C'est de là que vient l'expression saut quantique, même si, ironie du langage, il s'agit du plus petit saut imaginable. Cette idée explique un mystère vieux de plusieurs décennies. Quand on chauffe un gaz, il n'émet pas toutes les couleurs, mais seulement quelques raies bien nettes. Chaque élément a les siennes, comme une signature, ou comme un code-barres. C'est grâce à ces raies qu'on sait de quoi sont faites les étoiles, sans jamais y être allé. On analyse leur lumière, et on y lit la présence d'hydrogène, d'hélium, de fer ou de sodium. Les feux d'artifice et les enseignes lumineuses jouent sur le même principe. Le modèle de Bohr, avec ses électrons qui tournent comme des planètes, a ensuite été remplacé par une image plus floue, celle d'un nuage de probabilité. Mais l'idée des niveaux d'énergie est restée. Bohr a reçu le prix Nobel en 1922, et il est devenu le chef de file de toute une génération de physiciens."
    },
    {
     "titre": "Onde ou particule ?",
@@ -202,17 +441,60 @@
     "texte": "En physique quantique, une particule peut être dans plusieurs états à la fois, tant qu'on ne la mesure pas. On appelle ça la superposition. En 1935, le physicien autrichien Erwin Schrödinger imagine une expérience de pensée pour montrer à quel point c'est absurde. Un chat est enfermé dans une boîte avec un mécanisme relié à un atome. Selon la théorie, tant qu'on n'ouvre pas la boîte, le chat serait à la fois mort et vivant. Schrödinger voulait critiquer cette idée, mais le chat est devenu le symbole de la physique quantique. Autre bizarrerie : l'intrication. Deux particules peuvent rester liées, même éloignées. Mesurer l'une renseigne instantanément sur l'autre. Einstein appelait ça une action fantôme à distance et n'y croyait pas. Pourtant, des expériences l'ont confirmée, et leurs auteurs, dont le Français Alain Aspect, ont reçu le prix Nobel en 2022."
    },
    {
+    "titre": "Le grand duel Einstein-Bohr",
+    "texte": "La mécanique quantique a divisé les plus grands esprits du vingtième siècle. Le cœur du désaccord, c'est le hasard. Selon la théorie, on ne peut pas prévoir exactement le résultat d'une mesure, seulement ses probabilités. Pour Niels Bohr et ses collègues, c'est ainsi que fonctionne la nature, et il n'y a rien de plus à chercher. Albert Einstein, lui, refuse cette idée. Il est convaincu qu'il existe une réalité plus profonde, encore cachée. Il résume sa pensée par une phrase restée célèbre : Dieu ne joue pas aux dés. Bohr lui aurait répondu : Einstein, cessez de dire à Dieu ce qu'il doit faire. Leur grand duel a lieu en 1927, à Bruxelles, lors d'une conférence de physique, le congrès Solvay. La photo de groupe prise à cette occasion est mythique. On y voit Einstein, Bohr, Planck, Heisenberg, Schrödinger, et Marie Curie, seule femme de l'assemblée. Beaucoup d'entre eux ont reçu ou recevront un prix Nobel. Selon les témoins, chaque matin au petit-déjeuner, Einstein proposait une expérience imaginaire pour prendre la théorie en défaut. Et chaque soir, Bohr trouvait la parade. Le débat a duré jusqu'à la mort d'Einstein. Ce sont finalement les expériences sur l'intrication, des décennies plus tard, qui ont plutôt donné raison à Bohr. Mais la question de ce qui se passe vraiment lors d'une mesure n'est toujours pas tranchée. Certains physiciens défendent même l'idée qu'à chaque mesure, l'Univers se divise en plusieurs mondes parallèles."
+   },
+   {
     "titre": "Le quantique dans ta poche",
     "texte": "Tout cela peut sembler très abstrait, et pourtant, la mécanique quantique est partout autour de toi. Sans elle, pas de transistors, ces minuscules interrupteurs qui font fonctionner ton téléphone, ton ordinateur et l'électronique de ta voiture. Pas de lasers non plus, ni de lecteurs de codes-barres, ni de diodes électroluminescentes, ces petites lampes économes qui éclairent peut-être tes phares. Les appareils d'imagerie par résonance magnétique des hôpitaux reposent aussi sur des effets quantiques. Même le Soleil en dépend : sans un phénomène appelé l'effet tunnel, qui permet aux particules de franchir des barrières en apparence infranchissables, la fusion en son cœur serait beaucoup plus difficile, et il ne brillerait pas comme il le fait. Le grand physicien Richard Feynman disait avec humour que personne ne comprend vraiment la mécanique quantique. Mais elle fonctionne, avec une précision extraordinaire."
+   },
+   {
+    "titre": "Les ordinateurs quantiques",
+    "texte": "Aujourd'hui, les chercheurs ne se contentent plus d'observer les bizarreries quantiques. Ils essaient de les dompter pour construire un nouveau genre de machine : l'ordinateur quantique. Un ordinateur classique, comme ton téléphone, travaille avec des bits, de minuscules interrupteurs qui valent soit zéro, soit un. Un ordinateur quantique, lui, utilise des qubits. Grâce à la superposition, un qubit peut être dans un mélange de zéro et de un en même temps. Et grâce à l'intrication, plusieurs qubits peuvent être liés entre eux. Attention, ça ne veut pas dire qu'il essaie toutes les solutions à la fois comme par magie. Mais pour certains problèmes bien particuliers, il pourrait aller beaucoup plus vite qu'un ordinateur classique. On pense par exemple à la conception de nouveaux médicaments ou de nouveaux matériaux, en simulant directement le comportement des molécules. Le problème, c'est que les qubits sont terriblement fragiles. La moindre vibration, la moindre chaleur les perturbe et efface l'information. C'est pourquoi beaucoup de ces machines sont refroidies à une température proche du zéro absolu, plus froide que l'espace intersidéral. Les ordinateurs quantiques actuels font encore beaucoup d'erreurs, et les chercheurs du monde entier travaillent à les corriger. Un enjeu inquiète aussi les spécialistes de la sécurité. Un ordinateur quantique assez puissant pourrait casser certains codes secrets qui protègent aujourd'hui nos paiements sur Internet. Alors on prépare déjà de nouvelles méthodes de chiffrement, capables de lui résister."
    }
   ],
-  "resume": "En résumé : dans le monde quantique, l'énergie vient par paquets, les particules se comportent aussi comme des ondes, on ne peut pas tout mesurer à la fois, et des objets peuvent être superposés ou intriqués. Cette physique étrange fait tourner toute notre électronique.",
+  "resume": "En résumé : dans le monde quantique, l'énergie vient par paquets, et les électrons sautent d'un niveau à l'autre en émettant une lumière bien précise. Les particules se comportent aussi comme des ondes, on ne peut pas tout mesurer à la fois, et des objets peuvent être superposés ou intriqués. Ces idées ont opposé Einstein et Bohr, et cette physique étrange fait tourner notre électronique, en attendant peut-être les ordinateurs quantiques.",
   "quiz": [
-   {"q": "Qui a introduit l'idée des quanta en 1900 ?", "r": "Le physicien allemand Max Planck."},
-   {"q": "Que se passe-t-il dans l'expérience des fentes quand on observe par où passe l'électron ?", "r": "Les bandes disparaissent et l'électron se comporte comme une simple bille."},
-   {"q": "Que dit le principe d'incertitude de Heisenberg ?", "r": "On ne peut pas connaître parfaitement à la fois la position et la vitesse d'une particule."},
-   {"q": "Pourquoi Schrödinger a-t-il imaginé son chat ?", "r": "Pour montrer l'absurdité apparente de la superposition quantique."},
-   {"q": "Cite une technologie qui repose sur la mécanique quantique.", "r": "Les transistors, les lasers ou les diodes électroluminescentes."}
+   {
+    "q": "Qui a introduit l'idée des quanta en 1900 ?",
+    "r": "Le physicien allemand Max Planck."
+   },
+   {
+    "q": "Que se passe-t-il dans l'expérience des fentes quand on observe par où passe l'électron ?",
+    "r": "Les bandes disparaissent et l'électron se comporte comme une simple bille."
+   },
+   {
+    "q": "Que dit le principe d'incertitude de Heisenberg ?",
+    "r": "On ne peut pas connaître parfaitement à la fois la position et la vitesse d'une particule."
+   },
+   {
+    "q": "Pourquoi Schrödinger a-t-il imaginé son chat ?",
+    "r": "Pour montrer l'absurdité apparente de la superposition quantique."
+   },
+   {
+    "q": "Cite une technologie qui repose sur la mécanique quantique.",
+    "r": "Les transistors, les lasers ou les diodes électroluminescentes."
+   },
+   {
+    "q": "Selon Bohr, que se passe-t-il quand un électron descend d'un niveau d'énergie ?",
+    "r": "Il émet un grain de lumière d'une couleur bien précise."
+   },
+   {
+    "q": "Comment sait-on de quoi sont faites les étoiles ?",
+    "r": "En analysant les raies de leur lumière, la signature de chaque élément."
+   },
+   {
+    "q": "Quelle phrase célèbre Einstein a-t-il opposée au hasard quantique ?",
+    "r": "Dieu ne joue pas aux dés."
+   },
+   {
+    "q": "Comment s'appelle l'unité d'information d'un ordinateur quantique ?",
+    "r": "Le qubit."
+   },
+   {
+    "q": "Pourquoi refroidit-on beaucoup d'ordinateurs quantiques presque au zéro absolu ?",
+    "r": "Pour protéger leurs qubits, très fragiles, des perturbations."
+   }
   ]
  },
  {
@@ -230,6 +512,10 @@
     "texte": "Quand des électrons se déplacent ensemble dans un fil, on parle de courant électrique. Pour comprendre, imagine de l'eau dans un tuyau. La tension, mesurée en volts, c'est comme la pression qui pousse l'eau. L'intensité, mesurée en ampères, c'est la quantité d'eau qui passe chaque seconde. En 1800, l'Italien Alessandro Volta invente la pile, en empilant des disques de cuivre et de zinc séparés par du carton imbibé d'eau salée. Pour la première fois, on dispose d'un courant continu et durable. C'est en son honneur qu'on parle de volts. Et voici une surprise : dans un fil, les électrons avancent en réalité très lentement, souvent moins vite qu'un escargot. Mais quand tu appuies sur l'interrupteur, la lampe s'allume aussitôt. C'est que le signal se transmet presque instantanément, un peu comme une file de billes qu'on pousse par un bout."
    },
    {
+    "titre": "Conducteurs et isolants",
+    "texte": "Pourquoi les câbles électriques sont-ils faits de cuivre, entourés de plastique ? Parce que tous les matériaux ne laissent pas passer le courant de la même façon. Dans les métaux, certains électrons sont libres de se promener d'un atome à l'autre. Ce sont de bons conducteurs. Le cuivre est l'un des meilleurs, juste derrière l'argent, beaucoup plus cher. Dans le plastique, le caoutchouc, le verre ou le bois sec, au contraire, les électrons restent bien attachés. Ce sont des isolants, qui servent à nous protéger. Quand le courant a du mal à passer, on dit que le matériau résiste. Et cette résistance produit de la chaleur. C'est le principe de ton grille-pain, de ton radiateur électrique, ou des anciennes ampoules à filament, dont le fil chauffait tellement qu'il devenait lumineux. Et l'eau ? L'eau parfaitement pure conduit très mal. Mais l'eau du robinet, l'eau de mer ou la sueur contiennent des sels dissous qui la rendent conductrice. C'est pour ça qu'il ne faut jamais utiliser un appareil branché dans son bain. Une dernière curiosité, très utile pour les conducteurs de voiture, justement. Si la foudre frappe ta voiture, tu es en sécurité à l'intérieur, à condition de ne pas toucher les parties métalliques. Ce ne sont pas les pneus qui te protègent, contrairement à une idée reçue. C'est la carrosserie en métal, qui guide le courant tout autour de l'habitacle, puis vers le sol. On appelle ça l'effet cage de Faraday."
+   },
+   {
     "titre": "La foudre, l'électricité du ciel",
     "texte": "La foudre est une gigantesque étincelle. Dans un nuage d'orage, les petits grains de glace et les gouttes s'entrechoquent et se chargent en électricité, un peu comme ton ballon frotté sur tes cheveux. Quand la différence de charge devient trop forte, une décharge éclate. L'air traversé par l'éclair est chauffé à environ 30 000 degrés, soit plusieurs fois la température de la surface du Soleil. Cet air se dilate si brutalement qu'il produit une onde de choc : c'est le tonnerre. Une astuce pour savoir à quelle distance est l'orage : compte les secondes entre l'éclair et le tonnerre, et divise par trois. Tu obtiens à peu près la distance en kilomètres. Au dix-huitième siècle, Benjamin Franklin a montré que la foudre est de l'électricité, et il a inventé le paratonnerre, qui protège encore nos bâtiments."
    },
@@ -238,17 +524,60 @@
     "texte": "La grande révolution arrive en 1831. Le savant anglais Michael Faraday découvre que si l'on fait bouger un aimant près d'une bobine de fil de cuivre, un courant électrique apparaît dans le fil. C'est l'induction. Ce principe simple fait tourner presque toute notre production d'électricité. Dans une centrale nucléaire ou à charbon, la chaleur produit de la vapeur qui fait tourner une turbine reliée à un alternateur. Dans un barrage, c'est l'eau qui fait tourner la turbine. Dans une éolienne, c'est le vent. À chaque fois, on fait tourner des aimants près de bobines. Les panneaux solaires, eux, fonctionnent autrement, en transformant directement la lumière en courant. À la fin du dix-neuvième siècle, Thomas Edison défendait le courant continu, et Nikola Tesla le courant alternatif. C'est le courant alternatif, plus facile à transporter sur de longues distances, qui a gagné."
    },
    {
+    "titre": "Des centrales jusqu'à ta prise",
+    "texte": "Entre la centrale et ta prise, l'électricité fait un long voyage. Et pour qu'elle arrive sans trop de pertes, les ingénieurs utilisent une astuce. Quand le courant circule dans un câble, une partie de l'énergie se perd en chaleur. Ces pertes sont d'autant plus fortes que l'intensité est grande. Pour transporter la même puissance avec une intensité plus faible, on augmente énormément la tension. En France, les plus grandes lignes à très haute tension, portées par ces immenses pylônes que tu croises parfois le long des routes, atteignent 400 000 volts. Puis, près des villes, des transformateurs abaissent cette tension par étapes, jusqu'aux 230 volts de tes prises. Ces transformateurs ne fonctionnent qu'avec le courant alternatif, et c'est justement l'une des raisons pour lesquelles l'alternatif a gagné. En Europe, il change de sens cinquante fois par seconde, on dit 50 hertz. Aux États-Unis, c'est 60 hertz et environ 120 volts, ce qui explique pourquoi certains appareils ont besoin d'un adaptateur. Autre défi : l'électricité se stocke très mal en grande quantité. Il faut donc produire, à chaque instant, exactement ce que les gens consomment. Quand des millions de personnes allument leur four ou leur chauffage le même soir d'hiver, il faut démarrer des centrales en plus. Une solution de stockage existe dans les montagnes : quand l'électricité est abondante, on pompe de l'eau vers un lac en hauteur. Quand on en manque, on la laisse redescendre à travers des turbines."
+   },
+   {
+    "titre": "Piles, batteries et voitures électriques",
+    "texte": "La pile de Volta a eu une longue descendance. Aujourd'hui, des batteries se cachent partout : dans ton téléphone, ton ordinateur, et de plus en plus de voitures. Le principe reste le même. Une batterie stocke de l'énergie sous forme chimique. Quand on la branche, une réaction chimique pousse des électrons à travers le circuit, d'une borne à l'autre, pendant qu'à l'intérieur, des particules chargées voyagent pour équilibrer le tout. Quand on la recharge, on inverse simplement le mouvement. Les batteries les plus répandues aujourd'hui sont les batteries au lithium-ion. Le lithium est le plus léger des métaux, ce qui permet de stocker beaucoup d'énergie dans peu de poids. Trois chercheurs ont reçu le prix Nobel de chimie en 2019 pour les avoir mises au point. Dans une voiture électrique, la batterie alimente un moteur qui fonctionne grâce aux découvertes de Faraday. Un courant qui circule près d'aimants crée un mouvement, et fait tourner les roues. Et ce moteur a un talent caché. Quand tu lèves le pied ou que tu freines, il peut fonctionner à l'envers, comme un alternateur. Les roues entraînent le moteur, qui produit du courant et recharge un peu la batterie. On appelle ça le freinage régénératif. Même une voiture à essence a besoin d'électricité : sa batterie de 12 volts sert à faire démarrer le moteur, à allumer les phares et à faire fonctionner toute l'électronique de bord."
+   },
+   {
     "titre": "Nous sommes électriques",
     "texte": "L'électricité ne circule pas seulement dans les câbles. Elle circule aussi en toi, en ce moment même. Tes neurones communiquent grâce à de minuscules signaux électriques. Quand tu décides de tourner le volant, un message électrique part de ton cerveau et file le long de tes nerfs jusqu'à tes muscles. Ton cœur bat lui aussi grâce à des impulsions électriques, que les médecins enregistrent avec un électrocardiogramme. Certains animaux en ont fait une arme. L'anguille électrique d'Amazonie peut produire des décharges de plusieurs centaines de volts pour assommer ses proies. Petite énigme pour finir : pourquoi les oiseaux posés sur une ligne électrique ne sont-ils pas électrocutés ? Parce qu'ils ne touchent qu'un seul fil. Le courant n'a aucune raison de passer par leur corps. S'ils touchaient aussi le sol ou un autre fil, ce serait différent."
    }
   ],
-  "resume": "En résumé : l'électricité, c'est le mouvement des électrons. On la produit surtout en faisant tourner des aimants près de bobines, la foudre en est une version géante, et notre propre corps fonctionne grâce à de minuscules signaux électriques.",
+  "resume": "En résumé : l'électricité, c'est le mouvement des électrons, qui circulent facilement dans les métaux et pas dans les isolants. On la produit surtout en faisant tourner des aimants près de bobines, on la transporte à très haute tension jusqu'à nos prises, et on la stocke dans des batteries. La foudre en est une version géante, et notre propre corps fonctionne grâce à de minuscules signaux électriques.",
   "quiz": [
-   {"q": "D'où vient le mot électricité ?", "r": "Du mot grec elektron, qui désigne l'ambre."},
-   {"q": "Qui a inventé la pile, et en quelle année ?", "r": "Alessandro Volta, en 1800."},
-   {"q": "Comment estimer la distance d'un orage ?", "r": "Compter les secondes entre l'éclair et le tonnerre et diviser par trois pour avoir les kilomètres."},
-   {"q": "Quelle découverte de Faraday permet de produire l'électricité dans les centrales ?", "r": "L'induction : un aimant qui bouge près d'une bobine crée un courant."},
-   {"q": "Pourquoi un oiseau sur une ligne électrique n'est-il pas électrocuté ?", "r": "Parce qu'il ne touche qu'un seul fil, donc le courant ne passe pas par lui."}
+   {
+    "q": "D'où vient le mot électricité ?",
+    "r": "Du mot grec elektron, qui désigne l'ambre."
+   },
+   {
+    "q": "Qui a inventé la pile, et en quelle année ?",
+    "r": "Alessandro Volta, en 1800."
+   },
+   {
+    "q": "Comment estimer la distance d'un orage ?",
+    "r": "Compter les secondes entre l'éclair et le tonnerre et diviser par trois pour avoir les kilomètres."
+   },
+   {
+    "q": "Quelle découverte de Faraday permet de produire l'électricité dans les centrales ?",
+    "r": "L'induction : un aimant qui bouge près d'une bobine crée un courant."
+   },
+   {
+    "q": "Pourquoi un oiseau sur une ligne électrique n'est-il pas électrocuté ?",
+    "r": "Parce qu'il ne touche qu'un seul fil, donc le courant ne passe pas par lui."
+   },
+   {
+    "q": "Pourquoi utilise-t-on du cuivre dans les câbles électriques ?",
+    "r": "Parce que c'est un excellent conducteur."
+   },
+   {
+    "q": "Qu'est-ce qui te protège de la foudre dans une voiture ?",
+    "r": "La carrosserie en métal, qui fait cage de Faraday, et non les pneus."
+   },
+   {
+    "q": "Quelle est la tension des prises électriques en France ?",
+    "r": "230 volts."
+   },
+   {
+    "q": "Pourquoi transporte-t-on l'électricité à très haute tension ?",
+    "r": "Pour réduire les pertes en chaleur dans les câbles."
+   },
+   {
+    "q": "Que fait le moteur d'une voiture électrique quand elle freine ?",
+    "r": "Il devient générateur et recharge un peu la batterie."
+   }
   ]
  },
  {
@@ -262,8 +591,16 @@
     "texte": "Regarde une carte du monde. Tu remarqueras peut-être que la côte de l'Amérique du Sud semble s'emboîter dans celle de l'Afrique, comme deux pièces de puzzle. En 1912, un météorologue allemand, Alfred Wegener, prend cette observation très au sérieux. Il remarque aussi qu'on retrouve les mêmes fossiles d'animaux et de plantes de part et d'autre de l'océan Atlantique, et les mêmes types de roches. Sa conclusion est audacieuse : autrefois, les continents étaient réunis en un seul supercontinent, qu'il appelle la Pangée, puis ils se sont lentement séparés. On parle de dérive des continents. À l'époque, la plupart des géologues se moquent de lui, car il ne sait pas expliquer quelle force pourrait déplacer des continents entiers. Wegener meurt en 1930 lors d'une expédition au Groenland. Il faudra attendre les années 1960 pour que son idée soit enfin reconnue."
    },
    {
+    "titre": "Voyage au centre de la Terre",
+    "texte": "Pour comprendre ce qui fait bouger les continents, il faut descendre sous nos pieds. La Terre est construite un peu comme une pêche. À l'extérieur, une peau très fine, la croûte, épaisse de quelques kilomètres sous les océans et de quelques dizaines sous les continents. Dessous, le manteau, une épaisse couche de roches très chaudes, qui descend jusqu'à près de 2900 kilomètres de profondeur. Et au centre, le noyau, fait surtout de fer et de nickel. Sa partie extérieure est liquide, mais tout au centre se trouve une boule solide, qu'on appelle la graine. Là-bas, la température dépasserait les 5000 degrés, comparable à celle de la surface du Soleil. Personne n'a jamais vu ces profondeurs. Le trou le plus profond jamais creusé, en Russie, près de la frontière norvégienne, atteint environ douze kilomètres, à peine une égratignure. Alors comment sait-on tout cela ? Grâce aux séismes. Leurs ondes traversent la planète et sont déviées, ralenties ou bloquées selon les matériaux rencontrés, un peu comme lors d'une échographie géante. En 1936, la sismologue danoise Inge Lehmann, en étudiant ces ondes, a découvert que la Terre possède une graine solide. Et ce noyau a un rôle vital. Le fer liquide qui s'y agite crée le champ magnétique de la Terre. C'est lui qui oriente l'aiguille de ta boussole, et surtout, il nous protège d'une partie des particules venues du Soleil."
+   },
+   {
     "titre": "Des plaques qui dérivent",
     "texte": "On sait aujourd'hui que la surface de la Terre est découpée en grandes plaques rigides, une quinzaine de grandes plaques et de nombreuses plus petites. Elles flottent en quelque sorte sur une couche plus profonde, chaude et très lentement déformable, qui se comporte comme une pâte épaisse sur des millions d'années. Ces plaques bougent de quelques centimètres par an, à peu près la vitesse à laquelle poussent tes ongles. Ça paraît ridicule, mais sur des millions d'années, ça change complètement la carte du monde. L'océan Atlantique s'élargit ainsi chaque année. Quand deux plaques se rapprochent, elles peuvent former des montagnes. L'Himalaya est né de la collision entre l'Inde et le reste de l'Asie, et cette collision continue encore. Preuve étonnante : on trouve au sommet de l'Everest des fossiles d'animaux marins, car ces roches étaient autrefois au fond d'un océan."
+   },
+   {
+    "titre": "La preuve venue du fond des mers",
+    "texte": "Si l'idée de Wegener a fini par triompher, c'est grâce à l'exploration du fond des océans. Après la Seconde Guerre mondiale, des navires équipés de sonars mesurent la profondeur des mers. Une cartographe américaine, Marie Tharp, compile patiemment ces mesures avec son collègue Bruce Heezen. Elle découvre au milieu de l'Atlantique une immense chaîne de montagnes sous-marines, fendue en son centre par une vallée. C'est la dorsale médio-atlantique. En réalité, ces dorsales font le tour de la planète comme les coutures d'une balle de tennis, sur des dizaines de milliers de kilomètres. C'est la plus longue chaîne de montagnes du monde, et elle est presque entièrement cachée sous l'eau. Le long de ces dorsales, du magma remonte et fabrique sans cesse un nouveau plancher océanique, qui s'écarte de chaque côté. La preuve est venue d'un détail étonnant : au fil des âges, le champ magnétique de la Terre s'inverse de temps en temps, le nord devenant le sud. En refroidissant, les roches enregistrent la direction du champ, comme une bande magnétique. Or, de part et d'autre des dorsales, on trouve des bandes parfaitement symétriques. Le plancher océanique s'étale donc comme un double tapis roulant. Mais si la Terre fabrique du plancher d'un côté, elle doit en détruire ailleurs. C'est la subduction : une plaque océanique plonge sous une autre et s'enfonce dans le manteau. Ces zones forment les fosses océaniques, comme celle des Mariannes, profonde de près de onze kilomètres. C'est pour ça que les fonds océaniques sont jeunes, rarement plus de 200 millions d'années."
    },
    {
     "titre": "Quand la terre tremble",
@@ -274,17 +611,56 @@
     "texte": "Les volcans se forment là où la roche profonde fond et devient du magma, qui remonte vers la surface. La plupart se trouvent aux frontières des plaques. Autour de l'océan Pacifique, une longue chaîne de volcans et de séismes forme ce qu'on appelle la ceinture de feu, du Japon jusqu'aux Andes. L'Islande, elle, est posée sur une dorsale, une fracture où deux plaques s'écartent. D'autres volcans naissent au milieu d'une plaque, au-dessus d'un point chaud, comme à Hawaï. L'éruption la plus célèbre de l'histoire est sans doute celle du Vésuve, en l'an 79, qui a enseveli la ville romaine de Pompéi sous les cendres. Un jeune témoin, Pline le Jeune, l'a décrite dans des lettres. Grâce à lui, on parle aujourd'hui d'éruption plinienne pour ces colonnes de cendres gigantesques qui montent très haut dans le ciel."
    },
    {
+    "titre": "Quand un volcan change le climat",
+    "texte": "Une éruption peut avoir des effets bien au-delà des pentes du volcan. En avril 1815, en Indonésie, le volcan Tambora explose dans la plus puissante éruption de l'histoire récente. La montagne perd une grande partie de son sommet, et des dizaines de milliers de personnes périssent, sous les coulées brûlantes puis à cause de la famine. Mais le plus surprenant est venu ensuite. L'éruption a projeté très haut dans le ciel d'énormes quantités de cendres et de gaz soufrés. Ces fines particules se sont répandues autour du globe et ont formé un voile qui renvoyait une partie de la lumière du Soleil. L'année suivante, 1816, est restée dans l'histoire comme l'année sans été. En Europe et en Amérique du Nord, il a neigé en plein mois de juin à certains endroits, les récoltes ont pourri, et le prix du pain a flambé. Cet été lugubre a aussi laissé une trace en littérature. Au bord du lac Léman, en Suisse, un groupe d'écrivains anglais, dont Lord Byron et la jeune Mary Shelley, est bloqué à l'intérieur par une pluie incessante. Pour passer le temps, ils se lancent un défi : écrire une histoire terrifiante. C'est ainsi qu'est né Frankenstein. Plus près de nous, en 1991, l'éruption du Pinatubo, aux Philippines, a fait baisser la température moyenne de la planète d'environ un demi-degré pendant plus d'un an. Les volcans nous rappellent ainsi que notre climat est lié à ce qui se passe sous nos pieds."
+   },
+   {
     "titre": "Vivre avec une planète vivante",
     "texte": "Les volcans et les séismes font peur, mais cette activité a aussi des bienfaits. Les cendres volcaniques donnent des sols très fertiles, c'est pourquoi on cultive souvent la vigne et les vergers sur les pentes des volcans. En Islande, la chaleur du sous-sol chauffe la majorité des maisons, grâce à la géothermie. Et sans la tectonique, il n'y aurait ni montagnes, ni le recyclage des roches qui aide à réguler le climat sur le très long terme. Pour se protéger, on surveille les volcans de près : quand le sol gonfle ou que les petits séismes se multiplient, une éruption peut se préparer. Pour les séismes, en revanche, on ne sait toujours pas prévoir le jour et l'heure. La meilleure protection reste de construire solidement. Au Japon, des normes très strictes permettent aux immeubles de résister à des secousses violentes."
    }
   ],
-  "resume": "En résumé : la surface de la Terre est faite de plaques qui bougent de quelques centimètres par an. Leurs mouvements créent les montagnes, déclenchent les séismes et nourrissent les volcans, une activité dangereuse mais aussi bienfaisante.",
+  "resume": "En résumé : sous une croûte très fine, la Terre cache un manteau brûlant et un noyau de fer qui crée notre champ magnétique. Sa surface est faite de plaques qui bougent de quelques centimètres par an, nées aux dorsales et englouties dans les fosses. Leurs mouvements créent les montagnes, déclenchent les séismes et nourrissent les volcans, une activité dangereuse, capable même de refroidir le climat, mais aussi bienfaisante.",
   "quiz": [
-   {"q": "Qui a proposé la dérive des continents en 1912 ?", "r": "Le météorologue allemand Alfred Wegener."},
-   {"q": "À quelle vitesse se déplacent les plaques tectoniques ?", "r": "De quelques centimètres par an, comme la pousse des ongles."},
-   {"q": "Comment s'est formé l'Himalaya ?", "r": "Par la collision entre l'Inde et le reste de l'Asie."},
-   {"q": "Où et quand a eu lieu le séisme le plus puissant jamais enregistré ?", "r": "Au Chili, en 1960, avec une magnitude de 9,5."},
-   {"q": "Quelle ville romaine a été ensevelie par le Vésuve en l'an 79 ?", "r": "Pompéi."}
+   {
+    "q": "Qui a proposé la dérive des continents en 1912 ?",
+    "r": "Le météorologue allemand Alfred Wegener."
+   },
+   {
+    "q": "À quelle vitesse se déplacent les plaques tectoniques ?",
+    "r": "De quelques centimètres par an, comme la pousse des ongles."
+   },
+   {
+    "q": "Comment s'est formé l'Himalaya ?",
+    "r": "Par la collision entre l'Inde et le reste de l'Asie."
+   },
+   {
+    "q": "Où et quand a eu lieu le séisme le plus puissant jamais enregistré ?",
+    "r": "Au Chili, en 1960, avec une magnitude de 9,5."
+   },
+   {
+    "q": "Quelle ville romaine a été ensevelie par le Vésuve en l'an 79 ?",
+    "r": "Pompéi."
+   },
+   {
+    "q": "De quoi est surtout fait le noyau de la Terre ?",
+    "r": "De fer et de nickel."
+   },
+   {
+    "q": "Qui a découvert que la Terre possède une graine solide en son centre ?",
+    "r": "La sismologue danoise Inge Lehmann, en 1936."
+   },
+   {
+    "q": "Quelle cartographe a révélé la dorsale médio-atlantique ?",
+    "r": "L'Américaine Marie Tharp, avec Bruce Heezen."
+   },
+   {
+    "q": "Quel volcan a provoqué l'année sans été de 1816 ?",
+    "r": "Le Tambora, en Indonésie."
+   },
+   {
+    "q": "Quel roman célèbre est né pendant l'année sans été ?",
+    "r": "Frankenstein, de Mary Shelley."
+   }
   ]
  },
  {
@@ -302,8 +678,20 @@
     "texte": "Les nuages sont le résultat d'un voyage de l'eau. Le Soleil chauffe les océans, les lacs et même les plantes, et une partie de l'eau s'évapore. Elle devient de la vapeur, un gaz invisible, qui monte avec l'air chaud. Mais plus on monte, plus il fait froid. En se refroidissant, la vapeur se condense en minuscules gouttelettes, autour de grains de poussière, de sel marin ou de pollen. Des milliards de ces gouttelettes forment un nuage. C'est le même phénomène que la buée sur ton pare-brise par un matin froid. Un nuage paraît léger comme du coton, et pourtant, un simple petit nuage de beau temps peut contenir des centaines de tonnes d'eau. Il ne tombe pas car ses gouttelettes sont si fines que l'air qui monte les maintient en suspension. Quand elles grossissent et deviennent trop lourdes, il pleut."
    },
    {
+    "titre": "Les grandes familles de nuages",
+    "texte": "Pendant des siècles, personne n'avait pensé à donner un nom précis aux nuages. C'est un pharmacien anglais, Luke Howard, passionné de météo, qui s'en charge au tout début du dix-neuvième siècle. Il choisit des mots latins, et sa classification est encore utilisée dans le monde entier. Les cumulus, ce qui veut dire tas, sont ces jolis nuages en forme de chou-fleur, blancs et bien dessinés, qu'on voit par beau temps. Les stratus, ce qui veut dire étendu, forment une couche grise et uniforme, qui cache le ciel comme un couvercle. Les cirrus, ce qui veut dire boucle de cheveux, sont de fins filaments blancs, tout en haut du ciel. Ils sont faits de cristaux de glace, et ils annoncent souvent l'arrivée d'une perturbation dans les heures ou les jours qui viennent. Enfin, nimbus veut dire pluie. En combinant ces mots, on décrit tous les nuages : le nimbostratus est une couche grise qui donne une pluie continue, et le cumulonimbus, c'est le géant des orages. Le dicton populaire dit d'ailleurs : ciel pommelé, femme fardée, ne sont pas de longue durée. Le ciel pommelé, couvert de petits moutons, annonce souvent un changement de temps. Et ces longues traînées blanches derrière les avions ? Ce sont aussi des nuages, en quelque sorte. La vapeur d'eau rejetée par les moteurs gèle presque instantanément dans l'air glacial de l'altitude. Si les traînées persistent longtemps, c'est que l'air là-haut est humide, un autre indice que le temps pourrait changer."
+   },
+   {
+    "titre": "Brouillard, rosée et verglas",
+    "texte": "Pour un conducteur, certains phénomènes météo comptent plus que d'autres. Commençons par le brouillard. C'est tout simplement un nuage qui touche le sol. Il se forme souvent lors des nuits claires et calmes. Sans nuages pour la retenir, la chaleur du sol s'échappe vers l'espace, l'air près du sol se refroidit, et sa vapeur d'eau se condense en gouttelettes. C'est pour ça qu'on traverse souvent des nappes de brouillard au petit matin, dans les vallées et près des rivières, là où l'air froid s'accumule. On parle officiellement de brouillard quand on ne voit plus à un kilomètre. Et sur la route, la règle est claire : quand la visibilité tombe sous cinquante mètres, la vitesse est limitée à cinquante kilomètres à l'heure, même sur l'autoroute. La rosée suit le même principe. Au petit matin, l'herbe et la carrosserie des voitures se sont tellement refroidies que la vapeur de l'air se dépose dessus en gouttes. S'il gèle, la vapeur se dépose directement en minuscules cristaux de glace : c'est la gelée blanche, ce givre que tu dois gratter sur ton pare-brise. Le plus traître, c'est le verglas. Il se forme quand de la pluie ou du brouillard gèle sur une route glacée. La glace est alors transparente, presque invisible, et la route semble simplement mouillée. Méfie-toi surtout des ponts. Ils gèlent souvent avant le reste de la route, car ils sont refroidis par l'air à la fois par-dessus et par-dessous, sans la chaleur du sol pour les réchauffer."
+   },
+   {
     "titre": "Anticyclones et dépressions",
     "texte": "À la météo, on parle souvent d'anticyclones et de dépressions. Un anticyclone, c'est une zone de haute pression. L'air y descend doucement, ce qui empêche les nuages de se former. Résultat : du beau temps, souvent chaud en été et froid et sec en hiver. L'anticyclone des Açores, au large du Portugal, est celui qui nous apporte nos belles journées d'été. Une dépression, à l'inverse, est une zone de basse pression où l'air monte, se refroidit et forme des nuages. C'est le temps gris, venteux et pluvieux. À cause de la rotation de la Terre, l'air ne fonce pas tout droit vers les dépressions. Il tourne autour. Dans notre hémisphère, il tourne dans le sens inverse des aiguilles d'une montre autour des dépressions. Entre une masse d'air chaud et une masse d'air froid, on trouve un front, souvent pluvieux."
+   },
+   {
+    "titre": "Les vents qui ont un nom",
+    "texte": "Certains vents sont si familiers qu'on leur a donné un nom. Le plus célèbre en France est le mistral. C'est un vent du nord, froid et sec, qui s'engouffre dans la vallée du Rhône comme dans un entonnoir et dévale jusqu'à la Méditerranée. Il peut souffler très fort pendant plusieurs jours, et il chasse les nuages, si bien qu'il laisse derrière lui un ciel d'un bleu éclatant. En Provence, on raconte qu'il rend fou, et l'on plante des haies de cyprès serrés pour protéger les cultures. Plus à l'ouest, dans le Languedoc et le Roussillon, souffle la tramontane, sa cousine. Dans les montagnes, on connaît le foehn. Quand l'air passe par-dessus un massif, il perd son humidité en pluie sur un versant, puis redescend de l'autre côté en se réchauffant. Il arrive alors chaud et sec dans la vallée, et peut faire fondre la neige à toute vitesse. Le sirocco, lui, vient du Sahara. Il peut transporter du sable jusqu'en Europe. Parfois, tu retrouves une fine poussière orangée sur ta voiture, et dans les Alpes ou les Pyrénées, la neige se colore même en ocre. Mais le vent le plus impressionnant ne se sent pas au sol. Vers dix kilomètres d'altitude, un fleuve d'air très rapide fait le tour de la planète d'ouest en est : le courant-jet. Les avions de ligne en profitent. C'est pour ça qu'un vol de New York vers Paris est souvent plus court qu'un vol de Paris vers New York."
    },
    {
     "titre": "Orages et ouragans",
@@ -314,13 +702,48 @@
     "texte": "La météo moderne naît d'une catastrophe. En 1854, pendant la guerre de Crimée, une violente tempête coule de nombreux navires français en mer Noire. L'astronome Urbain Le Verrier, célèbre pour avoir découvert la planète Neptune par le calcul, étudie l'événement. Il montre que la tempête avait traversé l'Europe pendant plusieurs jours, et qu'on aurait pu l'annoncer grâce au télégraphe. Il crée alors un réseau de stations d'observation. Aujourd'hui, les prévisionnistes utilisent des satellites, des ballons-sondes, des bouées et des milliers de stations. Des supercalculateurs résolvent les équations de l'atmosphère. Les prévisions sont fiables quelques jours, et deviennent incertaines au-delà d'une semaine environ. Pourquoi ? Parce que l'atmosphère est chaotique. Dans les années 1960, le météorologue Edward Lorenz l'a résumé par une image restée célèbre : l'effet papillon, l'idée qu'un détail minuscule peut changer le temps à l'autre bout du monde."
    }
   ],
-  "resume": "En résumé : la météo est animée par le Soleil, qui chauffe inégalement la Terre. L'air se met en mouvement, l'eau s'évapore et forme des nuages, et les anticyclones et dépressions façonnent notre ciel. On le prévoit bien sur quelques jours, mais l'atmosphère reste chaotique.",
+  "resume": "En résumé : la météo est animée par le Soleil, qui chauffe inégalement la Terre. L'air se met en mouvement et forme des vents, dont certains portent un nom. L'eau s'évapore et forme des nuages, que l'on classe en grandes familles, ou des brouillards au ras du sol. Les anticyclones et les dépressions façonnent notre ciel, et on le prévoit bien sur quelques jours, mais l'atmosphère reste chaotique.",
   "quiz": [
-   {"q": "Qu'est-ce que le vent ?", "r": "De l'air qui se déplace des hautes pressions vers les basses pressions."},
-   {"q": "Comment se forment les gouttelettes d'un nuage ?", "r": "La vapeur d'eau se refroidit en montant et se condense autour de poussières."},
-   {"q": "Quel temps apporte généralement un anticyclone ?", "r": "Du beau temps, car l'air qui descend empêche les nuages de se former."},
-   {"q": "Comment s'appelle la zone calme au centre d'un ouragan ?", "r": "L'œil du cyclone."},
-   {"q": "Quel événement a poussé Le Verrier à créer un réseau météo ?", "r": "Une tempête qui a coulé des navires français en mer Noire en 1854."}
+   {
+    "q": "Qu'est-ce que le vent ?",
+    "r": "De l'air qui se déplace des hautes pressions vers les basses pressions."
+   },
+   {
+    "q": "Comment se forment les gouttelettes d'un nuage ?",
+    "r": "La vapeur d'eau se refroidit en montant et se condense autour de poussières."
+   },
+   {
+    "q": "Quel temps apporte généralement un anticyclone ?",
+    "r": "Du beau temps, car l'air qui descend empêche les nuages de se former."
+   },
+   {
+    "q": "Comment s'appelle la zone calme au centre d'un ouragan ?",
+    "r": "L'œil du cyclone."
+   },
+   {
+    "q": "Quel événement a poussé Le Verrier à créer un réseau météo ?",
+    "r": "Une tempête qui a coulé des navires français en mer Noire en 1854."
+   },
+   {
+    "q": "Qui a donné leurs noms latins aux nuages ?",
+    "r": "Le pharmacien anglais Luke Howard, au début du dix-neuvième siècle."
+   },
+   {
+    "q": "Que signifie le mot latin cumulus ?",
+    "r": "Un tas."
+   },
+   {
+    "q": "Qu'est-ce que le brouillard ?",
+    "r": "Un nuage qui touche le sol."
+   },
+   {
+    "q": "Pourquoi les ponts gèlent-ils avant le reste de la route ?",
+    "r": "Parce qu'ils sont refroidis par l'air à la fois par-dessus et par-dessous."
+   },
+   {
+    "q": "Comment s'appelle le vent froid qui descend la vallée du Rhône ?",
+    "r": "Le mistral."
+   }
   ]
  },
  {
@@ -334,8 +757,16 @@
     "texte": "Une molécule d'eau, c'est tout simple : deux atomes d'hydrogène accrochés à un atome d'oxygène. Mais ces trois atomes ne sont pas alignés. Ils forment un V, un peu comme une tête de Mickey avec ses deux oreilles. Et surtout, l'oxygène attire les électrons plus fort que les hydrogènes. Résultat : la molécule a un côté légèrement négatif, du côté de l'oxygène, et un côté légèrement positif, du côté des hydrogènes. On dit qu'elle est polaire. Comme de minuscules aimants, les molécules d'eau s'attirent entre elles, et forment des liens appelés liaisons hydrogène. C'est ce détail qui explique presque toutes les bizarreries de l'eau. Par exemple, c'est grâce à ces liens que certains insectes peuvent marcher à la surface d'une mare sans couler, et que l'eau forme des gouttes bien rondes sur ton pare-brise."
    },
    {
+    "titre": "L'eau qui grimpe",
+    "texte": "Les liaisons hydrogène donnent à l'eau un autre talent étonnant : elle sait grimper. Trempe le coin d'un morceau de sucre dans ton café, et regarde : le liquide monte tout seul dans le sucre. Même chose avec une feuille d'essuie-tout dont le bord touche une flaque. Ce phénomène s'appelle la capillarité. L'eau est attirée par certaines surfaces, comme le verre ou les fibres du papier, et ses molécules, qui se tiennent entre elles, se tirent les unes les autres vers le haut. Plus le tube ou l'espace est étroit, plus l'eau monte haut. Les plantes en tirent un parti extraordinaire. Les plus grands arbres du monde, les séquoias de Californie, dépassent cent mètres de haut. Comment l'eau puisée par leurs racines arrive-t-elle jusqu'aux feuilles du sommet, sans aucune pompe ? Le secret est dans les feuilles. L'eau s'en évapore en permanence par de minuscules pores. Chaque molécule qui s'en va tire sur celle qui la suit, comme les maillons d'une chaîne, et c'est toute une colonne d'eau qui est aspirée depuis les racines, à travers de fins canaux dans le bois. Un grand arbre peut ainsi faire monter des centaines de litres d'eau en une seule journée. Cette cohésion donne aussi à l'eau une sorte de peau à sa surface. Si tu poses délicatement un trombone à plat sur l'eau, il peut flotter, alors que le métal est bien plus dense. Il suffit d'une goutte de liquide vaisselle pour briser cette peau, et le trombone coule aussitôt."
+   },
+   {
     "titre": "La glace qui flotte",
     "texte": "Presque toutes les substances sont plus denses à l'état solide qu'à l'état liquide. Un morceau de cire solide coule dans la cire fondue. L'eau, elle, fait exactement l'inverse. Quand elle gèle, ses molécules s'organisent en un réseau aéré, qui prend plus de place. La glace occupe environ 9 pour cent de volume en plus que l'eau liquide. C'est pour ça qu'une bouteille pleine oubliée au congélateur finit par éclater, et que le gel fait éclater les roches et abîme les routes en hiver. Mais cette étrangeté a une conséquence magnifique. Comme la glace flotte, les lacs gèlent par le dessus. La couche de glace isole l'eau du dessous, qui reste liquide. Les poissons et les plantes peuvent ainsi passer l'hiver. Si la glace coulait, les lacs gèleraient plus facilement de part en part."
+   },
+   {
+    "titre": "Bouillir et geler",
+    "texte": "On apprend à l'école que l'eau bout à 100 degrés et gèle à zéro. C'est vrai, mais seulement au niveau de la mer, et pour de l'eau pure. D'ailleurs, l'échelle des degrés Celsius a été construite justement sur ces deux repères. Petite anecdote : quand le Suédois Anders Celsius l'a proposée, au dix-huitième siècle, elle était à l'envers. Il avait placé le zéro pour l'eau qui bout et le cent pour la glace qui fond. C'est après sa mort qu'on l'a retournée. Revenons à l'ébullition. Elle dépend de la pression de l'air. En montagne, l'air est moins dense, et l'eau bout plus tôt. Au sommet du mont Blanc, elle bout vers 85 degrés environ. Tes pâtes y cuiraient donc beaucoup plus lentement. La cocotte-minute fait exactement l'inverse : en enfermant la vapeur, elle augmente la pression, et l'eau peut monter au-dessus de 100 degrés, ce qui cuit les aliments bien plus vite. Le gel, lui, dépend de ce qui est dissous dans l'eau. Dès qu'on y ajoute du sel, elle gèle à une température plus basse. C'est pour ça qu'on sale les routes en hiver. Le sel fait fondre la glace et empêche le verglas, mais seulement jusqu'à une dizaine de degrés sous zéro environ. Au-delà, il devient beaucoup moins efficace. C'est aussi pour ça que l'eau de mer gèle vers moins deux degrés. Et l'eau très pure peut même rester liquide sous zéro, si rien ne vient déclencher la formation des cristaux. Il suffit alors d'un petit choc pour qu'elle se transforme en glace en quelques secondes."
    },
    {
     "titre": "Le grand dissolvant",
@@ -348,15 +779,54 @@
    {
     "titre": "Une ressource précieuse et ancienne",
     "texte": "Vue de l'espace, la Terre est la planète bleue. L'eau recouvre environ 70 pour cent de sa surface. Mais attention, environ 97 pour cent de cette eau est salée, dans les océans. L'eau douce ne représente qu'environ 3 pour cent, et la plus grande partie est bloquée dans les glaciers et les calottes polaires, ou cachée sous terre. Au final, l'eau facilement accessible dans les lacs et les rivières représente une toute petite fraction du total. D'où vient toute cette eau ? Les scientifiques pensent qu'une partie était présente dès la formation de la Terre, et qu'une autre a pu être apportée par des astéroïdes, la question est encore débattue. Une chose est sûre : l'eau circule en boucle depuis des milliards d'années. Celle de ton verre a peut-être déjà été un nuage, un glacier, ou bu par un dinosaure."
+   },
+   {
+    "titre": "De l'eau dans tout l'Univers",
+    "texte": "L'eau n'est pas une exclusivité de la Terre. Ses deux ingrédients, l'hydrogène et l'oxygène, comptent parmi les éléments les plus répandus de l'Univers. Les astronomes repèrent de la vapeur d'eau dans des nuages de gaz où naissent des étoiles, et même dans l'atmosphère de planètes qui tournent autour d'autres soleils. Dans notre système solaire, on en trouve presque partout, surtout sous forme de glace. Les comètes en sont en grande partie composées. Sur la Lune, de la glace se cache au fond de cratères proches des pôles, où la lumière du Soleil n'entre jamais. Sur Mars, les calottes polaires contiennent de grandes quantités de glace d'eau, et des rivières y ont coulé il y a très longtemps. Plus loin, certaines lunes cachent de véritables océans liquides sous leur croûte de glace, comme Europe autour de Jupiter, ou Encelade autour de Saturne, qui projette même des geysers dans l'espace. Pourquoi tant d'intérêt ? Parce que toute la vie que nous connaissons a besoin d'eau liquide. Elle sert de milieu à toutes les réactions chimiques du vivant, comme on l'a vu. C'est pourquoi la devise des chercheurs qui traquent la vie ailleurs pourrait se résumer ainsi : suivre l'eau. Autour de chaque étoile, ils cherchent la zone habitable, cette bande où il ne fait ni trop chaud ni trop froid pour que l'eau reste liquide à la surface d'une planète. La Terre s'y trouve. Vénus, plus proche du Soleil, a sans doute perdu son eau. Et Mars, plus petite et plus éloignée, a perdu la plus grande partie de la sienne."
    }
   ],
-  "resume": "En résumé : la molécule d'eau, en forme de V et polaire, a des propriétés uniques : sa glace flotte, elle dissout de nombreuses substances et elle régule la chaleur. L'eau douce accessible est rare, et l'eau circule sur Terre depuis des milliards d'années.",
+  "resume": "En résumé : la molécule d'eau, en forme de V et polaire, a des propriétés uniques : elle grimpe dans les plantes par capillarité, sa glace flotte, elle dissout de nombreuses substances et elle régule la chaleur. Elle bout et gèle à des températures qui dépendent de la pression et de ce qu'elle contient. L'eau douce accessible est rare, l'eau circule sur Terre depuis des milliards d'années, et on la cherche ailleurs dans l'espace, car elle est indispensable à la vie telle que nous la connaissons.",
   "quiz": [
-   {"q": "De quels atomes est composée une molécule d'eau ?", "r": "De deux atomes d'hydrogène et d'un atome d'oxygène."},
-   {"q": "Pourquoi une bouteille d'eau pleine éclate-t-elle au congélateur ?", "r": "Parce que la glace prend environ 9 pour cent de volume en plus."},
-   {"q": "Pourquoi les poissons survivent-ils sous un lac gelé ?", "r": "Parce que la glace flotte et isole l'eau liquide en dessous."},
-   {"q": "Quelle part du poids d'un adulte représente l'eau ?", "r": "Environ 60 pour cent."},
-   {"q": "Quelle part de l'eau de la Terre est salée ?", "r": "Environ 97 pour cent."}
+   {
+    "q": "De quels atomes est composée une molécule d'eau ?",
+    "r": "De deux atomes d'hydrogène et d'un atome d'oxygène."
+   },
+   {
+    "q": "Pourquoi une bouteille d'eau pleine éclate-t-elle au congélateur ?",
+    "r": "Parce que la glace prend environ 9 pour cent de volume en plus."
+   },
+   {
+    "q": "Pourquoi les poissons survivent-ils sous un lac gelé ?",
+    "r": "Parce que la glace flotte et isole l'eau liquide en dessous."
+   },
+   {
+    "q": "Quelle part du poids d'un adulte représente l'eau ?",
+    "r": "Environ 60 pour cent."
+   },
+   {
+    "q": "Quelle part de l'eau de la Terre est salée ?",
+    "r": "Environ 97 pour cent."
+   },
+   {
+    "q": "Comment s'appelle le phénomène qui fait monter l'eau dans un morceau de sucre ?",
+    "r": "La capillarité."
+   },
+   {
+    "q": "Qu'est-ce qui aspire l'eau jusqu'au sommet des arbres ?",
+    "r": "L'évaporation par les feuilles, qui tire toute la colonne d'eau vers le haut."
+   },
+   {
+    "q": "À quelle température l'eau bout-elle au sommet du mont Blanc ?",
+    "r": "Vers 85 degrés environ."
+   },
+   {
+    "q": "Pourquoi sale-t-on les routes en hiver ?",
+    "r": "Parce que l'eau salée gèle à une température plus basse."
+   },
+   {
+    "q": "Comment Anders Celsius avait-il d'abord orienté son échelle ?",
+    "r": "À l'envers, avec zéro pour l'eau qui bout et cent pour la glace."
+   }
   ]
  }
 ]
