@@ -1,6 +1,6 @@
 // Usage : node fusion.js  -> génère index.html à partir de modele.html et de tous les sujets/*.json (thèmes alternés)
 const fs = require('fs'), path = require('path');
-const dir = path.join(__dirname, 'sujets');
+const dir = path.join(__dirname, '..', 'sujets');
 const lots = fs.readdirSync(dir).filter(f => /^lot\d+\.json$/.test(f))
   .sort((a, b) => parseInt(a.slice(3)) - parseInt(b.slice(3)))
   .map(f => JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8')));
