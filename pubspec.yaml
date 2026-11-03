@@ -1,0 +1,28 @@
+name: carlearn
+description: "En route : apprendre un sujet par jour pendant la conduite, hors ligne."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.13.7
+
+dependencies:
+  equatable: ^3.0.0
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^9.1.1
+  flutter_tts: ^4.2.5
+  intl: ^0.20.3
+  shared_preferences: ^2.5.6
+  wakelock_plus: ^1.8.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  fake_async: ^1.3.3
+
+flutter:
+  uses-material-design: true
+  assets:
+    - sujets/
