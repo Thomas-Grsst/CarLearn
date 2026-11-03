@@ -10,6 +10,10 @@
     "texte": "Commence par un constat simple. Une bonne partie de ce que tu fais chaque jour, tu ne le décides pas vraiment. Tu te brosses les dents, tu prends le même chemin pour aller au travail, tu regardes ton téléphone au réveil. Tout ça se fait presque sans y penser. C'est normal, et c'est même une bonne chose. Ton cerveau cherche en permanence à économiser de l'énergie. Quand une action se répète souvent dans le même contexte, il finit par l'automatiser. Les chercheurs ont montré que des zones profondes du cerveau, liées aux automatismes, prennent alors le relais. Résultat, tu libères de l'attention pour autre chose. Le revers de la médaille, c'est que les mauvaises habitudes profitent exactement du même mécanisme. Le cerveau ne fait pas la différence entre une habitude utile et une habitude nuisible."
    },
    {
+    "titre": "Le poids du contexte",
+    "texte": "La psychologue américaine Wendy Wood, de l'université de Californie du Sud, a voulu mesurer la place des habitudes dans nos journées. Avec ses collègues, elle a demandé à des volontaires de noter régulièrement ce qu'ils faisaient, ce qu'ils pensaient et où ils se trouvaient. Résultat, un peu plus de quatre actions sur dix étaient répétées presque chaque jour, dans le même lieu, souvent pendant que l'esprit pensait à autre chose. Ce qui frappe dans ses travaux, c'est le rôle du contexte. Une habitude n'est pas déclenchée par une décision, mais par un environnement. Le canapé, l'heure, la télévision allumée, et ta main attrape le paquet de chips. Wendy Wood en tire une conséquence très pratique. Les moments où ton contexte change sont des occasions en or. Un déménagement, un nouveau travail, l'arrivée d'un enfant, un changement d'horaires. Les anciens signaux disparaissent, et pendant quelques semaines, tes vieilles habitudes perdent une partie de leur emprise. Des chercheurs allemands ont par exemple observé que des personnes qui venaient d'emménager dans une nouvelle ville prenaient bien plus volontiers les transports en commun quand on leur offrait un ticket d'essai à ce moment là. Si tu vis une période de transition, profites en pour installer d'emblée les comportements que tu souhaites, avant que de nouveaux automatismes ne se figent."
+   },
+   {
     "titre": "La boucle de l'habitude",
     "texte": "Le journaliste américain Charles Duhigg a popularisé une idée très parlante dans son livre Le pouvoir des habitudes. Toute habitude repose sur une boucle en trois temps. D'abord un signal, un déclencheur. Ensuite une routine, c'est à dire le comportement lui même. Enfin une récompense, ce petit bénéfice que ton cerveau apprécie. Prends l'exemple du grignotage au bureau. Le signal, c'est peut être le coup de fatigue de seize heures. La routine, c'est d'aller au distributeur. La récompense, ce n'est pas forcément le chocolat, c'est souvent la pause et la discussion avec un collègue. Comprendre cette boucle change tout. Si tu identifies la vraie récompense, tu peux garder le signal et la récompense, mais remplacer la routine par quelque chose de plus sain, comme une courte marche avec ce même collègue."
    },
@@ -18,15 +22,23 @@
     "texte": "Dans Un rien peut tout changer, l'auteur James Clear prolonge cette boucle et propose quatre règles pour créer une bonne habitude. Première règle, rends la évidente. Si tu veux lire le soir, pose le livre sur ton oreiller. Deuxième règle, rends la attirante, par exemple en l'associant à quelque chose que tu aimes, comme écouter ton podcast préféré uniquement pendant ton footing. Troisième règle, rends la facile. Réduis au maximum les frictions, prépare tes affaires de sport la veille. Quatrième règle, rends la satisfaisante, pour que ton cerveau ait envie de recommencer. Cocher une case dans un calendrier suffit souvent. Et pour te débarrasser d'une mauvaise habitude, tu inverses tout. Tu la rends invisible, peu attirante, difficile et insatisfaisante. Range la console dans un placard, et le jeu devient moins tentant."
    },
    {
+    "titre": "Défaire une mauvaise habitude",
+    "texte": "Supprimer une habitude est souvent plus difficile que d'en créer une. La raison est simple. Le signal continue d'apparaître, et le cerveau attend toujours sa récompense. Lutter de front, en se répétant je ne dois plus y penser, marche mal. Le psychologue américain Daniel Wegner l'a montré avec une expérience devenue célèbre. Il demandait à des participants de ne surtout pas penser à un ours blanc pendant quelques minutes, et de sonner une cloche chaque fois que l'ours leur venait à l'esprit. La cloche sonnait encore et encore. Et quand on les autorisait ensuite à y penser, ceux qui avaient d'abord lutté y pensaient davantage que les autres. Chercher à chasser une pensée a tendance à la ramener. Pour une habitude, c'est un peu pareil. Mieux vaut remplacer que supprimer. Les thérapeutes comportementaux utilisent depuis les années soixante dix une méthode appelée l'inversion d'habitude, mise au point par Nathan Azrin et Gregory Nunn, notamment contre le fait de se ronger les ongles. Elle tient en deux temps. D'abord, apprendre à repérer le moment précis où le geste commence, et ce qui le déclenche. Ensuite, préparer un geste de remplacement, incompatible avec le premier, comme serrer doucement le poing ou poser les mains à plat. Tu peux appliquer ce principe à bien d'autres habitudes. Repère le signal, garde le besoin qu'il y a derrière, et choisis à l'avance la nouvelle réponse."
+   },
+   {
     "titre": "Commencer tout petit",
     "texte": "Une erreur très courante, c'est de viser trop grand trop vite. Tu décides de courir une heure tous les matins, et au bout de quatre jours tu abandonnes. James Clear propose la règle des deux minutes. Ta nouvelle habitude doit pouvoir démarrer en moins de deux minutes. Pas courir une heure, mais enfiler tes baskets. Pas écrire un livre, mais écrire une phrase. Ça paraît ridicule, et pourtant c'est redoutablement efficace. L'idée, c'est d'abord de devenir quelqu'un qui se présente au rendez vous, chaque jour. Une fois l'habitude ancrée, tu augmentes progressivement. Le chercheur BJ Fogg, de l'université Stanford, défend une approche proche avec ses toutes petites habitudes. Il conseille aussi d'accrocher la nouvelle action à une habitude existante. Par exemple, après avoir lancé la machine à café, je fais dix respirations profondes."
+   },
+   {
+    "titre": "La volonté n'est pas la clé",
+    "texte": "On pense souvent que les gens qui ont de bonnes habitudes ont simplement plus de volonté. La recherche raconte une histoire un peu différente. Dans une étude menée en Allemagne par Wilhelm Hofmann et ses collègues, des volontaires recevaient plusieurs fois par jour un signal sur un appareil et devaient indiquer s'ils ressentaient une tentation, et s'ils y résistaient. Surprise, les personnes réputées avoir une grande maîtrise d'elles mêmes ne passaient pas plus de temps à résister. Au contraire, elles déclaraient moins de tentations, et moins d'efforts pour y faire face. Autrement dit, elles avaient organisé leur vie pour ne pas avoir à lutter. Pas de biscuits dans le placard, un réveil posé loin du lit, des affaires prêtes la veille. Tu as peut être aussi entendu parler de l'idée selon laquelle la volonté serait comme une batterie qui se vide au fil de la journée. Le psychologue Roy Baumeister l'a défendue pendant des années sous le nom d'épuisement de l'ego. Mais de grandes tentatives de réplication, menées en parallèle dans de nombreux laboratoires, n'ont pas retrouvé d'effet net. Le débat continue, mais cette théorie n'est plus considérée comme acquise. La leçon reste utile. Plutôt que de compter sur ta force de caractère, mise sur ton environnement et sur des automatismes. Une bonne habitude, c'est justement une action qui ne demande plus d'effort de volonté."
    },
    {
     "titre": "Le temps et l'identité",
     "texte": "Combien de temps faut il pour installer une habitude ? On entend souvent vingt et un jours, mais c'est un mythe. Une étude menée à Londres par la chercheuse Phillippa Lally a montré que la durée varie énormément selon les personnes et selon l'action, avec une moyenne autour de deux mois. Donc sois patient avec toi même. Bonne nouvelle, rater un jour ne ruine pas tout. Ce qui compte, c'est de ne pas rater deux fois de suite. Enfin, James Clear insiste sur un point profond. Les habitudes les plus solides sont liées à ton identité. Au lieu de dire je veux arrêter de fumer, dis je suis quelqu'un qui ne fume pas. Au lieu de je dois faire du sport, je suis une personne active. Chaque petite action devient alors un vote pour la personne que tu veux devenir."
    }
   ],
-  "resume": "En résumé : une habitude repose sur une boucle signal, routine, récompense. Pour en créer une, rends la évidente, attirante, facile et satisfaisante, commence tout petit et relie la à ton identité.",
+  "resume": "En résumé : une habitude naît de la répétition dans un même contexte et repose sur une boucle signal, routine, récompense. Pour en créer une, rends la évidente, attirante, facile et satisfaisante, commence tout petit et relie la à ton identité. Pour en défaire une, remplace la routine plutôt que de lutter de front, et profite des changements de vie. Enfin, mise sur ton environnement plus que sur ta volonté.",
   "quiz": [
    {
     "q": "Quelles sont les trois étapes de la boucle de l'habitude selon Charles Duhigg ?",
@@ -47,6 +59,26 @@
    {
     "q": "Comment rendre une mauvaise habitude moins tentante ?",
     "r": "La rendre invisible, peu attirante, difficile et insatisfaisante."
+   },
+   {
+    "q": "Selon Wendy Wood, quelle part de nos actions quotidiennes relève de l'habitude ?",
+    "r": "Un peu plus de quatre actions sur dix."
+   },
+   {
+    "q": "Pourquoi un déménagement est il une bonne occasion de changer d'habitudes ?",
+    "r": "Parce que les anciens signaux disparaissent et que les vieux automatismes perdent leur emprise."
+   },
+   {
+    "q": "Que montre l'expérience de l'ours blanc de Daniel Wegner ?",
+    "r": "Que chercher à chasser une pensée a tendance à la faire revenir."
+   },
+   {
+    "q": "En quoi consiste l'inversion d'habitude ?",
+    "r": "Repérer le début du geste et le remplacer par un geste incompatible."
+   },
+   {
+    "q": "Selon l'étude de Wilhelm Hofmann, que font les personnes qui se maîtrisent bien ?",
+    "r": "Elles s'exposent à moins de tentations au lieu de résister davantage."
    }
   ]
  },
@@ -61,6 +93,10 @@
     "texte": "Les psychologues distinguent souvent deux sortes de motivation. La motivation extrinsèque vient de l'extérieur. Tu fais quelque chose pour obtenir une récompense ou éviter une punition. Un salaire, une prime, une bonne note, la peur d'un reproche du chef. La motivation intrinsèque, elle, vient de l'intérieur. Tu fais l'activité parce qu'elle te plaît, parce qu'elle a du sens, parce que tu es curieux. Pense à un enfant qui construit une cabane pendant des heures sans que personne ne le lui demande. Les deux formes existent chez tout le monde et se mélangent au quotidien. Mais les recherches montrent que la motivation intrinsèque est généralement plus durable. Elle tient mieux dans la difficulté, elle nourrit la créativité, et elle procure davantage de satisfaction. Toute la question est donc de savoir comment la cultiver."
    },
    {
+    "titre": "Le cerveau et l'envie",
+    "texte": "Que se passe t il dans le cerveau quand tu as envie de quelque chose ? On cite souvent la dopamine, présentée comme la molécule du plaisir. C'est en réalité plus subtil. Dans les années quatre vingt et quatre vingt dix, le neuroscientifique Wolfram Schultz a enregistré l'activité de neurones à dopamine chez des singes. Au début, ces neurones s'activaient quand l'animal recevait une goutte de jus. Mais une fois que le singe avait appris qu'un signal lumineux annonçait le jus, ils s'activaient au moment du signal, et non plus au moment de la récompense. Et si le jus promis n'arrivait pas, leur activité chutait. La dopamine semble donc liée à l'anticipation, et à l'écart entre ce qu'on attend et ce qu'on obtient. Le chercheur Kent Berridge, de l'université du Michigan, va dans le même sens. Il distingue le fait de vouloir et le fait d'aimer. La dopamine alimente surtout le vouloir, l'élan vers quelque chose, alors que le plaisir lui même dépend d'autres circuits. Ça aide à comprendre pourquoi on peut avoir une envie pressante de consulter son téléphone sans y prendre vraiment de plaisir. Les notifications imprévisibles entretiennent ce désir, un peu comme une machine à sous. Bonne nouvelle, ce même mécanisme peut jouer en ta faveur. Anticiper le plaisir d'un objectif atteint, ou voir clairement ses progrès, nourrit aussi l'envie d'avancer."
+   },
+   {
     "titre": "La théorie de l'autodétermination",
     "texte": "Deux chercheurs américains, Edward Deci et Richard Ryan, ont consacré leur carrière à cette question. Leur théorie de l'autodétermination identifie trois besoins psychologiques fondamentaux. Le premier, c'est l'autonomie. Tu as besoin de sentir que tu choisis, que tu as ton mot à dire. Le deuxième, c'est la compétence. Tu as besoin de sentir que tu progresses et que tu es capable. Le troisième, c'est l'appartenance, le sentiment d'être relié aux autres et de compter pour eux. Quand ces trois besoins sont nourris, la motivation intrinsèque s'épanouit. Quand ils sont frustrés, elle s'étiole. Au travail, c'est très concret. Un manager qui explique le pourquoi d'une tâche, qui laisse choisir la méthode, qui donne des retours sur les progrès et qui crée un bon esprit d'équipe, met toutes les chances de son côté."
    },
@@ -73,11 +109,19 @@
     "texte": "Deux autres ressorts sont particulièrement puissants. Le premier, c'est le sens. Quand tu sais à quoi sert ce que tu fais, et pour qui, tu trouves plus facilement l'énergie. Un agent d'entretien dans un hôpital qui se voit comme participant à la guérison des patients vit son travail très différemment de celui qui pense juste nettoyer des couloirs. Le second ressort, c'est le sentiment de progresser. La chercheuse Teresa Amabile, de Harvard, a analysé des milliers de journaux de bord de salariés. Elle a constaté que les meilleures journées étaient celles où les gens avaient fait un pas en avant, même petit, dans un travail qui comptait pour eux. Elle appelle ça le principe du progrès. Donc découpe tes grands projets, et prends le temps de remarquer chaque petite victoire."
    },
    {
+    "titre": "Des objectifs qui donnent envie",
+    "texte": "Les psychologues Edwin Locke et Gary Latham ont étudié pendant des décennies l'effet des objectifs sur la performance. Leur conclusion principale est solide et a été confirmée par des centaines d'études. Un objectif précis et ambitieux mène généralement à de meilleurs résultats qu'une vague consigne du genre, fais de ton mieux. Pourquoi ? Parce qu'un but clair oriente l'attention, mobilise l'effort, pousse à persévérer et à chercher de meilleures stratégies. Dire je vais lire plus, c'est flou. Dire je lis vingt pages chaque soir avant de dormir, ça te donne un repère. Locke et Latham ajoutent deux conditions. D'abord, il faut des retours réguliers pour savoir où tu en es. Un objectif sans aucune mesure du progrès perd vite sa force. Ensuite, il faut un réel engagement. Un objectif imposé, auquel tu ne crois pas, motive peu. Ils signalent aussi une nuance importante. Quand une tâche est nouvelle et complexe, viser un chiffre de performance peut être contre productif. Mieux vaut alors se fixer un objectif d'apprentissage, par exemple découvrir trois façons différentes de résoudre le problème. Et d'autres chercheurs mettent en garde contre les objectifs trop serrés ou mal choisis, qui peuvent pousser à tricher ou à négliger tout ce qui n'est pas mesuré. Un bon objectif est un outil, pas une fin en soi."
+   },
+   {
+    "titre": "Le piège de la rêverie positive",
+    "texte": "On entend souvent qu'il suffit de visualiser son succès pour l'attirer. La psychologue Gabriele Oettingen, de l'université de New York, a testé cette idée, et ses résultats sont surprenants. Dans plusieurs études, les personnes qui se laissaient aller à des rêveries très positives sur leur avenir faisaient en moyenne moins d'efforts, et obtenaient parfois de moins bons résultats. Par exemple, de jeunes diplômés qui fantasmaient beaucoup sur l'emploi idéal envoyaient moins de candidatures et recevaient moins d'offres que les autres, deux ans plus tard. Son explication, c'est que l'esprit savoure déjà la réussite imaginée, ce qui réduit l'énergie mobilisée pour l'atteindre. Rêver n'est pas mauvais pour autant. Oettingen propose de compléter le rêve par une étape de réalisme, qu'elle appelle le contraste mental. Elle en a tiré une méthode en quatre temps, connue sous le nom anglais de WOOP. Le souhait, d'abord, ce que tu veux vraiment. Le résultat, ensuite, le meilleur effet que tu imagines. Puis l'obstacle, ce qui, en toi, risque de te freiner, comme la fatigue ou la peur du regard des autres. Enfin, le plan, sous la forme, si tel obstacle surgit, alors je ferai telle chose. Cette dernière étape reprend les intentions de mise en œuvre étudiées par Peter Gollwitzer. Les deux approches combinées ont donné des résultats encourageants dans de nombreuses études."
+   },
+   {
     "titre": "N'attends pas d'être motivé",
     "texte": "Dernière idée, peut être la plus utile. On croit souvent qu'il faut d'abord être motivé pour agir. En réalité, c'est fréquemment l'inverse. C'est en commençant que l'envie arrive. Tu n'as pas envie d'aller courir, mais une fois dehors depuis cinq minutes, tu es content d'y être. Tu repousses ce dossier, mais après un quart d'heure dessus, tu es lancé. Donc ne compte pas uniquement sur l'inspiration du moment, elle est capricieuse. Appuie toi plutôt sur des routines, des horaires fixes, des engagements pris avec d'autres. Raconte ton objectif à un ami, inscris toi à un cours avec un collègue. Et sois indulgent les jours sans. La motivation fluctue naturellement, c'est humain. L'important, c'est d'avoir construit un cadre qui te fait avancer même quand l'élan n'est pas au rendez vous."
    }
   ],
-  "resume": "En résumé : la motivation la plus durable vient de l'intérieur et se nourrit d'autonomie, de compétence, d'appartenance, de sens et de petits progrès. Et souvent, c'est l'action qui crée l'envie, pas l'inverse.",
+  "resume": "En résumé : la motivation la plus durable vient de l'intérieur et se nourrit d'autonomie, de compétence, d'appartenance, de sens et de petits progrès. La dopamine alimente surtout l'envie et l'anticipation. Des objectifs précis et ambitieux aident, à condition d'avoir des retours, et il vaut mieux confronter ses rêves aux obstacles que de seulement les savourer. Et souvent, c'est l'action qui crée l'envie, pas l'inverse.",
   "quiz": [
    {
     "q": "Quelle est la différence entre motivation intrinsèque et extrinsèque ?",
@@ -98,6 +142,26 @@
    {
     "q": "Faut il attendre d'être motivé pour agir ?",
     "r": "Non, c'est souvent en commençant que la motivation arrive."
+   },
+   {
+    "q": "Selon Kent Berridge, la dopamine alimente t elle surtout le vouloir ou le plaisir ?",
+    "r": "Surtout le vouloir, l'envie, plus que le plaisir lui même."
+   },
+   {
+    "q": "Qu'a observé Wolfram Schultz une fois que le singe connaissait le signal ?",
+    "r": "Les neurones à dopamine s'activaient au signal, et non plus à la récompense."
+   },
+   {
+    "q": "Quel type d'objectif mène aux meilleurs résultats selon Locke et Latham ?",
+    "r": "Un objectif précis et ambitieux, avec des retours réguliers."
+   },
+   {
+    "q": "Que montre Gabriele Oettingen sur les rêveries très positives ?",
+    "r": "Qu'elles peuvent réduire l'effort fourni pour atteindre le but."
+   },
+   {
+    "q": "Quelles sont les quatre étapes de la méthode WOOP ?",
+    "r": "Le souhait, le résultat, l'obstacle et le plan."
    }
   ]
  },
@@ -112,8 +176,16 @@
     "texte": "Tu as sûrement déjà vécu ça. Un dossier important t'attend, et tu te retrouves à ranger ton bureau, à trier tes mails ou à regarder des vidéos. Puis tu culpabilises. Première chose à savoir, la procrastination n'est pas de la paresse. Une personne paresseuse ne veut rien faire et ne s'en inquiète pas. Celui qui procrastine, lui, veut faire, s'en veut de ne pas faire, et s'agite souvent beaucoup à côté. Le chercheur canadien Timothy Pychyl, qui étudie le sujet depuis des années, la décrit plutôt comme un problème de gestion des émotions. Face à une tâche qui provoque un malaise, de l'ennui, de l'anxiété, de la peur de mal faire, ton cerveau choisit le soulagement immédiat. Tu évites l'émotion désagréable, mais tu la retrouves en pire un peu plus tard."
    },
    {
+    "titre": "Un phénomène très répandu",
+    "texte": "Si tu procrastines, rassure toi, tu es en nombreuse compagnie. Le chercheur canadien Piers Steel, de l'université de Calgary, a rassemblé des centaines d'études sur le sujet dans une vaste synthèse publiée en deux mille sept. Il estime qu'environ quinze à vingt pour cent des adultes sont des procrastinateurs chroniques, et que chez les étudiants, une large majorité reconnaît remettre régulièrement les choses à plus tard. Piers Steel a aussi proposé une théorie pour expliquer le phénomène. Ton envie de te mettre à une tâche dépend de deux choses qui la poussent vers le haut, ta confiance dans ta capacité à réussir, et la valeur que tu accordes au résultat. Et de deux choses qui la tirent vers le bas, ton impulsivité, et le temps qui te sépare de la récompense. Plus le bénéfice est lointain, moins il pèse face à une distraction immédiate. C'est pour ça que tout s'accélère à l'approche de l'échéance. Une expérience de Dan Ariely et Klaus Wertenbroch, menée avec des étudiants, l'illustre bien. Ceux qui pouvaient fixer eux mêmes des dates de remise intermédiaires pour leurs devoirs s'en sortaient mieux que ceux qui n'avaient qu'une seule date finale. Mais ceux à qui l'on imposait des échéances régulières, bien espacées, réussissaient encore mieux. Moralité, découpe tes projets en étapes datées, et si possible, fais valider ces dates par quelqu'un d'autre."
+   },
+   {
     "titre": "Le soi présent contre le soi futur",
     "texte": "Pour comprendre la procrastination, imagine qu'il y a deux personnes en toi. Le toi d'aujourd'hui et le toi de demain. Le toi d'aujourd'hui veut se sentir bien tout de suite. Il refile volontiers la corvée au toi de demain, comme s'il s'agissait d'un étranger. Le psychologue Hal Hershfield a d'ailleurs montré que, dans le cerveau, penser à soi dans le futur ressemble un peu à penser à quelqu'un d'autre. C'est pour ça qu'on remet si facilement à plus tard. Une astuce consiste à te rapprocher de ce toi futur. Imagine concrètement ce que tu ressentiras vendredi soir si le rapport est bouclé, ou au contraire si tu dois le finir dans la panique. Rends ce futur vivant et personnel, et la tâche d'aujourd'hui retrouve de l'importance."
+   },
+   {
+    "titre": "La peur d'échouer",
+    "texte": "Derrière beaucoup de procrastination se cache une peur, celle d'échouer ou d'être jugé. Les psychologues américains Steven Berglas et Edward Jones ont décrit dès la fin des années soixante dix un mécanisme étonnant, l'auto handicap. Il s'agit de se mettre soi même des bâtons dans les roues avant une épreuve, pour avoir une excuse toute prête en cas d'échec. Réviser seulement la veille au soir en est un exemple typique. Si la note est mauvaise, ce n'est pas que tu manques de capacités, c'est que tu t'y es pris trop tard. Et si elle est bonne, tu es d'autant plus fier. Le calcul protège l'image de soi, mais il coûte cher en résultats. Le perfectionnisme joue aussi un rôle, avec une nuance intéressante. Les recherches, notamment celles de la psychologue Fuschia Sirois, distinguent deux facettes. Viser haut et aimer le travail bien fait n'est pas vraiment lié à la procrastination. En revanche, la peur obsédante de faire des erreurs et le souci permanent du regard des autres y sont nettement associés. Si tu reconnais ce schéma, pose toi une question simple. Qu'est ce qui se passerait concrètement si mon premier jet était moyen ? La réponse est souvent rassurante. Un brouillon imparfait se corrige, une page blanche, jamais. Autorise toi une première version franchement médiocre, tu l'amélioreras ensuite."
    },
    {
     "titre": "Rendre le premier pas ridicule",
@@ -124,11 +196,15 @@
     "texte": "La volonté seule est une ressource fragile. Mieux vaut organiser ton environnement pour qu'il travaille pour toi. Si ton téléphone est sur le bureau, il va t'appeler toutes les trois minutes. Mets le dans une autre pièce, ou en mode avion. Ferme les onglets inutiles. Coupe les notifications de messagerie pendant tes plages de concentration. Tu peux aussi utiliser ce que les psychologues appellent les intentions de mise en œuvre, étudiées par Peter Gollwitzer. Au lieu de dire je vais m'y mettre cette semaine, tu dis mardi à neuf heures, au bureau, j'ouvre le dossier client. Préciser le moment et le lieu augmente nettement les chances de passer à l'action. Et si possible, engage toi auprès de quelqu'un. Annoncer à un collègue que tu lui envoies le document jeudi crée une saine pression."
    },
    {
+    "titre": "Le prix à payer",
+    "texte": "La procrastination ne fait pas que retarder le travail. Elle a aussi un coût pour le bien être. En mille neuf cent quatre vingt dix sept, les psychologues Dianne Tice et Roy Baumeister ont suivi des étudiants pendant un semestre. Au début, ceux qui procrastinaient semblaient plutôt avantagés. Ils étaient moins stressés et se disaient en meilleure santé que les autres. Mais à l'approche de la fin du semestre, la tendance s'inversait. Ils étaient plus stressés, signalaient davantage de symptômes de maladie, et leurs notes étaient moins bonnes. Sur l'ensemble de la période, ils s'en sortaient moins bien. Le soulagement du début se payait avec intérêts à la fin. D'autres travaux, notamment ceux de Fuschia Sirois, ont relié la procrastination chronique à plus de stress et à de moins bonnes habitudes de santé, comme repousser un rendez vous médical ou l'activité physique. Une grande étude suédoise menée auprès de plusieurs milliers d'étudiants a aussi trouvé des liens avec l'anxiété, un sommeil de moins bonne qualité ou la solitude. Attention, ces études montrent des associations. Elles ne prouvent pas que la procrastination cause tous ces problèmes, qui peuvent aussi l'entretenir en retour. Mais elles rappellent une chose. Repousser une tâche, ce n'est pas l'effacer. C'est souvent emprunter du calme aujourd'hui, et le rembourser plus cher demain."
+   },
+   {
     "titre": "Se pardonner pour avancer",
     "texte": "Voici un point qui surprend souvent. Se critiquer durement après avoir procrastiné n'aide pas, au contraire. Une étude menée par Michael Wohl et Timothy Pychyl auprès d'étudiants a montré que ceux qui s'étaient pardonné d'avoir repoussé leurs révisions procrastinaient moins à l'examen suivant. Pourquoi ? Parce que la culpabilité est une émotion désagréable, et que la procrastination sert justement à fuir les émotions désagréables. Plus tu te flagelles, plus tu as envie de fuir. Donc parle toi comme tu parlerais à un ami. Oui, j'ai traîné, ça arrive à tout le monde, qu'est ce que je peux faire maintenant ? Cette bienveillance n'est pas de la complaisance. C'est une façon de retrouver de l'énergie pour repartir. Et souviens toi, l'objectif n'est pas la perfection, c'est simplement de faire le prochain petit pas."
    }
   ],
-  "resume": "En résumé : la procrastination est surtout une fuite face à une émotion désagréable. Pour la vaincre, rends le premier pas minuscule, aménage ton environnement, fixe un moment précis et pardonne toi tes écarts.",
+  "resume": "En résumé : la procrastination touche une grande partie d'entre nous et relève surtout d'une fuite face à une émotion désagréable, souvent la peur d'échouer ou d'être jugé. Elle soulage sur le moment mais coûte cher ensuite. Pour la vaincre, rends le premier pas minuscule, fixe des échéances intermédiaires, aménage ton environnement, choisis un moment précis et pardonne toi tes écarts.",
   "quiz": [
    {
     "q": "Selon Timothy Pychyl, la procrastination est surtout un problème de quoi ?",
@@ -149,6 +225,26 @@
    {
     "q": "Quelle est la règle des cinq minutes ?",
     "r": "S'engager à travailler seulement cinq minutes, avec le droit d'arrêter ensuite."
+   },
+   {
+    "q": "Selon Piers Steel, quelle part des adultes procrastine de façon chronique ?",
+    "r": "Environ quinze à vingt pour cent."
+   },
+   {
+    "q": "Pourquoi une récompense lointaine motive t elle peu ?",
+    "r": "Parce que plus le bénéfice est éloigné, moins il pèse face à une distraction immédiate."
+   },
+   {
+    "q": "Qu'est ce que l'auto handicap ?",
+    "r": "Se créer un obstacle avant une épreuve pour avoir une excuse en cas d'échec."
+   },
+   {
+    "q": "Quelle facette du perfectionnisme est liée à la procrastination ?",
+    "r": "La peur de faire des erreurs et d'être jugé par les autres."
+   },
+   {
+    "q": "Qu'ont montré Tice et Baumeister chez les étudiants procrastinateurs ?",
+    "r": "Moins de stress au début, mais plus de stress, de maladies et de moins bonnes notes à la fin."
    }
   ]
  },
@@ -163,6 +259,10 @@
     "texte": "Pendant longtemps, on a mesuré l'intelligence surtout avec le quotient intellectuel, la logique, la mémoire, le raisonnement. Puis, en mille neuf cent quatre vingt dix, deux psychologues américains, Peter Salovey et John Mayer, ont proposé la notion d'intelligence émotionnelle. L'idée, c'est qu'il existe une compétence à part entière qui consiste à percevoir, comprendre et réguler les émotions. Le journaliste scientifique Daniel Goleman a ensuite rendu le concept célèbre dans le monde entier avec son livre L'intelligence émotionnelle, paru en mille neuf cent quatre vingt quinze. Tu connais sûrement des gens brillants sur le papier, mais incapables de travailler en équipe, qui s'emportent pour un rien ou qui ne remarquent jamais quand quelqu'un va mal. Et à l'inverse, des personnes qui savent apaiser une réunion tendue. C'est de ça qu'on parle."
    },
    {
+    "titre": "La nature des émotions",
+    "texte": "Avant d'aller plus loin, demandons nous ce qu'est une émotion. À la fin des années soixante, le psychologue américain Paul Ekman est parti en Papouasie Nouvelle Guinée, auprès d'un peuple qui avait eu très peu de contacts avec l'Occident. Il a montré que ces personnes reconnaissaient sur des photos les mêmes expressions du visage que les Américains. Il en a conclu qu'il existe des émotions de base, universelles, au nombre de six. La joie, la tristesse, la peur, la colère, la surprise et le dégoût. Cette idée a eu un immense succès. On la retrouve d'ailleurs dans le dessin animé Vice Versa, pour lequel Ekman a servi de conseiller. Mais elle est aujourd'hui discutée. La neuroscientifique Lisa Feldman Barrett, de l'université Northeastern à Boston, défend une autre vision. Selon elle, les émotions ne sont pas des programmes tout prêts dans le cerveau, mais des constructions. Ton cerveau interprète en permanence les sensations de ton corps, un cœur qui accélère, un ventre noué, à la lumière du contexte et de ce que tu as appris. Le même cœur qui bat peut devenir de la peur, de l'excitation ou de l'impatience. Les chercheurs ne sont pas d'accord sur tout, mais une idée fait plutôt consensus. Comprendre ses émotions passe par l'attention à ses sensations, et par la richesse du vocabulaire qu'on possède pour les décrire."
+   },
+   {
     "titre": "Se connaître soi même",
     "texte": "Daniel Goleman décrit plusieurs piliers. Le premier, c'est la conscience de soi. C'est la capacité à reconnaître ce que tu ressens au moment où tu le ressens. Ça paraît évident, mais beaucoup de gens vivent leurs émotions sans les nommer. Ils disent juste je suis mal, ou ça m'énerve. Or mettre un mot précis sur une émotion aide déjà à la calmer. Le chercheur Matthew Lieberman, à l'université de Californie, a observé que le simple fait de nommer une émotion réduit l'activité de l'amygdale, une zone du cerveau liée aux réactions de peur. Essaie donc d'affiner ton vocabulaire. Est ce que tu es en colère, frustré, déçu, inquiet, vexé ? Chaque mot pointe vers un besoin différent. Et prends l'habitude, plusieurs fois par jour, de te demander simplement, là, maintenant, qu'est ce que je ressens ?"
    },
@@ -171,15 +271,23 @@
     "texte": "Le deuxième pilier, c'est la maîtrise de soi. Attention, maîtriser ses émotions ne veut pas dire les étouffer. Une émotion est une information utile. La colère signale souvent une injustice, la peur un danger, la tristesse une perte. Le but, c'est de ne pas te laisser emporter au point d'agir contre ton intérêt. Daniel Goleman parle de détournement émotionnel, ce moment où l'émotion prend le contrôle avant que la réflexion ait eu le temps d'intervenir. Tu envoies un mail cinglant et tu le regrettes une heure après. Pour éviter ça, crée un espace entre l'émotion et la réaction. Respire profondément quelques fois. Attends avant de répondre à un message qui t'agace. Va marcher cinq minutes. Avec le temps, tu apprends à choisir ta réponse au lieu de subir ton premier réflexe."
    },
    {
+    "titre": "Changer de regard sur la situation",
+    "texte": "Toutes les façons de réguler une émotion ne se valent pas. Le psychologue James Gross, de l'université Stanford, a beaucoup comparé deux stratégies. La première, c'est la suppression. Tu ressens de la colère, mais tu la caches, tu serres les dents et tu fais bonne figure. La seconde, c'est la réévaluation. Tu changes ta façon d'interpréter la situation avant que l'émotion ne s'emballe. Prenons un exemple. Un collègue ne répond pas à ton message important. Tu peux penser, il me méprise. Ou bien, il est sûrement débordé avec sa présentation de demain. La seconde lecture ne nie pas le problème, mais elle change l'émotion qui en découle. Les travaux de James Gross et d'Oliver John ont montré que les personnes qui utilisent souvent la réévaluation ont, en moyenne, plus d'émotions positives, de meilleures relations et un meilleur bien être. À l'inverse, la suppression habituelle est associée à moins de bien être. Dans des expériences de laboratoire, cacher ses émotions pendant une conversation gênait même la mémoire de ce qui avait été dit, et mettait l'interlocuteur plus mal à l'aise. Bien sûr, se retenir est parfois indispensable, face à un client ou en pleine réunion. Le problème vient surtout quand ça devient la seule stratégie. Réévaluer demande un peu d'entraînement, mais une question aide beaucoup. Y a t il une autre façon de voir ce qui vient de se passer ?"
+   },
+   {
     "titre": "Comprendre les autres",
     "texte": "Le troisième pilier, c'est l'empathie. C'est la capacité à percevoir ce que ressentent les autres, même quand ils ne le disent pas. Elle passe beaucoup par l'observation. Le ton de la voix, la posture, un regard fuyant, une réponse plus courte que d'habitude. Au travail, un collègue qui dit oui, oui, pas de souci, avec un air fermé n'est peut être pas si d'accord que ça. L'empathie ne veut pas dire être d'accord avec tout le monde ni porter les problèmes de chacun. Elle veut dire comprendre le point de vue de l'autre avant de répondre. Pour la développer, pose des questions ouvertes, écoute vraiment sans préparer ta réponse, et vérifie ta compréhension. Par exemple, si je comprends bien, tu te sens débordé par ce projet, c'est ça ? Cette simple phrase change souvent l'ambiance."
+   },
+   {
+    "titre": "Un concept discuté",
+    "texte": "Il faut être honnête, l'intelligence émotionnelle a aussi ses critiques. D'abord sur la façon de la mesurer. Peter Salovey et John Mayer, avec David Caruso, ont conçu un test qui ressemble à un examen. On te montre des visages, des situations, et tu dois identifier les émotions ou choisir la meilleure façon de réagir. D'autres outils, beaucoup plus répandus, sont de simples questionnaires où l'on se décrit soi même. Problème, ces questionnaires recoupent largement des traits de personnalité déjà connus, comme la stabilité émotionnelle ou l'amabilité, et l'on se juge souvent mal soi même. Ensuite, sur les promesses. Le succès du livre de Daniel Goleman a nourri l'idée que l'intelligence émotionnelle compterait plus que le quotient intellectuel pour réussir. Plusieurs chercheurs, y compris Mayer et Salovey eux mêmes, ont jugé ces affirmations exagérées. Les grandes synthèses d'études trouvent un lien réel avec la performance au travail, mais modeste, et plus marqué dans les métiers où l'on gère beaucoup d'émotions, comme la vente, le soin ou le service client. Faut il pour autant jeter le concept ? Non. Les compétences dont on parle, nommer ses émotions, les réguler, comprendre les autres, restent précieuses et s'apprennent. Mais il vaut mieux voir l'intelligence émotionnelle comme un ensemble de savoir faire utiles que comme une clé magique du succès."
    },
    {
     "titre": "Les relations et le travail",
     "texte": "Enfin, Daniel Goleman parle des compétences sociales. C'est l'art d'utiliser tout ce qui précède dans tes relations. Gérer un désaccord sans casser le lien, motiver une équipe, donner un retour difficile avec tact, désamorcer une tension. Dans ses travaux sur le leadership, il explique que les qualités émotionnelles prennent une place très importante chez les dirigeants les plus efficaces. Bonne nouvelle, contrairement à certaines idées reçues, l'intelligence émotionnelle n'est pas figée. Elle se développe à tout âge, avec de la pratique. Tu peux commencer petit. Ce soir, repense à un moment de la journée où tu as ressenti une émotion forte. Nomme la. Demande toi ce qui l'a déclenchée et comment tu as réagi. Puis demande toi comment l'autre personne a pu vivre ce moment. C'est un excellent entraînement."
    }
   ],
-  "resume": "En résumé : l'intelligence émotionnelle, popularisée par Daniel Goleman, repose sur la conscience de soi, la maîtrise de soi, l'empathie et les compétences sociales. Elle s'apprend et se travaille à tout âge.",
+  "resume": "En résumé : l'intelligence émotionnelle, popularisée par Daniel Goleman, repose sur la conscience de soi, la maîtrise de soi, l'empathie et les compétences sociales. La nature même des émotions fait débat, entre émotions de base universelles et émotions construites par le cerveau. Pour les réguler, changer de regard sur la situation marche mieux que tout refouler. Le concept a parfois été survendu, mais ces compétences restent utiles et s'apprennent à tout âge.",
   "quiz": [
    {
     "q": "Qui a rendu célèbre la notion d'intelligence émotionnelle ?",
@@ -200,6 +308,26 @@
    {
     "q": "L'intelligence émotionnelle peut elle se développer ?",
     "r": "Oui, elle se travaille à tout âge avec de la pratique."
+   },
+   {
+    "q": "Quelles sont les six émotions de base selon Paul Ekman ?",
+    "r": "La joie, la tristesse, la peur, la colère, la surprise et le dégoût."
+   },
+   {
+    "q": "Quelle chercheuse défend l'idée que les émotions sont construites par le cerveau ?",
+    "r": "La neuroscientifique Lisa Feldman Barrett."
+   },
+   {
+    "q": "Quelles sont les deux stratégies de régulation comparées par James Gross ?",
+    "r": "La suppression et la réévaluation."
+   },
+   {
+    "q": "Laquelle de ces deux stratégies est associée à un meilleur bien être ?",
+    "r": "La réévaluation, qui consiste à changer sa lecture de la situation."
+   },
+   {
+    "q": "Est il prouvé que l'intelligence émotionnelle compte plus que le quotient intellectuel ?",
+    "r": "Non, son lien avec la réussite est réel mais modeste."
    }
   ]
  },
@@ -214,6 +342,10 @@
     "texte": "La communication non violente a été développée par le psychologue américain Marshall Rosenberg, à partir des années soixante. Il s'est notamment inspiré du psychologue Carl Rogers et de son approche centrée sur l'écoute. Rosenberg partait d'une question simple. Pourquoi certaines personnes restent bienveillantes même dans des situations très tendues, alors que d'autres basculent vite dans l'agressivité ? Sa réponse, c'est que notre façon de parler joue un rôle énorme. Juger, accuser, étiqueter, exiger, tout ça provoque chez l'autre de la défense ou de la contre attaque. Il a donc proposé une manière de s'exprimer qui favorise la compréhension. Il l'a résumée dans son livre Les mots sont des fenêtres, ou bien ce sont des murs. Sa méthode repose sur quatre étapes, faciles à retenir, mais qui demandent de l'entraînement."
    },
    {
+    "titre": "Le chacal et la girafe",
+    "texte": "Pour rendre sa méthode vivante, Marshall Rosenberg animait ses ateliers avec deux marionnettes. D'un côté, un chacal. De l'autre, une girafe. Le chacal représente notre façon habituelle de parler, pleine de jugements, de reproches, de comparaisons et d'exigences. Tu es égoïste, c'est de ta faute, tu devrais avoir honte. Rosenberg n'en faisait pas un animal méchant. Pour lui, le chacal exprime maladroitement un besoin qu'il ne sait pas formuler. La girafe, elle, représente le langage de la communication non violente. Rosenberg expliquait l'avoir choisie parce que c'est l'animal terrestre qui a le plus gros cœur, et parce que son long cou lui permet de voir loin et de prendre de la hauteur. Ce jeu de marionnettes peut sembler enfantin, mais il aide beaucoup à repérer ses propres réflexes. Pendant une dispute, tu peux te demander, est ce que je parle chacal ou girafe, là ? Le nom même de la méthode a une histoire. Rosenberg l'a appelée non violente en référence à Gandhi et à son idéal de non violence, qui ne désigne pas seulement l'absence de coups, mais un état d'esprit bienveillant, y compris dans les mots. Certains préfèrent d'ailleurs parler de communication bienveillante. Rosenberg a fondé un centre international pour diffuser sa démarche, et il l'a lui même pratiquée dans des écoles, des prisons et jusque dans des zones de conflit."
+   },
+   {
     "titre": "Observer sans juger",
     "texte": "La première étape, c'est l'observation. Il s'agit de décrire les faits, tels qu'une caméra pourrait les filmer, sans y mêler de jugement. Compare ces deux phrases. Tu es toujours en retard. Et, tu es arrivé à neuf heures vingt pour une réunion prévue à neuf heures. La première est une accusation, avec ce fameux toujours qui pousse l'autre à se défendre. La seconde est un fait, difficile à contester. Pareil à la maison. Tu ne fais jamais rien, devient, la vaisselle est dans l'évier depuis hier soir. Marshall Rosenberg considérait que séparer l'observation de l'évaluation était l'une des choses les plus difficiles, et des plus utiles. Méfie toi des mots comme toujours, jamais, encore, ou des étiquettes comme égoïste, paresseux, irresponsable. Ils transforment un fait en procès."
    },
@@ -222,15 +354,23 @@
     "texte": "La deuxième étape, c'est d'exprimer ce que tu ressens. Pas ce que tu penses de l'autre, mais ton émotion à toi. Je suis inquiet, je suis agacé, je suis découragé, je suis soulagé. Attention à un piège fréquent. Dire je me sens rejeté, ou je me sens manipulé, ce n'est pas vraiment exprimer une émotion. C'est encore une interprétation de ce que l'autre t'a fait. Rosenberg invitait à distinguer les vrais sentiments des pseudo sentiments. Exprimer une émotion demande un peu de courage, surtout au travail où l'on a l'habitude de tout garder pour soi. Mais c'est justement ce qui rend le message humain. Quand tu dis, je suis stressé quand je reçois le dossier la veille au soir, ton collègue entend une personne, pas un reproche. Il a beaucoup moins envie de se défendre."
    },
    {
+    "titre": "Le langage qui déresponsabilise",
+    "texte": "Rosenberg a repéré une autre habitude de langage qui coupe le lien, celle qui nie notre responsabilité. Ce sont des phrases comme, je suis obligé, il faut, on n'a pas le choix, c'est le règlement, tu me mets en colère. Elles donnent l'impression que nos actes et nos émotions nous sont imposés de l'extérieur. Dans son livre, il évoque un exemple extrême, celui d'Adolf Eichmann, l'un des organisateurs de la déportation des Juifs d'Europe, jugé à Jérusalem en mille neuf cent soixante et un. Pour se justifier, Eichmann invoquait sans cesse les ordres reçus et la politique de sa hiérarchie. Un langage où personne n'est responsable de rien. Sans aller jusque là, ce langage est partout dans notre quotidien. Rosenberg proposait un exercice simple, à faire chez soi, au calme, avec une feuille de papier. Écris les choses que tu fais en te disant que tu es obligé. Puis reformule chacune en commençant par, je choisis de, parce que je veux. Je dois appeler ma mère tous les dimanches devient, je choisis d'appeler ma mère parce que je tiens à notre lien. Parfois, la reformulation révèle un vrai besoin. Parfois, elle montre qu'une obligation n'a plus de sens, et qu'on peut la remettre en question. Même chose pour les émotions. Dire tu m'énerves rend l'autre responsable de ton état. Dire je suis énervé parce que j'avais besoin de calme te redonne la main."
+   },
+   {
     "titre": "Le besoin et la demande",
     "texte": "La troisième étape, c'est de relier ton émotion à un besoin. Selon Rosenberg, derrière chaque émotion se cache un besoin satisfait ou non satisfait. Besoin de sécurité, de reconnaissance, de repos, de clarté, de respect, de coopération. Par exemple, je suis stressé parce que j'ai besoin de temps pour préparer correctement la réunion. La quatrième étape, c'est la demande. Une demande concrète, réalisable, formulée positivement. Pas arrête de m'envoyer tout au dernier moment, mais est ce que tu pourrais m'envoyer le dossier le mardi avant midi ? Et surtout, une vraie demande accepte la possibilité d'un non. Si l'autre n'a pas le droit de refuser, c'est une exigence. Le message complet donne quelque chose comme ça. Quand je reçois le dossier la veille au soir, je suis stressé, car j'ai besoin de temps. Pourrais tu me l'envoyer mardi ?"
    },
    {
+    "titre": "Remercier autrement",
+    "texte": "La communication non violente ne sert pas seulement à désamorcer les conflits. Elle propose aussi une façon d'exprimer la gratitude. Rosenberg se méfiait des compliments classiques, du genre tu es génial ou c'est parfait. Même positifs, ce sont encore des jugements. Ils disent ce que tu penses de l'autre, mais pas ce que son geste a changé pour toi. Et ils peuvent mettre une certaine pression, celle de rester génial la prochaine fois. Il proposait donc d'appliquer les mêmes étapes au remerciement. Ce que l'autre a fait, concrètement. Ce que tu as ressenti. Et le besoin que son geste a nourri. Compare. Merci, t'es super. Et, quand tu as repris mon appel client hier pendant que j'étais coincé, j'ai été vraiment soulagé, parce que j'avais besoin de pouvoir compter sur quelqu'un. La seconde phrase est plus longue, mais elle touche bien davantage. La personne sait exactement ce qui a compté, et elle se sent reconnue pour de vrai. C'est aussi valable en famille. Dire à un enfant, tu as rangé tes jouets sans qu'on te le demande, ça me fait plaisir parce que j'ai besoin d'un peu d'ordre dans le salon, lui en apprend plus que bravo, tu es sage. Ce type de remerciement demande quelques secondes de réflexion. C'est peut être la façon la plus agréable de s'entraîner à la méthode."
+   },
+   {
     "titre": "Écouter avec empathie",
-    "texte": "La communication non violente ne sert pas qu'à parler. Elle sert aussi à écouter. Quand quelqu'un t'agresse verbalement, tu peux essayer d'entendre, derrière ses mots, ce qu'il ressent et ce dont il a besoin. Un client qui crie au téléphone que c'est inadmissible exprime peut être de l'inquiétude et un besoin d'être pris au sérieux. Tu peux lui renvoyer, vous êtes vraiment inquiet de ne pas recevoir votre commande à temps, c'est ça ? Souvent, la tension retombe d'un coup, parce que la personne se sent comprise. Bien sûr, la méthode a ses limites. Appliquée de façon mécanique, elle peut sonner faux. L'esprit compte plus que la formule. L'idée de fond, c'est de chercher le lien plutôt que d'avoir raison. Commence par une seule étape, observer sans juger, et tu verras déjà la différence."
+    "texte": "La communication non violente ne sert pas qu'à parler. Elle sert aussi à écouter. Quand quelqu'un t'agresse verbalement, tu peux essayer d'entendre, derrière ses mots, ce qu'il ressent et ce dont il a besoin. Un client qui crie au téléphone que c'est inadmissible exprime peut être de l'inquiétude et un besoin d'être pris au sérieux. Tu peux lui renvoyer, vous êtes vraiment inquiet de ne pas recevoir votre commande à temps, c'est ça ? Souvent, la tension retombe d'un coup, parce que la personne se sent comprise. Bien sûr, la méthode a ses limites. Appliquée de façon mécanique, elle peut sonner faux. Elle peut même devenir un moyen détourné d'imposer ses vues avec des mots doux. Et côté science, les études sur ses effets restent peu nombreuses et souvent de petite taille. L'esprit compte plus que la formule. L'idée de fond, c'est de chercher le lien plutôt que d'avoir raison. Commence par une seule étape, observer sans juger, et tu verras déjà la différence."
    }
   ],
-  "resume": "En résumé : la communication non violente de Marshall Rosenberg repose sur quatre étapes, observer sans juger, exprimer son sentiment, nommer son besoin et formuler une demande concrète. Elle aide aussi à écouter l'autre avec empathie.",
+  "resume": "En résumé : la communication non violente de Marshall Rosenberg repose sur quatre étapes, observer sans juger, exprimer son sentiment, nommer son besoin et formuler une demande concrète. Elle invite à passer du langage du chacal à celui de la girafe, à assumer ses choix plutôt que de dire je suis obligé, et à remercier en disant ce que le geste de l'autre a nourri. Elle aide aussi à écouter avec empathie.",
   "quiz": [
    {
     "q": "Qui a créé la communication non violente ?",
@@ -251,6 +391,26 @@
    {
     "q": "Que faire face à quelqu'un d'agressif selon cette approche ?",
     "r": "Chercher à entendre son émotion et son besoin, et les lui reformuler."
+   },
+   {
+    "q": "Quels animaux Rosenberg utilisait il pour illustrer sa méthode ?",
+    "r": "Le chacal et la girafe."
+   },
+   {
+    "q": "Pourquoi a t il choisi la girafe ?",
+    "r": "Parce qu'elle a le plus gros cœur des animaux terrestres et qu'elle voit loin grâce à son long cou."
+   },
+   {
+    "q": "À qui fait référence le mot non violente ?",
+    "r": "À Gandhi et à son idéal de non violence."
+   },
+   {
+    "q": "Par quelle formule Rosenberg proposait il de remplacer je dois ?",
+    "r": "Par je choisis de, parce que je veux."
+   },
+   {
+    "q": "Que faut il dire pour remercier selon la méthode ?",
+    "r": "Ce que l'autre a fait, ce qu'on a ressenti et le besoin que son geste a nourri."
    }
   ]
  },
@@ -265,6 +425,10 @@
     "texte": "Commençons par une idée importante. Le leadership n'est pas la même chose que le pouvoir hiérarchique. Tu peux être manager sans que personne n'ait vraiment envie de te suivre. Et tu peux n'avoir aucun titre, mais être la personne vers qui tout le monde se tourne quand il y a un problème. Le leadership, c'est la capacité à influencer et à entraîner un groupe vers un objectif commun. Il se manifeste partout. Au travail, bien sûr, mais aussi dans une association, une équipe de sport, une famille. Pendant longtemps, on a cru que c'était un don inné, réservé à quelques personnalités charismatiques. Aujourd'hui, la plupart des spécialistes pensent que c'est surtout un ensemble de comportements qui s'apprennent. Bonne nouvelle, donc, tu peux le développer, quelle que soit ta personnalité."
    },
    {
+    "titre": "Une expérience fondatrice",
+    "texte": "L'une des premières études scientifiques sur le leadership date de la fin des années trente. Le psychologue Kurt Lewin, qui avait quitté l'Allemagne pour les États Unis à l'arrivée des nazis au pouvoir, a mené avec ses collègues Ronald Lippitt et Ralph White une expérience devenue classique. Des groupes de garçons d'une dizaine d'années se retrouvaient après l'école pour des activités manuelles, comme fabriquer des masques de théâtre. Chaque groupe était encadré par un adulte qui adoptait un style précis. Le style autoritaire, où le chef décide de tout, seul. Le style démocratique, où les décisions se prennent en discutant avec le groupe. Et le style du laisser faire, où l'adulte reste passif et n'intervient presque pas. Les résultats ont marqué les esprits. Avec le chef autoritaire, les enfants produisaient beaucoup, mais surtout quand il était là, et l'ambiance était plus tendue, avec davantage d'agressivité ou au contraire de résignation. Avec le chef démocratique, la production était un peu moindre, mais le travail était plus original, l'ambiance plus chaleureuse, et les enfants continuaient même quand l'adulte quittait la pièce. Le laisser faire donnait les moins bons résultats, avec un groupe désorganisé et peu satisfait. Bien sûr, c'était une petite étude, à une autre époque, et on ne peut pas tout en tirer. Mais elle a lancé une idée, largement confirmée depuis. La façon de diriger change profondément le climat d'un groupe."
+   },
+   {
     "titre": "Les styles de leadership",
     "texte": "Daniel Goleman, connu pour ses travaux sur l'intelligence émotionnelle, a décrit plusieurs styles de leadership. Le style directif, qui donne des ordres clairs, utile en cas de crise mais pesant à la longue. Le style visionnaire, qui fixe un cap inspirant et laisse chacun trouver son chemin. Le style collaboratif, qui consulte l'équipe. Le style affiliatif, qui soigne l'harmonie et les relations. Le style coach, qui aide chacun à progresser. Et le style qui montre l'exemple en fixant des standards très élevés. Son message principal, c'est qu'aucun style n'est bon en toutes circonstances. Les leaders efficaces passent de l'un à l'autre selon la situation. Face à un incendie, on n'organise pas une consultation. Mais pour construire un projet sur plusieurs mois, impliquer l'équipe donne de bien meilleurs résultats."
    },
@@ -273,15 +437,23 @@
     "texte": "Une des fonctions essentielles d'un leader, c'est de donner du sens. L'auteur britannique Simon Sinek l'a résumé dans une formule devenue célèbre. Commence par le pourquoi. Selon lui, les gens n'adhèrent pas seulement à ce que tu fais, mais à la raison pour laquelle tu le fais. Imagine deux chefs de chantier. Le premier dit, on doit couler cette dalle avant vendredi. Le second dit, cette dalle, c'est le sol de la future école du quartier, et les enfants doivent pouvoir faire leur rentrée. Le travail est le même, mais l'énergie n'est pas la même. Un bon leader explique les objectifs, mais aussi leur raison d'être. Il relie le travail de chacun à quelque chose de plus grand. Et il le répète souvent, car dans le tourbillon du quotidien, le sens s'oublie vite."
    },
    {
+    "titre": "Transformer plutôt qu'échanger",
+    "texte": "À la fin des années soixante dix, l'historien et politologue américain James MacGregor Burns a proposé une distinction qui a profondément marqué la recherche. D'un côté, le leadership transactionnel. Il repose sur un échange. Tu fais le travail demandé, tu reçois un salaire, une prime, une reconnaissance. Si tu ne le fais pas, il y a des conséquences. C'est utile, et même nécessaire, pour que les règles du jeu soient claires. De l'autre côté, le leadership transformationnel. Ici, le leader cherche à élever les aspirations de son équipe, à donner envie de dépasser ses intérêts immédiats pour un projet commun. Le chercheur Bernard Bass a ensuite précisé ce style en quatre dimensions. Être un modèle, qui inspire le respect par son comportement. Motiver en partageant une vision enthousiasmante. Stimuler intellectuellement, en encourageant chacun à remettre en question les habitudes et à proposer des idées. Et porter une attention individuelle à chaque personne, à ses besoins, à son développement. De nombreuses études associent ce style à davantage de satisfaction et d'engagement dans les équipes. Mais attention à ne pas opposer les deux approches. Bass lui même insistait sur le fait que les meilleurs leaders combinent les deux. Ils tiennent leurs promesses et fixent des règles claires, puis ils ajoutent l'inspiration par dessus. Une vision exaltante ne remplace pas un salaire versé à l'heure."
+   },
+   {
     "titre": "La confiance et la sécurité",
     "texte": "Le leadership repose sur la confiance. Une équipe suit quelqu'un en qui elle a confiance, et ce sentiment se construit par la cohérence entre les paroles et les actes. Si tu demandes de la ponctualité, sois ponctuel. Si tu prônes la transparence, partage l'information. Les recherches d'Amy Edmondson, professeure à Harvard, ont mis en avant une notion clé, la sécurité psychologique. C'est le sentiment, dans une équipe, qu'on peut poser une question, signaler une erreur ou proposer une idée sans risquer d'être humilié ou puni. Google a mené un vaste projet interne pour comprendre ce qui rend une équipe efficace, et la sécurité psychologique est ressortie comme un facteur majeur. Concrètement, un leader la favorise en admettant ses propres erreurs, en remerciant ceux qui alertent sur un problème et en écoutant vraiment."
+   },
+   {
+    "titre": "Le piège du charisme",
+    "texte": "Quand un groupe choisit un chef, il se laisse souvent séduire par l'assurance. Celui qui parle fort, vite, et qui a l'air sûr de lui. Le problème, c'est que l'assurance n'est pas la compétence. Une grande synthèse d'études menée par la chercheuse américaine Emily Grijalva et ses collègues s'est intéressée aux personnalités narcissiques, ces personnes très sûres d'elles, avides d'admiration et peu attentives aux autres. Résultat, elles émergent plus facilement comme leaders dans les groupes, mais elles ne sont pas, en moyenne, plus efficaces une fois en place. Le psychologue Tomas Chamorro Premuzic a prolongé ce constat dans un livre au titre provocateur, qui demande pourquoi tant d'hommes incompétents deviennent des leaders. Selon lui, on confond trop souvent confiance et talent, et l'on écarte des profils plus discrets, plus humbles, qui feraient de meilleurs chefs. Google, de son côté, a mené à la fin des années deux mille un projet interne pour comprendre ce qui fait un bon manager. Les qualités qui ressortaient n'avaient rien de spectaculaire. Être un bon coach, ne pas tout contrôler, s'intéresser au bien être et à la réussite de son équipe, bien communiquer, aider chacun à évoluer. L'expertise technique comptait, mais elle arrivait loin derrière. Retiens donc ceci. Quand tu dois choisir ou évaluer un leader, regarde moins son aisance à parler, et davantage ce que deviennent les gens qui travaillent avec lui."
    },
    {
     "titre": "Servir et faire grandir",
     "texte": "Enfin, une vision du leadership a pris beaucoup d'importance, le leadership serviteur, décrit par l'Américain Robert Greenleaf dans les années soixante dix. L'idée, c'est que le leader est d'abord au service de son équipe. Son rôle n'est pas d'être servi, mais de lever les obstacles, de fournir les moyens et d'aider chacun à donner le meilleur de lui même. Dans cette logique, un bon leader fait grandir les autres. Il délègue de vraies responsabilités, pas seulement les tâches ingrates. Il donne des retours réguliers, précis et bienveillants. Il reconnaît publiquement les réussites et traite les difficultés en privé. Et il prépare sa propre succession. Un indicateur simple pour savoir si tu es un bon leader, c'est de te demander si les personnes autour de toi progressent. Si oui, tu es sur la bonne voie."
    }
   ],
-  "resume": "En résumé : le leadership n'est pas un titre mais un ensemble de comportements qui s'apprennent. Adapter son style, donner du sens, créer la confiance et faire grandir les autres en sont les clés.",
+  "resume": "En résumé : le leadership n'est pas un titre mais un ensemble de comportements qui s'apprennent. Dès la fin des années trente, Kurt Lewin a montré que le style du chef change le climat d'un groupe. Adapter son style, donner du sens, combiner règles claires et inspiration, créer la confiance et faire grandir les autres en sont les clés. Et méfie toi du charisme, car l'assurance n'est pas la compétence.",
   "quiz": [
    {
     "q": "Le leadership est il forcément lié à un poste de chef ?",
@@ -302,6 +474,26 @@
    {
     "q": "Qui a décrit le leadership serviteur ?",
     "r": "L'Américain Robert Greenleaf."
+   },
+   {
+    "q": "Quels trois styles de chef Kurt Lewin a t il comparés ?",
+    "r": "L'autoritaire, le démocratique et le laisser faire."
+   },
+   {
+    "q": "Dans l'expérience de Lewin, quel style donnait les moins bons résultats ?",
+    "r": "Le laisser faire."
+   },
+   {
+    "q": "Sur quoi repose le leadership transactionnel ?",
+    "r": "Sur un échange entre le travail fourni et une récompense."
+   },
+   {
+    "q": "Selon Emily Grijalva, les personnalités narcissiques font elles de meilleurs chefs ?",
+    "r": "Non, elles deviennent plus souvent chefs, mais ne sont pas plus efficaces."
+   },
+   {
+    "q": "Quelle qualité arrivait en tête dans l'étude de Google sur les bons managers ?",
+    "r": "Être un bon coach."
    }
   ]
  },
@@ -316,12 +508,24 @@
     "texte": "Le psychologue Daniel Kahneman, prix Nobel d'économie, a décrit dans son livre Système un, système deux, deux modes de pensée. Le système un est rapide, intuitif, automatique. C'est lui qui te fait freiner d'instinct quand une voiture déboîte devant toi. Le système deux est lent, réfléchi, il demande un effort. C'est lui que tu mobilises pour comparer deux offres de crédit. Le système un est formidable, il nous permet de fonctionner sans réfléchir à tout. Mais il prend des raccourcis, et ces raccourcis produisent parfois des erreurs systématiques, ce que Kahneman et son collègue Amos Tversky ont appelé des biais cognitifs. L'enjeu n'est pas de tout réfléchir, ce serait épuisant. C'est de savoir repérer les décisions importantes, celles qui méritent de ralentir et de laisser le système deux faire son travail."
    },
    {
+    "titre": "Raison et émotion",
+    "texte": "On imagine souvent qu'une bonne décision doit être froide, débarrassée de toute émotion. Le neurologue Antonio Damasio a sérieusement remis en cause cette idée. Dans son livre L'erreur de Descartes, il raconte le cas d'un patient qu'il appelle Elliot. Après l'ablation d'une tumeur située à l'avant du cerveau, cet homme avait conservé une intelligence normale. Il réussissait les tests de mémoire, de logique, de connaissances. Pourtant, sa vie s'est effondrée. Il n'arrivait plus à prendre de décisions, même simples. Classer des documents pouvait l'occuper tout un après midi, à hésiter sans fin entre les trier par date, par taille ou par sujet. Damasio a remarqué qu'Elliot racontait les drames de sa vie sans aucune émotion apparente. Il en a tiré une hypothèse, celle des marqueurs somatiques. Nos émotions, et les sensations corporelles qui les accompagnent, serviraient de signaux rapides qui colorent les options et nous aident à trier parmi elles. Sans ce signal, tout se vaut, et l'on n'arrive plus à trancher. Cette hypothèse reste discutée dans ses détails, mais l'idée générale a beaucoup influencé les chercheurs. Émotion et raison ne s'opposent pas, elles travaillent ensemble. La leçon pratique est double. Écoute ce que ton ressenti te dit d'une option, car il contient souvent de l'information. Mais vérifie le, car une émotion forte du moment, la colère ou la peur, peut aussi te pousser à un choix que tu regretteras."
+   },
+   {
     "titre": "Les pièges les plus courants",
     "texte": "Parmi les biais les plus fréquents, il y a le biais de confirmation. Tu as tendance à chercher et à retenir les informations qui confirment ce que tu penses déjà, et à ignorer le reste. Si tu es convaincu qu'un candidat est excellent, tu remarqueras surtout ses points forts pendant l'entretien. Il y a aussi l'effet d'ancrage. Le premier chiffre entendu influence ton jugement. Dans une négociation, celui qui annonce le premier prix oriente toute la discussion. Autre piège, le biais des coûts irrécupérables. Tu continues un projet qui ne marche pas parce que tu y as déjà mis beaucoup de temps et d'argent. Comme rester jusqu'au bout d'un film ennuyeux parce que tu as payé ta place. Connaître ces biais ne les supprime pas, mais ça t'aide à les repérer au bon moment."
    },
    {
+    "titre": "Perdre fait plus mal que gagner",
+    "texte": "Daniel Kahneman et Amos Tversky ont aussi mis en évidence un mécanisme qui pèse sur énormément de nos choix, l'aversion aux pertes. Pour la plupart d'entre nous, perdre une somme d'argent fait plus mal que gagner la même somme ne fait plaisir. Propose à quelqu'un un pari à pile ou face, où il perd cent euros sur pile et gagne cent euros sur face. La plupart des gens refusent. Il faut en général promettre un gain nettement plus élevé que la perte possible pour qu'on accepte. Les estimations classiques parlent d'environ deux fois, même si l'ampleur exacte de l'effet fait débat chez les chercheurs. Cette aversion explique bien des comportements. On garde trop longtemps une action en bourse qui a baissé, pour ne pas concrétiser la perte. On refuse un changement de poste, même avantageux, parce qu'on se concentre sur ce qu'on va quitter. Tversky et Kahneman ont aussi décrit l'effet de cadrage. La même information, présentée autrement, change nos décisions. Des études menées auprès de patients, et même de médecins, ont montré qu'une opération présentée avec son taux de survie était plus souvent choisie que la même opération présentée avec son taux de décès, alors que les chiffres disaient exactement la même chose. Pour te protéger, prends l'habitude de reformuler un choix dans les deux sens. Qu'est ce que je gagne, qu'est ce que je perds ? Et si on me présentait la situation à l'envers, est ce que je déciderais pareil ?"
+   },
+   {
     "titre": "Élargir ses options",
     "texte": "Les frères Chip et Dan Heath, dans leur livre Comment prendre les bonnes décisions, pointent une erreur fréquente. On réduit souvent un choix à oui ou non. Est ce que je change de travail, oui ou non ? Est ce qu'on achète cette machine, oui ou non ? Ce cadrage étroit cache d'autres possibilités. Pose toi plutôt la question, quelles autres options ai je ? Tu pourrais négocier un nouveau poste dans ton entreprise, passer à temps partiel, te former d'abord. Une astuce utile consiste à imaginer que l'option envisagée disparaît soudain. Que ferais tu alors ? Ça force ton esprit à chercher ailleurs. Autre conseil, teste en petit avant de te lancer en grand. Avant de changer de métier, passe une journée avec quelqu'un qui l'exerce. La réalité vaut mieux que toutes les suppositions."
+   },
+   {
+    "titre": "Trop de choix tue le choix",
+    "texte": "Attention, élargir ses options ne veut pas dire en accumuler à l'infini. Une expérience célèbre semble montrer que trop de choix peut paralyser. Dans une étude publiée en deux mille, les chercheurs Sheena Iyengar et Mark Lepper ont installé un stand de dégustation de confitures dans un supermarché de Californie. Certains jours, le stand proposait vingt quatre variétés. D'autres jours, seulement six. Le grand assortiment attirait plus de curieux, mais les clients qui avaient goûté parmi six confitures achetaient bien plus souvent un pot que ceux qui avaient été confrontés aux vingt quatre. Le psychologue Barry Schwartz a popularisé cette idée sous le nom de paradoxe du choix. Mais l'histoire ne s'arrête pas là. Quand d'autres chercheurs ont rassemblé des dizaines d'études similaires, l'effet moyen s'est révélé proche de zéro. Parfois, beaucoup d'options découragent. Parfois, elles ne changent rien, ou même aident. Tout dépend du contexte. La surcharge apparaît surtout quand les options sont difficiles à comparer, quand on ne sait pas bien ce qu'on veut, ou quand on manque de temps. Retiens donc une version nuancée. Pour une décision importante, cherche plusieurs vraies alternatives, car trois ou quatre options bien différentes valent mieux qu'une seule. Puis, si la liste s'allonge, fixe tes critères essentiels pour éliminer rapidement, plutôt que de tout comparer sur tout."
    },
    {
     "titre": "Prendre du recul",
@@ -332,7 +536,7 @@
     "texte": "Dernier point, ne cherche pas la décision parfaite. Le psychologue Barry Schwartz distingue deux profils. Les maximisateurs veulent absolument la meilleure option, et passent des heures à comparer. Les satisficeurs, eux, choisissent la première option qui répond à leurs critères. Ses recherches suggèrent que les satisficeurs sont souvent plus satisfaits de leurs choix. Pour les petites décisions, fixe toi des critères et une limite de temps, puis tranche. Garde ton énergie pour les choix vraiment importants. Et souviens toi qu'une bonne décision ne garantit pas toujours un bon résultat. Le hasard joue aussi. La joueuse de poker professionnelle Annie Duke insiste sur ce point. Il faut juger une décision sur la qualité du raisonnement au moment où on l'a prise, et non uniquement sur le résultat. Ça évite de se torturer inutilement."
    }
   ],
-  "resume": "En résumé : notre cerveau prend des raccourcis qui créent des biais. Pour mieux décider, ralentis sur les choix importants, élargis tes options, prends du recul et accepte qu'aucune décision ne soit parfaite.",
+  "resume": "En résumé : notre cerveau prend des raccourcis qui créent des biais, et les émotions, loin d'être des ennemies, nous aident à trancher. Méfie toi de l'aversion aux pertes et de l'effet de cadrage, cherche quelques vraies alternatives sans te noyer dans les options, prends du recul et accepte qu'aucune décision ne soit parfaite.",
   "quiz": [
    {
     "q": "Comment Daniel Kahneman appelle t il nos deux modes de pensée ?",
@@ -353,6 +557,26 @@
    {
     "q": "Selon Annie Duke, sur quoi faut il juger une décision ?",
     "r": "Sur la qualité du raisonnement au moment du choix, pas seulement sur le résultat."
+   },
+   {
+    "q": "Quel était le problème du patient Elliot décrit par Antonio Damasio ?",
+    "r": "Son intelligence était intacte, mais il n'arrivait plus à prendre de décisions."
+   },
+   {
+    "q": "Qu'est ce que l'aversion aux pertes ?",
+    "r": "Le fait qu'une perte fasse plus mal qu'un gain équivalent ne fait plaisir."
+   },
+   {
+    "q": "Qu'est ce que l'effet de cadrage ?",
+    "r": "Le fait qu'une même information présentée autrement change notre décision."
+   },
+   {
+    "q": "Combien de confitures proposait le grand stand de l'étude d'Iyengar et Lepper ?",
+    "r": "Vingt quatre, contre six pour le petit."
+   },
+   {
+    "q": "L'effet du trop de choix a t il été bien confirmé ?",
+    "r": "Pas vraiment, en moyenne l'effet est proche de zéro et dépend du contexte."
    }
   ]
  },
@@ -371,19 +595,31 @@
     "texte": "Un outil célèbre porte le nom du président américain Dwight Eisenhower, à qui l'on attribue cette idée. Il distinguait l'urgent et l'important, en expliquant que ce qui est urgent est rarement important, et que ce qui est important est rarement urgent. On obtient quatre catégories. L'urgent et important, comme une panne chez un client, se traite tout de suite. L'important mais pas urgent, comme se former, préparer un projet ou prendre soin de sa santé, se planifie. L'urgent mais pas important, comme beaucoup d'appels ou de demandes de dernière minute, se délègue si possible. Et ce qui n'est ni urgent ni important, comme faire défiler les réseaux sociaux, s'élimine. Le secret, selon Covey, c'est de consacrer davantage de temps à la deuxième catégorie. C'est là que se construisent les vrais progrès."
    },
    {
+    "titre": "Deux lois à connaître",
+    "texte": "En mille neuf cent cinquante cinq, l'historien britannique Cyril Northcote Parkinson a publié dans l'hebdomadaire The Economist un article plein d'humour sur l'administration. Il y formulait une loi qui porte désormais son nom. Le travail s'étale de façon à occuper tout le temps disponible pour son achèvement. Son exemple est resté célèbre. Une dame âgée, qui n'a rien d'autre à faire, peut passer une journée entière à écrire et envoyer une carte postale, entre la recherche de la carte, des lunettes, de l'adresse et le trajet jusqu'à la boîte aux lettres. Une personne pressée ferait la même chose en quelques minutes. Parkinson écrivait sur un ton satirique, ce n'est pas une loi scientifique. Mais tout le monde en a fait l'expérience. Un rapport à rendre dans un mois prend un mois, le même à rendre vendredi est bouclé en deux jours. Le remède, c'est de te fixer des délais courts et réalistes, et des plages horaires limitées pour chaque tâche. Autre règle souvent citée, le principe de Pareto. L'économiste italien Vilfredo Pareto avait remarqué qu'en Italie, environ vingt pour cent de la population possédait quatre vingts pour cent des terres. L'idée a ensuite été généralisée. Une petite part de tes efforts produit souvent l'essentiel de tes résultats. Les chiffres exacts varient, c'est une règle approximative. Mais la question qu'elle pose est précieuse. Parmi tout ce que je fais, quelles sont les quelques actions qui comptent vraiment ?"
+   },
+   {
     "titre": "Protéger son attention",
     "texte": "Gérer son temps, c'est aussi protéger son attention. Les études sur les interruptions au travail, notamment celles de la chercheuse Gloria Mark, de l'université de Californie, montrent qu'après avoir été interrompu, il faut souvent un bon moment pour retrouver pleinement sa concentration. Chaque notification a donc un coût caché. L'auteur Cal Newport parle de travail en profondeur pour désigner ces moments de concentration intense, sans distraction, où l'on produit ce qui a le plus de valeur. Il conseille de réserver des plages fixes pour ce type de travail. Par exemple, deux heures le matin, téléphone éteint, messagerie fermée. Tu peux aussi regrouper les petites tâches similaires, comme répondre aux mails à deux ou trois moments précis de la journée, plutôt que de les traiter au fil de l'eau. Ton cerveau te remerciera."
+   },
+   {
+    "titre": "Le mythe du multitâche",
+    "texte": "On se vante parfois d'être multitâche. En réalité, pour les tâches qui demandent de la réflexion, le cerveau ne fait pas deux choses à la fois. Il passe rapidement de l'une à l'autre, et chaque bascule a un coût. Les psychologues qui étudient ces changements de tâche, comme David Meyer à l'université du Michigan, ont montré que chaque passage d'une activité à une autre fait perdre du temps et augmente les erreurs. Parfois une fraction de seconde seulement, mais ces pertes s'additionnent vite quand on jongle toute la journée entre les mails, les messages et un dossier de fond. Une étude de l'université Stanford, menée par Eyal Ophir, Clifford Nass et Anthony Wagner, a même suggéré que les grands adeptes du multitâche avec les écrans avaient plus de mal que les autres à ignorer les informations sans intérêt. Les résultats de ce type de recherche restent discutés, mais la tendance générale va dans le même sens. Ce sujet te concerne directement au volant. Le psychologue David Strayer, de l'université de l'Utah, a montré qu'une conversation téléphonique, même avec un kit mains libres, ralentit les réactions et réduit l'attention portée à la route. Le problème ne vient pas seulement des mains, il vient du cerveau occupé ailleurs. Alors en voiture, comme au bureau, la meilleure stratégie reste la même. Une seule chose à la fois. Sur la route, ça veut dire garder les appels et les messages pour l'arrêt."
    },
    {
     "titre": "Planifier avec réalisme",
     "texte": "Un piège bien connu, c'est l'erreur de planification, décrite par Daniel Kahneman et Amos Tversky. On sous estime presque toujours le temps nécessaire pour réaliser une tâche, même quand on a déjà vécu des retards similaires. Pense aux travaux dans une maison, ils durent quasiment toujours plus longtemps que prévu. Pour compenser, prévois de la marge, et appuie toi sur l'expérience passée plutôt que sur ton optimisme du moment. Autre conseil pratique, termine ta journée en choisissant les trois tâches les plus importantes du lendemain. Le matin, tu sais déjà par où commencer. Et commence justement par la plus difficile ou la plus importante, quand ton énergie est au plus haut. L'auteur Brian Tracy appelle ça avaler le crapaud. Une fois cette tâche faite, le reste de la journée paraît beaucoup plus léger."
    },
    {
+    "titre": "Vider sa tête",
+    "texte": "As tu déjà remarqué qu'une tâche inachevée continue de te trotter dans la tête, parfois en pleine nuit ? Dans les années vingt, la psychologue Bluma Zeigarnik, alors étudiante à Berlin auprès de Kurt Lewin, a décrit ce phénomène. Selon ses expériences, on se souviendrait mieux des tâches interrompues que des tâches terminées. On parle depuis de l'effet Zeigarnik. Il faut être prudent, car les tentatives de réplication ont donné des résultats mitigés, en particulier sur la mémoire. Mais l'idée qu'une tâche en suspens occupe une partie de l'esprit reste intéressante. En deux mille onze, les chercheurs Masicampo et Roy Baumeister ont apporté une nuance utile. Dans leurs expériences, les pensées parasites liées à un objectif inachevé diminuaient quand les participants avaient simplement établi un plan précis pour s'en occuper. Pas besoin de finir la tâche, il suffit de savoir quand et comment on la traitera. C'est un peu le principe de la méthode proposée par le consultant américain David Allen dans son livre S'organiser pour réussir. Il conseille de noter tout ce qui te passe par la tête, idées, choses à faire, rendez vous, dans un système fiable, puis de décider pour chaque élément de la prochaine action concrète. Ton esprit, selon sa formule, est fait pour avoir des idées, pas pour les stocker. Un rituel simple consiste, en fin de journée, à prendre quelques minutes au calme pour vider ta tête sur une liste avant de partir."
+   },
+   {
     "titre": "Savoir dire non",
     "texte": "Enfin, on ne peut pas bien gérer son temps sans apprendre à dire non. Chaque fois que tu acceptes une nouvelle demande, tu dis non à autre chose, souvent à tes propres priorités ou à ton temps de repos. L'auteur Greg McKeown, dans son livre L'essentialisme, encourage à se demander, est ce que c'est vraiment essentiel ? Dire non n'est pas forcément brutal. Tu peux dire, cette semaine je ne peux pas, mais je peux regarder ça jeudi prochain. Ou, si je prends ce dossier, lequel des deux autres je mets de côté ? Cette question, posée à un responsable, l'aide à arbitrer. Et n'oublie pas les pauses. Le repos n'est pas du temps perdu, il fait partie de la performance. Un esprit reposé fait en une heure ce qu'un esprit épuisé fait en trois."
    }
   ],
-  "resume": "En résumé : gérer son temps, c'est choisir ses priorités. Distingue l'urgent de l'important avec la matrice d'Eisenhower, protège ton attention, planifie avec marge et apprends à dire non.",
+  "resume": "En résumé : gérer son temps, c'est choisir ses priorités. Distingue l'urgent de l'important, fixe toi des délais courts car le travail s'étale sur le temps disponible, et concentre toi sur les quelques actions qui comptent vraiment. Protège ton attention en faisant une seule chose à la fois, planifie avec marge, vide ta tête sur une liste fiable et apprends à dire non.",
   "quiz": [
    {
     "q": "Quelles sont les deux notions distinguées par la matrice d'Eisenhower ?",
@@ -404,6 +640,26 @@
    {
     "q": "Que signifie avaler le crapaud ?",
     "r": "Commencer la journée par la tâche la plus difficile ou la plus importante."
+   },
+   {
+    "q": "Que dit la loi de Parkinson ?",
+    "r": "Que le travail s'étale pour occuper tout le temps disponible."
+   },
+   {
+    "q": "Que résume le principe de Pareto ?",
+    "r": "Qu'une petite part des efforts produit souvent l'essentiel des résultats."
+   },
+   {
+    "q": "Le cerveau fait il vraiment deux tâches réfléchies à la fois ?",
+    "r": "Non, il bascule de l'une à l'autre, avec une perte de temps et plus d'erreurs."
+   },
+   {
+    "q": "Un kit mains libres suffit il pour téléphoner sans risque en conduisant ?",
+    "r": "Non, la conversation elle même détourne l'attention de la route."
+   },
+   {
+    "q": "Selon Masicampo et Baumeister, qu'est ce qui apaise les pensées liées à une tâche inachevée ?",
+    "r": "Faire un plan précis pour s'en occuper."
    }
   ]
  },
@@ -418,8 +674,16 @@
     "texte": "On mélange souvent plusieurs notions proches. L'estime de soi, c'est la valeur que tu t'accordes en tant que personne. Est ce que tu te trouves digne d'être aimé et respecté ? La confiance en soi, elle, concerne plutôt ta capacité à agir. Est ce que tu te sens capable de prendre la parole en réunion, de conduire sur l'autoroute, de gérer un client difficile ? On peut avoir une bonne estime de soi et manquer de confiance dans un domaine précis, et inversement. Les psychiatres Christophe André et François Lelord ont beaucoup écrit sur ces sujets en France, notamment dans L'estime de soi. Une idée clé ressort. La confiance n'est pas un trait fixe, présent ou absent une fois pour toutes. Elle varie selon les situations, et surtout, elle se construit au fil de l'expérience."
    },
    {
+    "titre": "Trop de confiance, ça existe aussi",
+    "texte": "Avant d'apprendre à gagner en confiance, une petite mise en garde. On peut aussi en avoir trop. En mille neuf cent quatre vingt un, le psychologue suédois Ola Svenson a demandé à des étudiants, aux États Unis et en Suède, de comparer leurs talents de conducteur à ceux des autres. Une large majorité des Américains interrogés se jugeaient plus habiles et plus prudents que la moyenne. Les Suédois aussi, dans une moindre mesure. Évidemment, tout le monde ne peut pas être au dessus de la moyenne. On a aussi beaucoup parlé de l'effet Dunning Kruger, du nom de deux chercheurs de l'université Cornell, David Dunning et Justin Kruger. En mille neuf cent quatre vingt dix neuf, ils ont montré que les participants les moins performants à des tests de logique ou de grammaire surestimaient fortement leur résultat. Attention, cet effet est souvent caricaturé. Il ne dit pas que les ignorants se croient tous des génies. Et plusieurs chercheurs ont soutenu qu'une partie de ce qu'on observe pourrait venir d'un simple artefact statistique. Ce qui semble solide, en revanche, c'est que nous avons tous du mal à évaluer nos compétences avec justesse, surtout dans un domaine qu'on connaît mal. L'objectif n'est donc pas une confiance maximale, mais une confiance ajustée à la réalité. Assez pour oser, pas au point d'ignorer les risques. Sur la route, c'est particulièrement vrai."
+   },
+   {
     "titre": "Le sentiment d'efficacité personnelle",
     "texte": "Le psychologue canadien Albert Bandura a développé une notion très utile, le sentiment d'efficacité personnelle. C'est la croyance en ta capacité à réussir une tâche donnée. Selon lui, ce sentiment se nourrit de quatre sources. La plus puissante, ce sont les expériences de réussite. Chaque fois que tu réussis quelque chose, même modeste, ta confiance grandit. Ensuite, l'observation des autres. Voir quelqu'un qui te ressemble y arriver te dit, moi aussi je peux. Troisième source, les encouragements, quand une personne crédible te dit qu'elle croit en toi. Enfin, ton état physique et émotionnel. Si tu interprètes ton cœur qui bat avant une présentation comme de l'énergie plutôt que comme de la panique, tu te sens plus capable. Conclusion pratique, la confiance vient surtout de l'action, pas de la réflexion."
+   },
+   {
+    "titre": "Les postures de pouvoir, une fausse piste",
+    "texte": "Tu as peut être entendu parler de cette conférence très populaire qui conseillait de prendre une posture de super héros, mains sur les hanches, avant un entretien d'embauche. Elle s'appuyait sur une étude publiée en deux mille dix par Dana Carney, Amy Cuddy et Andy Yap. Deux minutes de posture dite de pouvoir auraient augmenté la testostérone, diminué l'hormone du stress et rendu les gens plus enclins à prendre des risques. Le succès a été énorme. Mais quand une équipe dirigée par la chercheuse Eva Ranehill a refait l'expérience avec beaucoup plus de participants, elle n'a retrouvé ni l'effet sur les hormones ni l'effet sur la prise de risque. Dana Carney, la première auteure de l'étude d'origine, a même déclaré publiquement qu'elle ne croyait plus à ces effets. Il resterait au mieux un petit effet sur le sentiment de puissance qu'on déclare ressentir, et même ce point est discuté. Que retenir alors ? D'abord, que les recettes miracles de confiance méritent de la méfiance. Ensuite, que d'autres pistes sont mieux étayées. La chercheuse Alison Wood Brooks, de Harvard, a par exemple montré que des participants qui se disaient je suis excité, avant de chanter ou de parler en public, s'en sortaient mieux que ceux qui essayaient de se dire je suis calme. Plutôt que de lutter contre le trac, mieux vaut le relire comme de l'énergie. C'est cohérent avec ce que disait Bandura sur l'interprétation de nos sensations."
    },
    {
     "titre": "Agir avant d'être prêt",
@@ -430,11 +694,15 @@
     "texte": "On a tous une petite voix intérieure qui commente ce que l'on fait. Chez certains, elle est franchement sévère. Tu es nul, tu vas encore te ridiculiser, les autres sont bien meilleurs que toi. Cette voix ne dit pas la vérité. Elle exagère, généralise et oublie tes réussites. Un exercice simple consiste à l'écouter comme si elle parlait à un ami. Accepterais tu qu'on parle ainsi à quelqu'un que tu aimes ? Sûrement pas. La chercheuse américaine Kristin Neff a étudié l'autocompassion, c'est à dire la capacité à se traiter avec gentillesse dans les moments difficiles. Ses travaux suggèrent que cette attitude aide davantage à rebondir après un échec que l'autocritique. Tu peux aussi tenir un petit carnet de réussites. Chaque soir, note une chose que tu as bien faite. Ça rééquilibre la balance."
    },
    {
+    "titre": "Le syndrome de l'imposteur",
+    "texte": "Certaines personnes réussissent, sont félicitées, et pourtant restent persuadées de ne pas mériter leur place. Elles attribuent leurs succès à la chance, à leur charme ou à une erreur des autres, et redoutent le jour où l'on découvrira la supercherie. En mille neuf cent soixante dix huit, les psychologues américaines Pauline Clance et Suzanne Imes ont décrit ce phénomène chez des femmes brillantes, étudiantes ou professionnelles, et l'ont appelé le phénomène de l'imposteur. On sait aujourd'hui qu'il touche aussi les hommes, et qu'il est très répandu, même si les estimations varient beaucoup selon les études. Deux précisions importantes. Ce n'est pas une maladie ni un diagnostic psychiatrique, c'est une façon de penser. Et il n'est pas le signe d'un manque de compétences. Au contraire, il touche souvent des gens qui réussissent bien, et il peut être renforcé par un environnement où l'on se sent différent ou peu soutenu. Que faire si tu te reconnais ? D'abord, en parler. On découvre souvent que des collègues que l'on admire ressentent la même chose. Ensuite, regarder les faits plutôt que les impressions. Quels résultats as tu obtenus, quels retours concrets as tu reçus ? Enfin, accepter que se sentir parfois dépassé fait partie de tout apprentissage. Ne pas tout savoir ne fait pas de toi un imposteur, ça fait simplement de toi quelqu'un qui progresse."
+   },
+   {
     "titre": "Le droit à l'erreur",
-    "texte": "La confiance en soi ne signifie pas ne jamais se tromper. Au contraire, les personnes confiantes acceptent mieux l'erreur, parce qu'elles ne la vivent pas comme une preuve de leur nullité. La psychologue Carol Dweck, de l'université Stanford, a montré l'importance de ce qu'elle appelle l'état d'esprit de développement. Les personnes qui pensent que leurs capacités peuvent progresser voient l'échec comme une occasion d'apprendre. Celles qui pensent que leurs capacités sont figées vivent l'échec comme un verdict. Tu peux cultiver le premier état d'esprit en ajoutant un simple mot à tes phrases. Pas je n'y arrive pas, mais je n'y arrive pas encore. Entoure toi aussi de personnes qui te soutiennent et t'encouragent. Et rappelle toi, la confiance se construit comme un muscle, par des efforts réguliers, pas en un jour."
+    "texte": "La confiance en soi ne signifie pas ne jamais se tromper. Au contraire, les personnes confiantes acceptent mieux l'erreur, parce qu'elles ne la vivent pas comme une preuve de leur nullité. La psychologue Carol Dweck, de l'université Stanford, a montré l'importance de ce qu'elle appelle l'état d'esprit de développement. Les personnes qui pensent que leurs capacités peuvent progresser voient l'échec comme une occasion d'apprendre. Celles qui pensent que leurs capacités sont figées vivent l'échec comme un verdict. Tu peux cultiver le premier état d'esprit en ajoutant un simple mot à tes phrases. Pas je n'y arrive pas, mais je n'y arrive pas encore. Précision honnête, de grandes études récentes ont trouvé que les programmes scolaires fondés sur cette idée ont des effets réels mais plutôt modestes, surtout utiles aux élèves en difficulté. Ce n'est pas une baguette magique, mais c'est un bon point de départ. Entoure toi aussi de personnes qui te soutiennent et t'encouragent. Et rappelle toi, la confiance se construit comme un muscle, par des efforts réguliers, pas en un jour."
    }
   ],
-  "resume": "En résumé : la confiance en soi n'est pas innée, elle se construit surtout par l'action et les petites réussites. Avance progressivement, adoucis ta voix intérieure et vois chaque erreur comme une occasion d'apprendre.",
+  "resume": "En résumé : la confiance en soi n'est pas innée, elle se construit surtout par l'action et les petites réussites, et elle doit rester ajustée à la réalité. Avance progressivement, méfie toi des recettes miracles comme les postures de pouvoir, relis ton trac comme de l'énergie, adoucis ta voix intérieure, ne te laisse pas piéger par le sentiment d'imposture, et vois chaque erreur comme une occasion d'apprendre.",
   "quiz": [
    {
     "q": "Quelle est la différence entre estime de soi et confiance en soi ?",
@@ -455,6 +723,26 @@
    {
     "q": "Quel petit mot recommande l'état d'esprit de développement de Carol Dweck ?",
     "r": "Le mot encore, comme dans je n'y arrive pas encore."
+   },
+   {
+    "q": "Que pensaient d'eux mêmes la plupart des conducteurs interrogés par Ola Svenson ?",
+    "r": "Qu'ils conduisaient mieux et plus prudemment que la moyenne."
+   },
+   {
+    "q": "Que dit l'effet Dunning Kruger ?",
+    "r": "Que les moins performants ont tendance à surestimer leur niveau."
+   },
+   {
+    "q": "Les postures de pouvoir changent elles nos hormones ?",
+    "r": "Non, cet effet n'a pas été retrouvé lors des réplications."
+   },
+   {
+    "q": "Que conseille Alison Wood Brooks avant de parler en public ?",
+    "r": "Se dire je suis excité plutôt que d'essayer de se calmer."
+   },
+   {
+    "q": "Qui a décrit le phénomène de l'imposteur ?",
+    "r": "Les psychologues Pauline Clance et Suzanne Imes, en mille neuf cent soixante dix huit."
    }
   ]
  },
@@ -473,19 +761,31 @@
     "texte": "Si tu ne devais retenir qu'une chose de cet épisode, ce serait celle ci. L'étude de Harvard sur le développement adulte suit des centaines d'hommes depuis la fin des années trente, puis leurs familles. C'est l'une des plus longues études jamais menées sur la vie humaine. Son directeur actuel, le psychiatre Robert Waldinger, résume la conclusion principale. Ce qui nous garde heureux et en bonne santé tout au long de la vie, ce ne sont ni la richesse ni la célébrité, ce sont de bonnes relations. Les personnes les plus satisfaites de leurs relations vers cinquante ans étaient aussi les plus en forme vers quatre vingts ans. Ce n'est pas le nombre d'amis qui compte, mais la qualité des liens. Alors appelle cet ami que tu négliges, ça compte vraiment."
    },
    {
+    "titre": "Les pays les plus heureux",
+    "texte": "Depuis deux mille douze, un rapport mondial sur le bonheur, réalisé avec le soutien des Nations unies, classe régulièrement les pays selon la satisfaction de vie déclarée par leurs habitants. On demande aux gens d'imaginer une échelle allant de zéro à dix, où dix serait la meilleure vie possible pour eux, et de se situer dessus. À partir du rapport de deux mille dix huit, c'est la Finlande qui est arrivée en tête, plusieurs années de suite, avec d'autres pays nordiques comme le Danemark, l'Islande ou la Suède dans le haut du classement. Ce n'est pas que les Finlandais soient plus souriants ou plus joyeux au quotidien. C'est surtout qu'ils évaluent positivement leur vie dans son ensemble. Qu'est ce qui explique ces écarts entre pays ? Les auteurs du rapport retiennent quelques grands facteurs. Le niveau de richesse, bien sûr, mais aussi l'espérance de vie en bonne santé, le fait de pouvoir compter sur quelqu'un en cas de coup dur, la liberté de faire ses choix de vie, la générosité, et la confiance, notamment l'absence de corruption. Les chercheurs ont par exemple observé que les gens qui pensent qu'un portefeuille perdu leur serait rendu se disent plus heureux. Autrement dit, ce qui fait le bonheur d'un pays ressemble beaucoup à ce qui fait celui d'une personne. Des liens solides, de la confiance, et le sentiment d'avoir prise sur sa vie."
+   },
+   {
     "titre": "L'adaptation hédonique",
     "texte": "Pourquoi une augmentation de salaire ou une nouvelle voiture ne nous rendent ils pas heureux très longtemps ? À cause d'un phénomène appelé l'adaptation hédonique. Notre cerveau s'habitue très vite aux améliorations, et notre niveau de bonheur revient progressivement vers son point de départ. Les psychologues Philip Brickman et Donald Campbell ont parlé d'un tapis roulant hédonique. On court après le prochain achat, la prochaine promotion, sans jamais vraiment avancer. Ça ne veut pas dire que l'argent n'a aucune importance. Sortir de la précarité améliore nettement la vie. Mais au delà d'un certain confort, les gains sont plus modestes. Les recherches suggèrent qu'il vaut mieux dépenser pour des expériences partagées que pour des objets, et que donner aux autres procure souvent plus de joie que dépenser pour soi."
+   },
+   {
+    "titre": "L'argent et le loto",
+    "texte": "Une étude célèbre de mille neuf cent soixante dix huit, menée par Philip Brickman et ses collègues, a comparé des gagnants de la loterie à des personnes ordinaires, et à des personnes devenues paralysées après un accident. Les gagnants n'étaient pas beaucoup plus heureux que les autres, et les personnes accidentées, même si elles se disaient moins heureuses, l'étaient moins qu'on aurait pu l'imaginer. Cette étude a longtemps servi à illustrer l'adaptation hédonique. Mais elle portait sur très peu de personnes. Des travaux plus récents, menés en Suède par des économistes sur plusieurs milliers de gagnants, ont nuancé le tableau. Des années après leur gain, les gros gagnants se disaient durablement plus satisfaits de leur vie que les autres, même si leur humeur au quotidien n'avait guère changé. Le même genre de débat a eu lieu sur les revenus. En deux mille dix, Daniel Kahneman et Angus Deaton avaient trouvé qu'au delà d'environ soixante quinze mille dollars par an, aux États Unis, le bien être ressenti au quotidien cessait d'augmenter. Plus tard, le chercheur Matthew Killingsworth a trouvé le contraire avec d'autres données. Les deux camps ont alors fait quelque chose de rare. Ils ont travaillé ensemble pour comprendre leur désaccord. Leur conclusion commune, c'est que pour la plupart des gens, le bien être continue de grimper avec le revenu, mais que chez les personnes les plus malheureuses, l'argent cesse d'aider au delà d'un certain seuil. L'argent compte donc, mais il ne règle pas tout."
    },
    {
     "titre": "Les gestes qui font du bien",
     "texte": "La bonne nouvelle, c'est que certaines pratiques simples ont montré des effets positifs dans des études. La gratitude d'abord. Le psychologue Robert Emmons a montré que noter régulièrement des choses pour lesquelles on est reconnaissant améliore le bien être. Martin Seligman propose l'exercice des trois bonnes choses. Chaque soir, tu notes trois choses qui se sont bien passées dans ta journée, et pourquoi. La gentillesse aussi fait du bien, à celui qui la reçoit comme à celui qui la donne. Rendre service à un collègue, aider un voisin. Il y a aussi l'activité physique, le sommeil, le temps passé dans la nature. Et l'état de flow, décrit par le psychologue Mihaly Csikszentmihalyi, ce moment où tu es tellement absorbé par une activité stimulante que tu en oublies le temps."
    },
    {
+    "titre": "Ce que l'on hérite",
+    "texte": "Quelle part de notre bonheur dépend de nos gènes ? Pour le savoir, les chercheurs comparent des vrais jumeaux, qui partagent tous leurs gènes, et des faux jumeaux, qui n'en partagent qu'environ la moitié. Une vaste synthèse de ces études, menée par la chercheuse néerlandaise Meike Bartels, estime que les différences de bien être entre les personnes s'expliquent pour environ un tiers par des facteurs génétiques. Ça veut dire que certains partent avec un tempérament plus enjoué que d'autres. Mais attention à deux contresens. D'abord, ce chiffre décrit des différences entre les gens d'une population, pas la part de ton propre bonheur qui serait fixée d'avance. Ensuite, héréditaire ne veut pas dire immuable. La taille est très héréditaire, et pourtant la taille moyenne a beaucoup augmenté en un siècle, grâce notamment à une meilleure alimentation. Tu as peut être vu un graphique en camembert très populaire, issu d'un article de la psychologue Sonja Lyubomirsky et de ses collègues, publié en deux mille cinq. Il affirmait que notre bonheur dépendrait à cinquante pour cent des gènes, à dix pour cent des circonstances et à quarante pour cent de nos activités volontaires. Ce graphique a été vivement critiqué par d'autres chercheurs, qui jugent ces chiffres bien trop simplistes, et ses auteurs ont eux mêmes reconnu ses limites. Retiens plutôt ceci. Nous ne partons pas tous du même point, mais il reste une vraie marge pour agir, même si personne ne sait la chiffrer précisément."
+   },
+   {
     "titre": "Un bonheur réaliste",
     "texte": "Pour finir, quelques nuances importantes. Le bonheur ne veut pas dire être joyeux en permanence. Les émotions désagréables font partie de la vie, et vouloir les chasser à tout prix peut même rendre plus malheureux. Les chercheurs parlent parfois de positivité toxique quand on s'oblige à sourire en toutes circonstances. Accepter la tristesse ou la colère quand elles viennent fait partie d'une vie équilibrée. Ensuite, le bonheur dépend en partie de facteurs qu'on ne contrôle pas, comme le tempérament ou les circonstances. Personne n'est responsable de tout son malheur. Mais il reste une marge d'action réelle. Prendre soin de ses relations, trouver du sens dans ce qu'on fait, cultiver la gratitude, bouger, dormir. Rien de spectaculaire. Juste de petites choses répétées, qui finissent par faire une grande différence."
    }
   ],
-  "resume": "En résumé : selon la science, le bonheur repose surtout sur la qualité de nos relations, le sens et l'engagement, bien plus que sur l'argent ou les objets. La gratitude, la gentillesse et l'activité physique aident aussi, sans viser une joie permanente.",
+  "resume": "En résumé : selon la science, le bonheur repose surtout sur la qualité de nos relations, le sens et l'engagement. Les pays les plus heureux sont ceux où règnent la confiance et l'entraide. L'argent compte davantage qu'on ne l'a longtemps dit, mais il ne règle pas tout, et nos gènes expliquent une partie des différences sans nous enfermer. La gratitude, la gentillesse et l'activité physique aident aussi, sans viser une joie permanente.",
   "quiz": [
    {
     "q": "Qui a lancé la psychologie positive ?",
@@ -506,6 +806,26 @@
    {
     "q": "Le bonheur signifie t il être joyeux en permanence ?",
     "r": "Non, accepter les émotions désagréables fait partie d'une vie équilibrée."
+   },
+   {
+    "q": "Quel pays est arrivé en tête du rapport mondial sur le bonheur à partir de deux mille dix huit ?",
+    "r": "La Finlande."
+   },
+   {
+    "q": "Cite deux facteurs qui expliquent le bonheur des pays selon ce rapport.",
+    "r": "Par exemple le soutien social et la confiance, mais aussi la richesse, la santé, la liberté et la générosité."
+   },
+   {
+    "q": "Que montrent les études suédoises sur les gagnants du loto ?",
+    "r": "Qu'ils restent durablement plus satisfaits de leur vie, sans être plus joyeux au quotidien."
+   },
+   {
+    "q": "Le bien être cesse t il d'augmenter au delà d'un certain revenu ?",
+    "r": "Pour la plupart des gens non, seulement chez les plus malheureux."
+   },
+   {
+    "q": "Quelle part des différences de bien être s'explique par les gènes ?",
+    "r": "Environ un tiers."
    }
   ]
  }
