@@ -52,3 +52,5 @@ app.*.map.json
 *.jks
 *.keystore
 /android/build/
+
+/radars/radars.json

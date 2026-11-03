@@ -147,4 +147,35 @@ void main() {
     expect(settings.stored.speed, 1.15);
     await cubit.close();
   });
+
+  test('a radar announcement interrupts the lesson, then the current step starts again', () {
+    fakeAsync((async) {
+      final cubit = buildCubit();
+      cubit.load();
+      async.flushMicrotasks();
+      final firstStep = cubit.state.currentStep!.text;
+
+      cubit.play();
+      async.flushMicrotasks();
+      cubit.announce('Attention, radar fixe dans 1 kilomètre. Vitesse limitée à 80.');
+      async.flushMicrotasks();
+
+      expect(speech.spoken, [firstStep, 'Attention, radar fixe dans 1 kilomètre. Vitesse limitée à 80.', firstStep]);
+      expect(cubit.state.isPlaying, isTrue);
+      cubit.pause();
+      cubit.close();
+      async.flushMicrotasks();
+    });
+  });
+
+  test('a radar announcement while paused does not start the lesson', () async {
+    final cubit = buildCubit();
+    await cubit.load();
+
+    await cubit.announce('Attention, radar fixe tout proche. Vitesse limitée à 50.');
+
+    expect(speech.spoken, ['Attention, radar fixe tout proche. Vitesse limitée à 50.']);
+    expect(cubit.state.isPlaying, isFalse);
+    await cubit.close();
+  });
 }
