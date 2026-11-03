@@ -21,6 +21,15 @@ import 'layers/functional/Lesson/domain/use_cases/save_position_use_case.dart';
 import 'layers/functional/Lesson/domain/use_cases/save_settings_use_case.dart';
 import 'layers/functional/Lesson/presentation/cubit/player_cubit.dart';
 import 'layers/functional/Lesson/presentation/views/player_view.dart';
+import 'layers/functional/SpeedCamera/data/data_sources/speed_camera_asset_data_source.dart';
+import 'layers/functional/SpeedCamera/data/gateways/asset_speed_camera_gateway.dart';
+import 'layers/functional/SpeedCamera/data/gateways/shared_preferences_speed_camera_preferences_gateway.dart';
+import 'layers/functional/SpeedCamera/domain/use_cases/load_speed_cameras_use_case.dart';
+import 'layers/functional/SpeedCamera/domain/use_cases/locate_speed_camera_ahead_use_case.dart';
+import 'layers/functional/SpeedCamera/domain/use_cases/read_speed_camera_alerts_enabled_use_case.dart';
+import 'layers/functional/SpeedCamera/domain/use_cases/save_speed_camera_alerts_enabled_use_case.dart';
+import 'layers/functional/SpeedCamera/presentation/cubit/speed_camera_cubit.dart';
+import 'layers/technical/Location/geolocator_location_source.dart';
 import 'layers/technical/ScreenWake/wakelock_screen_wake.dart';
 import 'layers/technical/Speech/flutter_tts_speech_engine.dart';
 import 'layers/technical/Theme/app_colors.dart';
@@ -52,7 +61,23 @@ Future<void> main() async {
     now: DateTime.now,
   )..load();
 
-  runApp(BlocProvider.value(value: playerCubit, child: const EnRouteApp()));
+  final speedCameraPreferences = SharedPreferencesSpeedCameraPreferencesGateway(preferences);
+  final speedCameraCubit = SpeedCameraCubit(
+    loadCameras: LoadSpeedCamerasUseCase(AssetSpeedCameraGateway(SpeedCameraAssetDataSource(rootBundle))),
+    readAlertsEnabled: ReadSpeedCameraAlertsEnabledUseCase(speedCameraPreferences),
+    saveAlertsEnabled: SaveSpeedCameraAlertsEnabledUseCase(speedCameraPreferences),
+    locateAhead: const LocateSpeedCameraAheadUseCase(),
+    location: const GeolocatorLocationSource(),
+    announce: playerCubit.announce,
+  )..load();
+
+  runApp(MultiBlocProvider(
+    providers: [
+      BlocProvider.value(value: playerCubit),
+      BlocProvider.value(value: speedCameraCubit),
+    ],
+    child: const EnRouteApp(),
+  ));
 }
 
 class EnRouteApp extends StatelessWidget {

@@ -40,6 +40,7 @@ class PlayerCubit extends Cubit<PlayerState> {
   }) : super(const PlayerState.loading());
 
   static const Duration _tick = Duration(seconds: 1);
+  static const double _announcementSpeed = 1.0;
 
   final LoadTopicsUseCase _loadTopics;
   final ResolveDailyPlanUseCase _resolveDailyPlan;
@@ -193,6 +194,19 @@ class PlayerCubit extends Cubit<PlayerState> {
   Future<void> selectVoice(SpeechVoice voice) async {
     await _speech.useVoice(voice);
     await _updateSettings(state.settings.copyWith(voiceName: voice.name));
+  }
+
+  Future<void> announce(String message) async {
+    final wasPlaying = state.isPlaying;
+    final token = ++_playbackToken;
+    await _speech.stop();
+    if (wasPlaying) {
+      emit(state.copyWith(clearCountdown: true));
+    }
+    await _speech.speak(message, speed: _announcementSpeed);
+    if (wasPlaying && token == _playbackToken && !isClosed) {
+      _runPlayback(++_playbackToken);
+    }
   }
 
   @override

@@ -28,6 +28,9 @@ jobs:
       - name: Dépendances
         run: flutter pub get
 
+      - name: Liste des radars fixes
+        run: dart run tool/build_speed_cameras.dart radars/radars.json
+
       - name: Analyse
         run: flutter analyze
 
@@ -55,6 +58,7 @@ jobs:
           path: en-route.apk
 
       - name: Publication dans la release « latest »
+        if: github.ref == 'refs/heads/main'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |

@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 import '../../../../technical/Theme/app_colors.dart';
+import '../../../SpeedCamera/presentation/cubit/speed_camera_cubit.dart';
+import '../../../SpeedCamera/presentation/views/speed_camera_settings_section.dart';
 import '../cubit/player_cubit.dart';
 
 class SettingsSheet extends StatelessWidget {
@@ -10,7 +12,13 @@ class SettingsSheet extends StatelessWidget {
   static Future<void> show(BuildContext context) => showModalBottomSheet<void>(
         context: context,
         isScrollControlled: true,
-        builder: (_) => BlocProvider.value(value: context.read<PlayerCubit>(), child: const SettingsSheet()),
+        builder: (_) => MultiBlocProvider(
+          providers: [
+            BlocProvider.value(value: context.read<PlayerCubit>()),
+            BlocProvider.value(value: context.read<SpeedCameraCubit>()),
+          ],
+          child: const SettingsSheet(),
+        ),
       );
 
   static const TextStyle _sectionStyle = TextStyle(fontSize: 13, color: AppColors.muted, fontWeight: FontWeight.w600);
@@ -29,6 +37,8 @@ class SettingsSheet extends StatelessWidget {
           spacing: 16,
           children: [
             const Text('Réglages', style: TextStyle(fontSize: 18, fontWeight: FontWeight.w700)),
+            const Text('Radars', style: _sectionStyle),
+            const SpeedCameraSettingsSection(),
             const Text('Voix', style: _sectionStyle),
             if (state.voices.isEmpty)
               const Text(

@@ -4,6 +4,7 @@ import 'package:intl/intl.dart';
 
 import '../../../../technical/Theme/app_colors.dart';
 import '../../../../technical/Theme/widgets/app_icon_button.dart';
+import '../../../SpeedCamera/presentation/widgets/speed_camera_banner.dart';
 import '../../domain/entities/step_kind.dart';
 import '../../domain/use_cases/build_session_use_case.dart';
 import '../cubit/player_cubit.dart';
@@ -81,6 +82,7 @@ class _PlayerLayout extends StatelessWidget {
             child: Column(
               spacing: 16,
               children: [
+                const SpeedCameraBanner(),
                 TopicCard(state: state, accent: accent),
                 Expanded(child: _Scene(state: state, accent: accent)),
               ],
